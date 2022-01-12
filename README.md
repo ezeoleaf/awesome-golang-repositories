@@ -7,3 +7,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 - [Mastering Go: Create Golang production applications using network libraries, concurrency, machine learning, and advanced data structures, 2nd Edition](https://amzn.to/34Kx623)
 
 ## Repositories
+
+[watcher](https://github.com/radovskyb/watcher) watcher: watcher is a Go package for watching for files or directory changes without using filesystem events.
