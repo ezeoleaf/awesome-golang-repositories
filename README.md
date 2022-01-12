@@ -11,3 +11,4 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [watcher](https://github.com/radovskyb/watcher): watcher is a Go package for watching for files or directory changes without using filesystem events.  
 [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc): Documentation generator plugin for Google Protocol Buffers  
 [go-systemd](https://github.com/coreos/go-systemd): Go bindings to systemd socket activation, journal, D-Bus, and unit files
+  [prom-top](https://github.com/gree-gorey/prom-top): Top N processes exporter for Prometheus
