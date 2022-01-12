@@ -9,3 +9,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 ## Repositories
 
 [watcher](https://github.com/radovskyb/watcher): watcher is a Go package for watching for files or directory changes without using filesystem events.
+
+[protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc): Documentation generator plugin for Google Protocol Buffers
