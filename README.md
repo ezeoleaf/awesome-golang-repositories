@@ -31,4 +31,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [comply](https://github.com/strongdm/comply): Compliance automation framework, focused on SOC2  
 [azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go): This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:  
 [vg](https://github.com/GetStream/vg): Virtualgo: Easy and powerful workspace based development for go  
-[Khepri](https://github.com/geemion/Khepri): Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.
+[Khepri](https://github.com/geemion/Khepri): Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.  
+[trdsql](https://github.com/noborus/trdsql): CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
