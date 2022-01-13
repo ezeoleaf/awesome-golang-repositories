@@ -19,4 +19,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [cli](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go  
 [go-study-index](https://github.com/unknwon/go-study-index): Go 语言学习资料索引  
 [jupiter](https://github.com/douyu/jupiter): Jupiter是斗鱼开源的面向服务治理的Golang微服务框架  
-[goproxy](https://github.com/goproxyio/goproxy): A global proxy for Go modules.
+[goproxy](https://github.com/goproxyio/goproxy): A global proxy for Go modules.  
+[minishift](https://github.com/minishift/minishift): Run OpenShift 3.x locally
