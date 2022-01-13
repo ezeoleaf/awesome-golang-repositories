@@ -29,4 +29,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [primitive](https://github.com/fogleman/primitive): Reproducing images with geometric primitives.  
 [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s): Elastic Cloud on Kubernetes  
 [comply](https://github.com/strongdm/comply): Compliance automation framework, focused on SOC2  
-[azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go): This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:
+[azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go): This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:  
+[vg](https://github.com/GetStream/vg): Virtualgo: Easy and powerful workspace based development for go
