@@ -23,4 +23,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [minishift](https://github.com/minishift/minishift): Run OpenShift 3.x locally  
 [GoRAT](https://github.com/Nikait/GoRAT): ⚙️🗡️GoRAT is a powerful remote access trojan for windows 7, 8 and 10 operating systems with many features
   
-[caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS
+[caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS  
+[q](https://github.com/ryboe/q): Quick and dirty debugging output for tired Go programmers
