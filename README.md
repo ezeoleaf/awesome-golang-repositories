@@ -22,3 +22,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goproxy](https://github.com/goproxyio/goproxy): A global proxy for Go modules.  
 [minishift](https://github.com/minishift/minishift): Run OpenShift 3.x locally  
 [GoRAT](https://github.com/Nikait/GoRAT): ⚙️🗡️GoRAT is a powerful remote access trojan for windows 7, 8 and 10 operating systems with many features
+  
+[caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS
