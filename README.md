@@ -16,4 +16,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
   
 [lolz](https://github.com/cevatbarisyilmaz/lolz): An interpreted esoteric programming language accepts only letters 'l', 'o' and 'z'  
 [concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.  
-[cli](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go
+[cli](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go  
+[go-study-index](https://github.com/unknwon/go-study-index): Go 语言学习资料索引
