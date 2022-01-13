@@ -20,4 +20,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-study-index](https://github.com/unknwon/go-study-index): Go 语言学习资料索引  
 [jupiter](https://github.com/douyu/jupiter): Jupiter是斗鱼开源的面向服务治理的Golang微服务框架  
 [goproxy](https://github.com/goproxyio/goproxy): A global proxy for Go modules.  
-[minishift](https://github.com/minishift/minishift): Run OpenShift 3.x locally
+[minishift](https://github.com/minishift/minishift): Run OpenShift 3.x locally  
+[GoRAT](https://github.com/Nikait/GoRAT): ⚙️🗡️GoRAT is a powerful remote access trojan for windows 7, 8 and 10 operating systems with many features
