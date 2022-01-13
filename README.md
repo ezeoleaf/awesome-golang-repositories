@@ -18,4 +18,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.  
 [cli](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go  
 [go-study-index](https://github.com/unknwon/go-study-index): Go 语言学习资料索引  
-[jupiter](https://github.com/douyu/jupiter): Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
+[jupiter](https://github.com/douyu/jupiter): Jupiter是斗鱼开源的面向服务治理的Golang微服务框架  
+[goproxy](https://github.com/goproxyio/goproxy): A global proxy for Go modules.
