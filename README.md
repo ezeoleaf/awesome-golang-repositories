@@ -24,4 +24,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GoRAT](https://github.com/Nikait/GoRAT): ⚙️🗡️GoRAT is a powerful remote access trojan for windows 7, 8 and 10 operating systems with many features
   
 [caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS  
-[q](https://github.com/ryboe/q): Quick and dirty debugging output for tired Go programmers
+[q](https://github.com/ryboe/q): Quick and dirty debugging output for tired Go programmers  
+[gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
