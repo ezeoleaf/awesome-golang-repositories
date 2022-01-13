@@ -27,4 +27,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [q](https://github.com/ryboe/q): Quick and dirty debugging output for tired Go programmers  
 [gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams  
 [primitive](https://github.com/fogleman/primitive): Reproducing images with geometric primitives.  
-[cloud-on-k8s](https://github.com/elastic/cloud-on-k8s): Elastic Cloud on Kubernetes
+[cloud-on-k8s](https://github.com/elastic/cloud-on-k8s): Elastic Cloud on Kubernetes  
+[comply](https://github.com/strongdm/comply): Compliance automation framework, focused on SOC2
