@@ -25,4 +25,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
   
 [caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS  
 [q](https://github.com/ryboe/q): Quick and dirty debugging output for tired Go programmers  
-[gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
+[gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams  
+[primitive](https://github.com/fogleman/primitive): Reproducing images with geometric primitives.
