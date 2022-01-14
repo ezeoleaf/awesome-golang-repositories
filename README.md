@@ -42,4 +42,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system  
 [glamour](https://github.com/charmbracelet/glamour): Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️  
 [gmri_capstone_go_be](https://github.com/rafischer1/gmri_capstone_go_be): A Golang Backend for Prototype F.A.S. -G103  
-[goboy](https://github.com/Humpheh/goboy): Multi-platform Nintendo Game Boy Color emulator written in Go
+[goboy](https://github.com/Humpheh/goboy): Multi-platform Nintendo Game Boy Color emulator written in Go  
+[chronos](https://github.com/kataras/chronos): NEW: Chronos provides an easy way to limit X operations per Y time in accuracy of nanoseconds
