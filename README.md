@@ -38,4 +38,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code): 👨‍💻 30 Days of Code by HackerRank Solutions in C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄  
 [hiprtc](https://github.com/dereklstinson/hiprtc): Go bindings for hiprtc.h requires AMD's rocm , and hip.    
 [channels](https://github.com/eapache/channels): Golang channel helpers and special types  
-[elsa](https://github.com/elsaland/elsa): ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+[elsa](https://github.com/elsaland/elsa): ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go  
+[etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system
