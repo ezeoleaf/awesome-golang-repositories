@@ -35,4 +35,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [trdsql](https://github.com/noborus/trdsql): CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.  
 [crawlab](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架  
 [gorsy-cache](https://github.com/Arianxx/gorsy-cache): A concurrency-safe in-memory k/v cache store implemented by Golang that supports the lru, lfu, arc algorithm etc.  
-[30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code): 👨‍💻 30 Days of Code by HackerRank Solutions in C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄
+[30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code): 👨‍💻 30 Days of Code by HackerRank Solutions in C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄  
+[hiprtc](https://github.com/dereklstinson/hiprtc): Go bindings for hiprtc.h requires AMD's rocm , and hip.  
