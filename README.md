@@ -43,4 +43,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [glamour](https://github.com/charmbracelet/glamour): Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️  
 [gmri_capstone_go_be](https://github.com/rafischer1/gmri_capstone_go_be): A Golang Backend for Prototype F.A.S. -G103  
 [goboy](https://github.com/Humpheh/goboy): Multi-platform Nintendo Game Boy Color emulator written in Go  
-[chronos](https://github.com/kataras/chronos): NEW: Chronos provides an easy way to limit X operations per Y time in accuracy of nanoseconds
+[chronos](https://github.com/kataras/chronos): NEW: Chronos provides an easy way to limit X operations per Y time in accuracy of nanoseconds  
+[robotgo](https://github.com/go-vgo/robotgo): RobotGo, Go Native cross-platform GUI automation  @vcaesar
