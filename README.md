@@ -46,4 +46,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [chronos](https://github.com/kataras/chronos): NEW: Chronos provides an easy way to limit X operations per Y time in accuracy of nanoseconds  
 [robotgo](https://github.com/go-vgo/robotgo): RobotGo, Go Native cross-platform GUI automation  @vcaesar  
 [kafka-go](https://github.com/segmentio/kafka-go): Kafka library in Go  
-[golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet): An overview of Go syntax and features.
+[golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet): An overview of Go syntax and features.  
+[termshark](https://github.com/gcla/termshark): A terminal UI for tshark, inspired by Wireshark
