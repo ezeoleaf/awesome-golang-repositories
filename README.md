@@ -51,4 +51,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [api-server](https://github.com/openscrm/api-server): OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。  
 [kubedoom](https://github.com/storax/kubedoom): Kill Kubernetes pods by playing Id's DOOM!  
 [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers): Examples of Golang compared to Node.js for learning  
-[dockerize](https://github.com/jwilder/dockerize): Utility to simplify running applications in docker containers
+[dockerize](https://github.com/jwilder/dockerize): Utility to simplify running applications in docker containers  
+[ottosocial](https://github.com/Phantas0s/ottosocial): :+1: ottosocial is a CLI to schedule tweets via CSV
