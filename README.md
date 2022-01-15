@@ -62,4 +62,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hisi-initregtable-go-parser](https://github.com/OpenHisiIpCam/hisi-initregtable-go-parser): HiSilicon SoC`s U-Boot initial register table parser into human readable format  
 [qmgo](https://github.com/qiniu/qmgo): Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.  
 [pixterm](https://github.com/eliukblau/pixterm): Draw images in your ANSI terminal with true color  
-[asciigraph](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+[asciigraph](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.  
+[go-findfont](https://github.com/danielgatis/go-findfont): Find system fonts through the fontconfig library (a.k.a `fc-match`).
