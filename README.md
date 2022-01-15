@@ -49,4 +49,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet): An overview of Go syntax and features.  
 [termshark](https://github.com/gcla/termshark): A terminal UI for tshark, inspired by Wireshark  
 [api-server](https://github.com/openscrm/api-server): OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。  
-[kubedoom](https://github.com/storax/kubedoom): Kill Kubernetes pods by playing Id's DOOM!
+[kubedoom](https://github.com/storax/kubedoom): Kill Kubernetes pods by playing Id's DOOM!  
+[golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers): Examples of Golang compared to Node.js for learning
