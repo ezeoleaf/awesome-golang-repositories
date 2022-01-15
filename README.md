@@ -55,4 +55,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dockerize](https://github.com/jwilder/dockerize): Utility to simplify running applications in docker containers  
 [ottosocial](https://github.com/Phantas0s/ottosocial): :+1: ottosocial is a CLI to schedule tweets via CSV
   
-[lile](https://github.com/lileio/lile): Easily generate gRPC services in Go ⚡️
+[lile](https://github.com/lileio/lile): Easily generate gRPC services in Go ⚡️  
+[golang-tls](https://github.com/denji/golang-tls): Simple Golang HTTPS/TLS Examples
