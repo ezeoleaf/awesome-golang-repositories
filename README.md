@@ -60,4 +60,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [what-anime-cli](https://github.com/irevenko/what-anime-cli): ❓🖼 Find the anime scene by image using your terminal  
 [nps](https://github.com/ehang-io/nps): 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.  
 [hisi-initregtable-go-parser](https://github.com/OpenHisiIpCam/hisi-initregtable-go-parser): HiSilicon SoC`s U-Boot initial register table parser into human readable format  
-[qmgo](https://github.com/qiniu/qmgo): Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.
+[qmgo](https://github.com/qiniu/qmgo): Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.  
+[pixterm](https://github.com/eliukblau/pixterm): Draw images in your ANSI terminal with true color
