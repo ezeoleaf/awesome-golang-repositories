@@ -54,3 +54,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers): Examples of Golang compared to Node.js for learning  
 [dockerize](https://github.com/jwilder/dockerize): Utility to simplify running applications in docker containers  
 [ottosocial](https://github.com/Phantas0s/ottosocial): :+1: ottosocial is a CLI to schedule tweets via CSV
+  
+[lile](https://github.com/lileio/lile): Easily generate gRPC services in Go ⚡️
