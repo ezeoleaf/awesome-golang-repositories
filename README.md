@@ -56,4 +56,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ottosocial](https://github.com/Phantas0s/ottosocial): :+1: ottosocial is a CLI to schedule tweets via CSV
   
 [lile](https://github.com/lileio/lile): Easily generate gRPC services in Go ⚡️  
-[golang-tls](https://github.com/denji/golang-tls): Simple Golang HTTPS/TLS Examples
+[golang-tls](https://github.com/denji/golang-tls): Simple Golang HTTPS/TLS Examples  
+[what-anime-cli](https://github.com/irevenko/what-anime-cli): ❓🖼 Find the anime scene by image using your terminal
