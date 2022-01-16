@@ -73,4 +73,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-flutter](https://github.com/go-flutter-desktop/go-flutter): Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.  
 [go-nsq](https://github.com/nsqio/go-nsq): The official Go package for NSQ  
 [worker](https://github.com/jimmysawczuk/worker): A Go library that takes arbitrary tasks and executes n at a time until done  
-[logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
+[logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.  
+[walk](https://github.com/lxn/walk): A Windows GUI toolkit for the Go Programming Language
