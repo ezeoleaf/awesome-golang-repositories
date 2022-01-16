@@ -65,4 +65,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [asciigraph](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.  
 [go-findfont](https://github.com/danielgatis/go-findfont): Find system fonts through the fontconfig library (a.k.a `fc-match`).  
 [gorsk](https://github.com/ribice/gorsk): :fire: Idiomatic Golang Restful Starter Kit  
-[proteus](https://github.com/src-d/proteus): Generate .proto files from Go source code.
+[proteus](https://github.com/src-d/proteus): Generate .proto files from Go source code.  
+[go-gin-example](https://github.com/eddycjy/go-gin-example): An example of gin
