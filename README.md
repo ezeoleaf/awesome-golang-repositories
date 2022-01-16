@@ -77,4 +77,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [walk](https://github.com/lxn/walk): A Windows GUI toolkit for the Go Programming Language  
 [msgpack](https://github.com/vmihailenco/msgpack): msgpack.org[Go] MessagePack encoding for Golang  
 [hev-cli](https://github.com/clok/hev-cli): H-E-V: Here Everyone's Vaccinated - This tool is intended to help those who qualify for the COVID-19 vaccine at H-E-B find an appointment.  
-[gorgonia](https://github.com/gorgonia/gorgonia): Gorgonia is a library that helps facilitate machine learning in Go.
+[gorgonia](https://github.com/gorgonia/gorgonia): Gorgonia is a library that helps facilitate machine learning in Go.  
+[env](https://github.com/caarlos0/env): A simple and zero-dependencies library to parse environment variables into structs.
