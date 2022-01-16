@@ -76,4 +76,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.  
 [walk](https://github.com/lxn/walk): A Windows GUI toolkit for the Go Programming Language  
 [msgpack](https://github.com/vmihailenco/msgpack): msgpack.org[Go] MessagePack encoding for Golang  
-[hev-cli](https://github.com/clok/hev-cli): H-E-V: Here Everyone's Vaccinated - This tool is intended to help those who qualify for the COVID-19 vaccine at H-E-B find an appointment.
+[hev-cli](https://github.com/clok/hev-cli): H-E-V: Here Everyone's Vaccinated - This tool is intended to help those who qualify for the COVID-19 vaccine at H-E-B find an appointment.  
+[gorgonia](https://github.com/gorgonia/gorgonia): Gorgonia is a library that helps facilitate machine learning in Go.
