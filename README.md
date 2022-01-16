@@ -72,4 +72,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [csvutil](https://github.com/jszwec/csvutil): csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.  
 [go-flutter](https://github.com/go-flutter-desktop/go-flutter): Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.  
 [go-nsq](https://github.com/nsqio/go-nsq): The official Go package for NSQ  
-[worker](https://github.com/jimmysawczuk/worker): A Go library that takes arbitrary tasks and executes n at a time until done
+[worker](https://github.com/jimmysawczuk/worker): A Go library that takes arbitrary tasks and executes n at a time until done  
+[logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
