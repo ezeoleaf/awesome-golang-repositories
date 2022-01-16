@@ -64,4 +64,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pixterm](https://github.com/eliukblau/pixterm): Draw images in your ANSI terminal with true color  
 [asciigraph](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.  
 [go-findfont](https://github.com/danielgatis/go-findfont): Find system fonts through the fontconfig library (a.k.a `fc-match`).  
-[gorsk](https://github.com/ribice/gorsk): :fire: Idiomatic Golang Restful Starter Kit
+[gorsk](https://github.com/ribice/gorsk): :fire: Idiomatic Golang Restful Starter Kit  
+[proteus](https://github.com/src-d/proteus): Generate .proto files from Go source code.
