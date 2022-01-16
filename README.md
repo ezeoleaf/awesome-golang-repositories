@@ -74,4 +74,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-nsq](https://github.com/nsqio/go-nsq): The official Go package for NSQ  
 [worker](https://github.com/jimmysawczuk/worker): A Go library that takes arbitrary tasks and executes n at a time until done  
 [logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.  
-[walk](https://github.com/lxn/walk): A Windows GUI toolkit for the Go Programming Language
+[walk](https://github.com/lxn/walk): A Windows GUI toolkit for the Go Programming Language  
+[msgpack](https://github.com/vmihailenco/msgpack): msgpack.org[Go] MessagePack encoding for Golang
