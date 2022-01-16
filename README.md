@@ -70,4 +70,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [z-run](https://github.com/cipriancraciun/z-run): z-run -- lightweight Go-based scripts library tool  
 [go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples): Calling Go Functions from Other Languages using C Shared Libraries  
 [csvutil](https://github.com/jszwec/csvutil): csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.  
-[go-flutter](https://github.com/go-flutter-desktop/go-flutter): Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
+[go-flutter](https://github.com/go-flutter-desktop/go-flutter): Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.  
+[go-nsq](https://github.com/nsqio/go-nsq): The official Go package for NSQ
