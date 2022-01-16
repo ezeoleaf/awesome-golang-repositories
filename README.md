@@ -66,4 +66,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-findfont](https://github.com/danielgatis/go-findfont): Find system fonts through the fontconfig library (a.k.a `fc-match`).  
 [gorsk](https://github.com/ribice/gorsk): :fire: Idiomatic Golang Restful Starter Kit  
 [proteus](https://github.com/src-d/proteus): Generate .proto files from Go source code.  
-[go-gin-example](https://github.com/eddycjy/go-gin-example): An example of gin
+[go-gin-example](https://github.com/eddycjy/go-gin-example): An example of gin  
+[z-run](https://github.com/cipriancraciun/z-run): z-run -- lightweight Go-based scripts library tool
