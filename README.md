@@ -67,4 +67,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gorsk](https://github.com/ribice/gorsk): :fire: Idiomatic Golang Restful Starter Kit  
 [proteus](https://github.com/src-d/proteus): Generate .proto files from Go source code.  
 [go-gin-example](https://github.com/eddycjy/go-gin-example): An example of gin  
-[z-run](https://github.com/cipriancraciun/z-run): z-run -- lightweight Go-based scripts library tool
+[z-run](https://github.com/cipriancraciun/z-run): z-run -- lightweight Go-based scripts library tool  
+[go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples): Calling Go Functions from Other Languages using C Shared Libraries
