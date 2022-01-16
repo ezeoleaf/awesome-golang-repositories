@@ -79,4 +79,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hev-cli](https://github.com/clok/hev-cli): H-E-V: Here Everyone's Vaccinated - This tool is intended to help those who qualify for the COVID-19 vaccine at H-E-B find an appointment.  
 [gorgonia](https://github.com/gorgonia/gorgonia): Gorgonia is a library that helps facilitate machine learning in Go.  
 [env](https://github.com/caarlos0/env): A simple and zero-dependencies library to parse environment variables into structs.  
-[mawt](https://github.com/TeamNorCal/mawt): Ingress 2nd gen Tecthulhu (Pi 3 B+) to Open Pixel Control Gateway (FC Microcontroller) (Go)
+[mawt](https://github.com/TeamNorCal/mawt): Ingress 2nd gen Tecthulhu (Pi 3 B+) to Open Pixel Control Gateway (FC Microcontroller) (Go)  
+[flannel](https://github.com/flannel-io/flannel): flannel is a network fabric for containers, designed for Kubernetes
