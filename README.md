@@ -80,4 +80,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gorgonia](https://github.com/gorgonia/gorgonia): Gorgonia is a library that helps facilitate machine learning in Go.  
 [env](https://github.com/caarlos0/env): A simple and zero-dependencies library to parse environment variables into structs.  
 [mawt](https://github.com/TeamNorCal/mawt): Ingress 2nd gen Tecthulhu (Pi 3 B+) to Open Pixel Control Gateway (FC Microcontroller) (Go)  
-[flannel](https://github.com/flannel-io/flannel): flannel is a network fabric for containers, designed for Kubernetes
+[flannel](https://github.com/flannel-io/flannel): flannel is a network fabric for containers, designed for Kubernetes  
+[gormt](https://github.com/xxjwxc/gormt): database to golang struct
