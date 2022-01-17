@@ -85,4 +85,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wechat](https://github.com/silenceper/wechat): WeChat SDK for Go （微信SDK：简单、易用）  
 [gev](https://github.com/Allenxuxu/gev): 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.   
 [smartcrypto](https://github.com/McKael/smartcrypto): SmartView2 handshake Golang library for Samsung Smart TV H/J (2014/2015) models  
-[rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite
+[rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite  
+[gobuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go
