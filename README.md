@@ -81,4 +81,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [env](https://github.com/caarlos0/env): A simple and zero-dependencies library to parse environment variables into structs.  
 [mawt](https://github.com/TeamNorCal/mawt): Ingress 2nd gen Tecthulhu (Pi 3 B+) to Open Pixel Control Gateway (FC Microcontroller) (Go)  
 [flannel](https://github.com/flannel-io/flannel): flannel is a network fabric for containers, designed for Kubernetes  
-[gormt](https://github.com/xxjwxc/gormt): database to golang struct
+[gormt](https://github.com/xxjwxc/gormt): database to golang struct  
+[wechat](https://github.com/silenceper/wechat): WeChat SDK for Go （微信SDK：简单、易用）
