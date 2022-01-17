@@ -83,4 +83,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [flannel](https://github.com/flannel-io/flannel): flannel is a network fabric for containers, designed for Kubernetes  
 [gormt](https://github.com/xxjwxc/gormt): database to golang struct  
 [wechat](https://github.com/silenceper/wechat): WeChat SDK for Go （微信SDK：简单、易用）  
-[gev](https://github.com/Allenxuxu/gev): 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers. 
+[gev](https://github.com/Allenxuxu/gev): 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.   
+[smartcrypto](https://github.com/McKael/smartcrypto): SmartView2 handshake Golang library for Samsung Smart TV H/J (2014/2015) models
