@@ -89,4 +89,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gobuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go  
 [gofind](https://github.com/sharpcdf/gofind): a tiny little package manager i made for fun, W.I.P  
 [octo-cli](https://github.com/octoproject/octo-cli): CLI tool to expose data from any database as a serverless web service.  
-[gorbac](https://github.com/mikespook/gorbac): goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
+[gorbac](https://github.com/mikespook/gorbac): goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.  
+[Go-Conditions-Cycles](https://github.com/AlfredoCU/Go-Conditions-Cycles): Go - Condiciones y ciclos.
