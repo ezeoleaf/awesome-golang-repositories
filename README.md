@@ -88,4 +88,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite  
 [gobuster](https://github.com/OJ/gobuster): Directory/File, DNS and VHost busting tool written in Go  
 [gofind](https://github.com/sharpcdf/gofind): a tiny little package manager i made for fun, W.I.P  
-[octo-cli](https://github.com/octoproject/octo-cli): CLI tool to expose data from any database as a serverless web service.
+[octo-cli](https://github.com/octoproject/octo-cli): CLI tool to expose data from any database as a serverless web service.  
+[gorbac](https://github.com/mikespook/gorbac): goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
