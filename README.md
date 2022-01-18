@@ -94,4 +94,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [engine](https://github.com/g3n/engine): Go 3D Game Engine (http://g3n.rocks)  
 [golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app): Exemplary real world application built with Golang + Gin  
 [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server): A standalone, specification-compliant,  OAuth2 server written in Golang.  
-[cronsun](https://github.com/shunfei/cronsun): A Distributed, Fault-Tolerant Cron-Style Job System.
+[cronsun](https://github.com/shunfei/cronsun): A Distributed, Fault-Tolerant Cron-Style Job System.  
+[spaghetti-cutter](https://github.com/flowdev/spaghetti-cutter): Command line tool for CI/CD pipelines that helps to prevent Go spaghetti code (a.k.a. big ball of mud).
