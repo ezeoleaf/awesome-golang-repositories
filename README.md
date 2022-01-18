@@ -100,4 +100,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server): benchmarks for implementation of servers which support 1 million connections   
 [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
   
-[fission](https://github.com/fission/fission): Fast and Simple Serverless Functions for Kubernetes
+[fission](https://github.com/fission/fission): Fast and Simple Serverless Functions for Kubernetes  
+[the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
