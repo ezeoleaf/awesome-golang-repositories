@@ -7,6 +7,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 - [Mastering Go: Create Golang production applications using network libraries, concurrency, machine learning, and advanced data structures, 2nd Edition](https://amzn.to/34Kx623)
 - [Network Programming with Go: Code Secure and Reliable Network Services from Scratch](https://amzn.to/3I5pwxn)
 - [Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang](https://amzn.to/3tuHBkd)
+- [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://amzn.to/3tAfVue)
 
 ## Repositories
 
