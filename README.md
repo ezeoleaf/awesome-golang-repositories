@@ -99,3 +99,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [spaghetti-cutter](https://github.com/flowdev/spaghetti-cutter): Command line tool for CI/CD pipelines that helps to prevent Go spaghetti code (a.k.a. big ball of mud).  
 [1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server): benchmarks for implementation of servers which support 1 million connections   
 [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+  
+[fission](https://github.com/fission/fission): Fast and Simple Serverless Functions for Kubernetes
