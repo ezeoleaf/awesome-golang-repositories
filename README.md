@@ -91,4 +91,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [octo-cli](https://github.com/octoproject/octo-cli): CLI tool to expose data from any database as a serverless web service.  
 [gorbac](https://github.com/mikespook/gorbac): goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.  
 [Go-Conditions-Cycles](https://github.com/AlfredoCU/Go-Conditions-Cycles): Go - Condiciones y ciclos.  
-[engine](https://github.com/g3n/engine): Go 3D Game Engine (http://g3n.rocks)
+[engine](https://github.com/g3n/engine): Go 3D Game Engine (http://g3n.rocks)  
+[golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app): Exemplary real world application built with Golang + Gin
