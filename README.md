@@ -96,4 +96,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server): A standalone, specification-compliant,  OAuth2 server written in Golang.  
 [cronsun](https://github.com/shunfei/cronsun): A Distributed, Fault-Tolerant Cron-Style Job System.  
 [spaghetti-cutter](https://github.com/flowdev/spaghetti-cutter): Command line tool for CI/CD pipelines that helps to prevent Go spaghetti code (a.k.a. big ball of mud).  
-[1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server): benchmarks for implementation of servers which support 1 million connections 
+[1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server): benchmarks for implementation of servers which support 1 million connections   
+[gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
