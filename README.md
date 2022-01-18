@@ -102,4 +102,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
   
 [fission](https://github.com/fission/fission): Fast and Simple Serverless Functions for Kubernetes  
 [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》  
-[kcl](https://github.com/twmb/kcl): Your one stop shop to do anything with Kafka. Producing, consuming, transacting, administrating; 0.8.0 through 2.7.0+.
+[kcl](https://github.com/twmb/kcl): Your one stop shop to do anything with Kafka. Producing, consuming, transacting, administrating; 0.8.0 through 2.7.0+.  
+[errwrap](https://github.com/fatih/errwrap): Go tool to wrap and fix errors with the new %w verb directive
