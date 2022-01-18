@@ -105,4 +105,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kcl](https://github.com/twmb/kcl): Your one stop shop to do anything with Kafka. Producing, consuming, transacting, administrating; 0.8.0 through 2.7.0+.  
 [errwrap](https://github.com/fatih/errwrap): Go tool to wrap and fix errors with the new %w verb directive  
 [go-pagseguro](https://github.com/WalterPaes/go-pagseguro): A Library to implement the integration with PagSeguro API v.4.0  
-[caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
+[caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy  
+[semgrep](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
