@@ -92,4 +92,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gorbac](https://github.com/mikespook/gorbac): goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.  
 [Go-Conditions-Cycles](https://github.com/AlfredoCU/Go-Conditions-Cycles): Go - Condiciones y ciclos.  
 [engine](https://github.com/g3n/engine): Go 3D Game Engine (http://g3n.rocks)  
-[golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app): Exemplary real world application built with Golang + Gin
+[golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app): Exemplary real world application built with Golang + Gin  
+[go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server): A standalone, specification-compliant,  OAuth2 server written in Golang.
