@@ -112,4 +112,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [iris](https://github.com/kataras/iris): The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |  
 [ml-rfm](https://github.com/thaitania/ml-rfm): Machine Learning RFM(by k-mean) for generate Cluster of RFM Model (Recency, Frequency, Monetary)  
 [leaktest](https://github.com/fortytw2/leaktest): Goroutine Leak Detector  
-[ultimate-go](https://github.com/betty200744/ultimate-go): This repo contains my notes on working with Go and computer systems. 
+[ultimate-go](https://github.com/betty200744/ultimate-go): This repo contains my notes on working with Go and computer systems.   
+[gofakeit](https://github.com/brianvoe/gofakeit): Random fake data generator written in go
