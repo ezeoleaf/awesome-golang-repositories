@@ -115,3 +115,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [leaktest](https://github.com/fortytw2/leaktest): Goroutine Leak Detector  
 [ultimate-go](https://github.com/betty200744/ultimate-go): This repo contains my notes on working with Go and computer systems.   
 [gofakeit](https://github.com/brianvoe/gofakeit): Random fake data generator written in go
+  
+[devops-api](https://github.com/chanyipiaomiao/devops-api): Golang + Beego 编写 提供开发/运维常用操作的HTTP API接口:  手机归属地查询、IP地址查询、工作日节假日判断、微信报警、钉钉报警、2步验证、密码存储、发送邮件、生成随机密码等功能
