@@ -120,4 +120,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [xstrings](https://github.com/huandu/xstrings): Implements string functions widely used in other languages but absent in Go.  
 [go-fuzz](https://github.com/dvyukov/go-fuzz): Randomized testing for Go  
 [go-cloud](https://github.com/google/go-cloud): The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.  
-[NeoAlgo](https://github.com/TesseractCoding/NeoAlgo): Bringing all Data Structures and Algorithms under one Roof ⚡
+[NeoAlgo](https://github.com/TesseractCoding/NeoAlgo): Bringing all Data Structures and Algorithms under one Roof ⚡  
+[certificates](https://github.com/smallstep/certificates): 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
