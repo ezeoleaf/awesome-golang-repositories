@@ -107,4 +107,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-pagseguro](https://github.com/WalterPaes/go-pagseguro): A Library to implement the integration with PagSeguro API v.4.0  
 [caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy  
 [semgrep](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.  
-[imersao-fullcycle-desafio-1](https://github.com/felixgilioli/imersao-fullcycle-desafio-1): Desafio 1 - Webserver com Docker e Golang
+[imersao-fullcycle-desafio-1](https://github.com/felixgilioli/imersao-fullcycle-desafio-1): Desafio 1 - Webserver com Docker e Golang  
+[gopl.exercises](https://github.com/mind1949/gopl.exercises): My Solutions to K&D's The Go Programming Language exercises
