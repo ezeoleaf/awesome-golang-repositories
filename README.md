@@ -118,4 +118,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
   
 [devops-api](https://github.com/chanyipiaomiao/devops-api): Golang + Beego 编写 提供开发/运维常用操作的HTTP API接口:  手机归属地查询、IP地址查询、工作日节假日判断、微信报警、钉钉报警、2步验证、密码存储、发送邮件、生成随机密码等功能  
 [xstrings](https://github.com/huandu/xstrings): Implements string functions widely used in other languages but absent in Go.  
-[go-fuzz](https://github.com/dvyukov/go-fuzz): Randomized testing for Go
+[go-fuzz](https://github.com/dvyukov/go-fuzz): Randomized testing for Go  
+[go-cloud](https://github.com/google/go-cloud): The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
