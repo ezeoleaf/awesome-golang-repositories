@@ -110,4 +110,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [imersao-fullcycle-desafio-1](https://github.com/felixgilioli/imersao-fullcycle-desafio-1): Desafio 1 - Webserver com Docker e Golang  
 [gopl.exercises](https://github.com/mind1949/gopl.exercises): My Solutions to K&D's The Go Programming Language exercises  
 [iris](https://github.com/kataras/iris): The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |  
-[ml-rfm](https://github.com/thaitania/ml-rfm): Machine Learning RFM(by k-mean) for generate Cluster of RFM Model (Recency, Frequency, Monetary)
+[ml-rfm](https://github.com/thaitania/ml-rfm): Machine Learning RFM(by k-mean) for generate Cluster of RFM Model (Recency, Frequency, Monetary)  
+[leaktest](https://github.com/fortytw2/leaktest): Goroutine Leak Detector
