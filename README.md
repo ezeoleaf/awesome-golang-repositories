@@ -108,4 +108,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy  
 [semgrep](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.  
 [imersao-fullcycle-desafio-1](https://github.com/felixgilioli/imersao-fullcycle-desafio-1): Desafio 1 - Webserver com Docker e Golang  
-[gopl.exercises](https://github.com/mind1949/gopl.exercises): My Solutions to K&D's The Go Programming Language exercises
+[gopl.exercises](https://github.com/mind1949/gopl.exercises): My Solutions to K&D's The Go Programming Language exercises  
+[iris](https://github.com/kataras/iris): The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
