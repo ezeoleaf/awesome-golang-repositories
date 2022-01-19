@@ -1,4 +1,4 @@
-# Awesome Golang Repositories 🐦
+# Awesome Golang Resources 🐦
 List of resources from [Larry](https://github.com/ezeoleaf/larry)
 
 ## Useful books
@@ -8,6 +8,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 - [Network Programming with Go: Code Secure and Reliable Network Services from Scratch](https://amzn.to/3I5pwxn)
 - [Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang](https://amzn.to/3tuHBkd)
 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://amzn.to/3tAfVue)
+- [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://amzn.to/3fFi7Zf)
 
 ## Repositories
 
