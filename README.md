@@ -126,4 +126,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [konmari](https://github.com/RossyWhite/konmari): 🧹Tidy up ConfigMaps and Secrets that don't spark joy ⚡  
 [godo](https://github.com/digitalocean/godo): DigitalOcean Go API client  
 [rudder-server](https://github.com/rudderlabs/rudder-server): Privacy and Security focused Segment-alternative, in Golang and React    
-[gorram](https://github.com/natefinch/gorram): It's like go run for any go function
+[gorram](https://github.com/natefinch/gorram): It's like go run for any go function  
+[discordgo](https://github.com/bwmarrin/discordgo):  (Golang) Go bindings for Discord
