@@ -124,4 +124,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [certificates](https://github.com/smallstep/certificates): 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.  
 [gocaml](https://github.com/rhysd/gocaml): :camel: Practical statically typed functional programming language implementation with Go and LLVM  
 [konmari](https://github.com/RossyWhite/konmari): 🧹Tidy up ConfigMaps and Secrets that don't spark joy ⚡  
-[godo](https://github.com/digitalocean/godo): DigitalOcean Go API client
+[godo](https://github.com/digitalocean/godo): DigitalOcean Go API client  
+[rudder-server](https://github.com/rudderlabs/rudder-server): Privacy and Security focused Segment-alternative, in Golang and React  
