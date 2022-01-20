@@ -122,4 +122,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-cloud](https://github.com/google/go-cloud): The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.  
 [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo): Bringing all Data Structures and Algorithms under one Roof ⚡  
 [certificates](https://github.com/smallstep/certificates): 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.  
-[gocaml](https://github.com/rhysd/gocaml): :camel: Practical statically typed functional programming language implementation with Go and LLVM
+[gocaml](https://github.com/rhysd/gocaml): :camel: Practical statically typed functional programming language implementation with Go and LLVM  
+[konmari](https://github.com/RossyWhite/konmari): 🧹Tidy up ConfigMaps and Secrets that don't spark joy ⚡
