@@ -129,4 +129,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gorram](https://github.com/natefinch/gorram): It's like go run for any go function  
 [discordgo](https://github.com/bwmarrin/discordgo):  (Golang) Go bindings for Discord  
 [immudb](https://github.com/codenotary/immudb): immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history  
-[cds](https://github.com/zeromicro/cds): Data syncing in golang for ClickHouse.
+[cds](https://github.com/zeromicro/cds): Data syncing in golang for ClickHouse.  
+[p9](https://github.com/hugelgupf/p9): Idiomatic Go 9P2000.L client and server, extracted from gVisor for general use
