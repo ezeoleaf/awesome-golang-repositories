@@ -128,4 +128,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rudder-server](https://github.com/rudderlabs/rudder-server): Privacy and Security focused Segment-alternative, in Golang and React    
 [gorram](https://github.com/natefinch/gorram): It's like go run for any go function  
 [discordgo](https://github.com/bwmarrin/discordgo):  (Golang) Go bindings for Discord  
-[immudb](https://github.com/codenotary/immudb): immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+[immudb](https://github.com/codenotary/immudb): immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history  
+[cds](https://github.com/zeromicro/cds): Data syncing in golang for ClickHouse.
