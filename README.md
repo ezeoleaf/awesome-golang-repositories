@@ -131,4 +131,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [immudb](https://github.com/codenotary/immudb): immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history  
 [cds](https://github.com/zeromicro/cds): Data syncing in golang for ClickHouse.  
 [p9](https://github.com/hugelgupf/p9): Idiomatic Go 9P2000.L client and server, extracted from gVisor for general use  
-[circuitbreaker](https://github.com/rubyist/circuitbreaker): Circuit Breakers in Go
+[circuitbreaker](https://github.com/rubyist/circuitbreaker): Circuit Breakers in Go  
+[solid-go](https://github.com/viniciusmattosrj/solid-go): Aplicando S.O.L.I.D em Go
