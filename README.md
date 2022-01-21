@@ -133,4 +133,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [p9](https://github.com/hugelgupf/p9): Idiomatic Go 9P2000.L client and server, extracted from gVisor for general use  
 [circuitbreaker](https://github.com/rubyist/circuitbreaker): Circuit Breakers in Go  
 [solid-go](https://github.com/viniciusmattosrj/solid-go): Aplicando S.O.L.I.D em Go  
-[gorose](https://github.com/gohouse/gorose): GoRose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides six major database drivers: mysql,sqlite3,postgres,oracle,mssql, Clickhouse.
+[gorose](https://github.com/gohouse/gorose): GoRose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides six major database drivers: mysql,sqlite3,postgres,oracle,mssql, Clickhouse.  
+[yaegi](https://github.com/traefik/yaegi): Yaegi is Another Elegant Go Interpreter
