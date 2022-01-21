@@ -140,4 +140,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [CGOPP](https://github.com/SG-lunch/CGOPP): go style channel in C++ based on coroutine  
 [retry](https://github.com/vthiery/retry): Yet another retrier \o/  
 [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service  
-[go-pwd](https://github.com/Maki-Daisuke/go-pwd): <DEPRECATED> Thin wrapper of POSIX <pwd.h> for Go
+[go-pwd](https://github.com/Maki-Daisuke/go-pwd): <DEPRECATED> Thin wrapper of POSIX <pwd.h> for Go  
+[go-github](https://github.com/google/go-github): Go library for accessing the GitHub API
