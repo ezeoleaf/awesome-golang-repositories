@@ -142,4 +142,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service  
 [go-pwd](https://github.com/Maki-Daisuke/go-pwd): <DEPRECATED> Thin wrapper of POSIX <pwd.h> for Go  
 [go-github](https://github.com/google/go-github): Go library for accessing the GitHub API  
-[chain33](https://github.com/33cn/chain33): 高度模块化, 遵循 KISS原则的区块链开发框架
+[chain33](https://github.com/33cn/chain33): 高度模块化, 遵循 KISS原则的区块链开发框架  
+[retry-go](https://github.com/avast/retry-go): Simple golang library for retry mechanism
