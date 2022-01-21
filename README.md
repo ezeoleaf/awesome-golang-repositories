@@ -135,4 +135,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [solid-go](https://github.com/viniciusmattosrj/solid-go): Aplicando S.O.L.I.D em Go  
 [gorose](https://github.com/gohouse/gorose): GoRose(go orm), a mini database ORM for golang, which inspired by the famous php framwork laravle's eloquent. It will be friendly for php developer and python or ruby developer. Currently provides six major database drivers: mysql,sqlite3,postgres,oracle,mssql, Clickhouse.  
 [yaegi](https://github.com/traefik/yaegi): Yaegi is Another Elegant Go Interpreter  
-[mimetype](https://github.com/gabriel-vasile/mimetype): A fast Golang library for media type and file extension detection, based on magic numbers
+[mimetype](https://github.com/gabriel-vasile/mimetype): A fast Golang library for media type and file extension detection, based on magic numbers  
+[TMSU](https://github.com/oniony/TMSU): TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
