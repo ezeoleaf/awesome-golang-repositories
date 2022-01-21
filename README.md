@@ -137,4 +137,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [yaegi](https://github.com/traefik/yaegi): Yaegi is Another Elegant Go Interpreter  
 [mimetype](https://github.com/gabriel-vasile/mimetype): A fast Golang library for media type and file extension detection, based on magic numbers  
 [TMSU](https://github.com/oniony/TMSU): TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.  
-[CGOPP](https://github.com/SG-lunch/CGOPP): go style channel in C++ based on coroutine
+[CGOPP](https://github.com/SG-lunch/CGOPP): go style channel in C++ based on coroutine  
+[retry](https://github.com/vthiery/retry): Yet another retrier \o/
