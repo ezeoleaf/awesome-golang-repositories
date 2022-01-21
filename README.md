@@ -138,4 +138,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mimetype](https://github.com/gabriel-vasile/mimetype): A fast Golang library for media type and file extension detection, based on magic numbers  
 [TMSU](https://github.com/oniony/TMSU): TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.  
 [CGOPP](https://github.com/SG-lunch/CGOPP): go style channel in C++ based on coroutine  
-[retry](https://github.com/vthiery/retry): Yet another retrier \o/
+[retry](https://github.com/vthiery/retry): Yet another retrier \o/  
+[gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
