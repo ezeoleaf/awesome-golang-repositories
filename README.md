@@ -154,4 +154,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goHackTools](https://github.com/dreddsa5dies/goHackTools): Hacker tools on Go (Golang)  
 [DuelingClubBot](https://github.com/SulavKhadka/DuelingClubBot): An API that gives n players m random spells to duel off in a game of Wizard Duel.  
 [gods](https://github.com/emirpasic/gods): GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON  
-[PasteMe](https://github.com/LucienShui/PasteMe): PasteMe 是一个无需注册的文本分享平台（未登陆状态下只能使用阅后即焚），可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，针对代码提供了额外的高亮功能。
+[PasteMe](https://github.com/LucienShui/PasteMe): PasteMe 是一个无需注册的文本分享平台（未登陆状态下只能使用阅后即焚），可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，针对代码提供了额外的高亮功能。  
+[nats.go](https://github.com/nats-io/nats.go): Golang client for NATS, the cloud native messaging system.
