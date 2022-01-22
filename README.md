@@ -152,4 +152,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go  
 [goreplay](https://github.com/buger/goreplay): GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.  
 [goHackTools](https://github.com/dreddsa5dies/goHackTools): Hacker tools on Go (Golang)  
-[DuelingClubBot](https://github.com/SulavKhadka/DuelingClubBot): An API that gives n players m random spells to duel off in a game of Wizard Duel.
+[DuelingClubBot](https://github.com/SulavKhadka/DuelingClubBot): An API that gives n players m random spells to duel off in a game of Wizard Duel.  
+[gods](https://github.com/emirpasic/gods): GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
