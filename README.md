@@ -147,4 +147,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fx](https://github.com/uber-go/fx): A dependency injection based application framework for Go.  
 [jira-cli](https://github.com/ankitpokhrel/jira-cli): 🔥 [WIP] Feature-rich interactive Jira command line.  
 [comcast](https://github.com/tylertreat/comcast): Simulating shitty network connections so you can build better systems.  
-[jsonrpc](https://github.com/osamingo/jsonrpc): The jsonrpc package helps implement of JSON-RPC 2.0
+[jsonrpc](https://github.com/osamingo/jsonrpc): The jsonrpc package helps implement of JSON-RPC 2.0  
+[goss](https://github.com/aelsabbahy/goss): Quick and Easy server testing/validation
