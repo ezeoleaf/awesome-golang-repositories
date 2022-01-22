@@ -150,4 +150,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jsonrpc](https://github.com/osamingo/jsonrpc): The jsonrpc package helps implement of JSON-RPC 2.0  
 [goss](https://github.com/aelsabbahy/goss): Quick and Easy server testing/validation  
 [gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go  
-[goreplay](https://github.com/buger/goreplay): GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+[goreplay](https://github.com/buger/goreplay): GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.  
+[goHackTools](https://github.com/dreddsa5dies/goHackTools): Hacker tools on Go (Golang)
