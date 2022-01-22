@@ -148,4 +148,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jira-cli](https://github.com/ankitpokhrel/jira-cli): 🔥 [WIP] Feature-rich interactive Jira command line.  
 [comcast](https://github.com/tylertreat/comcast): Simulating shitty network connections so you can build better systems.  
 [jsonrpc](https://github.com/osamingo/jsonrpc): The jsonrpc package helps implement of JSON-RPC 2.0  
-[goss](https://github.com/aelsabbahy/goss): Quick and Easy server testing/validation
+[goss](https://github.com/aelsabbahy/goss): Quick and Easy server testing/validation  
+[gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
