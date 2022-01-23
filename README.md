@@ -169,4 +169,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fastjson](https://github.com/valyala/fastjson): Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection  
 [vecty](https://github.com/hexops/vecty): Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.  
 [gocyclo](https://github.com/fzipp/gocyclo): Calculate cyclomatic complexities of functions in Go source code.  
-[lindb](https://github.com/lindb/lindb): LinDB is a scalable, high performance, high availability distributed time series database.
+[lindb](https://github.com/lindb/lindb): LinDB is a scalable, high performance, high availability distributed time series database.  
+[vegeta](https://github.com/tsenart/vegeta): HTTP load testing tool and library. It's over 9000!
