@@ -170,4 +170,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vecty](https://github.com/hexops/vecty): Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.  
 [gocyclo](https://github.com/fzipp/gocyclo): Calculate cyclomatic complexities of functions in Go source code.  
 [lindb](https://github.com/lindb/lindb): LinDB is a scalable, high performance, high availability distributed time series database.  
-[vegeta](https://github.com/tsenart/vegeta): HTTP load testing tool and library. It's over 9000!
+[vegeta](https://github.com/tsenart/vegeta): HTTP load testing tool and library. It's over 9000!  
+[tyk](https://github.com/TykTechnologies/tyk): Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
