@@ -163,4 +163,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tfs-go-hw](https://github.com/ew0s/tfs-go-hw): The repository where I will push my homework from Tinkoff Golang Fintech 2021  
 [go-chart](https://github.com/wcharczuk/go-chart): go chart is a basic charting library in go.  
 [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go): Go Solution for LeetCode algorithms problems, 100% coverage.  
-[whatsapp](https://github.com/mautrix/whatsapp): A Matrix-WhatsApp puppeting bridge
+[whatsapp](https://github.com/mautrix/whatsapp): A Matrix-WhatsApp puppeting bridge  
+[freegeoip](https://github.com/fiorix/freegeoip): IP geolocation web server
