@@ -166,4 +166,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [whatsapp](https://github.com/mautrix/whatsapp): A Matrix-WhatsApp puppeting bridge  
 [freegeoip](https://github.com/fiorix/freegeoip): IP geolocation web server  
 [srv-verification-api](https://github.com/bobturanov/srv-verification-api): Tasks 1, 2, 3, 4, 5, 6, 7 [All] Ozon Go school + 💎  
-[fastjson](https://github.com/valyala/fastjson): Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
+[fastjson](https://github.com/valyala/fastjson): Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection  
+[vecty](https://github.com/hexops/vecty): Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
