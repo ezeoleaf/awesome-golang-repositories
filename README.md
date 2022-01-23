@@ -168,4 +168,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [srv-verification-api](https://github.com/bobturanov/srv-verification-api): Tasks 1, 2, 3, 4, 5, 6, 7 [All] Ozon Go school + 💎  
 [fastjson](https://github.com/valyala/fastjson): Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection  
 [vecty](https://github.com/hexops/vecty): Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.  
-[gocyclo](https://github.com/fzipp/gocyclo): Calculate cyclomatic complexities of functions in Go source code.
+[gocyclo](https://github.com/fzipp/gocyclo): Calculate cyclomatic complexities of functions in Go source code.  
+[lindb](https://github.com/lindb/lindb): LinDB is a scalable, high performance, high availability distributed time series database.
