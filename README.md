@@ -164,4 +164,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-chart](https://github.com/wcharczuk/go-chart): go chart is a basic charting library in go.  
 [LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go): Go Solution for LeetCode algorithms problems, 100% coverage.  
 [whatsapp](https://github.com/mautrix/whatsapp): A Matrix-WhatsApp puppeting bridge  
-[freegeoip](https://github.com/fiorix/freegeoip): IP geolocation web server
+[freegeoip](https://github.com/fiorix/freegeoip): IP geolocation web server  
+[srv-verification-api](https://github.com/bobturanov/srv-verification-api): Tasks 1, 2, 3, 4, 5, 6, 7 [All] Ozon Go school + 💎
