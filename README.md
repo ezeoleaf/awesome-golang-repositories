@@ -162,4 +162,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [apo](https://github.com/h0ru5/apo): A.P.O. - "Authorized Personnel Only" is a minimalist OAuth IAM written in Go   
 [tfs-go-hw](https://github.com/ew0s/tfs-go-hw): The repository where I will push my homework from Tinkoff Golang Fintech 2021  
 [go-chart](https://github.com/wcharczuk/go-chart): go chart is a basic charting library in go.  
-[LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go): Go Solution for LeetCode algorithms problems, 100% coverage.
+[LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go): Go Solution for LeetCode algorithms problems, 100% coverage.  
+[whatsapp](https://github.com/mautrix/whatsapp): A Matrix-WhatsApp puppeting bridge
