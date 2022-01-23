@@ -172,4 +172,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [lindb](https://github.com/lindb/lindb): LinDB is a scalable, high performance, high availability distributed time series database.  
 [vegeta](https://github.com/tsenart/vegeta): HTTP load testing tool and library. It's over 9000!  
 [tyk](https://github.com/TykTechnologies/tyk): Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols  
-[soundscape](https://github.com/soundscapecloud/soundscape): Soundscape - a personal music streaming server
+[soundscape](https://github.com/soundscapecloud/soundscape): Soundscape - a personal music streaming server  
+[sudo](https://github.com/mattn/sudo): sudo for windows
