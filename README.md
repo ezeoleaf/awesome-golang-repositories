@@ -159,4 +159,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mergestat](https://github.com/mergestat/mergestat): Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊  
 [bosun](https://github.com/bosun-monitor/bosun): Time Series Alerting Framework  
 [under-the-hood](https://github.com/golang-design/under-the-hood): 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood  
-[apo](https://github.com/h0ru5/apo): A.P.O. - "Authorized Personnel Only" is a minimalist OAuth IAM written in Go 
+[apo](https://github.com/h0ru5/apo): A.P.O. - "Authorized Personnel Only" is a minimalist OAuth IAM written in Go   
+[tfs-go-hw](https://github.com/ew0s/tfs-go-hw): The repository where I will push my homework from Tinkoff Golang Fintech 2021
