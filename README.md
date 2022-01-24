@@ -174,4 +174,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tyk](https://github.com/TykTechnologies/tyk): Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols  
 [soundscape](https://github.com/soundscapecloud/soundscape): Soundscape - a personal music streaming server  
 [sudo](https://github.com/mattn/sudo): sudo for windows  
-[gltf-go](https://github.com/naikrovek/gltf-go): A very small and incomplete glTF 2.0 library for go.
+[gltf-go](https://github.com/naikrovek/gltf-go): A very small and incomplete glTF 2.0 library for go.  
+[ozzo-validation](https://github.com/go-ozzo/ozzo-validation): An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
