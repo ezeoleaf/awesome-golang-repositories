@@ -176,4 +176,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sudo](https://github.com/mattn/sudo): sudo for windows  
 [gltf-go](https://github.com/naikrovek/gltf-go): A very small and incomplete glTF 2.0 library for go.  
 [ozzo-validation](https://github.com/go-ozzo/ozzo-validation): An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.  
-[nfpm](https://github.com/goreleaser/nfpm): nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+[nfpm](https://github.com/goreleaser/nfpm): nFPM is Not FPM - a simple deb, rpm and apk packager written in Go  
+[golang-playground](https://github.com/Serializator/golang-playground): Playful stuff I'm trying out and tried in the past to learn Golang
