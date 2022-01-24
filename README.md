@@ -185,4 +185,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gosnmp](https://github.com/gosnmp/gosnmp): An SNMP library written in Go  
 [go-swagger](https://github.com/go-swagger/go-swagger): Swagger 2.0 implementation for go  
 [GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming): 《Go专家编程》Go语言快速入门，轻松进阶！  
-[pongo2](https://github.com/flosch/pongo2): Django-syntax like template-engine for Go
+[pongo2](https://github.com/flosch/pongo2): Django-syntax like template-engine for Go  
+[ugolibev3](https://github.com/janekjan/ugolibev3): Really micro (u) library for reading raw sensor values from ev3dev.
