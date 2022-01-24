@@ -173,4 +173,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vegeta](https://github.com/tsenart/vegeta): HTTP load testing tool and library. It's over 9000!  
 [tyk](https://github.com/TykTechnologies/tyk): Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols  
 [soundscape](https://github.com/soundscapecloud/soundscape): Soundscape - a personal music streaming server  
-[sudo](https://github.com/mattn/sudo): sudo for windows
+[sudo](https://github.com/mattn/sudo): sudo for windows  
+[gltf-go](https://github.com/naikrovek/gltf-go): A very small and incomplete glTF 2.0 library for go.
