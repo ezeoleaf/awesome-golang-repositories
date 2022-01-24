@@ -179,3 +179,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ozzo-validation](https://github.com/go-ozzo/ozzo-validation): An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.  
 [nfpm](https://github.com/goreleaser/nfpm): nFPM is Not FPM - a simple deb, rpm and apk packager written in Go  
 [golang-playground](https://github.com/Serializator/golang-playground): Playful stuff I'm trying out and tried in the past to learn Golang
+  
+[course-golang](https://github.com/andreassiegel/course-golang): Repository for Todd McLeod's Udemy Training "Learn How To Code: Google's Go (golang) Programming Language"
