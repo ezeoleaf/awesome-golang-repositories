@@ -181,4 +181,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-playground](https://github.com/Serializator/golang-playground): Playful stuff I'm trying out and tried in the past to learn Golang
   
 [course-golang](https://github.com/andreassiegel/course-golang): Repository for Todd McLeod's Udemy Training "Learn How To Code: Google's Go (golang) Programming Language"  
-[c2go](https://github.com/elliotchance/c2go): ⚖️ A tool for transpiling C to Go.
+[c2go](https://github.com/elliotchance/c2go): ⚖️ A tool for transpiling C to Go.  
+[gosnmp](https://github.com/gosnmp/gosnmp): An SNMP library written in Go
