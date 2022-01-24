@@ -183,4 +183,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [course-golang](https://github.com/andreassiegel/course-golang): Repository for Todd McLeod's Udemy Training "Learn How To Code: Google's Go (golang) Programming Language"  
 [c2go](https://github.com/elliotchance/c2go): ⚖️ A tool for transpiling C to Go.  
 [gosnmp](https://github.com/gosnmp/gosnmp): An SNMP library written in Go  
-[go-swagger](https://github.com/go-swagger/go-swagger): Swagger 2.0 implementation for go
+[go-swagger](https://github.com/go-swagger/go-swagger): Swagger 2.0 implementation for go  
+[GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming): 《Go专家编程》Go语言快速入门，轻松进阶！
