@@ -9,6 +9,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 - [Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang](https://amzn.to/3tuHBkd)
 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://amzn.to/3tAfVue)
 - [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://amzn.to/3fFi7Zf)
+- [The Art of Go - Basics: Introduction to Programming in Golang - Beginner to Intermediate](https://amzn.to/3qUCmZz)
 
 ## Repositories
 
