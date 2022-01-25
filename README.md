@@ -196,4 +196,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wg-ui](https://github.com/EmbarkStudios/wg-ui): WireGuard Web UI for self-serve client configurations, with optional auth.  
 [colly](https://github.com/gocolly/colly): Elegant Scraper and Crawler Framework for Golang  
 [s5cmd](https://github.com/peak/s5cmd): Parallel S3 and local filesystem execution tool.  
-[moby](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+[moby](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems  
+[mergo](https://github.com/imdario/mergo): Mergo: merging Go structs and maps since 2013.
