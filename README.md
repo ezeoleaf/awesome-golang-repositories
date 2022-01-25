@@ -198,4 +198,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [s5cmd](https://github.com/peak/s5cmd): Parallel S3 and local filesystem execution tool.  
 [moby](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems  
 [mergo](https://github.com/imdario/mergo): Mergo: merging Go structs and maps since 2013.  
-[go-guerrilla](https://github.com/flashmob/go-guerrilla): Mini SMTP server written in golang
+[go-guerrilla](https://github.com/flashmob/go-guerrilla): Mini SMTP server written in golang  
+[GoSublime](https://github.com/DisposaBoy/GoSublime): A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.
