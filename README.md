@@ -197,4 +197,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [colly](https://github.com/gocolly/colly): Elegant Scraper and Crawler Framework for Golang  
 [s5cmd](https://github.com/peak/s5cmd): Parallel S3 and local filesystem execution tool.  
 [moby](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems  
-[mergo](https://github.com/imdario/mergo): Mergo: merging Go structs and maps since 2013.
+[mergo](https://github.com/imdario/mergo): Mergo: merging Go structs and maps since 2013.  
+[go-guerrilla](https://github.com/flashmob/go-guerrilla): Mini SMTP server written in golang
