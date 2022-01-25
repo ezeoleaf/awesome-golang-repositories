@@ -193,4 +193,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.  
 [tendermint](https://github.com/tendermint/tendermint): ⟁ Tendermint Core (BFT Consensus) in Go  
 [gfast](https://github.com/tiger1103/gfast): 基于GF(Go Frame)的后台管理系统  
-[wg-ui](https://github.com/EmbarkStudios/wg-ui): WireGuard Web UI for self-serve client configurations, with optional auth.
+[wg-ui](https://github.com/EmbarkStudios/wg-ui): WireGuard Web UI for self-serve client configurations, with optional auth.  
+[colly](https://github.com/gocolly/colly): Elegant Scraper and Crawler Framework for Golang
