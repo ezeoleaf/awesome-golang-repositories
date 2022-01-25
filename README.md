@@ -191,4 +191,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [trojan-go](https://github.com/p4gefau1t/trojan-go): Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/  
 [memviz](https://github.com/bradleyjkemp/memviz): Visualize your Go data structures using graphviz  
 [delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.  
-[tendermint](https://github.com/tendermint/tendermint): ⟁ Tendermint Core (BFT Consensus) in Go
+[tendermint](https://github.com/tendermint/tendermint): ⟁ Tendermint Core (BFT Consensus) in Go  
+[gfast](https://github.com/tiger1103/gfast): 基于GF(Go Frame)的后台管理系统
