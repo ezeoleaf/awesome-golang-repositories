@@ -199,4 +199,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [moby](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems  
 [mergo](https://github.com/imdario/mergo): Mergo: merging Go structs and maps since 2013.  
 [go-guerrilla](https://github.com/flashmob/go-guerrilla): Mini SMTP server written in golang  
-[GoSublime](https://github.com/DisposaBoy/GoSublime): A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.
+[GoSublime](https://github.com/DisposaBoy/GoSublime): A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.  
+[languishable](https://github.com/CognonicLabs/languishable): A best of breed demo series to show the ideal idiomatic representation of code for many programming languages via a common desktop application in Scala, Go, C#, Python, Java, R, Julia, F#, C++, Ballerina, Rust, JavaScript, TypeScript etc
