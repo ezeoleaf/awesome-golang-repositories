@@ -10,6 +10,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://amzn.to/3tAfVue)
 - [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://amzn.to/3fFi7Zf)
 - [The Art of Go - Basics: Introduction to Programming in Golang - Beginner to Intermediate](https://amzn.to/3qUCmZz)
+- [Build Systems With Go: Everything a Gopher must know](https://amzn.to/3G1x7vu)
 
 ## Repositories
 
@@ -26,7 +27,6 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goproxy](https://github.com/goproxyio/goproxy): A global proxy for Go modules.  
 [minishift](https://github.com/minishift/minishift): Run OpenShift 3.x locally  
 [GoRAT](https://github.com/Nikait/GoRAT): ⚙️🗡️GoRAT is a powerful remote access trojan for windows 7, 8 and 10 operating systems with many features
-  
 [caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS  
 [q](https://github.com/ryboe/q): Quick and dirty debugging output for tired Go programmers  
 [gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams  
@@ -57,12 +57,11 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers): Examples of Golang compared to Node.js for learning  
 [dockerize](https://github.com/jwilder/dockerize): Utility to simplify running applications in docker containers  
 [ottosocial](https://github.com/Phantas0s/ottosocial): :+1: ottosocial is a CLI to schedule tweets via CSV
-  
 [lile](https://github.com/lileio/lile): Easily generate gRPC services in Go ⚡️  
 [golang-tls](https://github.com/denji/golang-tls): Simple Golang HTTPS/TLS Examples  
 [what-anime-cli](https://github.com/irevenko/what-anime-cli): ❓🖼 Find the anime scene by image using your terminal  
 [nps](https://github.com/ehang-io/nps): 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.  
-[hisi-initregtable-go-parser](https://github.com/OpenHisiIpCam/hisi-initregtable-go-parser): HiSilicon SoC`s U-Boot initial register table parser into human readable format  
+[hisi-initregtable-go-parser](https://github.com/OpenHisiIpCam/hisi-initregtable-go-parser): HiSilicon SoCs U-Boot initial register table parser into human readable format  
 [qmgo](https://github.com/qiniu/qmgo): Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.  
 [pixterm](https://github.com/eliukblau/pixterm): Draw images in your ANSI terminal with true color  
 [asciigraph](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.  
@@ -101,7 +100,6 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [spaghetti-cutter](https://github.com/flowdev/spaghetti-cutter): Command line tool for CI/CD pipelines that helps to prevent Go spaghetti code (a.k.a. big ball of mud).  
 [1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server): benchmarks for implementation of servers which support 1 million connections   
 [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
-  
 [fission](https://github.com/fission/fission): Fast and Simple Serverless Functions for Kubernetes  
 [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》  
 [kcl](https://github.com/twmb/kcl): Your one stop shop to do anything with Kafka. Producing, consuming, transacting, administrating; 0.8.0 through 2.7.0+.  
@@ -116,7 +114,6 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [leaktest](https://github.com/fortytw2/leaktest): Goroutine Leak Detector  
 [ultimate-go](https://github.com/betty200744/ultimate-go): This repo contains my notes on working with Go and computer systems.   
 [gofakeit](https://github.com/brianvoe/gofakeit): Random fake data generator written in go
-  
 [devops-api](https://github.com/chanyipiaomiao/devops-api): Golang + Beego 编写 提供开发/运维常用操作的HTTP API接口:  手机归属地查询、IP地址查询、工作日节假日判断、微信报警、钉钉报警、2步验证、密码存储、发送邮件、生成随机密码等功能  
 [xstrings](https://github.com/huandu/xstrings): Implements string functions widely used in other languages but absent in Go.  
 [go-fuzz](https://github.com/dvyukov/go-fuzz): Randomized testing for Go  
@@ -179,7 +176,6 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ozzo-validation](https://github.com/go-ozzo/ozzo-validation): An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.  
 [nfpm](https://github.com/goreleaser/nfpm): nFPM is Not FPM - a simple deb, rpm and apk packager written in Go  
 [golang-playground](https://github.com/Serializator/golang-playground): Playful stuff I'm trying out and tried in the past to learn Golang
-  
 [course-golang](https://github.com/andreassiegel/course-golang): Repository for Todd McLeod's Udemy Training "Learn How To Code: Google's Go (golang) Programming Language"  
 [c2go](https://github.com/elliotchance/c2go): ⚖️ A tool for transpiling C to Go.  
 [gosnmp](https://github.com/gosnmp/gosnmp): An SNMP library written in Go  
