@@ -201,4 +201,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-guerrilla](https://github.com/flashmob/go-guerrilla): Mini SMTP server written in golang  
 [GoSublime](https://github.com/DisposaBoy/GoSublime): A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.  
 [languishable](https://github.com/CognonicLabs/languishable): A best of breed demo series to show the ideal idiomatic representation of code for many programming languages via a common desktop application in Scala, Go, C#, Python, Java, R, Julia, F#, C++, Ballerina, Rust, JavaScript, TypeScript etc  
-[sx](https://github.com/v-byte-cpu/sx): :vulcan_salute: Fast, modern, easy-to-use network scanner
+[sx](https://github.com/v-byte-cpu/sx): :vulcan_salute: Fast, modern, easy-to-use network scanner  
+[sshpool](https://github.com/desops/sshpool): Connection pool for x/crypto/ssh connections
