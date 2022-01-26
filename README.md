@@ -203,4 +203,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [languishable](https://github.com/CognonicLabs/languishable): A best of breed demo series to show the ideal idiomatic representation of code for many programming languages via a common desktop application in Scala, Go, C#, Python, Java, R, Julia, F#, C++, Ballerina, Rust, JavaScript, TypeScript etc  
 [sx](https://github.com/v-byte-cpu/sx): :vulcan_salute: Fast, modern, easy-to-use network scanner  
 [sshpool](https://github.com/desops/sshpool): Connection pool for x/crypto/ssh connections  
-[justonecanvas](https://github.com/GLodi/justonecanvas): Reddit's r/place clone
+[justonecanvas](https://github.com/GLodi/justonecanvas): Reddit's r/place clone  
+[cryptopals](https://github.com/0xfe/cryptopals): Cryptopals Cryptography Challenge Solutions in Go (Sets 1 - 6)
