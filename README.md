@@ -206,4 +206,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [justonecanvas](https://github.com/GLodi/justonecanvas): Reddit's r/place clone  
 [cryptopals](https://github.com/0xfe/cryptopals): Cryptopals Cryptography Challenge Solutions in Go (Sets 1 - 6)  
 [wblog](https://github.com/wangsongyan/wblog): 基于gin+gorm开发的个人博客项目  
-[evmos](https://github.com/tharsis/evmos): Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
+[evmos](https://github.com/tharsis/evmos): Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.  
+[gpuz-reader](https://github.com/hotafrika/gpuz-reader): Golang library for collecting metrics from GPU-Z sensors. It uses Shared Memory under the hood.
