@@ -207,4 +207,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dartagnan](https://github.com/matipan/dartagnan): D'artagnan or 'dart' is a lethal motion-tracking turret 
   
 [tsuru](https://github.com/tsuru/tsuru): Open source and extensible Platform as a Service (PaaS).  
-[spicedb](https://github.com/authzed/spicedb): Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
+[spicedb](https://github.com/authzed/spicedb): Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.  
+[decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go
