@@ -206,4 +206,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gpuz-reader](https://github.com/hotafrika/gpuz-reader): Golang library for collecting metrics from GPU-Z sensors. It uses Shared Memory under the hood.  
 [dartagnan](https://github.com/matipan/dartagnan): D'artagnan or 'dart' is a lethal motion-tracking turret 
   
-[tsuru](https://github.com/tsuru/tsuru): Open source and extensible Platform as a Service (PaaS).
+[tsuru](https://github.com/tsuru/tsuru): Open source and extensible Platform as a Service (PaaS).  
+[spicedb](https://github.com/authzed/spicedb): Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
