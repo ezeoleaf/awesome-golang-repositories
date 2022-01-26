@@ -205,3 +205,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [evmos](https://github.com/tharsis/evmos): Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.  
 [gpuz-reader](https://github.com/hotafrika/gpuz-reader): Golang library for collecting metrics from GPU-Z sensors. It uses Shared Memory under the hood.  
 [dartagnan](https://github.com/matipan/dartagnan): D'artagnan or 'dart' is a lethal motion-tracking turret 
+  
+[tsuru](https://github.com/tsuru/tsuru): Open source and extensible Platform as a Service (PaaS).
