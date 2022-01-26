@@ -204,4 +204,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sx](https://github.com/v-byte-cpu/sx): :vulcan_salute: Fast, modern, easy-to-use network scanner  
 [sshpool](https://github.com/desops/sshpool): Connection pool for x/crypto/ssh connections  
 [justonecanvas](https://github.com/GLodi/justonecanvas): Reddit's r/place clone  
-[cryptopals](https://github.com/0xfe/cryptopals): Cryptopals Cryptography Challenge Solutions in Go (Sets 1 - 6)
+[cryptopals](https://github.com/0xfe/cryptopals): Cryptopals Cryptography Challenge Solutions in Go (Sets 1 - 6)  
+[wblog](https://github.com/wangsongyan/wblog): 基于gin+gorm开发的个人博客项目
