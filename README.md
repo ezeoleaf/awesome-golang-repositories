@@ -11,6 +11,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 - [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://amzn.to/3fFi7Zf)
 - [The Art of Go - Basics: Introduction to Programming in Golang - Beginner to Intermediate](https://amzn.to/3qUCmZz)
 - [Build Systems With Go: Everything a Gopher must know](https://amzn.to/3G1x7vu)
+- [Head First Go](https://amzn.to/3G01rXe)
 
 ## Repositories
 
