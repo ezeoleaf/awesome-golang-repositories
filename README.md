@@ -210,4 +210,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [spicedb](https://github.com/authzed/spicedb): Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.  
 [decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go  
 [macdriver](https://github.com/progrium/macdriver): Native Mac APIs for Go  
-[bombardier](https://github.com/codesenberg/bombardier): Fast cross-platform HTTP benchmarking tool written in Go
+[bombardier](https://github.com/codesenberg/bombardier): Fast cross-platform HTTP benchmarking tool written in Go  
+[go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns): Concurrency patterns in Go
