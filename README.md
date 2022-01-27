@@ -220,4 +220,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [elasticsql](https://github.com/cch123/elasticsql): convert sql to elasticsearch DSL in golang(go)
   
 [meetup-golang-httpexpect](https://github.com/andreburgaud/meetup-golang-httpexpect): Go code and examples used during the GoMN meetup on 6/19/2021  
-[tableflip](https://github.com/cloudflare/tableflip): Graceful process restarts in Go
+[tableflip](https://github.com/cloudflare/tableflip): Graceful process restarts in Go  
+[katas](https://github.com/ympons/katas): I :heart: algorithms and competitive programming. In this repo, I share some of my solved challenges and hacks.
