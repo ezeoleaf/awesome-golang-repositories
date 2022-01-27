@@ -219,4 +219,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [horizon](https://github.com/lcomrade/horizon): Horizon - minimalist WEB-server for data transfer via HTTP. The project is intended to replace the 'python3 -m http.server' command.  
 [elasticsql](https://github.com/cch123/elasticsql): convert sql to elasticsearch DSL in golang(go)
   
-[meetup-golang-httpexpect](https://github.com/andreburgaud/meetup-golang-httpexpect): Go code and examples used during the GoMN meetup on 6/19/2021
+[meetup-golang-httpexpect](https://github.com/andreburgaud/meetup-golang-httpexpect): Go code and examples used during the GoMN meetup on 6/19/2021  
+[tableflip](https://github.com/cloudflare/tableflip): Graceful process restarts in Go
