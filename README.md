@@ -222,4 +222,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [meetup-golang-httpexpect](https://github.com/andreburgaud/meetup-golang-httpexpect): Go code and examples used during the GoMN meetup on 6/19/2021  
 [tableflip](https://github.com/cloudflare/tableflip): Graceful process restarts in Go  
 [katas](https://github.com/ympons/katas): I :heart: algorithms and competitive programming. In this repo, I share some of my solved challenges and hacks.  
-[go-json](https://github.com/goccy/go-json): Fast JSON encoder/decoder compatible with encoding/json for Go
+[go-json](https://github.com/goccy/go-json): Fast JSON encoder/decoder compatible with encoding/json for Go  
+[rtlamr](https://github.com/bemasher/rtlamr): An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
