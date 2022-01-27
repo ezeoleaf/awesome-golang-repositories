@@ -212,4 +212,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [macdriver](https://github.com/progrium/macdriver): Native Mac APIs for Go  
 [bombardier](https://github.com/codesenberg/bombardier): Fast cross-platform HTTP benchmarking tool written in Go  
 [go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns): Concurrency patterns in Go  
-[gopher-lua](https://github.com/yuin/gopher-lua): GopherLua: VM and compiler for Lua in Go
+[gopher-lua](https://github.com/yuin/gopher-lua): GopherLua: VM and compiler for Lua in Go  
+[go-stbi](https://github.com/neilpa/go-stbi): Go binding for stb_image.h
