@@ -230,4 +230,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [SONiC-On-Demand](https://github.com/Jdvdb/SONiC-On-Demand): Containerized Golang application to constantly update a playlist with what's on SONiC 102.9  
 [nucular](https://github.com/aarzilli/nucular): GUI toolkit for go  
 [coredhcp](https://github.com/coredhcp/coredhcp): Fast, multithreaded, modular and extensible DHCP server written in Go  
-[gotags](https://github.com/jstemmer/gotags): ctags-compatible tag generator for Go
+[gotags](https://github.com/jstemmer/gotags): ctags-compatible tag generator for Go  
+[cayley](https://github.com/cayleygraph/cayley): An open-source graph database
