@@ -232,4 +232,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [coredhcp](https://github.com/coredhcp/coredhcp): Fast, multithreaded, modular and extensible DHCP server written in Go  
 [gotags](https://github.com/jstemmer/gotags): ctags-compatible tag generator for Go  
 [cayley](https://github.com/cayleygraph/cayley): An open-source graph database  
-[nuclio](https://github.com/nuclio/nuclio): High-Performance Serverless event and data processing platform
+[nuclio](https://github.com/nuclio/nuclio): High-Performance Serverless event and data processing platform  
+[CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！
