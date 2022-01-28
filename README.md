@@ -231,4 +231,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [nucular](https://github.com/aarzilli/nucular): GUI toolkit for go  
 [coredhcp](https://github.com/coredhcp/coredhcp): Fast, multithreaded, modular and extensible DHCP server written in Go  
 [gotags](https://github.com/jstemmer/gotags): ctags-compatible tag generator for Go  
-[cayley](https://github.com/cayleygraph/cayley): An open-source graph database
+[cayley](https://github.com/cayleygraph/cayley): An open-source graph database  
+[nuclio](https://github.com/nuclio/nuclio): High-Performance Serverless event and data processing platform
