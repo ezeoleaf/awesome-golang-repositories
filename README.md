@@ -226,4 +226,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rtlamr](https://github.com/bemasher/rtlamr): An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.  
 [kcli](https://github.com/krismorte/kcli): Repository made by k-cli  
 [goawk](https://github.com/benhoyt/goawk): A POSIX-compliant AWK interpreter written in Go  
-[vEB](https://github.com/chucnorrisful/vEB): Go implementation of the van Emde Boas tree data structure: Priority queue for positive whole numbers in O(log log u) time.
+[vEB](https://github.com/chucnorrisful/vEB): Go implementation of the van Emde Boas tree data structure: Priority queue for positive whole numbers in O(log log u) time.  
+[SONiC-On-Demand](https://github.com/Jdvdb/SONiC-On-Demand): Containerized Golang application to constantly update a playlist with what's on SONiC 102.9
