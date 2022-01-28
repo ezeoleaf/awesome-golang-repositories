@@ -233,4 +233,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gotags](https://github.com/jstemmer/gotags): ctags-compatible tag generator for Go  
 [cayley](https://github.com/cayleygraph/cayley): An open-source graph database  
 [nuclio](https://github.com/nuclio/nuclio): High-Performance Serverless event and data processing platform  
-[CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！
+[CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！  
+[prest](https://github.com/prest/prest): PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
