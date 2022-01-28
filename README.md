@@ -228,4 +228,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goawk](https://github.com/benhoyt/goawk): A POSIX-compliant AWK interpreter written in Go  
 [vEB](https://github.com/chucnorrisful/vEB): Go implementation of the van Emde Boas tree data structure: Priority queue for positive whole numbers in O(log log u) time.  
 [SONiC-On-Demand](https://github.com/Jdvdb/SONiC-On-Demand): Containerized Golang application to constantly update a playlist with what's on SONiC 102.9  
-[nucular](https://github.com/aarzilli/nucular): GUI toolkit for go
+[nucular](https://github.com/aarzilli/nucular): GUI toolkit for go  
+[coredhcp](https://github.com/coredhcp/coredhcp): Fast, multithreaded, modular and extensible DHCP server written in Go
