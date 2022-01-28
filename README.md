@@ -224,4 +224,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [katas](https://github.com/ympons/katas): I :heart: algorithms and competitive programming. In this repo, I share some of my solved challenges and hacks.  
 [go-json](https://github.com/goccy/go-json): Fast JSON encoder/decoder compatible with encoding/json for Go  
 [rtlamr](https://github.com/bemasher/rtlamr): An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.  
-[kcli](https://github.com/krismorte/kcli): Repository made by k-cli
+[kcli](https://github.com/krismorte/kcli): Repository made by k-cli  
+[goawk](https://github.com/benhoyt/goawk): A POSIX-compliant AWK interpreter written in Go
