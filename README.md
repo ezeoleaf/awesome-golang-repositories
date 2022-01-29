@@ -246,4 +246,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-database](https://github.com/kovacou/go-database): Go databases manager (Context, Transactions & Profiler) w/ an intuitive SQL Builder on top of sqlx. Performances oriented.  
 [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:  
 [uuid](https://github.com/google/uuid): Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.  
-[twirp](https://github.com/twitchtv/twirp): A simple RPC framework with protobuf service definitions
+[twirp](https://github.com/twitchtv/twirp): A simple RPC framework with protobuf service definitions  
+[goplayspace](https://github.com/iafan/goplayspace): Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more
