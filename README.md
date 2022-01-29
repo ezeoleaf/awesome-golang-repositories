@@ -244,4 +244,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [paginate](https://github.com/keiranrowan/paginate): Plan9 p command written in golang  
 [tracerr](https://github.com/ztrue/tracerr): Golang errors with stack trace and source fragments.  
 [go-database](https://github.com/kovacou/go-database): Go databases manager (Context, Transactions & Profiler) w/ an intuitive SQL Builder on top of sqlx. Performances oriented.  
-[awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+[awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:  
+[uuid](https://github.com/google/uuid): Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
