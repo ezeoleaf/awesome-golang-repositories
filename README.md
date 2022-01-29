@@ -239,4 +239,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [zabbix-raidstat](https://github.com/ps78674/zabbix-raidstat): Zabbix monitoring for Adaptec/arcconf, HP/ssacli, Marvell/mvcli (Template w/LLD)  
 [dotweb](https://github.com/devfeel/dotweb): Simple and easy go web micro framework  
 [bee](https://github.com/beego/bee): Bee is a tool for helping develop with beego app framework.  
-[thunder](https://github.com/samsarahq/thunder): ⚡️ A Go framework for rapidly building powerful graphql services
+[thunder](https://github.com/samsarahq/thunder): ⚡️ A Go framework for rapidly building powerful graphql services  
+[vfsgen](https://github.com/shurcooL/vfsgen): Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
