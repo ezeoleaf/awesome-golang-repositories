@@ -243,4 +243,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vfsgen](https://github.com/shurcooL/vfsgen): Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.  
 [paginate](https://github.com/keiranrowan/paginate): Plan9 p command written in golang  
 [tracerr](https://github.com/ztrue/tracerr): Golang errors with stack trace and source fragments.  
-[go-database](https://github.com/kovacou/go-database): Go databases manager (Context, Transactions & Profiler) w/ an intuitive SQL Builder on top of sqlx. Performances oriented.
+[go-database](https://github.com/kovacou/go-database): Go databases manager (Context, Transactions & Profiler) w/ an intuitive SQL Builder on top of sqlx. Performances oriented.  
+[awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets): 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
