@@ -240,4 +240,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dotweb](https://github.com/devfeel/dotweb): Simple and easy go web micro framework  
 [bee](https://github.com/beego/bee): Bee is a tool for helping develop with beego app framework.  
 [thunder](https://github.com/samsarahq/thunder): ⚡️ A Go framework for rapidly building powerful graphql services  
-[vfsgen](https://github.com/shurcooL/vfsgen): Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
+[vfsgen](https://github.com/shurcooL/vfsgen): Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.  
+[paginate](https://github.com/keiranrowan/paginate): Plan9 p command written in golang
