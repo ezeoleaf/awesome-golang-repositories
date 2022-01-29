@@ -237,4 +237,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [prest](https://github.com/prest/prest): PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new  
 [godb](https://github.com/samonzeweb/godb): A Go SQL query builder and struct mapper.  
 [zabbix-raidstat](https://github.com/ps78674/zabbix-raidstat): Zabbix monitoring for Adaptec/arcconf, HP/ssacli, Marvell/mvcli (Template w/LLD)  
-[dotweb](https://github.com/devfeel/dotweb): Simple and easy go web micro framework
+[dotweb](https://github.com/devfeel/dotweb): Simple and easy go web micro framework  
+[bee](https://github.com/beego/bee): Bee is a tool for helping develop with beego app framework.
