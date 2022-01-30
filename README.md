@@ -251,4 +251,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goqu](https://github.com/doug-martin/goqu): SQL builder and query library for golang  
 [diagram](https://github.com/esimov/diagram): CLI app to convert ASCII arts into hand drawn diagrams.  
 [crlfuzz](https://github.com/dwisiswant0/crlfuzz): A fast tool to scan CRLF vulnerability written in Go  
-[ngrams](https://github.com/mochi-co/ngrams): A Go n-gram indexer for natural language processing with modular tokenizers and data stores
+[ngrams](https://github.com/mochi-co/ngrams): A Go n-gram indexer for natural language processing with modular tokenizers and data stores  
+[protoreflect](https://github.com/jhump/protoreflect): Reflection (Rich Descriptors) for Go Protocol Buffers
