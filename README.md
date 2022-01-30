@@ -248,4 +248,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [uuid](https://github.com/google/uuid): Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.  
 [twirp](https://github.com/twitchtv/twirp): A simple RPC framework with protobuf service definitions  
 [goplayspace](https://github.com/iafan/goplayspace): Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more  
-[goqu](https://github.com/doug-martin/goqu): SQL builder and query library for golang
+[goqu](https://github.com/doug-martin/goqu): SQL builder and query library for golang  
+[diagram](https://github.com/esimov/diagram): CLI app to convert ASCII arts into hand drawn diagrams.
