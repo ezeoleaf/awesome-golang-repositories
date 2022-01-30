@@ -255,4 +255,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [protoreflect](https://github.com/jhump/protoreflect): Reflection (Rich Descriptors) for Go Protocol Buffers  
 [gopsutil](https://github.com/shirou/gopsutil): psutil for golang  
 [terraform-switcher](https://github.com/warrensbox/terraform-switcher): A command line tool to switch between different versions of terraform  (install with homebrew and more)  
-[sessions](https://github.com/gorilla/sessions): Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
+[sessions](https://github.com/gorilla/sessions): Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.  
+[awgo](https://github.com/deanishe/awgo): Go library for Alfred 3 + 4 workflows
