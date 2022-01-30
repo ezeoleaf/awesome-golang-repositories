@@ -259,4 +259,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [awgo](https://github.com/deanishe/awgo): Go library for Alfred 3 + 4 workflows  
 [zstack](https://github.com/shimmeringbee/zstack): Implementation of a ZNP and support code designed to interface with Texas Instruments Z-Stack, written in Go.  
 [gormigrate](https://github.com/go-gormigrate/gormigrate): Minimalistic database migration helper for Gorm ORM  
-[concurrent-map](https://github.com/orcaman/concurrent-map): a thread-safe concurrent map for go
+[concurrent-map](https://github.com/orcaman/concurrent-map): a thread-safe concurrent map for go  
+[adlr](https://github.com/blocky/adlr): A.D.L.R. is a project that attempts to Automate Dependency License Requirements for Golang projects
