@@ -254,4 +254,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ngrams](https://github.com/mochi-co/ngrams): A Go n-gram indexer for natural language processing with modular tokenizers and data stores  
 [protoreflect](https://github.com/jhump/protoreflect): Reflection (Rich Descriptors) for Go Protocol Buffers  
 [gopsutil](https://github.com/shirou/gopsutil): psutil for golang  
-[terraform-switcher](https://github.com/warrensbox/terraform-switcher): A command line tool to switch between different versions of terraform  (install with homebrew and more)
+[terraform-switcher](https://github.com/warrensbox/terraform-switcher): A command line tool to switch between different versions of terraform  (install with homebrew and more)  
+[sessions](https://github.com/gorilla/sessions): Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
