@@ -250,4 +250,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goplayspace](https://github.com/iafan/goplayspace): Advanced Go Playground frontend written in Go, with syntax highlighting, turtle graphics mode, and more  
 [goqu](https://github.com/doug-martin/goqu): SQL builder and query library for golang  
 [diagram](https://github.com/esimov/diagram): CLI app to convert ASCII arts into hand drawn diagrams.  
-[crlfuzz](https://github.com/dwisiswant0/crlfuzz): A fast tool to scan CRLF vulnerability written in Go
+[crlfuzz](https://github.com/dwisiswant0/crlfuzz): A fast tool to scan CRLF vulnerability written in Go  
+[ngrams](https://github.com/mochi-co/ngrams): A Go n-gram indexer for natural language processing with modular tokenizers and data stores
