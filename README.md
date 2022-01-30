@@ -258,4 +258,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sessions](https://github.com/gorilla/sessions): Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.  
 [awgo](https://github.com/deanishe/awgo): Go library for Alfred 3 + 4 workflows  
 [zstack](https://github.com/shimmeringbee/zstack): Implementation of a ZNP and support code designed to interface with Texas Instruments Z-Stack, written in Go.  
-[gormigrate](https://github.com/go-gormigrate/gormigrate): Minimalistic database migration helper for Gorm ORM
+[gormigrate](https://github.com/go-gormigrate/gormigrate): Minimalistic database migration helper for Gorm ORM  
+[concurrent-map](https://github.com/orcaman/concurrent-map): a thread-safe concurrent map for go
