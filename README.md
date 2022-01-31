@@ -263,4 +263,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [adlr](https://github.com/blocky/adlr): A.D.L.R. is a project that attempts to Automate Dependency License Requirements for Golang projects  
 [dasel](https://github.com/TomWright/dasel): Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.  
 [base32flex](https://github.com/oirik/base32flex): more readable base32 encoding library for golang, not using the letters 0,o,O,1,I,l  
-[parrbot](https://github.com/DazFather/parrbot): Parr(B)ot is a Telegram bot framework based on top of Echotron
+[parrbot](https://github.com/DazFather/parrbot): Parr(B)ot is a Telegram bot framework based on top of Echotron  
+[pixel](https://github.com/faiface/pixel): A hand-crafted 2D game library in Go
