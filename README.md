@@ -265,4 +265,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [base32flex](https://github.com/oirik/base32flex): more readable base32 encoding library for golang, not using the letters 0,o,O,1,I,l  
 [parrbot](https://github.com/DazFather/parrbot): Parr(B)ot is a Telegram bot framework based on top of Echotron  
 [pixel](https://github.com/faiface/pixel): A hand-crafted 2D game library in Go  
-[overlord](https://github.com/bilibili/overlord): Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
+[overlord](https://github.com/bilibili/overlord): Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。  
+[octant](https://github.com/vmware-tanzu/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
