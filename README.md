@@ -271,4 +271,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kowl](https://github.com/cloudhut/kowl): Kowl is a Web UI for Apache Kafka that allows exploring messages, consumers, configurations and more with a focus on a good UI & UX.  
 [todayilearned](https://github.com/butuzov/todayilearned): Because I Can't Trust My Memory  
 [golangci-lint](https://github.com/golangci/golangci-lint): Fast linters Runner for Go  
-[containers-from-scratch](https://github.com/lizrice/containers-from-scratch): Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
+[containers-from-scratch](https://github.com/lizrice/containers-from-scratch): Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari  
+[guide](https://github.com/uber-go/guide): The Uber Go Style Guide.
