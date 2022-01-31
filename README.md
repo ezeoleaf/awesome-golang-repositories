@@ -269,4 +269,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [octant](https://github.com/vmware-tanzu/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.  
 [agones](https://github.com/googleforgames/agones): Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes  
 [kowl](https://github.com/cloudhut/kowl): Kowl is a Web UI for Apache Kafka that allows exploring messages, consumers, configurations and more with a focus on a good UI & UX.  
-[todayilearned](https://github.com/butuzov/todayilearned): Because I Can't Trust My Memory
+[todayilearned](https://github.com/butuzov/todayilearned): Because I Can't Trust My Memory  
+[golangci-lint](https://github.com/golangci/golangci-lint): Fast linters Runner for Go
