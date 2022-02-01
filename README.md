@@ -278,4 +278,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tink](https://github.com/google/tink): Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.  
 [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples): Sample apps and code written for Google Cloud in the Go programming language.  
 [gabs](https://github.com/Jeffail/gabs): For parsing, creating and editing unknown or dynamic JSON in Go  
-[logkit](https://github.com/qiniu/logkit): Very powerful server agent for collecting & sending logs & metrics with an easy-to-use web console.
+[logkit](https://github.com/qiniu/logkit): Very powerful server agent for collecting & sending logs & metrics with an easy-to-use web console.  
+[go-critic](https://github.com/go-critic/go-critic): The most opinionated Go source code linter for code audit.
