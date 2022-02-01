@@ -284,4 +284,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gonum](https://github.com/gonum/gonum): Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more  
 [go-sql-sample](https://github.com/budougumi0617/go-sql-sample): 技術書典6のサンプルコード  
 [aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2): AWS SDK for the Go programming language.   
-[akutan](https://github.com/eBay/akutan): A distributed knowledge graph store
+[akutan](https://github.com/eBay/akutan): A distributed knowledge graph store  
+[goplantuml](https://github.com/jfeliu007/goplantuml): PlantUML Class Diagram Generator for golang projects
