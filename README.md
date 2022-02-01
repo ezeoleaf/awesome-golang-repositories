@@ -277,4 +277,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ispend](https://github.com/2beens/ispend): Track where the f my money goes to  
 [tink](https://github.com/google/tink): Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.  
 [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples): Sample apps and code written for Google Cloud in the Go programming language.  
-[gabs](https://github.com/Jeffail/gabs): For parsing, creating and editing unknown or dynamic JSON in Go
+[gabs](https://github.com/Jeffail/gabs): For parsing, creating and editing unknown or dynamic JSON in Go  
+[logkit](https://github.com/qiniu/logkit): Very powerful server agent for collecting & sending logs & metrics with an easy-to-use web console.
