@@ -279,4 +279,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples): Sample apps and code written for Google Cloud in the Go programming language.  
 [gabs](https://github.com/Jeffail/gabs): For parsing, creating and editing unknown or dynamic JSON in Go  
 [logkit](https://github.com/qiniu/logkit): Very powerful server agent for collecting & sending logs & metrics with an easy-to-use web console.  
-[go-critic](https://github.com/go-critic/go-critic): The most opinionated Go source code linter for code audit.
+[go-critic](https://github.com/go-critic/go-critic): The most opinionated Go source code linter for code audit.  
+[gnomock](https://github.com/orlangure/gnomock): Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
