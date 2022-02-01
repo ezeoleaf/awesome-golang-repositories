@@ -281,4 +281,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [logkit](https://github.com/qiniu/logkit): Very powerful server agent for collecting & sending logs & metrics with an easy-to-use web console.  
 [go-critic](https://github.com/go-critic/go-critic): The most opinionated Go source code linter for code audit.  
 [gnomock](https://github.com/orlangure/gnomock): Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻  
-[gonum](https://github.com/gonum/gonum): Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+[gonum](https://github.com/gonum/gonum): Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more  
+[go-sql-sample](https://github.com/budougumi0617/go-sql-sample): 技術書典6のサンプルコード
