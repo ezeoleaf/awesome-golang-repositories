@@ -273,4 +273,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golangci-lint](https://github.com/golangci/golangci-lint): Fast linters Runner for Go  
 [containers-from-scratch](https://github.com/lizrice/containers-from-scratch): Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari  
 [guide](https://github.com/uber-go/guide): The Uber Go Style Guide.  
-[govcl](https://github.com/ying32/govcl):  Cross-platform Go/Golang GUI library.
+[govcl](https://github.com/ying32/govcl):  Cross-platform Go/Golang GUI library.  
+[ispend](https://github.com/2beens/ispend): Track where the f my money goes to
