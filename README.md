@@ -274,4 +274,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [containers-from-scratch](https://github.com/lizrice/containers-from-scratch): Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari  
 [guide](https://github.com/uber-go/guide): The Uber Go Style Guide.  
 [govcl](https://github.com/ying32/govcl):  Cross-platform Go/Golang GUI library.  
-[ispend](https://github.com/2beens/ispend): Track where the f my money goes to
+[ispend](https://github.com/2beens/ispend): Track where the f my money goes to  
+[tink](https://github.com/google/tink): Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
