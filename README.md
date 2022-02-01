@@ -276,4 +276,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [govcl](https://github.com/ying32/govcl):  Cross-platform Go/Golang GUI library.  
 [ispend](https://github.com/2beens/ispend): Track where the f my money goes to  
 [tink](https://github.com/google/tink): Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.  
-[golang-samples](https://github.com/GoogleCloudPlatform/golang-samples): Sample apps and code written for Google Cloud in the Go programming language.
+[golang-samples](https://github.com/GoogleCloudPlatform/golang-samples): Sample apps and code written for Google Cloud in the Go programming language.  
+[gabs](https://github.com/Jeffail/gabs): For parsing, creating and editing unknown or dynamic JSON in Go
