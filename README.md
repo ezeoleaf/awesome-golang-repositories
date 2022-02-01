@@ -275,4 +275,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [guide](https://github.com/uber-go/guide): The Uber Go Style Guide.  
 [govcl](https://github.com/ying32/govcl):  Cross-platform Go/Golang GUI library.  
 [ispend](https://github.com/2beens/ispend): Track where the f my money goes to  
-[tink](https://github.com/google/tink): Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+[tink](https://github.com/google/tink): Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.  
+[golang-samples](https://github.com/GoogleCloudPlatform/golang-samples): Sample apps and code written for Google Cloud in the Go programming language.
