@@ -289,4 +289,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [stargazer](https://github.com/bfontaine/stargazer): :star2: A bot that watches stars on Slack so you don’t have to  
 [webdav](https://github.com/hacdias/webdav): Simple Go WebDAV server.  
 [nosurf](https://github.com/justinas/nosurf): CSRF protection middleware for Go.  
-[next-terminal](https://github.com/dushixiang/next-terminal): Next Terminal是一个轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+[next-terminal](https://github.com/dushixiang/next-terminal): Next Terminal是一个轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。  
+[Ask.it](https://github.com/selmacelosmanovic/Ask.it): Q&A web application
