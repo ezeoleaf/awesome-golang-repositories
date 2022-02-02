@@ -12,6 +12,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 - [The Art of Go - Basics: Introduction to Programming in Golang - Beginner to Intermediate](https://amzn.to/3qUCmZz)
 - [Build Systems With Go: Everything a Gopher must know](https://amzn.to/3G1x7vu)
 - [Head First Go](https://amzn.to/3G01rXe)
+- [Distributed Services with Go: Your Guide to Reliable, Scalable, and Maintainable Systems](https://amzn.to/3ASwtiH)
 
 ## Repositories
 
