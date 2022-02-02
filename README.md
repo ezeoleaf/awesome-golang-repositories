@@ -286,4 +286,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2): AWS SDK for the Go programming language.   
 [akutan](https://github.com/eBay/akutan): A distributed knowledge graph store  
 [goplantuml](https://github.com/jfeliu007/goplantuml): PlantUML Class Diagram Generator for golang projects  
-[stargazer](https://github.com/bfontaine/stargazer): :star2: A bot that watches stars on Slack so you don’t have to
+[stargazer](https://github.com/bfontaine/stargazer): :star2: A bot that watches stars on Slack so you don’t have to  
+[webdav](https://github.com/hacdias/webdav): Simple Go WebDAV server.
