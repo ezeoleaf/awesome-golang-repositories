@@ -295,3 +295,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [xorm](https://github.com/xormplus/xorm): xorm是一个简单而强大的Go语言ORM库，通过它可以使数据库操作非常简便。本库是基于原版xorm的定制增强版本，为xorm提供类似ibatis的配置文件及动态SQL支持，支持AcitveRecord操作  
 [gccgo_vs_gc](https://github.com/quasilyte/gccgo_vs_gc): Comparing GCCGO 1.8.1 (GCC 7.2) vs GC 1.8.1 (and GC 1.10) on x86 (AMD64).  
 [kdtree](https://github.com/kyroy/kdtree): A k-d tree implementation in Go.
+  
+[Bifrost](https://github.com/brokercap/Bifrost): Bifrost ---- 面向生产环境的 MySQL 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
