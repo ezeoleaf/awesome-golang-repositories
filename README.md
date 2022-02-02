@@ -296,4 +296,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gccgo_vs_gc](https://github.com/quasilyte/gccgo_vs_gc): Comparing GCCGO 1.8.1 (GCC 7.2) vs GC 1.8.1 (and GC 1.10) on x86 (AMD64).  
 [kdtree](https://github.com/kyroy/kdtree): A k-d tree implementation in Go.
   
-[Bifrost](https://github.com/brokercap/Bifrost): Bifrost ---- 面向生产环境的 MySQL 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
+[Bifrost](https://github.com/brokercap/Bifrost): Bifrost ---- 面向生产环境的 MySQL 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件  
+[rosedb](https://github.com/flower-corp/rosedb): 🚀A fast, stable and embedded k-v storage in pure Golang, supports string, list, hash, set, sorted set. 一个 Go 语言实现的快速、稳定、内嵌的 k-v 存储引擎。
