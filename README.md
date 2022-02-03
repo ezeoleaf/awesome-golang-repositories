@@ -311,4 +311,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gout](https://github.com/guonaihong/gout): gout to become the Swiss Army Knife of the http client @^^@--->  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues  
 [alipay](https://github.com/smartwalle/alipay): 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。  
 [roger](https://github.com/senseyeio/roger): Golang RServe client. Use R from Go  
-[ebiten](https://github.com/hajimehoshi/ebiten): A dead simple 2D game library for Go
+[ebiten](https://github.com/hajimehoshi/ebiten): A dead simple 2D game library for Go  
+[gpuz-influxdb-exporter](https://github.com/hotafrika/gpuz-influxdb-exporter): InfluxDB exporter for GPU-Z metrics
