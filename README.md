@@ -308,4 +308,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [btree](https://github.com/hslam/btree): Package btree implements a B-tree.  
 [seahawks-cli](https://github.com/pranavnt/seahawks-cli): CLI to track Seahawks scores. Built this to learn Go :D  
 [alice](https://github.com/justinas/alice): Painless middleware chaining for Go  
-[gout](https://github.com/guonaihong/gout): gout to become the Swiss Army Knife of the http client @^^@--->  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
+[gout](https://github.com/guonaihong/gout): gout to become the Swiss Army Knife of the http client @^^@--->  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues  
+[alipay](https://github.com/smartwalle/alipay): 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
