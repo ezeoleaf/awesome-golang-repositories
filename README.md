@@ -302,4 +302,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [docker-slim](https://github.com/docker-slim/docker-slim): DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)  
 [gfile](https://github.com/Antonito/gfile): Direct file transfer over WebRTC  
 [httpcache](https://github.com/gregjones/httpcache): A Transport for http.Client that will cache responses according to the HTTP RFC  
-[sqlc](https://github.com/kyleconroy/sqlc): Generate type-safe code from SQL
+[sqlc](https://github.com/kyleconroy/sqlc): Generate type-safe code from SQL  
+[stats](https://github.com/montanaflynn/stats): A well tested and comprehensive Golang statistics library package with no dependencies.
