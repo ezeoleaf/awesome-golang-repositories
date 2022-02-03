@@ -307,4 +307,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-queryparser](https://github.com/lrstanley/go-queryparser): "q" http GET variable parser that supports filters/tags for advanced searches :thumbsup:  
 [btree](https://github.com/hslam/btree): Package btree implements a B-tree.  
 [seahawks-cli](https://github.com/pranavnt/seahawks-cli): CLI to track Seahawks scores. Built this to learn Go :D  
-[alice](https://github.com/justinas/alice): Painless middleware chaining for Go
+[alice](https://github.com/justinas/alice): Painless middleware chaining for Go  
+[gout](https://github.com/guonaihong/gout): gout to become the Swiss Army Knife of the http client @^^@--->  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
