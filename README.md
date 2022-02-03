@@ -304,4 +304,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [httpcache](https://github.com/gregjones/httpcache): A Transport for http.Client that will cache responses according to the HTTP RFC  
 [sqlc](https://github.com/kyleconroy/sqlc): Generate type-safe code from SQL  
 [stats](https://github.com/montanaflynn/stats): A well tested and comprehensive Golang statistics library package with no dependencies.  
-[go-queryparser](https://github.com/lrstanley/go-queryparser): "q" http GET variable parser that supports filters/tags for advanced searches :thumbsup:
+[go-queryparser](https://github.com/lrstanley/go-queryparser): "q" http GET variable parser that supports filters/tags for advanced searches :thumbsup:  
+[btree](https://github.com/hslam/btree): Package btree implements a B-tree.
