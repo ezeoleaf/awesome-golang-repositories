@@ -312,4 +312,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [alipay](https://github.com/smartwalle/alipay): 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。  
 [roger](https://github.com/senseyeio/roger): Golang RServe client. Use R from Go  
 [ebiten](https://github.com/hajimehoshi/ebiten): A dead simple 2D game library for Go  
-[gpuz-influxdb-exporter](https://github.com/hotafrika/gpuz-influxdb-exporter): InfluxDB exporter for GPU-Z metrics
+[gpuz-influxdb-exporter](https://github.com/hotafrika/gpuz-influxdb-exporter): InfluxDB exporter for GPU-Z metrics  
+[go-algorithms](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang
