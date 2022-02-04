@@ -320,4 +320,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [php-parser](https://github.com/z7zmey/php-parser): PHP parser written in Go  
 [golang-examples](https://github.com/SimonWaldherr/golang-examples): Go(lang) examples - (explain the basics of #golang)  
 [compose](https://github.com/docker/compose): Define and run multi-container applications with Docker  
-[archiver](https://github.com/mholt/archiver): Easily create & extract archives, and compress & decompress files of various formats
+[archiver](https://github.com/mholt/archiver): Easily create & extract archives, and compress & decompress files of various formats  
+[talos](https://github.com/talos-systems/talos): Talos is a modern OS for Kubernetes.
