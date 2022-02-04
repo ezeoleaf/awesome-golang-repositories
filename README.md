@@ -313,4 +313,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [roger](https://github.com/senseyeio/roger): Golang RServe client. Use R from Go  
 [ebiten](https://github.com/hajimehoshi/ebiten): A dead simple 2D game library for Go  
 [gpuz-influxdb-exporter](https://github.com/hotafrika/gpuz-influxdb-exporter): InfluxDB exporter for GPU-Z metrics  
-[go-algorithms](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang
+[go-algorithms](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang  
+[dnsanalyzergo](https://github.com/zenware/dnsanalyzergo): DNS Tester /w `ping` inspired output, written in golang
