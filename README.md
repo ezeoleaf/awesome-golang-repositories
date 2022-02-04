@@ -318,4 +318,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goplts](https://github.com/krasoffski/goplts): Tasks solutions for book "The Go Programming Language - Alan A. A. Donovan, Brian W. Kernighan" during 2017.  
 [Email-Dashboard](https://github.com/Email-Dashboard/Email-Dashboard): 📪 An interactive emailing management service with scheduling, templating, tracking and A/B testing.  
 [php-parser](https://github.com/z7zmey/php-parser): PHP parser written in Go  
-[golang-examples](https://github.com/SimonWaldherr/golang-examples): Go(lang) examples - (explain the basics of #golang)
+[golang-examples](https://github.com/SimonWaldherr/golang-examples): Go(lang) examples - (explain the basics of #golang)  
+[compose](https://github.com/docker/compose): Define and run multi-container applications with Docker
