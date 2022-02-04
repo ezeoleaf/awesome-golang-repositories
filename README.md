@@ -316,4 +316,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-algorithms](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang  
 [dnsanalyzergo](https://github.com/zenware/dnsanalyzergo): DNS Tester /w `ping` inspired output, written in golang  
 [goplts](https://github.com/krasoffski/goplts): Tasks solutions for book "The Go Programming Language - Alan A. A. Donovan, Brian W. Kernighan" during 2017.  
-[Email-Dashboard](https://github.com/Email-Dashboard/Email-Dashboard): 📪 An interactive emailing management service with scheduling, templating, tracking and A/B testing.
+[Email-Dashboard](https://github.com/Email-Dashboard/Email-Dashboard): 📪 An interactive emailing management service with scheduling, templating, tracking and A/B testing.  
+[php-parser](https://github.com/z7zmey/php-parser): PHP parser written in Go
