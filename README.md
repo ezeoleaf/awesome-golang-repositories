@@ -327,4 +327,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [eagle](https://github.com/go-eagle/eagle): 🦅一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则  
 [boulder](https://github.com/letsencrypt/boulder): An ACME-based certificate authority, written in Go.   
 [schema](https://github.com/gorilla/schema): Package gorilla/schema fills a struct with form values.  
-[buffalo](https://github.com/gobuffalo/buffalo): Rapid Web Development w/ Go
+[buffalo](https://github.com/gobuffalo/buffalo): Rapid Web Development w/ Go  
+[go-web-foundation](https://github.com/unknwon/go-web-foundation): 《Go Web 基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go 编程基础》教程后希望进一步了解有关 Go Web 开发的学习者。
