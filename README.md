@@ -323,4 +323,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [archiver](https://github.com/mholt/archiver): Easily create & extract archives, and compress & decompress files of various formats  
 [talos](https://github.com/talos-systems/talos): Talos is a modern OS for Kubernetes.  
 [fabio](https://github.com/fabiolb/fabio): Consul Load-Balancing made simple  
-[LeetCode-Go](https://github.com/halfrost/LeetCode-Go): ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+[LeetCode-Go](https://github.com/halfrost/LeetCode-Go): ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解  
+[eagle](https://github.com/go-eagle/eagle): 🦅一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则
