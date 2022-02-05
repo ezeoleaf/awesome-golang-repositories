@@ -330,4 +330,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [buffalo](https://github.com/gobuffalo/buffalo): Rapid Web Development w/ Go  
 [go-web-foundation](https://github.com/unknwon/go-web-foundation): 《Go Web 基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go 编程基础》教程后希望进一步了解有关 Go Web 开发的学习者。  
 [jwt](https://github.com/golang-jwt/jwt): Community maintained clone of https://github.com/dgrijalva/jwt-go  
-[glab](https://github.com/profclems/glab): A GitLab CLI tool bringing GitLab to your command line
+[glab](https://github.com/profclems/glab): A GitLab CLI tool bringing GitLab to your command line  
+[lakeFS](https://github.com/treeverse/lakeFS): Git-like capabilities for your object storage
