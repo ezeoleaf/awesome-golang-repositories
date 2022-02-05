@@ -332,4 +332,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jwt](https://github.com/golang-jwt/jwt): Community maintained clone of https://github.com/dgrijalva/jwt-go  
 [glab](https://github.com/profclems/glab): A GitLab CLI tool bringing GitLab to your command line  
 [lakeFS](https://github.com/treeverse/lakeFS): Git-like capabilities for your object storage  
-[Advent-of-Code-2018](https://github.com/Addono/Advent-of-Code-2018): Let's learn some Go! Here you can find my result scripts for the Advent of Code 2018 challenges, this year I attempt to get comfortable with Golang
+[Advent-of-Code-2018](https://github.com/Addono/Advent-of-Code-2018): Let's learn some Go! Here you can find my result scripts for the Advent of Code 2018 challenges, this year I attempt to get comfortable with Golang  
+[ipc](https://github.com/siadat/ipc): Pure Go wrapper for System V message queue
