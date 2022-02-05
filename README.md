@@ -322,4 +322,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [compose](https://github.com/docker/compose): Define and run multi-container applications with Docker  
 [archiver](https://github.com/mholt/archiver): Easily create & extract archives, and compress & decompress files of various formats  
 [talos](https://github.com/talos-systems/talos): Talos is a modern OS for Kubernetes.  
-[fabio](https://github.com/fabiolb/fabio): Consul Load-Balancing made simple
+[fabio](https://github.com/fabiolb/fabio): Consul Load-Balancing made simple  
+[LeetCode-Go](https://github.com/halfrost/LeetCode-Go): ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
