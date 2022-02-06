@@ -338,4 +338,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-now-example](https://github.com/mini-eggs/go-now-example): Dev w/ Gin, deploy w/ Now.  
 [status-go](https://github.com/status-im/status-go): The Status module that consumes go-ethereum  
 [goscan](https://github.com/timest/goscan): goscan is a simple and efficient IPv4 network scanner that discovers all active devices on local subnet.  
-[soup](https://github.com/anaskhan96/soup): Web Scraper in Go, similar to BeautifulSoup
+[soup](https://github.com/anaskhan96/soup): Web Scraper in Go, similar to BeautifulSoup  
+[pget](https://github.com/Code-Hex/pget): The fastest file download client
