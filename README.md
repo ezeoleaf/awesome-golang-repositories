@@ -334,4 +334,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [lakeFS](https://github.com/treeverse/lakeFS): Git-like capabilities for your object storage  
 [Advent-of-Code-2018](https://github.com/Addono/Advent-of-Code-2018): Let's learn some Go! Here you can find my result scripts for the Advent of Code 2018 challenges, this year I attempt to get comfortable with Golang  
 [ipc](https://github.com/siadat/ipc): Pure Go wrapper for System V message queue  
-[alpaca](https://github.com/pksunkara/alpaca): Given a web API, Generate client libraries in node, php, python, ruby
+[alpaca](https://github.com/pksunkara/alpaca): Given a web API, Generate client libraries in node, php, python, ruby  
+[go-now-example](https://github.com/mini-eggs/go-now-example): Dev w/ Gin, deploy w/ Now.
