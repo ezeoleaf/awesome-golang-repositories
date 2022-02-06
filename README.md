@@ -336,4 +336,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ipc](https://github.com/siadat/ipc): Pure Go wrapper for System V message queue  
 [alpaca](https://github.com/pksunkara/alpaca): Given a web API, Generate client libraries in node, php, python, ruby  
 [go-now-example](https://github.com/mini-eggs/go-now-example): Dev w/ Gin, deploy w/ Now.  
-[status-go](https://github.com/status-im/status-go): The Status module that consumes go-ethereum
+[status-go](https://github.com/status-im/status-go): The Status module that consumes go-ethereum  
+[goscan](https://github.com/timest/goscan): goscan is a simple and efficient IPv4 network scanner that discovers all active devices on local subnet.
