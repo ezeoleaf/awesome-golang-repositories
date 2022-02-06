@@ -337,4 +337,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [alpaca](https://github.com/pksunkara/alpaca): Given a web API, Generate client libraries in node, php, python, ruby  
 [go-now-example](https://github.com/mini-eggs/go-now-example): Dev w/ Gin, deploy w/ Now.  
 [status-go](https://github.com/status-im/status-go): The Status module that consumes go-ethereum  
-[goscan](https://github.com/timest/goscan): goscan is a simple and efficient IPv4 network scanner that discovers all active devices on local subnet.
+[goscan](https://github.com/timest/goscan): goscan is a simple and efficient IPv4 network scanner that discovers all active devices on local subnet.  
+[soup](https://github.com/anaskhan96/soup): Web Scraper in Go, similar to BeautifulSoup
