@@ -340,4 +340,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goscan](https://github.com/timest/goscan): goscan is a simple and efficient IPv4 network scanner that discovers all active devices on local subnet.  
 [soup](https://github.com/anaskhan96/soup): Web Scraper in Go, similar to BeautifulSoup  
 [pget](https://github.com/Code-Hex/pget): The fastest file download client  
-[anko](https://github.com/mattn/anko): Scriptable interpreter written in golang
+[anko](https://github.com/mattn/anko): Scriptable interpreter written in golang  
+[liteide](https://github.com/visualfc/liteide): LiteIDE is a simple, open source, cross-platform Go IDE. 
