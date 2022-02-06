@@ -344,4 +344,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [liteide](https://github.com/visualfc/liteide): LiteIDE is a simple, open source, cross-platform Go IDE.   
 [rtreego](https://github.com/dhconnelly/rtreego): an R-Tree library for Go  
 [janusec](https://github.com/Janusec/janusec): Janusec Application Gateway, Provides Fast and Secure Application Delivery (Authentication, WAF/CC, HTTPS and ACME automatic certificates).  JANUSEC应用网关，提供快速、安全的应用交付（身份认证, WAF/CC, HTTPS以及ACME自动证书）。  
-[coredns](https://github.com/coredns/coredns): CoreDNS is a DNS server that chains plugins
+[coredns](https://github.com/coredns/coredns): CoreDNS is a DNS server that chains plugins  
+[opencensus-go](https://github.com/census-instrumentation/opencensus-go): A stats collection and distributed tracing framework
