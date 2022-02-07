@@ -349,4 +349,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library  
 [rendora](https://github.com/rendora/rendora): dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites  
 [go-mod-outdated](https://github.com/psampaz/go-mod-outdated): Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.  
-[golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot): A golang implementation of a console-based trading bot for cryptocurrency exchanges
+[golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot): A golang implementation of a console-based trading bot for cryptocurrency exchanges  
+[typhon](https://github.com/monzo/typhon): A wrapper around Go's net/http to provide safety and convenience. At Monzo, Typhon forms the basis of most clients and servers in our microservices platform.
