@@ -347,4 +347,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [coredns](https://github.com/coredns/coredns): CoreDNS is a DNS server that chains plugins  
 [opencensus-go](https://github.com/census-instrumentation/opencensus-go): A stats collection and distributed tracing framework  
 [testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library  
-[rendora](https://github.com/rendora/rendora): dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
+[rendora](https://github.com/rendora/rendora): dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites  
+[go-mod-outdated](https://github.com/psampaz/go-mod-outdated): Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.
