@@ -352,4 +352,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot): A golang implementation of a console-based trading bot for cryptocurrency exchanges  
 [typhon](https://github.com/monzo/typhon): A wrapper around Go's net/http to provide safety and convenience. At Monzo, Typhon forms the basis of most clients and servers in our microservices platform.  
 [kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security  
-[kite](https://github.com/koding/kite): Micro-service framework in Go
+[kite](https://github.com/koding/kite): Micro-service framework in Go  
+[auxpi](https://github.com/0xDkd/auxpi): 🍭 集合多家 API 的新一代图床
