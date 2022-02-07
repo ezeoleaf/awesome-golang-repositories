@@ -353,4 +353,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [typhon](https://github.com/monzo/typhon): A wrapper around Go's net/http to provide safety and convenience. At Monzo, Typhon forms the basis of most clients and servers in our microservices platform.  
 [kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security  
 [kite](https://github.com/koding/kite): Micro-service framework in Go  
-[auxpi](https://github.com/0xDkd/auxpi): 🍭 集合多家 API 的新一代图床
+[auxpi](https://github.com/0xDkd/auxpi): 🍭 集合多家 API 的新一代图床  
+[go-awesome](https://github.com/shockerli/go-awesome): Go 语言优秀资源整理，为项目落地加速🏃
