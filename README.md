@@ -360,4 +360,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [youtube](https://github.com/kkdai/youtube): Download Youtube Video in Golang  
 [stackoverflow](https://github.com/iamazeem/stackoverflow): StackOverflow Q&A: My Answers | https://stackoverflow.com/users/7670262/azeem  
 [aah](https://github.com/go-aah/aah): A secure, flexible, rapid Go web framework  
-[gopherjs](https://github.com/gopherjs/gopherjs): A compiler from Go to JavaScript for running Go code in a browser
+[gopherjs](https://github.com/gopherjs/gopherjs): A compiler from Go to JavaScript for running Go code in a browser  
+[etree](https://github.com/beevik/etree): parse and generate XML easily in go
