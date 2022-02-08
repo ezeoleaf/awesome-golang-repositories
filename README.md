@@ -361,4 +361,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [stackoverflow](https://github.com/iamazeem/stackoverflow): StackOverflow Q&A: My Answers | https://stackoverflow.com/users/7670262/azeem  
 [aah](https://github.com/go-aah/aah): A secure, flexible, rapid Go web framework  
 [gopherjs](https://github.com/gopherjs/gopherjs): A compiler from Go to JavaScript for running Go code in a browser  
-[etree](https://github.com/beevik/etree): parse and generate XML easily in go
+[etree](https://github.com/beevik/etree): parse and generate XML easily in go  
+[gotestsum](https://github.com/gotestyourself/gotestsum): 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
