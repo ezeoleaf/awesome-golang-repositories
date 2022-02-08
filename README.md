@@ -357,4 +357,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-awesome](https://github.com/shockerli/go-awesome): Go 语言优秀资源整理，为项目落地加速🏃  
 [shortuuid](https://github.com/lithammer/shortuuid): :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs  
 [go-tooling-workshop](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life  
-[youtube](https://github.com/kkdai/youtube): Download Youtube Video in Golang
+[youtube](https://github.com/kkdai/youtube): Download Youtube Video in Golang  
+[stackoverflow](https://github.com/iamazeem/stackoverflow): StackOverflow Q&A: My Answers | https://stackoverflow.com/users/7670262/azeem
