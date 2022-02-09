@@ -364,4 +364,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [etree](https://github.com/beevik/etree): parse and generate XML easily in go  
 [gotestsum](https://github.com/gotestyourself/gotestsum): 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.  
 [GoBooks](https://github.com/dariubs/GoBooks): List of Golang books  
-[wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for Postgres
+[wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for Postgres  
+[facebook](https://github.com/huandu/facebook): A Facebook Graph API SDK For Go.
