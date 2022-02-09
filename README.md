@@ -366,4 +366,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GoBooks](https://github.com/dariubs/GoBooks): List of Golang books  
 [wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for Postgres  
 [facebook](https://github.com/huandu/facebook): A Facebook Graph API SDK For Go.  
-[dockertest](https://github.com/ory/dockertest): Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+[dockertest](https://github.com/ory/dockertest): Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.  
+[vuls](https://github.com/future-architect/vuls): Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
