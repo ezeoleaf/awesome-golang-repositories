@@ -365,4 +365,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gotestsum](https://github.com/gotestyourself/gotestsum): 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.  
 [GoBooks](https://github.com/dariubs/GoBooks): List of Golang books  
 [wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for Postgres  
-[facebook](https://github.com/huandu/facebook): A Facebook Graph API SDK For Go.
+[facebook](https://github.com/huandu/facebook): A Facebook Graph API SDK For Go.  
+[dockertest](https://github.com/ory/dockertest): Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
