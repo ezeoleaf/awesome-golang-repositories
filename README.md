@@ -371,4 +371,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wtf](https://github.com/wtfutil/wtf): The personal information dashboard for your terminal  
 [gocolors](https://github.com/ksrof/gocolors): 💅 8/16 bit color library for your Go CLI apps  
 [casbin](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang  
-[googletrans](https://github.com/mind1949/googletrans): G文⚡️: Concurrency-safe, Free and Unlimited google translate api for Golang. 🔥免费、无限、并发安全的谷歌翻译包
+[googletrans](https://github.com/mind1949/googletrans): G文⚡️: Concurrency-safe, Free and Unlimited google translate api for Golang. 🔥免费、无限、并发安全的谷歌翻译包  
+[kolpa](https://github.com/malisit/kolpa): A fake data generator written in and for Go
