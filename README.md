@@ -381,4 +381,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [m2cgen](https://github.com/BayesWitnesses/m2cgen): Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies  
 [protobuf-go](https://github.com/protocolbuffers/protobuf-go): Go support for Google's protocol buffers  
 [fake-sms](https://github.com/Narasimha1997/fake-sms): A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.  
-[go-micro-services](https://github.com/harlow/go-micro-services): HTTP up front, Protobufs in the rear
+[go-micro-services](https://github.com/harlow/go-micro-services): HTTP up front, Protobufs in the rear  
+[ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book): :books: µGo语言实现(从头开发一个迷你Go语言编译器)
