@@ -377,4 +377,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [efm-langserver](https://github.com/mattn/efm-langserver): General purpose Language Server  
 [git-lfs](https://github.com/git-lfs/git-lfs): Git extension for versioning large files  
 [wuzz](https://github.com/asciimoo/wuzz): Interactive cli tool for HTTP inspection  
-[kmap](https://github.com/noah-friedman/kmap): A program for generating k-maps based on user input.
+[kmap](https://github.com/noah-friedman/kmap): A program for generating k-maps based on user input.  
+[m2cgen](https://github.com/BayesWitnesses/m2cgen): Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
