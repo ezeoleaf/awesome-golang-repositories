@@ -375,4 +375,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kolpa](https://github.com/malisit/kolpa): A fake data generator written in and for Go  
 [quorum](https://github.com/ConsenSys/quorum): A permissioned implementation of Ethereum supporting data privacy  
 [efm-langserver](https://github.com/mattn/efm-langserver): General purpose Language Server  
-[git-lfs](https://github.com/git-lfs/git-lfs): Git extension for versioning large files
+[git-lfs](https://github.com/git-lfs/git-lfs): Git extension for versioning large files  
+[wuzz](https://github.com/asciimoo/wuzz): Interactive cli tool for HTTP inspection
