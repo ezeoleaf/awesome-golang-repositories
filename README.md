@@ -383,4 +383,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fake-sms](https://github.com/Narasimha1997/fake-sms): A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.  
 [go-micro-services](https://github.com/harlow/go-micro-services): HTTP up front, Protobufs in the rear  
 [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book): :books: µGo语言实现(从头开发一个迷你Go语言编译器)  
-[gosoft](https://github.com/Slipyx/gosoft): 3D software rendering using Go and SDL 2
+[gosoft](https://github.com/Slipyx/gosoft): 3D software rendering using Go and SDL 2  
+[go-i18n](https://github.com/nicksnyder/go-i18n): Translate your Go program into multiple languages.
