@@ -380,4 +380,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kmap](https://github.com/noah-friedman/kmap): A program for generating k-maps based on user input.  
 [m2cgen](https://github.com/BayesWitnesses/m2cgen): Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies  
 [protobuf-go](https://github.com/protocolbuffers/protobuf-go): Go support for Google's protocol buffers  
-[fake-sms](https://github.com/Narasimha1997/fake-sms): A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+[fake-sms](https://github.com/Narasimha1997/fake-sms): A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.  
+[go-micro-services](https://github.com/harlow/go-micro-services): HTTP up front, Protobufs in the rear
