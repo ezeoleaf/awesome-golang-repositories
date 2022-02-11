@@ -387,4 +387,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-i18n](https://github.com/nicksnyder/go-i18n): Translate your Go program into multiple languages.  
 [hero](https://github.com/shiyanhui/hero): A handy, fast and powerful go template engine.  
 [dataframe-go](https://github.com/rocketlaunchr/dataframe-go): DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration  
-[sql-migrate](https://github.com/rubenv/sql-migrate): SQL schema migration tool for Go.
+[sql-migrate](https://github.com/rubenv/sql-migrate): SQL schema migration tool for Go.  
+[dockviz](https://github.com/justone/dockviz): Visualizing Docker data
