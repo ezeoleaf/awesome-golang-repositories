@@ -388,4 +388,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hero](https://github.com/shiyanhui/hero): A handy, fast and powerful go template engine.  
 [dataframe-go](https://github.com/rocketlaunchr/dataframe-go): DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration  
 [sql-migrate](https://github.com/rubenv/sql-migrate): SQL schema migration tool for Go.  
-[dockviz](https://github.com/justone/dockviz): Visualizing Docker data
+[dockviz](https://github.com/justone/dockviz): Visualizing Docker data  
+[wego](https://github.com/ynqa/wego): Word Embeddings (e.g. Word2Vec) in Go!
