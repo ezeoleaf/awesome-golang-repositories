@@ -386,4 +386,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gosoft](https://github.com/Slipyx/gosoft): 3D software rendering using Go and SDL 2  
 [go-i18n](https://github.com/nicksnyder/go-i18n): Translate your Go program into multiple languages.  
 [hero](https://github.com/shiyanhui/hero): A handy, fast and powerful go template engine.  
-[dataframe-go](https://github.com/rocketlaunchr/dataframe-go): DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
+[dataframe-go](https://github.com/rocketlaunchr/dataframe-go): DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration  
+[sql-migrate](https://github.com/rubenv/sql-migrate): SQL schema migration tool for Go.
