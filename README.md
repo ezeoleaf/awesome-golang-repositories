@@ -391,4 +391,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dockviz](https://github.com/justone/dockviz): Visualizing Docker data  
 [wego](https://github.com/ynqa/wego): Word Embeddings (e.g. Word2Vec) in Go!  
 [store-db](https://github.com/ellcontreras/store-db): Proyecto final de bases de datos, usamos una api echa con Go y la consumimos con un frontend echo con bootstrap, jquery, html, css y js, usamos bases de datos mysql  
-[watermill](https://github.com/ThreeDotsLabs/watermill): Building event-driven applications the easy way in Go.
+[watermill](https://github.com/ThreeDotsLabs/watermill): Building event-driven applications the easy way in Go.  
+[go-jose](https://github.com/square/go-jose): An implementation of JOSE standards (JWE, JWS, JWT) in Go
