@@ -385,4 +385,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book): :books: µGo语言实现(从头开发一个迷你Go语言编译器)  
 [gosoft](https://github.com/Slipyx/gosoft): 3D software rendering using Go and SDL 2  
 [go-i18n](https://github.com/nicksnyder/go-i18n): Translate your Go program into multiple languages.  
-[hero](https://github.com/shiyanhui/hero): A handy, fast and powerful go template engine.
+[hero](https://github.com/shiyanhui/hero): A handy, fast and powerful go template engine.  
+[dataframe-go](https://github.com/rocketlaunchr/dataframe-go): DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
