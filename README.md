@@ -402,4 +402,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [video-srt-windows](https://github.com/wxbool/video-srt-windows): 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。  
 [go-skynet](https://github.com/wilomgfx/go-skynet): Learning go and recreating a school lab i did in game artificial intelligence for my algorithms and data structures course.  Originally made in java  
 [go-gcore](https://github.com/dstdfx/go-gcore): Unofficial Go library for accessing the G-Core CDN API   
-[jobber](https://github.com/dshearer/jobber): An alternative to cron, with sophisticated status-reporting and error-handling
+[jobber](https://github.com/dshearer/jobber): An alternative to cron, with sophisticated status-reporting and error-handling  
+[gophernotes](https://github.com/gopherdata/gophernotes): The Go kernel for Jupyter notebooks and nteract.
