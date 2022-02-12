@@ -399,4 +399,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [stash](https://github.com/stashapp/stash): An organizer for your porn, written in Go  
 [redigo](https://github.com/gomodule/redigo): Go client for Redis  
 [obj-loader](https://github.com/pablolafontaine/obj-loader): A simple Go (w/ GopherJS and three.js) webapp that allows users to upload .objs and have them displayed in a funky way.  
-[video-srt-windows](https://github.com/wxbool/video-srt-windows): 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
+[video-srt-windows](https://github.com/wxbool/video-srt-windows): 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。  
+[go-skynet](https://github.com/wilomgfx/go-skynet): Learning go and recreating a school lab i did in game artificial intelligence for my algorithms and data structures course.  Originally made in java
