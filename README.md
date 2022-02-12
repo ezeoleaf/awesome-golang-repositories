@@ -398,4 +398,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hugo-type-moon-theme](https://github.com/moonantonio/hugo-type-moon-theme): Un tema Jekyll Hugo de código abierto. Ideal para blogs y fácil de personalizar. Este tema es una adaptación del tema Type original creado por Rohan Chandra. Las características notables de este tema de Hugo son la integración de un sistema de comentarios impulsado por Disqus, Google Analytics y soporte de localización (l10n).  
 [stash](https://github.com/stashapp/stash): An organizer for your porn, written in Go  
 [redigo](https://github.com/gomodule/redigo): Go client for Redis  
-[obj-loader](https://github.com/pablolafontaine/obj-loader): A simple Go (w/ GopherJS and three.js) webapp that allows users to upload .objs and have them displayed in a funky way.
+[obj-loader](https://github.com/pablolafontaine/obj-loader): A simple Go (w/ GopherJS and three.js) webapp that allows users to upload .objs and have them displayed in a funky way.  
+[video-srt-windows](https://github.com/wxbool/video-srt-windows): 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
