@@ -397,4 +397,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [CodeInGame](https://github.com/CrBvt/CodeInGame): My own take at CodeInGame's puzzles. E : Easy M : Medium H : Hard AI : Competitive Bot WIP : Work In Progress  
 [hugo-type-moon-theme](https://github.com/moonantonio/hugo-type-moon-theme): Un tema Jekyll Hugo de código abierto. Ideal para blogs y fácil de personalizar. Este tema es una adaptación del tema Type original creado por Rohan Chandra. Las características notables de este tema de Hugo son la integración de un sistema de comentarios impulsado por Disqus, Google Analytics y soporte de localización (l10n).  
 [stash](https://github.com/stashapp/stash): An organizer for your porn, written in Go  
-[redigo](https://github.com/gomodule/redigo): Go client for Redis
+[redigo](https://github.com/gomodule/redigo): Go client for Redis  
+[obj-loader](https://github.com/pablolafontaine/obj-loader): A simple Go (w/ GopherJS and three.js) webapp that allows users to upload .objs and have them displayed in a funky way.
