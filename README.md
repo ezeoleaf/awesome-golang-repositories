@@ -405,4 +405,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jobber](https://github.com/dshearer/jobber): An alternative to cron, with sophisticated status-reporting and error-handling  
 [gophernotes](https://github.com/gopherdata/gophernotes): The Go kernel for Jupyter notebooks and nteract.  
 [RCAS](https://github.com/BIMSBbioinfo/RCAS): R package for the RNA Centric Annotation System (RCAS)  
-[Yearning](https://github.com/cookieY/Yearning): 🐳 A most popular sql audit platform for mysql 
+[Yearning](https://github.com/cookieY/Yearning): 🐳 A most popular sql audit platform for mysql   
+[pilosa](https://github.com/pilosa/pilosa): Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
