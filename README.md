@@ -403,4 +403,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-skynet](https://github.com/wilomgfx/go-skynet): Learning go and recreating a school lab i did in game artificial intelligence for my algorithms and data structures course.  Originally made in java  
 [go-gcore](https://github.com/dstdfx/go-gcore): Unofficial Go library for accessing the G-Core CDN API   
 [jobber](https://github.com/dshearer/jobber): An alternative to cron, with sophisticated status-reporting and error-handling  
-[gophernotes](https://github.com/gopherdata/gophernotes): The Go kernel for Jupyter notebooks and nteract.
+[gophernotes](https://github.com/gopherdata/gophernotes): The Go kernel for Jupyter notebooks and nteract.  
+[RCAS](https://github.com/BIMSBbioinfo/RCAS): R package for the RNA Centric Annotation System (RCAS)
