@@ -404,4 +404,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-gcore](https://github.com/dstdfx/go-gcore): Unofficial Go library for accessing the G-Core CDN API   
 [jobber](https://github.com/dshearer/jobber): An alternative to cron, with sophisticated status-reporting and error-handling  
 [gophernotes](https://github.com/gopherdata/gophernotes): The Go kernel for Jupyter notebooks and nteract.  
-[RCAS](https://github.com/BIMSBbioinfo/RCAS): R package for the RNA Centric Annotation System (RCAS)
+[RCAS](https://github.com/BIMSBbioinfo/RCAS): R package for the RNA Centric Annotation System (RCAS)  
+[Yearning](https://github.com/cookieY/Yearning): 🐳 A most popular sql audit platform for mysql 
