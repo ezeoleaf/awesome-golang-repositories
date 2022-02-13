@@ -410,4 +410,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-ais](https://github.com/BertoldVdb/go-ais): Automatic Identification System (ITU-R M.1371-5) packet decoder and encoder written in Go  
 [jcscpu](https://github.com/patrickleboutillier/jcscpu): Logical implementation, in Perl and Go, of the computer described in J. Clark Scott's book "But How Do It Know?".  
 [MyDatabase](https://github.com/CP02A/MyDatabase): I'm trying to make my own DBMS using the Go language and TCP Packets  
-[jennifer](https://github.com/dave/jennifer): Jennifer is a code generator for Go
+[jennifer](https://github.com/dave/jennifer): Jennifer is a code generator for Go  
+[pgmetrics](https://github.com/rapidloop/pgmetrics): Collect and display information and stats from a running PostgreSQL server
