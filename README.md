@@ -412,4 +412,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [MyDatabase](https://github.com/CP02A/MyDatabase): I'm trying to make my own DBMS using the Go language and TCP Packets  
 [jennifer](https://github.com/dave/jennifer): Jennifer is a code generator for Go  
 [pgmetrics](https://github.com/rapidloop/pgmetrics): Collect and display information and stats from a running PostgreSQL server  
-[custom-memory-cache](https://github.com/midaef/custom-memory-cache): C.M.C it's simple implementation memory cache [key:value] in GO with time to live
+[custom-memory-cache](https://github.com/midaef/custom-memory-cache): C.M.C it's simple implementation memory cache [key:value] in GO with time to live  
+[go-is-not-good](https://github.com/ksimka/go-is-not-good): A curated list of articles complaining that go (golang) isn't good enough
