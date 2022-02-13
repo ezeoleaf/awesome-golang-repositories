@@ -413,4 +413,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jennifer](https://github.com/dave/jennifer): Jennifer is a code generator for Go  
 [pgmetrics](https://github.com/rapidloop/pgmetrics): Collect and display information and stats from a running PostgreSQL server  
 [custom-memory-cache](https://github.com/midaef/custom-memory-cache): C.M.C it's simple implementation memory cache [key:value] in GO with time to live  
-[go-is-not-good](https://github.com/ksimka/go-is-not-good): A curated list of articles complaining that go (golang) isn't good enough
+[go-is-not-good](https://github.com/ksimka/go-is-not-good): A curated list of articles complaining that go (golang) isn't good enough  
+[testfixtures](https://github.com/go-testfixtures/testfixtures): Ruby on Rails like test fixtures for Go. Write tests against a real database
