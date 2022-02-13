@@ -416,4 +416,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-is-not-good](https://github.com/ksimka/go-is-not-good): A curated list of articles complaining that go (golang) isn't good enough  
 [testfixtures](https://github.com/go-testfixtures/testfixtures): Ruby on Rails like test fixtures for Go. Write tests against a real database  
 [manspreading](https://github.com/xiaoyao1991/manspreading): Manspreading is a proxy server that helps you greedily occupy a peer seat in a remote geth node  
-[jid](https://github.com/simeji/jid): json incremental digger
+[jid](https://github.com/simeji/jid): json incremental digger  
+[subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go
