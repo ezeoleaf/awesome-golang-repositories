@@ -414,4 +414,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pgmetrics](https://github.com/rapidloop/pgmetrics): Collect and display information and stats from a running PostgreSQL server  
 [custom-memory-cache](https://github.com/midaef/custom-memory-cache): C.M.C it's simple implementation memory cache [key:value] in GO with time to live  
 [go-is-not-good](https://github.com/ksimka/go-is-not-good): A curated list of articles complaining that go (golang) isn't good enough  
-[testfixtures](https://github.com/go-testfixtures/testfixtures): Ruby on Rails like test fixtures for Go. Write tests against a real database
+[testfixtures](https://github.com/go-testfixtures/testfixtures): Ruby on Rails like test fixtures for Go. Write tests against a real database  
+[manspreading](https://github.com/xiaoyao1991/manspreading): Manspreading is a proxy server that helps you greedily occupy a peer seat in a remote geth node
