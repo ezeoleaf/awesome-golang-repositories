@@ -407,4 +407,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [RCAS](https://github.com/BIMSBbioinfo/RCAS): R package for the RNA Centric Annotation System (RCAS)  
 [Yearning](https://github.com/cookieY/Yearning): 🐳 A most popular sql audit platform for mysql   
 [pilosa](https://github.com/pilosa/pilosa): Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.  
-[go-ais](https://github.com/BertoldVdb/go-ais): Automatic Identification System (ITU-R M.1371-5) packet decoder and encoder written in Go
+[go-ais](https://github.com/BertoldVdb/go-ais): Automatic Identification System (ITU-R M.1371-5) packet decoder and encoder written in Go  
+[jcscpu](https://github.com/patrickleboutillier/jcscpu): Logical implementation, in Perl and Go, of the computer described in J. Clark Scott's book "But How Do It Know?".
