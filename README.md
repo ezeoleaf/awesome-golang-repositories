@@ -419,4 +419,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jid](https://github.com/simeji/jid): json incremental digger  
 [subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go  
 [flake](https://github.com/ybt195/flake): Generate k-sortable 64-bit unique flake ids.  
-[gocity](https://github.com/rodrigo-brito/gocity): :bar_chart: Code City metaphor for visualizing Go source code in 3D
+[gocity](https://github.com/rodrigo-brito/gocity): :bar_chart: Code City metaphor for visualizing Go source code in 3D  
+[mongodb_exporter](https://github.com/percona/mongodb_exporter): A Prometheus exporter for MongoDB including sharding, replication and storage engines
