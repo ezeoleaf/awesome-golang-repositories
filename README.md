@@ -418,4 +418,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [manspreading](https://github.com/xiaoyao1991/manspreading): Manspreading is a proxy server that helps you greedily occupy a peer seat in a remote geth node  
 [jid](https://github.com/simeji/jid): json incremental digger  
 [subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go  
-[flake](https://github.com/ybt195/flake): Generate k-sortable 64-bit unique flake ids.
+[flake](https://github.com/ybt195/flake): Generate k-sortable 64-bit unique flake ids.  
+[gocity](https://github.com/rodrigo-brito/gocity): :bar_chart: Code City metaphor for visualizing Go source code in 3D
