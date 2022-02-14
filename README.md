@@ -420,4 +420,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go  
 [flake](https://github.com/ybt195/flake): Generate k-sortable 64-bit unique flake ids.  
 [gocity](https://github.com/rodrigo-brito/gocity): :bar_chart: Code City metaphor for visualizing Go source code in 3D  
-[mongodb_exporter](https://github.com/percona/mongodb_exporter): A Prometheus exporter for MongoDB including sharding, replication and storage engines
+[mongodb_exporter](https://github.com/percona/mongodb_exporter): A Prometheus exporter for MongoDB including sharding, replication and storage engines  
+[pangu](https://github.com/pangum/pangu): 盘古，意为开天辟地（即所有的系统功能都是由盘古生长而来），Golang应用程序快速开发框架，受SpringBoot的启发而创建，尽量让使用者关注业务而不是底层框架；同时，尽量添加一些华丽而且实用的功能来方便开发者的使用。支持的功能有：1、类Springboot高生产力开发框架；2、配置文件支持（JSON、YAML、TOML、XML以及环境变量支持和默认值配置支持）；3、丰富的插件支持（Web、Http Client、MQTT、Redis、gRPC等一系统生产力集合框架）；4、线程安全；5、高度可配置；以及其它一系统旨在提高生产力的功能集合
