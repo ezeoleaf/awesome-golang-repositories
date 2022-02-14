@@ -425,4 +425,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [One_More_Step_To_Go](https://github.com/dngatimin95/One_More_Step_To_Go): Simple Golang programs and algorithms as I learn Go  
 [govaluate](https://github.com/Knetic/govaluate): Arbitrary expression evaluation for golang  
 [hmq](https://github.com/fhmq/hmq): High performance mqtt broker  
-[KomodoEdit](https://github.com/Komodo/KomodoEdit): Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
+[KomodoEdit](https://github.com/Komodo/KomodoEdit): Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.  
+[sharedsecret](https://github.com/posener/sharedsecret): Implementation of Shamir's Secret Sharing algorithm.
