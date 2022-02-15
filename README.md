@@ -435,4 +435,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [units](https://github.com/smyrman/units): Go library that makes it easy to work with physical types, e.g. distances, velocities and angles.  
 [Lista_Tareas_En_Go](https://github.com/lonperman/Lista_Tareas_En_Go): Creando un programa para crear tareas con Go, utilizando struct y punteros.  
 [go-randomdata](https://github.com/Pallinder/go-randomdata): A tiny generator of random data for golang, also known as a faker   
-[errcheck](https://github.com/kisielk/errcheck): errcheck checks that you checked errors.
+[errcheck](https://github.com/kisielk/errcheck): errcheck checks that you checked errors.  
+[wemall](https://github.com/shen100/wemall): 基于react, node.js, go开发的微商城（含微信小程序）
