@@ -433,4 +433,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go2-book](https://github.com/chai2010/go2-book): :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性  
 [Coding-Projects](https://github.com/Kuu44/Coding-Projects): A random assortment of things I did when learning to code  
 [units](https://github.com/smyrman/units): Go library that makes it easy to work with physical types, e.g. distances, velocities and angles.  
-[Lista_Tareas_En_Go](https://github.com/lonperman/Lista_Tareas_En_Go): Creando un programa para crear tareas con Go, utilizando struct y punteros.
+[Lista_Tareas_En_Go](https://github.com/lonperman/Lista_Tareas_En_Go): Creando un programa para crear tareas con Go, utilizando struct y punteros.  
+[go-randomdata](https://github.com/Pallinder/go-randomdata): A tiny generator of random data for golang, also known as a faker 
