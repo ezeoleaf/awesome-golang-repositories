@@ -429,4 +429,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sharedsecret](https://github.com/posener/sharedsecret): Implementation of Shamir's Secret Sharing algorithm.  
 [Go42](https://github.com/ffhelicopter/Go42): 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。  
 [go-money](https://github.com/marvincaspar/go-money): Go implementation of Martin Fowler's Money pattern. https://martinfowler.com/eaaCatalog/money.html  
-[netlink](https://github.com/mdlayher/netlink): Package netlink provides low-level access to Linux netlink sockets. MIT Licensed.
+[netlink](https://github.com/mdlayher/netlink): Package netlink provides low-level access to Linux netlink sockets. MIT Licensed.  
+[go2-book](https://github.com/chai2010/go2-book): :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
