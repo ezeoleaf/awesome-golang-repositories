@@ -426,4 +426,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [govaluate](https://github.com/Knetic/govaluate): Arbitrary expression evaluation for golang  
 [hmq](https://github.com/fhmq/hmq): High performance mqtt broker  
 [KomodoEdit](https://github.com/Komodo/KomodoEdit): Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.  
-[sharedsecret](https://github.com/posener/sharedsecret): Implementation of Shamir's Secret Sharing algorithm.
+[sharedsecret](https://github.com/posener/sharedsecret): Implementation of Shamir's Secret Sharing algorithm.  
+[Go42](https://github.com/ffhelicopter/Go42): 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
