@@ -441,4 +441,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-chassis](https://github.com/go-chassis/go-chassis): a microservice framework for rapid development of micro services in Go with rich eco-system  
 [machinery](https://github.com/RichardKnop/machinery): Machinery is an asynchronous task queue/job queue based on distributed message passing.  
 [fgprof](https://github.com/felixge/fgprof): 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.  
-[high-performance-go](https://github.com/geektutu/high-performance-go): high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
+[high-performance-go](https://github.com/geektutu/high-performance-go): high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）  
+[uksuid](https://github.com/TerrexTech/uksuid): A Universal K-Sortable Universally Unique ID.
