@@ -436,4 +436,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Lista_Tareas_En_Go](https://github.com/lonperman/Lista_Tareas_En_Go): Creando un programa para crear tareas con Go, utilizando struct y punteros.  
 [go-randomdata](https://github.com/Pallinder/go-randomdata): A tiny generator of random data for golang, also known as a faker   
 [errcheck](https://github.com/kisielk/errcheck): errcheck checks that you checked errors.  
-[wemall](https://github.com/shen100/wemall): 基于react, node.js, go开发的微商城（含微信小程序）
+[wemall](https://github.com/shen100/wemall): 基于react, node.js, go开发的微商城（含微信小程序）  
+[web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook): Learn how to write webapps without a framework in Go.
