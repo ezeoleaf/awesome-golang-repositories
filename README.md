@@ -439,4 +439,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wemall](https://github.com/shen100/wemall): 基于react, node.js, go开发的微商城（含微信小程序）  
 [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook): Learn how to write webapps without a framework in Go.  
 [go-chassis](https://github.com/go-chassis/go-chassis): a microservice framework for rapid development of micro services in Go with rich eco-system  
-[machinery](https://github.com/RichardKnop/machinery): Machinery is an asynchronous task queue/job queue based on distributed message passing.
+[machinery](https://github.com/RichardKnop/machinery): Machinery is an asynchronous task queue/job queue based on distributed message passing.  
+[fgprof](https://github.com/felixge/fgprof): 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
