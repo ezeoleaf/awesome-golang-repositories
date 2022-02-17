@@ -447,4 +447,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [datav](https://github.com/sunface/datav): 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.  
 [Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang  
 [project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout  
-[Go-Package-Store](https://github.com/shurcooL/Go-Package-Store): An app that displays updates for the Go packages in your GOPATH.
+[Go-Package-Store](https://github.com/shurcooL/Go-Package-Store): An app that displays updates for the Go packages in your GOPATH.  
+[goleveldb](https://github.com/syndtr/goleveldb): LevelDB key/value database in Go.
