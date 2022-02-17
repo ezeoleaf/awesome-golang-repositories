@@ -448,4 +448,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang  
 [project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout  
 [Go-Package-Store](https://github.com/shurcooL/Go-Package-Store): An app that displays updates for the Go packages in your GOPATH.  
-[goleveldb](https://github.com/syndtr/goleveldb): LevelDB key/value database in Go.
+[goleveldb](https://github.com/syndtr/goleveldb): LevelDB key/value database in Go.  
+[vssh](https://github.com/yahoo/vssh): Go Library to Execute Commands Over SSH at Scale
