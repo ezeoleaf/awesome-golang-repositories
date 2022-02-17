@@ -450,4 +450,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Go-Package-Store](https://github.com/shurcooL/Go-Package-Store): An app that displays updates for the Go packages in your GOPATH.  
 [goleveldb](https://github.com/syndtr/goleveldb): LevelDB key/value database in Go.  
 [vssh](https://github.com/yahoo/vssh): Go Library to Execute Commands Over SSH at Scale  
-[aether-app](https://github.com/aethereans/aether-app): Aether client app with bundled front-end and P2P back-end
+[aether-app](https://github.com/aethereans/aether-app): Aether client app with bundled front-end and P2P back-end  
+[hoverfly](https://github.com/SpectoLabs/hoverfly): Lightweight service virtualization/API simulation tool for developers and testers
