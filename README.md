@@ -444,4 +444,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [high-performance-go](https://github.com/geektutu/high-performance-go): high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）  
 [uksuid](https://github.com/TerrexTech/uksuid): A Universal K-Sortable Universally Unique ID.  
 [nats-server](https://github.com/nats-io/nats-server): High-Performance server for NATS.io, the cloud and edge native messaging system.  
-[datav](https://github.com/sunface/datav): 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
+[datav](https://github.com/sunface/datav): 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.  
+[Qix](https://github.com/ty4z2008/Qix): Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
