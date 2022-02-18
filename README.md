@@ -452,4 +452,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vssh](https://github.com/yahoo/vssh): Go Library to Execute Commands Over SSH at Scale  
 [aether-app](https://github.com/aethereans/aether-app): Aether client app with bundled front-end and P2P back-end  
 [hoverfly](https://github.com/SpectoLabs/hoverfly): Lightweight service virtualization/API simulation tool for developers and testers  
-[im_service](https://github.com/GoBelieveIO/im_service): golang   im   server
+[im_service](https://github.com/GoBelieveIO/im_service): golang   im   server  
+[tail](https://github.com/nxadm/tail): [Revamped] Go package for reading from continuously updated files (tail -f)
