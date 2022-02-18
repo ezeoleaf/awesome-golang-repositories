@@ -454,4 +454,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hoverfly](https://github.com/SpectoLabs/hoverfly): Lightweight service virtualization/API simulation tool for developers and testers  
 [im_service](https://github.com/GoBelieveIO/im_service): golang   im   server  
 [tail](https://github.com/nxadm/tail): [Revamped] Go package for reading from continuously updated files (tail -f)  
-[cosmic-error](https://github.com/JaewooKim0/cosmic-error): I am a NotYetProperlyDefinedError of this world-system
+[cosmic-error](https://github.com/JaewooKim0/cosmic-error): I am a NotYetProperlyDefinedError of this world-system  
+[go19-map-bench](https://github.com/lnquy/go19-map-bench): Benchmark result for Go 1.9 concurrency map (sync.Map) - 1.9.beta2
