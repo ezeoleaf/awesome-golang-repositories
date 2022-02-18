@@ -458,4 +458,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go19-map-bench](https://github.com/lnquy/go19-map-bench): Benchmark result for Go 1.9 concurrency map (sync.Map) - 1.9.beta2  
 [jiacrontab](https://github.com/iwannay/jiacrontab): 简单可信赖的任务管理工具  
 [topk](https://github.com/hslam/topk): Package topk finds the top k elements in the collection.  
-[go-exptable](https://github.com/bwesterb/go-exptable): Speed up modular exponentiation of Go's big.Int's using precomputed tables 
+[go-exptable](https://github.com/bwesterb/go-exptable): Speed up modular exponentiation of Go's big.Int's using precomputed tables   
+[community](https://github.com/documize/community): Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
