@@ -456,4 +456,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tail](https://github.com/nxadm/tail): [Revamped] Go package for reading from continuously updated files (tail -f)  
 [cosmic-error](https://github.com/JaewooKim0/cosmic-error): I am a NotYetProperlyDefinedError of this world-system  
 [go19-map-bench](https://github.com/lnquy/go19-map-bench): Benchmark result for Go 1.9 concurrency map (sync.Map) - 1.9.beta2  
-[jiacrontab](https://github.com/iwannay/jiacrontab): 简单可信赖的任务管理工具
+[jiacrontab](https://github.com/iwannay/jiacrontab): 简单可信赖的任务管理工具  
+[topk](https://github.com/hslam/topk): Package topk finds the top k elements in the collection.
