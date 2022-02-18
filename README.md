@@ -460,4 +460,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [topk](https://github.com/hslam/topk): Package topk finds the top k elements in the collection.  
 [go-exptable](https://github.com/bwesterb/go-exptable): Speed up modular exponentiation of Go's big.Int's using precomputed tables   
 [community](https://github.com/documize/community): Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS  
-[athens](https://github.com/gomods/athens): A Go module datastore and proxy
+[athens](https://github.com/gomods/athens): A Go module datastore and proxy  
+[go-pry](https://github.com/d4l3k/go-pry): An interactive REPL for Go that allows you to drop into your code at any point.
