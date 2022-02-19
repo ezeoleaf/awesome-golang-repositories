@@ -464,4 +464,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-pry](https://github.com/d4l3k/go-pry): An interactive REPL for Go that allows you to drop into your code at any point.  
 [vim-go](https://github.com/fatih/vim-go): Go development plugin for Vim  
 [nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.  
-[golang101](https://github.com/golang101/golang101): Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
+[golang101](https://github.com/golang101/golang101): Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书  
+[plenti](https://github.com/plentico/plenti): Static Site Generator with Go backend and Svelte frontend
