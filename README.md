@@ -468,4 +468,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [plenti](https://github.com/plentico/plenti): Static Site Generator with Go backend and Svelte frontend  
 [json-to-go](https://github.com/mholt/json-to-go): Translates JSON into a Go type in your browser instantly (original)  
 [ftp](https://github.com/jlaffaye/ftp): FTP client package for Go  
-[hashmap](https://github.com/cornelk/hashmap): A Golang lock-free thread-safe HashMap optimized for fastest read access.
+[hashmap](https://github.com/cornelk/hashmap): A Golang lock-free thread-safe HashMap optimized for fastest read access.  
+[progressbar](https://github.com/schollz/progressbar): A really basic thread-safe progress bar for Golang applications
