@@ -463,4 +463,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [athens](https://github.com/gomods/athens): A Go module datastore and proxy  
 [go-pry](https://github.com/d4l3k/go-pry): An interactive REPL for Go that allows you to drop into your code at any point.  
 [vim-go](https://github.com/fatih/vim-go): Go development plugin for Vim  
-[nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
+[nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.  
+[golang101](https://github.com/golang101/golang101): Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
