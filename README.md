@@ -462,4 +462,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [community](https://github.com/documize/community): Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS  
 [athens](https://github.com/gomods/athens): A Go module datastore and proxy  
 [go-pry](https://github.com/d4l3k/go-pry): An interactive REPL for Go that allows you to drop into your code at any point.  
-[vim-go](https://github.com/fatih/vim-go): Go development plugin for Vim
+[vim-go](https://github.com/fatih/vim-go): Go development plugin for Vim  
+[nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
