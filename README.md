@@ -466,4 +466,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.  
 [golang101](https://github.com/golang101/golang101): Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书  
 [plenti](https://github.com/plentico/plenti): Static Site Generator with Go backend and Svelte frontend  
-[json-to-go](https://github.com/mholt/json-to-go): Translates JSON into a Go type in your browser instantly (original)
+[json-to-go](https://github.com/mholt/json-to-go): Translates JSON into a Go type in your browser instantly (original)  
+[ftp](https://github.com/jlaffaye/ftp): FTP client package for Go
