@@ -470,4 +470,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ftp](https://github.com/jlaffaye/ftp): FTP client package for Go  
 [hashmap](https://github.com/cornelk/hashmap): A Golang lock-free thread-safe HashMap optimized for fastest read access.  
 [progressbar](https://github.com/schollz/progressbar): A really basic thread-safe progress bar for Golang applications  
-[hdfs](https://github.com/colinmarc/hdfs): A native go client for HDFS
+[hdfs](https://github.com/colinmarc/hdfs): A native go client for HDFS  
+[skylark](https://github.com/google/skylark): Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
