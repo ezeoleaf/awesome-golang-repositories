@@ -472,4 +472,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [progressbar](https://github.com/schollz/progressbar): A really basic thread-safe progress bar for Golang applications  
 [hdfs](https://github.com/colinmarc/hdfs): A native go client for HDFS  
 [skylark](https://github.com/google/skylark): Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]  
-[livekit-server](https://github.com/livekit/livekit-server): Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
+[livekit-server](https://github.com/livekit/livekit-server): Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.  
+[sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.
