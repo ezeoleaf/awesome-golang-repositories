@@ -475,4 +475,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [livekit-server](https://github.com/livekit/livekit-server): Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.  
 [sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.  
 [kratos](https://github.com/go-kratos/kratos): Your ultimate Go microservices framework for the cloud-native era.  
-[mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database
+[mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database  
+[ful.go](https://github.com/vendethiel/ful.go): I'm full of Go code.
