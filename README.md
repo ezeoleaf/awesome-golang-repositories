@@ -482,4 +482,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gziphandler](https://github.com/nytimes/gziphandler): Go middleware to gzip HTTP responses  
 [small-workflows](https://github.com/nikitavoloboev/small-workflows): Small Alfred workflows I use  
 [zinx](https://github.com/aceld/zinx): 基于Golang轻量级TCP并发服务器框架  
-[go-clean-arch](https://github.com/bxcodec/go-clean-arch): Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+[go-clean-arch](https://github.com/bxcodec/go-clean-arch): Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture  
+[aws-xray-sdk-go](https://github.com/aws/aws-xray-sdk-go): AWS X-Ray SDK for the Go programming language.
