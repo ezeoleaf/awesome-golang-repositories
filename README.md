@@ -483,4 +483,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [small-workflows](https://github.com/nikitavoloboev/small-workflows): Small Alfred workflows I use  
 [zinx](https://github.com/aceld/zinx): 基于Golang轻量级TCP并发服务器框架  
 [go-clean-arch](https://github.com/bxcodec/go-clean-arch): Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture  
-[aws-xray-sdk-go](https://github.com/aws/aws-xray-sdk-go): AWS X-Ray SDK for the Go programming language.
+[aws-xray-sdk-go](https://github.com/aws/aws-xray-sdk-go): AWS X-Ray SDK for the Go programming language.  
+[rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
