@@ -477,4 +477,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kratos](https://github.com/go-kratos/kratos): Your ultimate Go microservices framework for the cloud-native era.  
 [mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database  
 [ful.go](https://github.com/vendethiel/ful.go): I'm full of Go code.  
-[MIT-6.824-2017](https://github.com/greatji/MIT-6.824-2017): Distributed Kvstore for Class 6.824
+[MIT-6.824-2017](https://github.com/greatji/MIT-6.824-2017): Distributed Kvstore for Class 6.824  
+[tinyrouter](https://github.com/go101/tinyrouter): An ~O(2k) time complexity http request router in Go
