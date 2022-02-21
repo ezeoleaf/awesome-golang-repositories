@@ -478,4 +478,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database  
 [ful.go](https://github.com/vendethiel/ful.go): I'm full of Go code.  
 [MIT-6.824-2017](https://github.com/greatji/MIT-6.824-2017): Distributed Kvstore for Class 6.824  
-[tinyrouter](https://github.com/go101/tinyrouter): An ~O(2k) time complexity http request router in Go
+[tinyrouter](https://github.com/go101/tinyrouter): An ~O(2k) time complexity http request router in Go  
+[gziphandler](https://github.com/nytimes/gziphandler): Go middleware to gzip HTTP responses
