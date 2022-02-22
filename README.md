@@ -487,4 +487,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files  
 [mow.cli](https://github.com/jawher/mow.cli): A versatile library for building CLI applications in Go  
 [smocker](https://github.com/Thiht/smocker): Smocker is a simple and efficient HTTP mock server and proxy.  
-[structures-in-go](https://github.com/mcxxmc/structures-in-go): Implementation of some data structures in golang. e.g. Binary search tree.
+[structures-in-go](https://github.com/mcxxmc/structures-in-go): Implementation of some data structures in golang. e.g. Binary search tree.  
+[kala](https://github.com/ajvb/kala): Modern Job Scheduler
