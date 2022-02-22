@@ -490,4 +490,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [structures-in-go](https://github.com/mcxxmc/structures-in-go): Implementation of some data structures in golang. e.g. Binary search tree.  
 [kala](https://github.com/ajvb/kala): Modern Job Scheduler  
 [k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker  
-[gowatch](https://github.com/silenceper/gowatch): 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
+[gowatch](https://github.com/silenceper/gowatch): 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.  
+[go-gmp](https://github.com/filewalkwithme/go-gmp): Go library to interact with the Greenbone Vulnerability Manager 11 using the GMP protocol (Greenbone Management Protocol, version 9.0)
