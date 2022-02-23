@@ -503,4 +503,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars): :star: Web frameworks for Go, most starred on GitHub  
 [crud-projects](https://github.com/IsaacAlves7/crud-projects): 🆕🔠🔄🚮 It's a repository of C.R.U.D projects.  
 [readline](https://github.com/chzyer/readline): Readline is a pure go(golang) implementation for GNU-Readline kind library  
-[hypercube](https://github.com/hypercube-lab/hypercube): HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰
+[hypercube](https://github.com/hypercube-lab/hypercube): HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰  
+[go-sdl2](https://github.com/veandco/go-sdl2): SDL2 binding for Go
