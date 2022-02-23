@@ -494,4 +494,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-gmp](https://github.com/filewalkwithme/go-gmp): Go library to interact with the Greenbone Vulnerability Manager 11 using the GMP protocol (Greenbone Management Protocol, version 9.0)  
 [process-exporter](https://github.com/ncabatoff/process-exporter): Prometheus exporter that mines /proc to report on selected processes   
 [pangolin](https://github.com/dylanlott/pangolin): a no:b:QL :b:ata:b:ase in Go  
-[quic-go](https://github.com/lucas-clemente/quic-go): A QUIC implementation in pure go
+[quic-go](https://github.com/lucas-clemente/quic-go): A QUIC implementation in pure go  
+[gemax](https://github.com/ninedraft/gemax): gemini N+2 protocol implementation
