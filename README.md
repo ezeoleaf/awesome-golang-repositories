@@ -498,4 +498,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gemax](https://github.com/ninedraft/gemax): gemini N+2 protocol implementation  
 [xray_processing_phase1](https://github.com/brianlevay/xray_processing_phase1): A program used for processing x-ray images collected from cores  
 [sugoku](https://github.com/fr3fou/sugoku): Simple sudoku solver using backtracking w/ a neat GUI to better display the algorithm's inner-workings.  
-[athenapdf](https://github.com/arachnys/athenapdf): Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
+[athenapdf](https://github.com/arachnys/athenapdf): Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker  
+[go-gtk](https://github.com/mattn/go-gtk): Go binding for GTK
