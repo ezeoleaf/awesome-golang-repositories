@@ -500,4 +500,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sugoku](https://github.com/fr3fou/sugoku): Simple sudoku solver using backtracking w/ a neat GUI to better display the algorithm's inner-workings.  
 [athenapdf](https://github.com/arachnys/athenapdf): Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker  
 [go-gtk](https://github.com/mattn/go-gtk): Go binding for GTK  
-[go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars): :star: Web frameworks for Go, most starred on GitHub
+[go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars): :star: Web frameworks for Go, most starred on GitHub  
+[crud-projects](https://github.com/IsaacAlves7/crud-projects): 🆕🔠🔄🚮 It's a repository of C.R.U.D projects.
