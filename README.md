@@ -496,4 +496,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pangolin](https://github.com/dylanlott/pangolin): a no:b:QL :b:ata:b:ase in Go  
 [quic-go](https://github.com/lucas-clemente/quic-go): A QUIC implementation in pure go  
 [gemax](https://github.com/ninedraft/gemax): gemini N+2 protocol implementation  
-[xray_processing_phase1](https://github.com/brianlevay/xray_processing_phase1): A program used for processing x-ray images collected from cores
+[xray_processing_phase1](https://github.com/brianlevay/xray_processing_phase1): A program used for processing x-ray images collected from cores  
+[sugoku](https://github.com/fr3fou/sugoku): Simple sudoku solver using backtracking w/ a neat GUI to better display the algorithm's inner-workings.
