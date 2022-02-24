@@ -511,4 +511,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [TorBot](https://github.com/DedSecInside/TorBot): Dark Web OSINT Tool  
 [httprouter](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well  
 [slack](https://github.com/slack-go/slack): Slack API in Go - community-maintained fork created by the original author, @nlopes  
-[octosql](https://github.com/cube2222/octosql): OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+[octosql](https://github.com/cube2222/octosql): OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.  
+[goose](https://github.com/pressly/goose): A database migration tool. Supports SQL migrations and Go functions. 
