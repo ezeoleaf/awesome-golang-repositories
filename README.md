@@ -506,4 +506,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hypercube](https://github.com/hypercube-lab/hypercube): HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰  
 [go-sdl2](https://github.com/veandco/go-sdl2): SDL2 binding for Go  
 [dnscontrol](https://github.com/StackExchange/dnscontrol): Synchronize your DNS to multiple providers from a simple DSL  
-[go-extend](https://github.com/thinkeridea/go-extend): go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
+[go-extend](https://github.com/thinkeridea/go-extend): go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码  
+[free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack): ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
