@@ -510,4 +510,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack): ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.  
 [TorBot](https://github.com/DedSecInside/TorBot): Dark Web OSINT Tool  
 [httprouter](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well  
-[slack](https://github.com/slack-go/slack): Slack API in Go - community-maintained fork created by the original author, @nlopes
+[slack](https://github.com/slack-go/slack): Slack API in Go - community-maintained fork created by the original author, @nlopes  
+[octosql](https://github.com/cube2222/octosql): OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
