@@ -513,4 +513,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [slack](https://github.com/slack-go/slack): Slack API in Go - community-maintained fork created by the original author, @nlopes  
 [octosql](https://github.com/cube2222/octosql): OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.  
 [goose](https://github.com/pressly/goose): A database migration tool. Supports SQL migrations and Go functions.   
-[MediaServer](https://github.com/sharkpick/MediaServer): Minimalist media server for my home network. Includes code to keep adult content separate from general content, which can be used on networks with more sensitive audiences or whatever. Currently uses http.ServeFile() but I'm going to move it to a HLS system
+[MediaServer](https://github.com/sharkpick/MediaServer): Minimalist media server for my home network. Includes code to keep adult content separate from general content, which can be used on networks with more sensitive audiences or whatever. Currently uses http.ServeFile() but I'm going to move it to a HLS system  
+[inbucket](https://github.com/inbucket/inbucket): Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
