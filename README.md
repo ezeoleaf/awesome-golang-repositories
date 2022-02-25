@@ -516,4 +516,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [MediaServer](https://github.com/sharkpick/MediaServer): Minimalist media server for my home network. Includes code to keep adult content separate from general content, which can be used on networks with more sensitive audiences or whatever. Currently uses http.ServeFile() but I'm going to move it to a HLS system  
 [inbucket](https://github.com/inbucket/inbucket): Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.  
 [cloud-game](https://github.com/giongto35/cloud-game): Web-based Cloud Gaming service for Retro Game  
-[elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter): Elasticsearch stats exporter for Prometheus
+[elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter): Elasticsearch stats exporter for Prometheus  
+[go-vagrant](https://github.com/rahulvramesh/go-vagrant): vagrant configuration for golang 1.9.1 and ubuntu 14.04.5 LTS
