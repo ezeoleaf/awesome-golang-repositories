@@ -517,4 +517,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [inbucket](https://github.com/inbucket/inbucket): Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.  
 [cloud-game](https://github.com/giongto35/cloud-game): Web-based Cloud Gaming service for Retro Game  
 [elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter): Elasticsearch stats exporter for Prometheus  
-[go-vagrant](https://github.com/rahulvramesh/go-vagrant): vagrant configuration for golang 1.9.1 and ubuntu 14.04.5 LTS
+[go-vagrant](https://github.com/rahulvramesh/go-vagrant): vagrant configuration for golang 1.9.1 and ubuntu 14.04.5 LTS  
+[statsviz](https://github.com/arl/statsviz): :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
