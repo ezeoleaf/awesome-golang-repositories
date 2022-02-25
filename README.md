@@ -521,4 +521,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [statsviz](https://github.com/arl/statsviz): :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser  
 [slug](https://github.com/gosimple/slug): URL-friendly slugify with multiple languages support.  
 [1backend](https://github.com/1backend/1backend): Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.  
-[gpay](https://github.com/tangfeixiong/gpay): An open source micro-service of China online payments, e.g. Alipay, UnionPay & WeChatPay
+[gpay](https://github.com/tangfeixiong/gpay): An open source micro-service of China online payments, e.g. Alipay, UnionPay & WeChatPay  
+[go-interview](https://github.com/shomali11/go-interview): Collection of Technical Interview Questions solved with Go
