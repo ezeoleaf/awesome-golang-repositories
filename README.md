@@ -519,4 +519,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter): Elasticsearch stats exporter for Prometheus  
 [go-vagrant](https://github.com/rahulvramesh/go-vagrant): vagrant configuration for golang 1.9.1 and ubuntu 14.04.5 LTS  
 [statsviz](https://github.com/arl/statsviz): :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser  
-[slug](https://github.com/gosimple/slug): URL-friendly slugify with multiple languages support.
+[slug](https://github.com/gosimple/slug): URL-friendly slugify with multiple languages support.  
+[1backend](https://github.com/1backend/1backend): Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
