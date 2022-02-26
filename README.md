@@ -527,4 +527,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vugu](https://github.com/vugu/vugu): Vugu: A modern UI library for Go+WebAssembly (experimental)  
 [Amass](https://github.com/OWASP/Amass): In-depth Attack Surface Mapping and Asset Discovery  
 [HeadFirstGo](https://github.com/quattroformaggi/HeadFirstGo): Head First Go walkthrough. Book done in ~2 months (oh if I weren't a lazy b*tch...)  
-[go-mdbm](https://github.com/torden/go-mdbm): Just! Go(go-lang) interface for Y! MDBM, Golang MDBM Wrapper
+[go-mdbm](https://github.com/torden/go-mdbm): Just! Go(go-lang) interface for Y! MDBM, Golang MDBM Wrapper  
+[roaring](https://github.com/RoaringBitmap/roaring): Roaring bitmaps in Go (golang)
