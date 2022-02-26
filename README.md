@@ -523,4 +523,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [1backend](https://github.com/1backend/1backend): Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.  
 [gpay](https://github.com/tangfeixiong/gpay): An open source micro-service of China online payments, e.g. Alipay, UnionPay & WeChatPay  
 [go-interview](https://github.com/shomali11/go-interview): Collection of Technical Interview Questions solved with Go  
-[go-pingbot](https://github.com/MedzikUser/go-pingbot): ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
+[go-pingbot](https://github.com/MedzikUser/go-pingbot): ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.  
+[vugu](https://github.com/vugu/vugu): Vugu: A modern UI library for Go+WebAssembly (experimental)
