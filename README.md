@@ -526,4 +526,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-pingbot](https://github.com/MedzikUser/go-pingbot): ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.  
 [vugu](https://github.com/vugu/vugu): Vugu: A modern UI library for Go+WebAssembly (experimental)  
 [Amass](https://github.com/OWASP/Amass): In-depth Attack Surface Mapping and Asset Discovery  
-[HeadFirstGo](https://github.com/quattroformaggi/HeadFirstGo): Head First Go walkthrough. Book done in ~2 months (oh if I weren't a lazy b*tch...)
+[HeadFirstGo](https://github.com/quattroformaggi/HeadFirstGo): Head First Go walkthrough. Book done in ~2 months (oh if I weren't a lazy b*tch...)  
+[go-mdbm](https://github.com/torden/go-mdbm): Just! Go(go-lang) interface for Y! MDBM, Golang MDBM Wrapper
