@@ -534,4 +534,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [weather](https://github.com/genuinetools/weather): Weather via the command line.  
 [signedvalue](https://github.com/sashka/signedvalue): Compatibility layer for tornado's signed values (and secure cookies consequently)  
 [gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang  
-[errorx](https://github.com/joomcode/errorx): A comprehensive error handling library for Go
+[errorx](https://github.com/joomcode/errorx): A comprehensive error handling library for Go  
+[grpc-ssl-example](https://github.com/yasushi-saito/grpc-ssl-example): Example of using grpc-c++ w/ self-signed certificates
