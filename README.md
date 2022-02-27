@@ -536,4 +536,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang  
 [errorx](https://github.com/joomcode/errorx): A comprehensive error handling library for Go  
 [grpc-ssl-example](https://github.com/yasushi-saito/grpc-ssl-example): Example of using grpc-c++ w/ self-signed certificates  
-[radon](https://github.com/radondb/radon): RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
+[radon](https://github.com/radondb/radon): RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services  
+[go-mailer](https://github.com/kataras/go-mailer): :mailbox: Simple e-mail sender for Go Programming Language
