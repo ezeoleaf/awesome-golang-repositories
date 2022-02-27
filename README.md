@@ -530,4 +530,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-mdbm](https://github.com/torden/go-mdbm): Just! Go(go-lang) interface for Y! MDBM, Golang MDBM Wrapper  
 [roaring](https://github.com/RoaringBitmap/roaring): Roaring bitmaps in Go (golang)  
 [b0pass](https://github.com/bitepeng/b0pass): 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。  
-[memguard](https://github.com/awnumar/memguard): Secure software enclave for storage of sensitive information in memory.
+[memguard](https://github.com/awnumar/memguard): Secure software enclave for storage of sensitive information in memory.  
+[weather](https://github.com/genuinetools/weather): Weather via the command line.
