@@ -532,4 +532,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [b0pass](https://github.com/bitepeng/b0pass): 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。  
 [memguard](https://github.com/awnumar/memguard): Secure software enclave for storage of sensitive information in memory.  
 [weather](https://github.com/genuinetools/weather): Weather via the command line.  
-[signedvalue](https://github.com/sashka/signedvalue): Compatibility layer for tornado's signed values (and secure cookies consequently)
+[signedvalue](https://github.com/sashka/signedvalue): Compatibility layer for tornado's signed values (and secure cookies consequently)  
+[gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
