@@ -529,4 +529,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [HeadFirstGo](https://github.com/quattroformaggi/HeadFirstGo): Head First Go walkthrough. Book done in ~2 months (oh if I weren't a lazy b*tch...)  
 [go-mdbm](https://github.com/torden/go-mdbm): Just! Go(go-lang) interface for Y! MDBM, Golang MDBM Wrapper  
 [roaring](https://github.com/RoaringBitmap/roaring): Roaring bitmaps in Go (golang)  
-[b0pass](https://github.com/bitepeng/b0pass): 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+[b0pass](https://github.com/bitepeng/b0pass): 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。  
+[memguard](https://github.com/awnumar/memguard): Secure software enclave for storage of sensitive information in memory.
