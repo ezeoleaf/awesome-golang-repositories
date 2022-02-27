@@ -531,4 +531,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [roaring](https://github.com/RoaringBitmap/roaring): Roaring bitmaps in Go (golang)  
 [b0pass](https://github.com/bitepeng/b0pass): 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。  
 [memguard](https://github.com/awnumar/memguard): Secure software enclave for storage of sensitive information in memory.  
-[weather](https://github.com/genuinetools/weather): Weather via the command line.
+[weather](https://github.com/genuinetools/weather): Weather via the command line.  
+[signedvalue](https://github.com/sashka/signedvalue): Compatibility layer for tornado's signed values (and secure cookies consequently)
