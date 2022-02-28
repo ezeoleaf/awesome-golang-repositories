@@ -542,4 +542,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [govalidator](https://github.com/asaskevich/govalidator): [Go] Package of validators and sanitizers for strings, numerics, slices and structs  
 [go-astilectron](https://github.com/asticode/go-astilectron): Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)  
 [richgo](https://github.com/kyoh86/richgo): Enrich `go test` outputs with text decorations.  
-[kong](https://github.com/alecthomas/kong): Kong is a command-line parser for Go
+[kong](https://github.com/alecthomas/kong): Kong is a command-line parser for Go  
+[understanding-golang](https://github.com/uchennaemeruche/understanding-golang): This repo houses some Golang introductory files, sample codes and implementations. I will be updating it as I keep getting a hang of the language.
