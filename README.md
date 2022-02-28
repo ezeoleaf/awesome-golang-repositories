@@ -546,4 +546,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [understanding-golang](https://github.com/uchennaemeruche/understanding-golang): This repo houses some Golang introductory files, sample codes and implementations. I will be updating it as I keep getting a hang of the language.  
 [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series): :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift  
 [proxypool](https://github.com/henson/proxypool): Golang实现的IP代理池  
-[The-Golang-Guide](https://github.com/stormsinbrewing/The-Golang-Guide): A-Z Guide for Simple, Reliable and Efficient - Golang Programming
+[The-Golang-Guide](https://github.com/stormsinbrewing/The-Golang-Guide): A-Z Guide for Simple, Reliable and Efficient - Golang Programming  
+[drpc](https://github.com/storj/drpc): drpc is a lightweight, drop-in replacement for gRPC
