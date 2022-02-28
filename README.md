@@ -544,4 +544,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [richgo](https://github.com/kyoh86/richgo): Enrich `go test` outputs with text decorations.  
 [kong](https://github.com/alecthomas/kong): Kong is a command-line parser for Go  
 [understanding-golang](https://github.com/uchennaemeruche/understanding-golang): This repo houses some Golang introductory files, sample codes and implementations. I will be updating it as I keep getting a hang of the language.  
-[ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series): :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
+[ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series): :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift  
+[proxypool](https://github.com/henson/proxypool): Golang实现的IP代理池
