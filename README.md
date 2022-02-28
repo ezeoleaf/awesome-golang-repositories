@@ -541,4 +541,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sftp](https://github.com/pkg/sftp): SFTP support for the go.crypto/ssh package  
 [govalidator](https://github.com/asaskevich/govalidator): [Go] Package of validators and sanitizers for strings, numerics, slices and structs  
 [go-astilectron](https://github.com/asticode/go-astilectron): Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)  
-[richgo](https://github.com/kyoh86/richgo): Enrich `go test` outputs with text decorations.
+[richgo](https://github.com/kyoh86/richgo): Enrich `go test` outputs with text decorations.  
+[kong](https://github.com/alecthomas/kong): Kong is a command-line parser for Go
