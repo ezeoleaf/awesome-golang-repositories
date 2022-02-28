@@ -539,4 +539,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [radon](https://github.com/radondb/radon): RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services  
 [go-mailer](https://github.com/kataras/go-mailer): :mailbox: Simple e-mail sender for Go Programming Language  
 [sftp](https://github.com/pkg/sftp): SFTP support for the go.crypto/ssh package  
-[govalidator](https://github.com/asaskevich/govalidator): [Go] Package of validators and sanitizers for strings, numerics, slices and structs
+[govalidator](https://github.com/asaskevich/govalidator): [Go] Package of validators and sanitizers for strings, numerics, slices and structs  
+[go-astilectron](https://github.com/asticode/go-astilectron): Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
