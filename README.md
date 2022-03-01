@@ -549,4 +549,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [The-Golang-Guide](https://github.com/stormsinbrewing/The-Golang-Guide): A-Z Guide for Simple, Reliable and Efficient - Golang Programming  
 [drpc](https://github.com/storj/drpc): drpc is a lightweight, drop-in replacement for gRPC  
 [dap-mode](https://github.com/emacs-lsp/dap-mode): Emacs :heart: Debug Adapter Protocol   
-[api2go](https://github.com/manyminds/api2go): JSONAPI.org Implementation for Go
+[api2go](https://github.com/manyminds/api2go): JSONAPI.org Implementation for Go  
+[vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
