@@ -554,4 +554,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gomodifytags](https://github.com/fatih/gomodifytags): Go tool to modify struct field tags  
 [go-modemmanager](https://github.com/parrotmac/go-modemmanager): A Go wrapper around ModemManager's D-Bus API  
 [clical](https://github.com/wuriyanto48/clical): Calculator on CLI with Go, Just for fun with Golang's CLI :D  
-[go-best-practice](https://github.com/llitfkitfk/go-best-practice): Go语言实战:  编写可维护Go语言代码建议
+[go-best-practice](https://github.com/llitfkitfk/go-best-practice): Go语言实战:  编写可维护Go语言代码建议  
+[v8go](https://github.com/rogchap/v8go): Execute JavaScript from Go
