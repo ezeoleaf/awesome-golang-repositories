@@ -551,4 +551,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dap-mode](https://github.com/emacs-lsp/dap-mode): Emacs :heart: Debug Adapter Protocol   
 [api2go](https://github.com/manyminds/api2go): JSONAPI.org Implementation for Go  
 [vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management  
-[gomodifytags](https://github.com/fatih/gomodifytags): Go tool to modify struct field tags
+[gomodifytags](https://github.com/fatih/gomodifytags): Go tool to modify struct field tags  
+[go-modemmanager](https://github.com/parrotmac/go-modemmanager): A Go wrapper around ModemManager's D-Bus API
