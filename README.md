@@ -552,4 +552,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [api2go](https://github.com/manyminds/api2go): JSONAPI.org Implementation for Go  
 [vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management  
 [gomodifytags](https://github.com/fatih/gomodifytags): Go tool to modify struct field tags  
-[go-modemmanager](https://github.com/parrotmac/go-modemmanager): A Go wrapper around ModemManager's D-Bus API
+[go-modemmanager](https://github.com/parrotmac/go-modemmanager): A Go wrapper around ModemManager's D-Bus API  
+[clical](https://github.com/wuriyanto48/clical): Calculator on CLI with Go, Just for fun with Golang's CLI :D
