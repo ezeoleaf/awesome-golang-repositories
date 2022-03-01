@@ -555,4 +555,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-modemmanager](https://github.com/parrotmac/go-modemmanager): A Go wrapper around ModemManager's D-Bus API  
 [clical](https://github.com/wuriyanto48/clical): Calculator on CLI with Go, Just for fun with Golang's CLI :D  
 [go-best-practice](https://github.com/llitfkitfk/go-best-practice): Go语言实战:  编写可维护Go语言代码建议  
-[v8go](https://github.com/rogchap/v8go): Execute JavaScript from Go
+[v8go](https://github.com/rogchap/v8go): Execute JavaScript from Go  
+[goraph](https://github.com/gyuho/goraph): Package goraph implements graph data structure and algorithms.
