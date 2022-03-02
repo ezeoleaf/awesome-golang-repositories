@@ -558,4 +558,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [v8go](https://github.com/rogchap/v8go): Execute JavaScript from Go  
 [goraph](https://github.com/gyuho/goraph): Package goraph implements graph data structure and algorithms.  
 [minio](https://github.com/minio/minio): High Performance, Kubernetes Native Object Storage  
-[leetcode-master](https://github.com/youngyangyang04/leetcode-master): 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 
+[leetcode-master](https://github.com/youngyangyang04/leetcode-master): 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀   
+[redix](https://github.com/alash3al/redix): a very simple pure key => value storage system that speaks Redis protocol with Postgres as storage engine and more
