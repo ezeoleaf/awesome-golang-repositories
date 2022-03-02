@@ -562,4 +562,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [redix](https://github.com/alash3al/redix): a very simple pure key => value storage system that speaks Redis protocol with Postgres as storage engine and more  
 [rtsp-simple-server](https://github.com/aler9/rtsp-simple-server): ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams  
 [dragonboat](https://github.com/lni/dragonboat): A feature complete and high performance multi-group Raft library in Go.    
-[lxd](https://github.com/lxc/lxd): Powerful system container and virtual machine manager
+[lxd](https://github.com/lxc/lxd): Powerful system container and virtual machine manager  
+[Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms): Data Structures and Algorithms implementation in Go
