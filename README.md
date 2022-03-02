@@ -566,4 +566,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms): Data Structures and Algorithms implementation in Go  
 [learning-golang](https://github.com/yangwenmai/learning-golang): Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）  
 [gitleaks](https://github.com/zricethezav/gitleaks): Scan git repos (or files) for secrets using regex and entropy 🔑  
-[jnr-demo](https://github.com/vbsw/jnr-demo): Jump 'n Run demo
+[jnr-demo](https://github.com/vbsw/jnr-demo): Jump 'n Run demo  
+[go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
