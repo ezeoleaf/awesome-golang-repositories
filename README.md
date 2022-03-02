@@ -561,4 +561,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [leetcode-master](https://github.com/youngyangyang04/leetcode-master): 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀   
 [redix](https://github.com/alash3al/redix): a very simple pure key => value storage system that speaks Redis protocol with Postgres as storage engine and more  
 [rtsp-simple-server](https://github.com/aler9/rtsp-simple-server): ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams  
-[dragonboat](https://github.com/lni/dragonboat): A feature complete and high performance multi-group Raft library in Go.  
+[dragonboat](https://github.com/lni/dragonboat): A feature complete and high performance multi-group Raft library in Go.    
+[lxd](https://github.com/lxc/lxd): Powerful system container and virtual machine manager
