@@ -563,4 +563,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rtsp-simple-server](https://github.com/aler9/rtsp-simple-server): ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams  
 [dragonboat](https://github.com/lni/dragonboat): A feature complete and high performance multi-group Raft library in Go.    
 [lxd](https://github.com/lxc/lxd): Powerful system container and virtual machine manager  
-[Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms): Data Structures and Algorithms implementation in Go
+[Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms): Data Structures and Algorithms implementation in Go  
+[learning-golang](https://github.com/yangwenmai/learning-golang): Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
