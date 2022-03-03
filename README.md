@@ -571,4 +571,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [interval](https://github.com/zzwx/interval): An almost useless utility for normalizing a numeric range, with a wrapping function useful for polar coordinates. It's exploring go 1.x code generation. It is a clone of a JavaScript project by James Talmage (https://github.com/jamestalmage/normalize-range).  
 [gojq](https://github.com/itchyny/gojq): Pure Go implementation of jq  
 [macaron](https://github.com/go-macaron/macaron): Package macaron is a high productive and modular web framework in Go.  
-[frangipanni](https://github.com/birchb1024/frangipanni): Program to convert lines of text into a tree structure.
+[frangipanni](https://github.com/birchb1024/frangipanni): Program to convert lines of text into a tree structure.  
+[go-recipes](https://github.com/nikolaydubina/go-recipes): 🪄 Collection of handy tools for Go projects
