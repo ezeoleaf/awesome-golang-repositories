@@ -572,4 +572,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gojq](https://github.com/itchyny/gojq): Pure Go implementation of jq  
 [macaron](https://github.com/go-macaron/macaron): Package macaron is a high productive and modular web framework in Go.  
 [frangipanni](https://github.com/birchb1024/frangipanni): Program to convert lines of text into a tree structure.  
-[go-recipes](https://github.com/nikolaydubina/go-recipes): 🪄 Collection of handy tools for Go projects
+[go-recipes](https://github.com/nikolaydubina/go-recipes): 🪄 Collection of handy tools for Go projects  
+[fauxgl](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
