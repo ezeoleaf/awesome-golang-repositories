@@ -568,4 +568,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gitleaks](https://github.com/zricethezav/gitleaks): Scan git repos (or files) for secrets using regex and entropy 🔑  
 [jnr-demo](https://github.com/vbsw/jnr-demo): Jump 'n Run demo  
 [go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go  
-[interval](https://github.com/zzwx/interval): An almost useless utility for normalizing a numeric range, with a wrapping function useful for polar coordinates. It's exploring go 1.x code generation. It is a clone of a JavaScript project by James Talmage (https://github.com/jamestalmage/normalize-range).
+[interval](https://github.com/zzwx/interval): An almost useless utility for normalizing a numeric range, with a wrapping function useful for polar coordinates. It's exploring go 1.x code generation. It is a clone of a JavaScript project by James Talmage (https://github.com/jamestalmage/normalize-range).  
+[gojq](https://github.com/itchyny/gojq): Pure Go implementation of jq
