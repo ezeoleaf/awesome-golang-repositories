@@ -574,4 +574,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [frangipanni](https://github.com/birchb1024/frangipanni): Program to convert lines of text into a tree structure.  
 [go-recipes](https://github.com/nikolaydubina/go-recipes): 🪄 Collection of handy tools for Go projects  
 [fauxgl](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.  
-[ebiten8](https://github.com/yukinarit/ebiten8): A CHIP-8 emulator written with Go and Ebiten.
+[ebiten8](https://github.com/yukinarit/ebiten8): A CHIP-8 emulator written with Go and Ebiten.  
+[go-sqlbuilder](https://github.com/huandu/go-sqlbuilder): A flexible and powerful SQL string builder library plus a zero-config ORM.
