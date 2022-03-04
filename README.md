@@ -575,4 +575,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-recipes](https://github.com/nikolaydubina/go-recipes): 🪄 Collection of handy tools for Go projects  
 [fauxgl](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.  
 [ebiten8](https://github.com/yukinarit/ebiten8): A CHIP-8 emulator written with Go and Ebiten.  
-[go-sqlbuilder](https://github.com/huandu/go-sqlbuilder): A flexible and powerful SQL string builder library plus a zero-config ORM.
+[go-sqlbuilder](https://github.com/huandu/go-sqlbuilder): A flexible and powerful SQL string builder library plus a zero-config ORM.  
+[gonvey](https://github.com/Ullaakut/gonvey): Gonvey is a simple Go reverse-proxy (don't use it, this was just a coding challenge)
