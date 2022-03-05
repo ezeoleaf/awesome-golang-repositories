@@ -578,4 +578,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder): A flexible and powerful SQL string builder library plus a zero-config ORM.  
 [gonvey](https://github.com/Ullaakut/gonvey): Gonvey is a simple Go reverse-proxy (don't use it, this was just a coding challenge)  
 [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin): 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。  
-[drone](https://github.com/harness/drone): Drone is a Container-Native, Continuous Delivery Platform
+[drone](https://github.com/harness/drone): Drone is a Container-Native, Continuous Delivery Platform  
+[BDB](https://github.com/pigLoveRabbit520/BDB): B-Tree实现的DB
