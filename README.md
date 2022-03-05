@@ -584,4 +584,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [terraform-inventory](https://github.com/adammck/terraform-inventory): Terraform State → Ansible Dynamic Inventory  
 [awesome-go-zh](https://github.com/chai2010/awesome-go-zh): :books: Go资源精选中文版(含中文图书大全)  
 [y2j2y](https://github.com/morikuni/y2j2y): yaml to json / json to yaml converter y(*^J^*)y  
-[amass](https://github.com/caffix/amass): In-depth Attack Surface Mapping and Asset Discovery
+[amass](https://github.com/caffix/amass): In-depth Attack Surface Mapping and Asset Discovery  
+[watermarkGo](https://github.com/JoelTinx/watermarkGo): Librería Go para poner sellos de agua a una imagen o un directorio de imágenes. 
