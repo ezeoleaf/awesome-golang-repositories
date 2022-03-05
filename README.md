@@ -581,4 +581,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [drone](https://github.com/harness/drone): Drone is a Container-Native, Continuous Delivery Platform  
 [BDB](https://github.com/pigLoveRabbit520/BDB): B-Tree实现的DB  
 [eggos](https://github.com/icexin/eggos): A Go unikernel running on x86 bare metal  
-[terraform-inventory](https://github.com/adammck/terraform-inventory): Terraform State → Ansible Dynamic Inventory
+[terraform-inventory](https://github.com/adammck/terraform-inventory): Terraform State → Ansible Dynamic Inventory  
+[awesome-go-zh](https://github.com/chai2010/awesome-go-zh): :books: Go资源精选中文版(含中文图书大全)
