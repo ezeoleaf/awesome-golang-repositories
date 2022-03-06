@@ -589,4 +589,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gowalker](https://github.com/unknwon/gowalker): Go Walker is a server that generates Go projects API documentation on the fly.  
 [playwright-go](https://github.com/playwright-community/playwright-go): Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.  
 [Tutorial](https://github.com/zhonghuasheng/Tutorial): 后端 （Java Golang）全栈知识架构体系总结  
-[gmailctl](https://github.com/mbrt/gmailctl): Declarative configuration for Gmail filters
+[gmailctl](https://github.com/mbrt/gmailctl): Declarative configuration for Gmail filters  
+[teller](https://github.com/SpectralOps/teller): A secrets management tool for developers built in Go - never leave your command line for secrets.
