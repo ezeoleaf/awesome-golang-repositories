@@ -593,4 +593,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [teller](https://github.com/SpectralOps/teller): A secrets management tool for developers built in Go - never leave your command line for secrets.  
 [cel-go](https://github.com/google/cel-go): Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)  
 [7_days_of_go](https://github.com/harrytran103/7_days_of_go): Learn everything about Go in 7 days (from a Nodejs developer).  
-[weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.
+[weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.  
+[grpc-client-transcode](https://github.com/bakins/grpc-client-transcode): Experiment with client side gRPC to HTTP/1.1 transcoding.
