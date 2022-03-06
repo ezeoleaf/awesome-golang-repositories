@@ -592,4 +592,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gmailctl](https://github.com/mbrt/gmailctl): Declarative configuration for Gmail filters  
 [teller](https://github.com/SpectralOps/teller): A secrets management tool for developers built in Go - never leave your command line for secrets.  
 [cel-go](https://github.com/google/cel-go): Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)  
-[7_days_of_go](https://github.com/harrytran103/7_days_of_go): Learn everything about Go in 7 days (from a Nodejs developer).
+[7_days_of_go](https://github.com/harrytran103/7_days_of_go): Learn everything about Go in 7 days (from a Nodejs developer).  
+[weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.
