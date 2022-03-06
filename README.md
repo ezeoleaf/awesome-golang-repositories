@@ -587,4 +587,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [amass](https://github.com/caffix/amass): In-depth Attack Surface Mapping and Asset Discovery  
 [watermarkGo](https://github.com/JoelTinx/watermarkGo): Librería Go para poner sellos de agua a una imagen o un directorio de imágenes.   
 [gowalker](https://github.com/unknwon/gowalker): Go Walker is a server that generates Go projects API documentation on the fly.  
-[playwright-go](https://github.com/playwright-community/playwright-go): Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+[playwright-go](https://github.com/playwright-community/playwright-go): Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.  
+[Tutorial](https://github.com/zhonghuasheng/Tutorial): 后端 （Java Golang）全栈知识架构体系总结
