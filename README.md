@@ -596,4 +596,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.  
 [grpc-client-transcode](https://github.com/bakins/grpc-client-transcode): Experiment with client side gRPC to HTTP/1.1 transcoding.  
 [Go-WFC](https://github.com/timbeurskens/Go-WFC): A Go port from the original C# WFC implementation.  
-[eventhorizon](https://github.com/looplab/eventhorizon): Event Sourcing for Go!
+[eventhorizon](https://github.com/looplab/eventhorizon): Event Sourcing for Go!  
+[free-programming-resources](https://github.com/liyupi/free-programming-resources): 💎 免费的编程资源大全，持续更新！🔥 覆盖各种语言和方向（Java \ Python \ C++ \ JavaScript \ Golang \ 前端 \ 后端等）的学习路线、贴心教程、项目实战、编程书籍、面试合集、实用资源等，对程序员非常有帮助！
