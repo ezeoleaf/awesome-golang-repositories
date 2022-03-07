@@ -600,4 +600,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [free-programming-resources](https://github.com/liyupi/free-programming-resources): 💎 免费的编程资源大全，持续更新！🔥 覆盖各种语言和方向（Java \ Python \ C++ \ JavaScript \ Golang \ 前端 \ 后端等）的学习路线、贴心教程、项目实战、编程书籍、面试合集、实用资源等，对程序员非常有帮助！  
 [toxiproxy](https://github.com/Shopify/toxiproxy): :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing  
 [wire](https://github.com/google/wire): Compile-time Dependency Injection for Go  
-[fuzzy](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
+[fuzzy](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.  
+[grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems
