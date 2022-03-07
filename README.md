@@ -595,4 +595,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [7_days_of_go](https://github.com/harrytran103/7_days_of_go): Learn everything about Go in 7 days (from a Nodejs developer).  
 [weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.  
 [grpc-client-transcode](https://github.com/bakins/grpc-client-transcode): Experiment with client side gRPC to HTTP/1.1 transcoding.  
-[Go-WFC](https://github.com/timbeurskens/Go-WFC): A Go port from the original C# WFC implementation.
+[Go-WFC](https://github.com/timbeurskens/Go-WFC): A Go port from the original C# WFC implementation.  
+[eventhorizon](https://github.com/looplab/eventhorizon): Event Sourcing for Go!
