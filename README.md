@@ -601,4 +601,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [toxiproxy](https://github.com/Shopify/toxiproxy): :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing  
 [wire](https://github.com/google/wire): Compile-time Dependency Injection for Go  
 [fuzzy](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.  
-[grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems
+[grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems  
+[sniper](https://github.com/go-kiss/sniper): 轻量级 go 业务框架
