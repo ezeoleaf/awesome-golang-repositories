@@ -602,4 +602,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wire](https://github.com/google/wire): Compile-time Dependency Injection for Go  
 [fuzzy](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.  
 [grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems  
-[sniper](https://github.com/go-kiss/sniper): 轻量级 go 业务框架
+[sniper](https://github.com/go-kiss/sniper): 轻量级 go 业务框架  
+[litter](https://github.com/sanity-io/litter): Litter is a pretty printer library for Go data structures to aid in debugging and testing.
