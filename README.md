@@ -608,4 +608,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [minio-go](https://github.com/minio/minio-go): MinIO Client SDK for Go  
 [gohack](https://github.com/rogpeppe/gohack): Make temporary edits to your Go module dependencies  
 [oak](https://github.com/oakmound/oak): A pure Go game engine  
-[pbgopy](https://github.com/nakabonne/pbgopy): Copy and paste between devices
+[pbgopy](https://github.com/nakabonne/pbgopy): Copy and paste between devices  
+[certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
