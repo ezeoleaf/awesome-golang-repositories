@@ -603,4 +603,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fuzzy](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.  
 [grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems  
 [sniper](https://github.com/go-kiss/sniper): 轻量级 go 业务框架  
-[litter](https://github.com/sanity-io/litter): Litter is a pretty printer library for Go data structures to aid in debugging and testing.
+[litter](https://github.com/sanity-io/litter): Litter is a pretty printer library for Go data structures to aid in debugging and testing.  
+[grocksdb](https://github.com/linxGnu/grocksdb): RocksDB wrapper for Go. Support 6.25.x, 6.24.x, 6.23.x, 6.22.x, 6.20.x, 6.19.x, etc. Latest 6.25.3
