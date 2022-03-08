@@ -606,4 +606,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [litter](https://github.com/sanity-io/litter): Litter is a pretty printer library for Go data structures to aid in debugging and testing.  
 [grocksdb](https://github.com/linxGnu/grocksdb): RocksDB wrapper for Go. Support 6.25.x, 6.24.x, 6.23.x, 6.22.x, 6.20.x, 6.19.x, etc. Latest 6.25.3  
 [minio-go](https://github.com/minio/minio-go): MinIO Client SDK for Go  
-[gohack](https://github.com/rogpeppe/gohack): Make temporary edits to your Go module dependencies
+[gohack](https://github.com/rogpeppe/gohack): Make temporary edits to your Go module dependencies  
+[oak](https://github.com/oakmound/oak): A pure Go game engine
