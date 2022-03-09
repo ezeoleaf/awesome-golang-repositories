@@ -614,4 +614,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress  
 [lets-go](https://github.com/smbl64/lets-go): My code repository for the Let's Go book  
 [aliyungo](https://github.com/denverdino/aliyungo): Go SDK for Aliyun (Alibaba Cloud) - Golang API for ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service etc.  
-[glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI
+[glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI  
+[learn-go-with-tests](https://github.com/quii/learn-go-with-tests): Learn Go with test-driven development
