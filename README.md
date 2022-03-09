@@ -612,4 +612,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal  
 [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education): A curated list of awesome articles and resources for learning and practicing Go and its related technologies.  
 [skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress  
-[lets-go](https://github.com/smbl64/lets-go): My code repository for the Let's Go book
+[lets-go](https://github.com/smbl64/lets-go): My code repository for the Let's Go book  
+[aliyungo](https://github.com/denverdino/aliyungo): Go SDK for Aliyun (Alibaba Cloud) - Golang API for ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service etc.
