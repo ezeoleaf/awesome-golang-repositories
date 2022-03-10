@@ -624,4 +624,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sinar-arco](https://github.com/madjiebimaa/sinar-arco): An E-Commerce that provides material goods and construction tools made with Golang (Fiber), Redis, and MySQL (Gorm).  
 [gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.  
 [line-bot-sdk-go](https://github.com/line/line-bot-sdk-go): LINE Messaging API SDK for Go  
-[geoip2-golang](https://github.com/oschwald/geoip2-golang): Unofficial MaxMind GeoIP2 Reader for Go
+[geoip2-golang](https://github.com/oschwald/geoip2-golang): Unofficial MaxMind GeoIP2 Reader for Go  
+[revive](https://github.com/mgechev/revive): 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
