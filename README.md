@@ -620,4 +620,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-rss](https://github.com/kostya-ten/go-rss): RSS 2.0 Parser  
 [pterm](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.  
 [ishell](https://github.com/abiosoft/ishell): Library for creating interactive cli applications.  
-[gocql](https://github.com/gocql/gocql): Package gocql implements a fast and robust Cassandra client for the Go programming language.
+[gocql](https://github.com/gocql/gocql): Package gocql implements a fast and robust Cassandra client for the Go programming language.  
+[sinar-arco](https://github.com/madjiebimaa/sinar-arco): An E-Commerce that provides material goods and construction tools made with Golang (Fiber), Redis, and MySQL (Gorm).
