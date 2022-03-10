@@ -617,4 +617,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI  
 [learn-go-with-tests](https://github.com/quii/learn-go-with-tests): Learn Go with test-driven development  
 [oreilly-trial](https://github.com/bilalcaliskan/oreilly-trial): Trial account generator tool for O’Reilly  
-[go-rss](https://github.com/kostya-ten/go-rss): RSS 2.0 Parser
+[go-rss](https://github.com/kostya-ten/go-rss): RSS 2.0 Parser  
+[pterm](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
