@@ -629,4 +629,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [update-golang](https://github.com/udhos/update-golang): update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion  
 [trivy](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues  
 [barcode](https://github.com/boombuler/barcode): a barcode creation lib for golang  
-[scipipe](https://github.com/scipipe/scipipe): Robust, flexible and resource-efficient pipelines using Go and the commandline
+[scipipe](https://github.com/scipipe/scipipe): Robust, flexible and resource-efficient pipelines using Go and the commandline  
+[cointop](https://github.com/cointop-sh/cointop): A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
