@@ -628,4 +628,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [revive](https://github.com/mgechev/revive): 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint  
 [update-golang](https://github.com/udhos/update-golang): update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion  
 [trivy](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues  
-[barcode](https://github.com/boombuler/barcode): a barcode creation lib for golang
+[barcode](https://github.com/boombuler/barcode): a barcode creation lib for golang  
+[scipipe](https://github.com/scipipe/scipipe): Robust, flexible and resource-efficient pipelines using Go and the commandline
