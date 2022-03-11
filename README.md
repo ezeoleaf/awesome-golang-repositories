@@ -633,4 +633,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [cointop](https://github.com/cointop-sh/cointop): A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀  
 [Go-1-2-Proposal---Immutability](https://github.com/romshark/Go-1-2-Proposal---Immutability): A a Go 1/2 language feature proposal to immutability  
 [powerline-go](https://github.com/justjanne/powerline-go):  A beautiful and useful low-latency prompt for your shell, written in go  
-[slack-term](https://github.com/erroneousboat/slack-term): Slack client for your terminal
+[slack-term](https://github.com/erroneousboat/slack-term): Slack client for your terminal  
+[kingpin](https://github.com/alecthomas/kingpin): CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
