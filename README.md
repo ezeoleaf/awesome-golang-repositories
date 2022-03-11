@@ -627,4 +627,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [geoip2-golang](https://github.com/oschwald/geoip2-golang): Unofficial MaxMind GeoIP2 Reader for Go  
 [revive](https://github.com/mgechev/revive): 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint  
 [update-golang](https://github.com/udhos/update-golang): update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion  
-[trivy](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+[trivy](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues  
+[barcode](https://github.com/boombuler/barcode): a barcode creation lib for golang
