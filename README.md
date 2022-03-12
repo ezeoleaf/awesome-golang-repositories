@@ -637,4 +637,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kingpin](https://github.com/alecthomas/kingpin): CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser  
 [rsrc](https://github.com/akavel/rsrc): Tool for embedding .ico & manifest resources in Go programs for Windows.  
 [SimpleCache](https://github.com/PrasannaC/SimpleCache): A simple n-way set associative cache implemented in Go  
-[clean-go-article](https://github.com/Pungyeon/clean-go-article): A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
+[clean-go-article](https://github.com/Pungyeon/clean-go-article): A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.  
+[rexray](https://github.com/rexray/rexray): REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
