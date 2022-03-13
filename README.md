@@ -646,4 +646,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pingrobot](https://github.com/GOLANG-NINJA/pingrobot): Реализация проекта из Недели #3  
 [sarama](https://github.com/Shopify/sarama): Sarama is a Go library for Apache Kafka.  
 [studygolang](https://github.com/studygolang/studygolang): Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码  
-[go-toml](https://github.com/pelletier/go-toml): Go library for the TOML file format
+[go-toml](https://github.com/pelletier/go-toml): Go library for the TOML file format  
+[Introduccion-a-Go](https://github.com/aaronjimv/Introduccion-a-Go): ejemplos, practicas y apuntes de mi aprendizaje con Go
