@@ -651,4 +651,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [learn-golang-with-stephen](https://github.com/amazingandyyy/learn-golang-with-stephen): Codes when I followed Stephen's Go: The Complete Developer Guide course on udemy  
 [gocache](https://github.com/eko/gocache): ☔️ A complete Go cache library that brings you multiple ways of managing your caches  
 [goda](https://github.com/loov/goda): Go Dependency Analysis toolkit  
-[go-cluster](https://github.com/e-XpertSolutions/go-cluster): k-modes and k-prototypes clustering algorithms implementation in Go
+[go-cluster](https://github.com/e-XpertSolutions/go-cluster): k-modes and k-prototypes clustering algorithms implementation in Go  
+[cumulus](https://github.com/ubclaunchpad/cumulus): 💸 Cryptocurrency that doesn't waste your time
