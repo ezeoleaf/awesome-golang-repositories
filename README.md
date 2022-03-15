@@ -657,4 +657,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines  
 [shuttle](https://github.com/sipt/shuttle): A web proxy in Golang with amazing features.  
 [erpc](https://github.com/henrylee2cn/erpc): An efficient, extensible and easy-to-use RPC framework.  
-[docker-machine-driver-xhyve](https://github.com/machine-drivers/docker-machine-driver-xhyve): docker-machine/minikube/minishift driver plugin for xhyve/hyperkit (native macOS hypervisor.framework)
+[docker-machine-driver-xhyve](https://github.com/machine-drivers/docker-machine-driver-xhyve): docker-machine/minikube/minishift driver plugin for xhyve/hyperkit (native macOS hypervisor.framework)  
+[ninjabot](https://github.com/rodrigo-brito/ninjabot): A fast cryptocurrency platform for trading bot in Go. 
