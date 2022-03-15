@@ -661,4 +661,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ninjabot](https://github.com/rodrigo-brito/ninjabot): A fast cryptocurrency platform for trading bot in Go.   
 [goconvey](https://github.com/smartystreets/goconvey): Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.  
 [gorse](https://github.com/zhenghaoz/gorse): An open source recommender system service written in Go  
-[golang-notes](https://github.com/cch123/golang-notes): Go source code analysis(zh-cn)
+[golang-notes](https://github.com/cch123/golang-notes): Go source code analysis(zh-cn)  
+[LeapMotionGo](https://github.com/yyasha/LeapMotionGo): Go program for make Leap Motion json server version 6
