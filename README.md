@@ -665,4 +665,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [LeapMotionGo](https://github.com/yyasha/LeapMotionGo): Go program for make Leap Motion json server version 6  
 [shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go  
 [awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm): :memo: LeetCode of algorithms with golang solution(updating).  
-[jocko](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
+[jocko](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)  
+[the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer): The Evolution of a Go Programmer
