@@ -663,4 +663,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gorse](https://github.com/zhenghaoz/gorse): An open source recommender system service written in Go  
 [golang-notes](https://github.com/cch123/golang-notes): Go source code analysis(zh-cn)  
 [LeapMotionGo](https://github.com/yyasha/LeapMotionGo): Go program for make Leap Motion json server version 6  
-[shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
+[shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go  
+[awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm): :memo: LeetCode of algorithms with golang solution(updating).
