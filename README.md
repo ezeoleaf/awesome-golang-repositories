@@ -667,4 +667,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm): :memo: LeetCode of algorithms with golang solution(updating).  
 [jocko](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)  
 [the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer): The Evolution of a Go Programmer  
-[research](https://github.com/bithyve/research): A repository for Bithyve's Bitcoin Research Initiatives
+[research](https://github.com/bithyve/research): A repository for Bithyve's Bitcoin Research Initiatives  
+[senml](https://github.com/x448/senml): Disco SenML is cisco/senml with bugfixes.  Programs are 4 MB smaller and SenML CBOR complies with RFC 8428.
