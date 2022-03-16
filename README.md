@@ -670,4 +670,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [research](https://github.com/bithyve/research): A repository for Bithyve's Bitcoin Research Initiatives  
 [senml](https://github.com/x448/senml): Disco SenML is cisco/senml with bugfixes.  Programs are 4 MB smaller and SenML CBOR complies with RFC 8428.  
 [kismatic](https://github.com/apprenda/kismatic): Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations  
-[cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
+[cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions  
+[clipboard](https://github.com/atotto/clipboard): clipboard for golang
