@@ -672,4 +672,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kismatic](https://github.com/apprenda/kismatic): Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations  
 [cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions  
 [clipboard](https://github.com/atotto/clipboard): clipboard for golang  
-[brew-on-tap](https://github.com/gringolito/brew-on-tap): Brew On Tap is a Kegerator controller project using Go and a C.H.I.P. board 
+[brew-on-tap](https://github.com/gringolito/brew-on-tap): Brew On Tap is a Kegerator controller project using Go and a C.H.I.P. board   
+[inframap](https://github.com/cycloidio/inframap): Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
