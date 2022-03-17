@@ -676,4 +676,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [inframap](https://github.com/cycloidio/inframap): Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.  
 [eaopt](https://github.com/MaxHalford/eaopt): :four_leaf_clover: Evolutionary optimization library for Go (genetic algorithm, partical swarm optimization, differential evolution)  
 [aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples): Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.  
-[gobetween](https://github.com/yyyar/gobetween): :cloud: Modern & minimalistic load balancer for the Сloud era
+[gobetween](https://github.com/yyyar/gobetween): :cloud: Modern & minimalistic load balancer for the Сloud era  
+[exatorrent](https://github.com/varbhat/exatorrent): Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
