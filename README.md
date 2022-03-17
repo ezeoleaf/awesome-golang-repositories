@@ -673,4 +673,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions  
 [clipboard](https://github.com/atotto/clipboard): clipboard for golang  
 [brew-on-tap](https://github.com/gringolito/brew-on-tap): Brew On Tap is a Kegerator controller project using Go and a C.H.I.P. board   
-[inframap](https://github.com/cycloidio/inframap): Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+[inframap](https://github.com/cycloidio/inframap): Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.  
+[eaopt](https://github.com/MaxHalford/eaopt): :four_leaf_clover: Evolutionary optimization library for Go (genetic algorithm, partical swarm optimization, differential evolution)
