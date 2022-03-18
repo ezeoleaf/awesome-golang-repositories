@@ -678,4 +678,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples): Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.  
 [gobetween](https://github.com/yyyar/gobetween): :cloud: Modern & minimalistic load balancer for the Сloud era  
 [exatorrent](https://github.com/varbhat/exatorrent): Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.  
-[eris](https://github.com/rotisserie/eris): eris provides a better way to handle, trace, and log errors in Go 🎆
+[eris](https://github.com/rotisserie/eris): eris provides a better way to handle, trace, and log errors in Go 🎆  
+[atlantis](https://github.com/runatlantis/atlantis): Terraform Pull Request Automation
