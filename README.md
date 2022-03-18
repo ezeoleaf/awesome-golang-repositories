@@ -679,4 +679,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gobetween](https://github.com/yyyar/gobetween): :cloud: Modern & minimalistic load balancer for the Сloud era  
 [exatorrent](https://github.com/varbhat/exatorrent): Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.  
 [eris](https://github.com/rotisserie/eris): eris provides a better way to handle, trace, and log errors in Go 🎆  
-[atlantis](https://github.com/runatlantis/atlantis): Terraform Pull Request Automation
+[atlantis](https://github.com/runatlantis/atlantis): Terraform Pull Request Automation  
+[vm-operator-api](https://github.com/vmware-tanzu/vm-operator-api): A client API for the VM Operator project, designed to allow for integration with vSphere 7 with Kubernetes
