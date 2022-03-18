@@ -685,4 +685,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [distribyted](https://github.com/distribyted/distribyted): Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!  
 [go-app](https://github.com/maxence-charriere/go-app): A package to build progressive web apps with Go programming language and WebAssembly.  
 [go-importlist](https://github.com/sanemat/go-importlist): import-list -z tools.go returns url list from tools.go for go install, split by NULL.  
-[mtproto](https://github.com/xelaj/mtproto): Full-native go implementation of Telegram API
+[mtproto](https://github.com/xelaj/mtproto): Full-native go implementation of Telegram API  
+[kots](https://github.com/replicatedhq/kots): KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
