@@ -681,4 +681,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [eris](https://github.com/rotisserie/eris): eris provides a better way to handle, trace, and log errors in Go 🎆  
 [atlantis](https://github.com/runatlantis/atlantis): Terraform Pull Request Automation  
 [vm-operator-api](https://github.com/vmware-tanzu/vm-operator-api): A client API for the VM Operator project, designed to allow for integration with vSphere 7 with Kubernetes  
-[advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book): :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+[advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book): :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)  
+[distribyted](https://github.com/distribyted/distribyted): Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
