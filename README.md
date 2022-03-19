@@ -693,4 +693,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [glhf](https://github.com/faiface/glhf): openGL Have Fun - A Go package that makes life with OpenGL enjoyable.  
 [awesome-go-China](https://github.com/hyper0x/awesome-go-China): A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.  
 [z-scratchpad](https://github.com/volution/z-scratchpad): z-run -- notes / wiki lightweight Go-based tool  
-[webapp-example](https://github.com/dyxj/webapp-example): An example of a basic CRUD written with Go and Angular2/4 using MongoDB
+[webapp-example](https://github.com/dyxj/webapp-example): An example of a basic CRUD written with Go and Angular2/4 using MongoDB  
+[go-endian](https://github.com/nokute78/go-endian): A library to read/write n-byte big/little endian data.
