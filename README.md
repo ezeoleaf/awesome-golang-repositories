@@ -692,4 +692,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [uniqush-push](https://github.com/uniqush/uniqush-push): Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices.  
 [glhf](https://github.com/faiface/glhf): openGL Have Fun - A Go package that makes life with OpenGL enjoyable.  
 [awesome-go-China](https://github.com/hyper0x/awesome-go-China): A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.  
-[z-scratchpad](https://github.com/volution/z-scratchpad): z-run -- notes / wiki lightweight Go-based tool
+[z-scratchpad](https://github.com/volution/z-scratchpad): z-run -- notes / wiki lightweight Go-based tool  
+[webapp-example](https://github.com/dyxj/webapp-example): An example of a basic CRUD written with Go and Angular2/4 using MongoDB
