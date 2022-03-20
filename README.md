@@ -698,4 +698,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [nodebook](https://github.com/netgusto/nodebook): Nodebook - Multi-Lang Web REPL + CLI Code runner  
 [sandbox-lol](https://github.com/shotat/sandbox-lol): I'm awesome!!!  
 [gmail-attachments](https://github.com/kingzbauer/gmail-attachments): Retrieve pdf attachments from a G-suite account  
-[go-capnproto2](https://github.com/capnproto/go-capnproto2): Cap'n Proto library and code generator for Go
+[go-capnproto2](https://github.com/capnproto/go-capnproto2): Cap'n Proto library and code generator for Go  
+[jsonrpc4go](https://github.com/sunquakes/jsonrpc4go): Package go-jsonrpc provides a client and server implementation of JSON-RPC 2.0🚀
