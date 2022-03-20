@@ -700,4 +700,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gmail-attachments](https://github.com/kingzbauer/gmail-attachments): Retrieve pdf attachments from a G-suite account  
 [go-capnproto2](https://github.com/capnproto/go-capnproto2): Cap'n Proto library and code generator for Go  
 [jsonrpc4go](https://github.com/sunquakes/jsonrpc4go): Package go-jsonrpc provides a client and server implementation of JSON-RPC 2.0🚀  
-[libsmb2-go](https://github.com/Xmister/libsmb2-go): Go bindings for libsmb2 SMBv2&3 C library
+[libsmb2-go](https://github.com/Xmister/libsmb2-go): Go bindings for libsmb2 SMBv2&3 C library  
+[clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers
