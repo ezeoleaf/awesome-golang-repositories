@@ -696,4 +696,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [webapp-example](https://github.com/dyxj/webapp-example): An example of a basic CRUD written with Go and Angular2/4 using MongoDB  
 [go-endian](https://github.com/nokute78/go-endian): A library to read/write n-byte big/little endian data.  
 [nodebook](https://github.com/netgusto/nodebook): Nodebook - Multi-Lang Web REPL + CLI Code runner  
-[sandbox-lol](https://github.com/shotat/sandbox-lol): I'm awesome!!!
+[sandbox-lol](https://github.com/shotat/sandbox-lol): I'm awesome!!!  
+[gmail-attachments](https://github.com/kingzbauer/gmail-attachments): Retrieve pdf attachments from a G-suite account
