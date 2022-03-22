@@ -714,4 +714,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [learngo](https://github.com/inancgumus/learngo): 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes  
 [katrain](https://github.com/sanderland/katrain): Improve your Baduk skills by training with KataGo!  
 [unioffice](https://github.com/unidoc/unioffice): Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents  
-[vim-vgo](https://github.com/zchee/vim-vgo): Vim syntax highlighting for golang.org/x/vgo go.mod
+[vim-vgo](https://github.com/zchee/vim-vgo): Vim syntax highlighting for golang.org/x/vgo go.mod  
+[syncd](https://github.com/dreamans/syncd): syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
