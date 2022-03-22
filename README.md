@@ -707,4 +707,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [can-it-http-2](https://github.com/navaneethkm004/can-it-http-2): Check if websites are http/1.0 or http/2.0  
 [go-mud](https://github.com/alienspaces/go-mud): A M.U.D (multi user dungeon) with a back end API built with Go and a front end UI built with Flutter.  
 [beep](https://github.com/faiface/beep): A little package that brings sound to any Go application. Suitable for playback and audio-processing.  
-[pulumi](https://github.com/pulumi/pulumi): Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+[pulumi](https://github.com/pulumi/pulumi): Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀  
+[curl-to-go](https://github.com/mholt/curl-to-go): Convert curl commands to Go code in your browser
