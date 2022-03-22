@@ -709,4 +709,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [beep](https://github.com/faiface/beep): A little package that brings sound to any Go application. Suitable for playback and audio-processing.  
 [pulumi](https://github.com/pulumi/pulumi): Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀  
 [curl-to-go](https://github.com/mholt/curl-to-go): Convert curl commands to Go code in your browser  
-[goproxy.cn](https://github.com/goproxy/goproxy.cn): The most trusted Go module proxy in China.
+[goproxy.cn](https://github.com/goproxy/goproxy.cn): The most trusted Go module proxy in China.  
+[building-microservices-youtube](https://github.com/nicholasjackson/building-microservices-youtube): Code repository for my Building Microservices YouTube series https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
