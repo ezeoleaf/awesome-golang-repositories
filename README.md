@@ -713,4 +713,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [building-microservices-youtube](https://github.com/nicholasjackson/building-microservices-youtube): Code repository for my Building Microservices YouTube series https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_  
 [learngo](https://github.com/inancgumus/learngo): 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes  
 [katrain](https://github.com/sanderland/katrain): Improve your Baduk skills by training with KataGo!  
-[unioffice](https://github.com/unidoc/unioffice): Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
+[unioffice](https://github.com/unidoc/unioffice): Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents  
+[vim-vgo](https://github.com/zchee/vim-vgo): Vim syntax highlighting for golang.org/x/vgo go.mod
