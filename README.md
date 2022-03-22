@@ -711,4 +711,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [curl-to-go](https://github.com/mholt/curl-to-go): Convert curl commands to Go code in your browser  
 [goproxy.cn](https://github.com/goproxy/goproxy.cn): The most trusted Go module proxy in China.  
 [building-microservices-youtube](https://github.com/nicholasjackson/building-microservices-youtube): Code repository for my Building Microservices YouTube series https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_  
-[learngo](https://github.com/inancgumus/learngo): 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+[learngo](https://github.com/inancgumus/learngo): 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes  
+[katrain](https://github.com/sanderland/katrain): Improve your Baduk skills by training with KataGo!
