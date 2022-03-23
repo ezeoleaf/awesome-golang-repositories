@@ -717,4 +717,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vim-vgo](https://github.com/zchee/vim-vgo): Vim syntax highlighting for golang.org/x/vgo go.mod  
 [syncd](https://github.com/dreamans/syncd): syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.  
 [liftbridge](https://github.com/liftbridge-io/liftbridge): Lightweight, fault-tolerant message streams.  
-[webgo](https://github.com/bnkamalesh/webgo): A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc).
+[webgo](https://github.com/bnkamalesh/webgo): A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc).  
+[meetup-golang-embed](https://github.com/andreburgaud/meetup-golang-embed): Code supporting the 8/18/2021 GoMN meetup: Usage of Go embed directive
