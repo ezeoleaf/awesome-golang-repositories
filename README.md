@@ -720,4 +720,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [webgo](https://github.com/bnkamalesh/webgo): A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc).  
 [meetup-golang-embed](https://github.com/andreburgaud/meetup-golang-embed): Code supporting the 8/18/2021 GoMN meetup: Usage of Go embed directive  
 [go-internals](https://github.com/teh-cmc/go-internals): A book about the internals of the Go programming language.  
-[google-cloud-go](https://github.com/googleapis/google-cloud-go): Google Cloud Client Libraries for Go.
+[google-cloud-go](https://github.com/googleapis/google-cloud-go): Google Cloud Client Libraries for Go.  
+[sshtron](https://github.com/zachlatta/sshtron): $ ssh sshtron.zachlatta.com
