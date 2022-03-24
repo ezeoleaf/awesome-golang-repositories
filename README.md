@@ -721,4 +721,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [meetup-golang-embed](https://github.com/andreburgaud/meetup-golang-embed): Code supporting the 8/18/2021 GoMN meetup: Usage of Go embed directive  
 [go-internals](https://github.com/teh-cmc/go-internals): A book about the internals of the Go programming language.  
 [google-cloud-go](https://github.com/googleapis/google-cloud-go): Google Cloud Client Libraries for Go.  
-[sshtron](https://github.com/zachlatta/sshtron): $ ssh sshtron.zachlatta.com
+[sshtron](https://github.com/zachlatta/sshtron): $ ssh sshtron.zachlatta.com  
+[signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
