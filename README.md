@@ -730,4 +730,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pie](https://github.com/elliotchance/pie): 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.  
 [manul](https://github.com/kovetskiy/manul): :smirk_cat: The madness vendoring utility for Golang programs  
 [syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems  
-[ftok](https://github.com/hslam/ftok): Package ftok provides a way to generate a System V IPC key, suitable for using with msgget, semget, or shmget.
+[ftok](https://github.com/hslam/ftok): Package ftok provides a way to generate a System V IPC key, suitable for using with msgget, semget, or shmget.  
+[goone](https://github.com/masibw/goone): goone finds N+1 query in go 
