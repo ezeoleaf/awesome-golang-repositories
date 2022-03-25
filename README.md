@@ -724,4 +724,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sshtron](https://github.com/zachlatta/sshtron): $ ssh sshtron.zachlatta.com  
 [signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool  
 [go.uuid](https://github.com/satori/go.uuid): UUID package for Go  
-[user_agent](https://github.com/mssola/user_agent): HTTP User Agent parser for the Go programming language.
+[user_agent](https://github.com/mssola/user_agent): HTTP User Agent parser for the Go programming language.  
+[xcp](https://github.com/elkhanib/xcp): A very simple cli tool to setting of the X selection from stdin
