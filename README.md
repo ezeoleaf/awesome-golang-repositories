@@ -728,4 +728,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [xcp](https://github.com/elkhanib/xcp): A very simple cli tool to setting of the X selection from stdin  
 [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering): A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.  
 [pie](https://github.com/elliotchance/pie): 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.  
-[manul](https://github.com/kovetskiy/manul): :smirk_cat: The madness vendoring utility for Golang programs
+[manul](https://github.com/kovetskiy/manul): :smirk_cat: The madness vendoring utility for Golang programs  
+[syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems
