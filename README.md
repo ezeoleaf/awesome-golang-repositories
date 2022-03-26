@@ -735,4 +735,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [configor](https://github.com/jinzhu/configor): Golang Configuration tool that support YAML, JSON, TOML, Shell Environment  
 [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly  
 [go-sniffer](https://github.com/40t/go-sniffer): 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。  
-[taskq](https://github.com/vmihailenco/taskq): Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
+[taskq](https://github.com/vmihailenco/taskq): Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends  
+[BoomFilters](https://github.com/tylertreat/BoomFilters): Probabilistic data structures for processing continuous, unbounded streams.
