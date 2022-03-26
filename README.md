@@ -731,4 +731,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [manul](https://github.com/kovetskiy/manul): :smirk_cat: The madness vendoring utility for Golang programs  
 [syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems  
 [ftok](https://github.com/hslam/ftok): Package ftok provides a way to generate a System V IPC key, suitable for using with msgget, semget, or shmget.  
-[goone](https://github.com/masibw/goone): goone finds N+1 query in go 
+[goone](https://github.com/masibw/goone): goone finds N+1 query in go   
+[configor](https://github.com/jinzhu/configor): Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
