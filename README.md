@@ -741,4 +741,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go_spider](https://github.com/hu17889/go_spider): [爬虫框架 (golang)] An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.   
 [terracognita](https://github.com/cycloidio/terracognita): Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration  
 [ferret](https://github.com/MontFerret/ferret): Declarative web scraping  
-[jsonco](https://github.com/tinode/jsonco): JSON with C-style comments
+[jsonco](https://github.com/tinode/jsonco): JSON with C-style comments  
+[lastbackend](https://github.com/lastbackend/lastbackend): System for containerized apps management. From build to scaling.
