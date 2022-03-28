@@ -742,4 +742,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [terracognita](https://github.com/cycloidio/terracognita): Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration  
 [ferret](https://github.com/MontFerret/ferret): Declarative web scraping  
 [jsonco](https://github.com/tinode/jsonco): JSON with C-style comments  
-[lastbackend](https://github.com/lastbackend/lastbackend): System for containerized apps management. From build to scaling.
+[lastbackend](https://github.com/lastbackend/lastbackend): System for containerized apps management. From build to scaling.  
+[gocryptotrader](https://github.com/thrasher-corp/gocryptotrader): A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
