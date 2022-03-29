@@ -745,4 +745,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [lastbackend](https://github.com/lastbackend/lastbackend): System for containerized apps management. From build to scaling.  
 [gocryptotrader](https://github.com/thrasher-corp/gocryptotrader): A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.  
 [dependabot-core](https://github.com/dependabot/dependabot-core): 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback  
-[cosmos-sdk](https://github.com/cosmos/cosmos-sdk): :chains: A Framework for Building High Value Public Blockchains :sparkles:
+[cosmos-sdk](https://github.com/cosmos/cosmos-sdk): :chains: A Framework for Building High Value Public Blockchains :sparkles:  
+[grpc-go](https://github.com/grpc/grpc-go): The Go language implementation of gRPC. HTTP/2 based RPC
