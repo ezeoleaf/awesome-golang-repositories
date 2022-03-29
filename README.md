@@ -752,4 +752,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [FileSystem-LWH](https://github.com/dadu0699/FileSystem-LWH): Proyecto 1 [MIA]  
 [rnadna](https://github.com/mnsmar/rnadna): Convert sequence representation RNA - DNA for FASTA/Q  
 [go-api-boilerplate](https://github.com/douglaszuqueto/go-api-boilerplate): Exemplo de API utilizando a linguagem Go e a biblioteca Gorilla Mux  
-[web-scraper](https://github.com/genjik/web-scraper): web-scraper is a small library for parsing and scraping the html. It is built on top of golang.org/x/net/html
+[web-scraper](https://github.com/genjik/web-scraper): web-scraper is a small library for parsing and scraping the html. It is built on top of golang.org/x/net/html  
+[uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范中文版. The Uber Go Style Guide . 
