@@ -759,4 +759,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-flakeid](https://github.com/T-PWK/go-flakeid): A decentralized, k-ordered id generation library in Golang  
 [tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol   
 [lipgloss](https://github.com/charmbracelet/lipgloss): Style definitions for nice terminal layouts 👄  
-[aptly](https://github.com/aptly-dev/aptly): aptly - Debian repository management tool
+[aptly](https://github.com/aptly-dev/aptly): aptly - Debian repository management tool  
+[Go-Strings-Files-Sort](https://github.com/AlfredoCU/Go-Strings-Files-Sort): Crear y hacer uso de paquetes para strings, archivos y sort.
