@@ -755,4 +755,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [web-scraper](https://github.com/genjik/web-scraper): web-scraper is a small library for parsing and scraping the html. It is built on top of golang.org/x/net/html  
 [uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范中文版. The Uber Go Style Guide .   
 [go-ast-book](https://github.com/chai2010/go-ast-book): :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)  
-[bild](https://github.com/anthonynsimon/bild): Image processing algorithms in pure Go
+[bild](https://github.com/anthonynsimon/bild): Image processing algorithms in pure Go  
+[go-flakeid](https://github.com/T-PWK/go-flakeid): A decentralized, k-ordered id generation library in Golang
