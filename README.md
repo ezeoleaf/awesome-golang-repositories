@@ -767,4 +767,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands  
 [frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.  
 [nff-go](https://github.com/intel-go/nff-go): NFF-Go -Network Function Framework for GO (former YANFF)  
-[automi](https://github.com/vladimirvivien/automi): A stream processing API for Go (alpha)
+[automi](https://github.com/vladimirvivien/automi): A stream processing API for Go (alpha)  
+[go-playground](https://github.com/kikiklang/go-playground): look mum, i'm learning go
