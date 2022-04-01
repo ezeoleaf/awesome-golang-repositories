@@ -765,4 +765,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pirsch](https://github.com/pirsch-analytics/pirsch): Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.  
 [Go-Gorutines](https://github.com/AlfredoCU/Go-Gorutines): Hacer uso de la concurrencia en Go con las Goroutines y Channels.  
 [webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands  
-[frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+[frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.  
+[nff-go](https://github.com/intel-go/nff-go): NFF-Go -Network Function Framework for GO (former YANFF)
