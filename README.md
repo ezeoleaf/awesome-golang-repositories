@@ -769,4 +769,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [nff-go](https://github.com/intel-go/nff-go): NFF-Go -Network Function Framework for GO (former YANFF)  
 [automi](https://github.com/vladimirvivien/automi): A stream processing API for Go (alpha)  
 [go-playground](https://github.com/kikiklang/go-playground): look mum, i'm learning go  
-[resize](https://github.com/nfnt/resize): Pure golang image resizing 
+[resize](https://github.com/nfnt/resize): Pure golang image resizing   
+[estudos](https://github.com/go-br/estudos): Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go
