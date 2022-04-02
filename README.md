@@ -775,4 +775,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [datadog-agent](https://github.com/DataDog/datadog-agent): Datadog Agent   
 [mengpo](https://github.com/goexl/mengpo): Golang default value set library，Go语言默认值配置框架，支持功能：1、设置默认值；2、支持所有Golang内置类型；3、支持JSON配置默认值；4、支持环境变量；5、支持自定义类型；6、支持复杂类型  
 [generativeart](https://github.com/jdxyw/generativeart): Generative Art in Go  
-[go.diff](https://github.com/hattya/go.diff): A Go implementation of "An O(NP) Sequence Comparison Algorithm"
+[go.diff](https://github.com/hattya/go.diff): A Go implementation of "An O(NP) Sequence Comparison Algorithm"  
+[mop](https://github.com/mop-tracker/mop): Stock market tracker for hackers.
