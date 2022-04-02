@@ -771,4 +771,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-playground](https://github.com/kikiklang/go-playground): look mum, i'm learning go  
 [resize](https://github.com/nfnt/resize): Pure golang image resizing   
 [estudos](https://github.com/go-br/estudos): Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go  
-[govim](https://github.com/govim/govim): govim is a Go development plugin for Vim8, written in Go
+[govim](https://github.com/govim/govim): govim is a Go development plugin for Vim8, written in Go  
+[datadog-agent](https://github.com/DataDog/datadog-agent): Datadog Agent 
