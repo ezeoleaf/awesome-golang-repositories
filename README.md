@@ -772,4 +772,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [resize](https://github.com/nfnt/resize): Pure golang image resizing   
 [estudos](https://github.com/go-br/estudos): Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go  
 [govim](https://github.com/govim/govim): govim is a Go development plugin for Vim8, written in Go  
-[datadog-agent](https://github.com/DataDog/datadog-agent): Datadog Agent 
+[datadog-agent](https://github.com/DataDog/datadog-agent): Datadog Agent   
+[mengpo](https://github.com/goexl/mengpo): Golang default value set library，Go语言默认值配置框架，支持功能：1、设置默认值；2、支持所有Golang内置类型；3、支持JSON配置默认值；4、支持环境变量；5、支持自定义类型；6、支持复杂类型
