@@ -779,4 +779,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mop](https://github.com/mop-tracker/mop): Stock market tracker for hackers.  
 [project_finder](https://github.com/Hehk/project_finder): A simple cli to find all my projects :D  
 [miniredis](https://github.com/alicebob/miniredis): Pure Go Redis server for Go unittests  
-[objectbox-go](https://github.com/objectbox/objectbox-go): Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync
+[objectbox-go](https://github.com/objectbox/objectbox-go): Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync  
+[popeye](https://github.com/derailed/popeye): 👀 A Kubernetes cluster resource sanitizer
