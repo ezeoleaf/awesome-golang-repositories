@@ -780,4 +780,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [project_finder](https://github.com/Hehk/project_finder): A simple cli to find all my projects :D  
 [miniredis](https://github.com/alicebob/miniredis): Pure Go Redis server for Go unittests  
 [objectbox-go](https://github.com/objectbox/objectbox-go): Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync  
-[popeye](https://github.com/derailed/popeye): 👀 A Kubernetes cluster resource sanitizer
+[popeye](https://github.com/derailed/popeye): 👀 A Kubernetes cluster resource sanitizer  
+[crossing-api](https://github.com/AlecsisDuarte/crossing-api): Simple, fast and reliable RESTful API to fetch information about U.S. border's wait times using Golang
