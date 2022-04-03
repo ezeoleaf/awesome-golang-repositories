@@ -777,4 +777,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [generativeart](https://github.com/jdxyw/generativeart): Generative Art in Go  
 [go.diff](https://github.com/hattya/go.diff): A Go implementation of "An O(NP) Sequence Comparison Algorithm"  
 [mop](https://github.com/mop-tracker/mop): Stock market tracker for hackers.  
-[project_finder](https://github.com/Hehk/project_finder): A simple cli to find all my projects :D
+[project_finder](https://github.com/Hehk/project_finder): A simple cli to find all my projects :D  
+[miniredis](https://github.com/alicebob/miniredis): Pure Go Redis server for Go unittests
