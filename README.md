@@ -782,4 +782,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [objectbox-go](https://github.com/objectbox/objectbox-go): Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync  
 [popeye](https://github.com/derailed/popeye): 👀 A Kubernetes cluster resource sanitizer  
 [crossing-api](https://github.com/AlecsisDuarte/crossing-api): Simple, fast and reliable RESTful API to fetch information about U.S. border's wait times using Golang  
-[roguelike-tutorial](https://github.com/jolav/roguelike-tutorial): The complete roguelike Tutorial from r/roguelikedev 2020, Go + BearLibTerminal
+[roguelike-tutorial](https://github.com/jolav/roguelike-tutorial): The complete roguelike Tutorial from r/roguelikedev 2020, Go + BearLibTerminal  
+[go-shorten](https://github.com/thomasdesr/go-shorten): Because the rest of us don't have access to Google Search
