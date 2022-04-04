@@ -784,4 +784,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [crossing-api](https://github.com/AlecsisDuarte/crossing-api): Simple, fast and reliable RESTful API to fetch information about U.S. border's wait times using Golang  
 [roguelike-tutorial](https://github.com/jolav/roguelike-tutorial): The complete roguelike Tutorial from r/roguelikedev 2020, Go + BearLibTerminal  
 [go-shorten](https://github.com/thomasdesr/go-shorten): Because the rest of us don't have access to Google Search  
-[massren](https://github.com/laurent22/massren): massren - easily rename multiple files using your text editor
+[massren](https://github.com/laurent22/massren): massren - easily rename multiple files using your text editor  
+[bluemonday](https://github.com/microcosm-cc/bluemonday): bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
