@@ -787,4 +787,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [massren](https://github.com/laurent22/massren): massren - easily rename multiple files using your text editor  
 [bluemonday](https://github.com/microcosm-cc/bluemonday): bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS  
 [mailslurper](https://github.com/mailslurper/mailslurper): Local, web-based mail server application. Slurp mails into oblivion!  
-[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping): List of libraries, tools and APIs for web scraping and data processing.
+[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping): List of libraries, tools and APIs for web scraping and data processing.  
+[go-swagger3](https://github.com/parvez3019/go-swagger3): Open-source library to auto-generate open-API 3.0 spec file from comments.
