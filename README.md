@@ -789,4 +789,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mailslurper](https://github.com/mailslurper/mailslurper): Local, web-based mail server application. Slurp mails into oblivion!  
 [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping): List of libraries, tools and APIs for web scraping and data processing.  
 [go-swagger3](https://github.com/parvez3019/go-swagger3): Open-source library to auto-generate open-API 3.0 spec file from comments.  
-[llvm](https://github.com/llir/llvm): Library for interacting with LLVM IR in pure Go.
+[llvm](https://github.com/llir/llvm): Library for interacting with LLVM IR in pure Go.  
+[goenv](https://github.com/syndbg/goenv): :blue_car: Like pyenv and rbenv, but for Go.
