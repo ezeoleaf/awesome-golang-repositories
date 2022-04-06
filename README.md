@@ -794,4 +794,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [curlconverter](https://github.com/curlconverter/curlconverter): generate code from cURL commands  
 [MIT6.824-2017-Chinese](https://github.com/double-free/MIT6.824-2017-Chinese): A Chinese version of MIT 6.824 (Distributed System)  
 [ghorg](https://github.com/gabrie30/ghorg): Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚  
-[gotail](https://github.com/stephane-martin/gotail): tail -f equivalent for go
+[gotail](https://github.com/stephane-martin/gotail): tail -f equivalent for go  
+[semver](https://github.com/Masterminds/semver): Work with Semantic Versions in Go
