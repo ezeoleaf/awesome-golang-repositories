@@ -791,4 +791,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-swagger3](https://github.com/parvez3019/go-swagger3): Open-source library to auto-generate open-API 3.0 spec file from comments.  
 [llvm](https://github.com/llir/llvm): Library for interacting with LLVM IR in pure Go.  
 [goenv](https://github.com/syndbg/goenv): :blue_car: Like pyenv and rbenv, but for Go.  
-[curlconverter](https://github.com/curlconverter/curlconverter): generate code from cURL commands
+[curlconverter](https://github.com/curlconverter/curlconverter): generate code from cURL commands  
+[MIT6.824-2017-Chinese](https://github.com/double-free/MIT6.824-2017-Chinese): A Chinese version of MIT 6.824 (Distributed System)
