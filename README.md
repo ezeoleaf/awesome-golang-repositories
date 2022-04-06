@@ -796,4 +796,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ghorg](https://github.com/gabrie30/ghorg): Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚  
 [gotail](https://github.com/stephane-martin/gotail): tail -f equivalent for go  
 [semver](https://github.com/Masterminds/semver): Work with Semantic Versions in Go  
-[Language_Codes](https://github.com/ai-word/Language_Codes): 🌸🌸🌸编程语言记录，Rust语言，Go语言，Python语言，Lua语言，C/C++....基本知识，及各自语言的设计特点及应用的领域，语言是工具，逻辑是根本...
+[Language_Codes](https://github.com/ai-word/Language_Codes): 🌸🌸🌸编程语言记录，Rust语言，Go语言，Python语言，Lua语言，C/C++....基本知识，及各自语言的设计特点及应用的领域，语言是工具，逻辑是根本...  
+[N-Queens_Problem](https://github.com/jdswalker/N-Queens_Problem): N-Queens problem solvers and solution counters implemented using a constrained DFS algorithm
