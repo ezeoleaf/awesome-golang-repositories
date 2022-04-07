@@ -798,4 +798,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [semver](https://github.com/Masterminds/semver): Work with Semantic Versions in Go  
 [Language_Codes](https://github.com/ai-word/Language_Codes): 🌸🌸🌸编程语言记录，Rust语言，Go语言，Python语言，Lua语言，C/C++....基本知识，及各自语言的设计特点及应用的领域，语言是工具，逻辑是根本...  
 [N-Queens_Problem](https://github.com/jdswalker/N-Queens_Problem): N-Queens problem solvers and solution counters implemented using a constrained DFS algorithm  
-[golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap): Roadmap to becoming a Go developer in 2020
+[golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap): Roadmap to becoming a Go developer in 2020  
+[go-gin-api](https://github.com/xinliangnote/go-gin-api): 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。
