@@ -797,4 +797,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gotail](https://github.com/stephane-martin/gotail): tail -f equivalent for go  
 [semver](https://github.com/Masterminds/semver): Work with Semantic Versions in Go  
 [Language_Codes](https://github.com/ai-word/Language_Codes): 🌸🌸🌸编程语言记录，Rust语言，Go语言，Python语言，Lua语言，C/C++....基本知识，及各自语言的设计特点及应用的领域，语言是工具，逻辑是根本...  
-[N-Queens_Problem](https://github.com/jdswalker/N-Queens_Problem): N-Queens problem solvers and solution counters implemented using a constrained DFS algorithm
+[N-Queens_Problem](https://github.com/jdswalker/N-Queens_Problem): N-Queens problem solvers and solution counters implemented using a constrained DFS algorithm  
+[golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap): Roadmap to becoming a Go developer in 2020
