@@ -801,4 +801,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap): Roadmap to becoming a Go developer in 2020  
 [go-gin-api](https://github.com/xinliangnote/go-gin-api): 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。  
 [goarea](https://github.com/mrbrunelli/goarea): Pacote Go para calcular área da circunferência e área do retângulo  
-[Halfrost-Field](https://github.com/halfrost/Halfrost-Field): ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+[Halfrost-Field](https://github.com/halfrost/Halfrost-Field): ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地  
+[pikapika](https://github.com/niuhuan/pikapika): (R18) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。类似哔咔漫画。
