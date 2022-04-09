@@ -810,4 +810,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [introducing_go](https://github.com/marylly/introducing_go): Introducing Go reading lab - O'Reilly authored by @calebdoxley  
 [sftpgo](https://github.com/drakkan/sftpgo): Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob  
 [geacon](https://github.com/darkr4y/geacon): Practice Go programming and implement CobaltStrike's Beacon in Go  
-[Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados): :computer: Algoritmos e Estruturas de Dados em Python, C, C++, Java, Go, Ruby, Javascript, Pascal, Swift e Rust.
+[Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados): :computer: Algoritmos e Estruturas de Dados em Python, C, C++, Java, Go, Ruby, Javascript, Pascal, Swift e Rust.  
+[golang-hacktiv8-project1](https://github.com/andrinur13/golang-hacktiv8-project1): Project 1 dari program Kampus Merdeka X Hacktiv8 dengan materi Scalable Web Service with Golang
