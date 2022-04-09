@@ -806,4 +806,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gnet](https://github.com/panjf2000/gnet): 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。  
 [reddit-place-clone-server](https://github.com/rdeepak2002/reddit-place-clone-server): Server application to simulate r/place  
 [teleport](https://github.com/gravitational/teleport): Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops  
-[CryptDrive](https://github.com/imdrr30/CryptDrive): Simple Cryptography Tool that saves and retrives files from your G Drive.
+[CryptDrive](https://github.com/imdrr30/CryptDrive): Simple Cryptography Tool that saves and retrives files from your G Drive.  
+[introducing_go](https://github.com/marylly/introducing_go): Introducing Go reading lab - O'Reilly authored by @calebdoxley
