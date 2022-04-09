@@ -804,4 +804,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Halfrost-Field](https://github.com/halfrost/Halfrost-Field): ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地  
 [pikapika](https://github.com/niuhuan/pikapika): (R18) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。类似哔咔漫画。  
 [gnet](https://github.com/panjf2000/gnet): 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。  
-[reddit-place-clone-server](https://github.com/rdeepak2002/reddit-place-clone-server): Server application to simulate r/place
+[reddit-place-clone-server](https://github.com/rdeepak2002/reddit-place-clone-server): Server application to simulate r/place  
+[teleport](https://github.com/gravitational/teleport): Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
