@@ -808,4 +808,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [teleport](https://github.com/gravitational/teleport): Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops  
 [CryptDrive](https://github.com/imdrr30/CryptDrive): Simple Cryptography Tool that saves and retrives files from your G Drive.  
 [introducing_go](https://github.com/marylly/introducing_go): Introducing Go reading lab - O'Reilly authored by @calebdoxley  
-[sftpgo](https://github.com/drakkan/sftpgo): Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+[sftpgo](https://github.com/drakkan/sftpgo): Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob  
+[geacon](https://github.com/darkr4y/geacon): Practice Go programming and implement CobaltStrike's Beacon in Go
