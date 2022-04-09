@@ -809,4 +809,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [CryptDrive](https://github.com/imdrr30/CryptDrive): Simple Cryptography Tool that saves and retrives files from your G Drive.  
 [introducing_go](https://github.com/marylly/introducing_go): Introducing Go reading lab - O'Reilly authored by @calebdoxley  
 [sftpgo](https://github.com/drakkan/sftpgo): Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob  
-[geacon](https://github.com/darkr4y/geacon): Practice Go programming and implement CobaltStrike's Beacon in Go
+[geacon](https://github.com/darkr4y/geacon): Practice Go programming and implement CobaltStrike's Beacon in Go  
+[Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados): :computer: Algoritmos e Estruturas de Dados em Python, C, C++, Java, Go, Ruby, Javascript, Pascal, Swift e Rust.
