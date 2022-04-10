@@ -815,4 +815,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fri-go](https://github.com/AdrienMazet/fri-go): TP Infrastructures d'intégration  
 [scs](https://github.com/alexedwards/scs): HTTP Session Management for Go  
 [tfsec](https://github.com/aquasecurity/tfsec): Security scanner for your Terraform code  
-[email-webtools](https://github.com/camdram/email-webtools): A tiny micro-service to ensure that Camdram can send & receive emails 24/7/365
+[email-webtools](https://github.com/camdram/email-webtools): A tiny micro-service to ensure that Camdram can send & receive emails 24/7/365  
+[fc2-sonarcloud-go](https://github.com/agftech/fc2-sonarcloud-go): :dart: FC-2.0-T9
