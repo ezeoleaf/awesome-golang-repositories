@@ -820,4 +820,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gesa](https://github.com/loitd/gesa): Go E-SQL Agent for Grafana and more written in Golang  
 [go-colorful](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).  
 [tns-restful-json-api](https://github.com/corylanou/tns-restful-json-api): This is the code repository that goes along with the "TheNewStack" article for RESTful JSON API post  
-[writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
+[writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together, and build a community.  
+[pogreb](https://github.com/akrylysov/pogreb): Embedded key-value store for read-heavy workloads written in Go
