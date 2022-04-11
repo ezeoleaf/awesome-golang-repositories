@@ -819,4 +819,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fc2-sonarcloud-go](https://github.com/agftech/fc2-sonarcloud-go): :dart: FC-2.0-T9  
 [gesa](https://github.com/loitd/gesa): Go E-SQL Agent for Grafana and more written in Golang  
 [go-colorful](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).  
-[tns-restful-json-api](https://github.com/corylanou/tns-restful-json-api): This is the code repository that goes along with the "TheNewStack" article for RESTful JSON API post
+[tns-restful-json-api](https://github.com/corylanou/tns-restful-json-api): This is the code repository that goes along with the "TheNewStack" article for RESTful JSON API post  
+[writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
