@@ -818,4 +818,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [email-webtools](https://github.com/camdram/email-webtools): A tiny micro-service to ensure that Camdram can send & receive emails 24/7/365  
 [fc2-sonarcloud-go](https://github.com/agftech/fc2-sonarcloud-go): :dart: FC-2.0-T9  
 [gesa](https://github.com/loitd/gesa): Go E-SQL Agent for Grafana and more written in Golang  
-[go-colorful](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
+[go-colorful](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).  
+[tns-restful-json-api](https://github.com/corylanou/tns-restful-json-api): This is the code repository that goes along with the "TheNewStack" article for RESTful JSON API post
