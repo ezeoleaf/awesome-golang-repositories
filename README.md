@@ -825,4 +825,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fs2](https://github.com/timtadh/fs2): B+ Tree - List - File Structures 2 - Memory Mapped File Structures for Go  
 [apidoc](https://github.com/caixw/apidoc): RESTful API 文档生成工具，支持 Go、Java、Swift、JavaScript、Rust、PHP、Python、Typescript、Kotlin 和 Ruby 等大部分语言。  
 [open-match](https://github.com/googleforgames/open-match): Flexible, extensible, and scalable video game matchmaking.  
-[emitter](https://github.com/emitter-io/emitter): High performance, distributed and low latency publish-subscribe platform.
+[emitter](https://github.com/emitter-io/emitter): High performance, distributed and low latency publish-subscribe platform.  
+[AAH](https://github.com/fennifith/AAH): A basic cmdline program for Linux to help me do basic things I should already know. Ex: "AAH drive mount"
