@@ -829,4 +829,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [AAH](https://github.com/fennifith/AAH): A basic cmdline program for Linux to help me do basic things I should already know. Ex: "AAH drive mount"  
 [lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects.  
 [reviewdog](https://github.com/reviewdog/reviewdog): 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language  
-[asouldocs](https://github.com/asoul-sig/asouldocs): ASoulDocs is a stupid web server for multilingual documentation
+[asouldocs](https://github.com/asoul-sig/asouldocs): ASoulDocs is a stupid web server for multilingual documentation  
+[go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel): Fast and secure tunnels over HTTP/2
