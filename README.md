@@ -827,4 +827,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [open-match](https://github.com/googleforgames/open-match): Flexible, extensible, and scalable video game matchmaking.  
 [emitter](https://github.com/emitter-io/emitter): High performance, distributed and low latency publish-subscribe platform.  
 [AAH](https://github.com/fennifith/AAH): A basic cmdline program for Linux to help me do basic things I should already know. Ex: "AAH drive mount"  
-[lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects.
+[lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects.  
+[reviewdog](https://github.com/reviewdog/reviewdog): 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
