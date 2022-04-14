@@ -832,4 +832,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [asouldocs](https://github.com/asoul-sig/asouldocs): ASoulDocs is a stupid web server for multilingual documentation  
 [go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel): Fast and secure tunnels over HTTP/2  
 [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock): Sql mock driver for golang to test database interactions  
-[opensmtpd-go-filter-prepend](https://github.com/mildis/opensmtpd-go-filter-prepend): OpenSMTPD filter which prepends a string on email's subject if not present
+[opensmtpd-go-filter-prepend](https://github.com/mildis/opensmtpd-go-filter-prepend): OpenSMTPD filter which prepends a string on email's subject if not present  
+[fortio](https://github.com/fortio/fortio): Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
