@@ -831,4 +831,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [reviewdog](https://github.com/reviewdog/reviewdog): 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language  
 [asouldocs](https://github.com/asoul-sig/asouldocs): ASoulDocs is a stupid web server for multilingual documentation  
 [go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel): Fast and secure tunnels over HTTP/2  
-[go-sqlmock](https://github.com/DATA-DOG/go-sqlmock): Sql mock driver for golang to test database interactions
+[go-sqlmock](https://github.com/DATA-DOG/go-sqlmock): Sql mock driver for golang to test database interactions  
+[opensmtpd-go-filter-prepend](https://github.com/mildis/opensmtpd-go-filter-prepend): OpenSMTPD filter which prepends a string on email's subject if not present
