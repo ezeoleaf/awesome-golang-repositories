@@ -838,4 +838,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [exercism-go](https://github.com/thinkverse/exercism-go): Solutions to Exercism's Go track  
 [go-whatsapp](https://github.com/Rhymen/go-whatsapp): WhatsApp Web API  
 [GOFamily](https://github.com/shgopher/GOFamily): 🔥 go 后端程序员宝典，包含了：算法，数据库，网络操作系统，分布式，系统设计等一揽子知识体系  
-[rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go): Go language driver for RethinkDB
+[rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go): Go language driver for RethinkDB  
+[geopattern](https://github.com/pravj/geopattern): :triangular_ruler: Create beautiful generative image patterns from a string in golang.
