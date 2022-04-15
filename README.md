@@ -835,4 +835,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [opensmtpd-go-filter-prepend](https://github.com/mildis/opensmtpd-go-filter-prepend): OpenSMTPD filter which prepends a string on email's subject if not present  
 [fortio](https://github.com/fortio/fortio): Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.  
 [jackal](https://github.com/ortuman/jackal): 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).  
-[exercism-go](https://github.com/thinkverse/exercism-go): Solutions to Exercism's Go track
+[exercism-go](https://github.com/thinkverse/exercism-go): Solutions to Exercism's Go track  
+[go-whatsapp](https://github.com/Rhymen/go-whatsapp): WhatsApp Web API
