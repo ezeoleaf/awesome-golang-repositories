@@ -841,4 +841,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go): Go language driver for RethinkDB  
 [geopattern](https://github.com/pravj/geopattern): :triangular_ruler: Create beautiful generative image patterns from a string in golang.  
 [xurls](https://github.com/mvdan/xurls): Extract urls from text  
-[GoJustToolc](https://github.com/ahviplc/GoJustToolc): ❤GoJustToolc > Go Tools For U (You) ❤
+[GoJustToolc](https://github.com/ahviplc/GoJustToolc): ❤GoJustToolc > Go Tools For U (You) ❤  
+[gopher-reading-list](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go
