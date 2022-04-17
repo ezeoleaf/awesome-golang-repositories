@@ -845,4 +845,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gopher-reading-list](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go  
 [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress): NGINX and  NGINX Plus Ingress Controllers for Kubernetes  
 [douyin](https://github.com/cnbattle/douyin): 抖音推荐/搜索页视频列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb  
-[cc65](https://github.com/upc-projects/cc65): Repository for Programación Concurrente y Distribuida CC65 UPC 20192
+[cc65](https://github.com/upc-projects/cc65): Repository for Programación Concurrente y Distribuida CC65 UPC 20192  
+[githubv4](https://github.com/shurcooL/githubv4): Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
