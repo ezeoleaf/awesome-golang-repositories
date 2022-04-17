@@ -843,4 +843,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [xurls](https://github.com/mvdan/xurls): Extract urls from text  
 [GoJustToolc](https://github.com/ahviplc/GoJustToolc): ❤GoJustToolc > Go Tools For U (You) ❤  
 [gopher-reading-list](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go  
-[kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress): NGINX and  NGINX Plus Ingress Controllers for Kubernetes
+[kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress): NGINX and  NGINX Plus Ingress Controllers for Kubernetes  
+[douyin](https://github.com/cnbattle/douyin): 抖音推荐/搜索页视频列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb
