@@ -847,4 +847,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [douyin](https://github.com/cnbattle/douyin): 抖音推荐/搜索页视频列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb  
 [cc65](https://github.com/upc-projects/cc65): Repository for Programación Concurrente y Distribuida CC65 UPC 20192  
 [githubv4](https://github.com/shurcooL/githubv4): Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).  
-[statsd_exporter](https://github.com/prometheus/statsd_exporter): StatsD to Prometheus metrics exporter
+[statsd_exporter](https://github.com/prometheus/statsd_exporter): StatsD to Prometheus metrics exporter  
+[docconv](https://github.com/sajari/docconv): Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text
