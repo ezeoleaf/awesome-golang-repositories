@@ -849,4 +849,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [githubv4](https://github.com/shurcooL/githubv4): Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).  
 [statsd_exporter](https://github.com/prometheus/statsd_exporter): StatsD to Prometheus metrics exporter  
 [docconv](https://github.com/sajari/docconv): Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text  
-[rmq](https://github.com/adjust/rmq): Message queue system written in Go and backed by Redis
+[rmq](https://github.com/adjust/rmq): Message queue system written in Go and backed by Redis  
+[go-streams](https://github.com/jucardi/go-streams): Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq
