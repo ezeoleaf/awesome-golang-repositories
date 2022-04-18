@@ -850,4 +850,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [statsd_exporter](https://github.com/prometheus/statsd_exporter): StatsD to Prometheus metrics exporter  
 [docconv](https://github.com/sajari/docconv): Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text  
 [rmq](https://github.com/adjust/rmq): Message queue system written in Go and backed by Redis  
-[go-streams](https://github.com/jucardi/go-streams): Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq
+[go-streams](https://github.com/jucardi/go-streams): Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq  
+[copier](https://github.com/jinzhu/copier): Copier for golang, copy value from struct to struct and more
