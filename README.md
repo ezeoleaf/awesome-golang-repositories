@@ -854,4 +854,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [copier](https://github.com/jinzhu/copier): Copier for golang, copy value from struct to struct and more  
 [kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.  
 [fbptree](https://github.com/krasun/fbptree): A persistent storage (in file) based using B+ tree with byte-slice keys and values  
-[weapp](https://github.com/royalrick/weapp): 微信小程序服务端 SDK (for Golang)
+[weapp](https://github.com/royalrick/weapp): 微信小程序服务端 SDK (for Golang)  
+[libprotocol](https://github.com/4thel00z/libprotocol): A lightweight and generic (i.e. I/O agnostic) way to define protocols for the go language. Deterministic statemachine approach.
