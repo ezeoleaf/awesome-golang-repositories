@@ -852,4 +852,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rmq](https://github.com/adjust/rmq): Message queue system written in Go and backed by Redis  
 [go-streams](https://github.com/jucardi/go-streams): Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq  
 [copier](https://github.com/jinzhu/copier): Copier for golang, copy value from struct to struct and more  
-[kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.
+[kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.  
+[fbptree](https://github.com/krasun/fbptree): A persistent storage (in file) based using B+ tree with byte-slice keys and values
