@@ -855,4 +855,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.  
 [fbptree](https://github.com/krasun/fbptree): A persistent storage (in file) based using B+ tree with byte-slice keys and values  
 [weapp](https://github.com/royalrick/weapp): 微信小程序服务端 SDK (for Golang)  
-[libprotocol](https://github.com/4thel00z/libprotocol): A lightweight and generic (i.e. I/O agnostic) way to define protocols for the go language. Deterministic statemachine approach.
+[libprotocol](https://github.com/4thel00z/libprotocol): A lightweight and generic (i.e. I/O agnostic) way to define protocols for the go language. Deterministic statemachine approach.  
+[arcelioeperez](https://github.com/arcelioeperez/arcelioeperez): Personal Projects built in my free time. Languages used: C, C++, Python and Go (reading CSV files). Repository contains links to books, tutorials, language specific documentation, and solutions to problems found on Leetcode.
