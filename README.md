@@ -859,4 +859,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [arcelioeperez](https://github.com/arcelioeperez/arcelioeperez): Personal Projects built in my free time. Languages used: C, C++, Python and Go (reading CSV files). Repository contains links to books, tutorials, language specific documentation, and solutions to problems found on Leetcode.  
 [teler](https://github.com/kitabisa/teler): Real-time HTTP Intrusion Detection  
 [riscv_sim](https://github.com/wanchope/riscv_sim): simulate the RSIC-V core to run with the binary file.  
-[terraboard](https://github.com/camptocamp/terraboard): :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+[terraboard](https://github.com/camptocamp/terraboard): :earth_africa: :clipboard:  A web dashboard to inspect Terraform States   
+[qor](https://github.com/qor/qor): QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
