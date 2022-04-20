@@ -862,4 +862,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [terraboard](https://github.com/camptocamp/terraboard): :earth_africa: :clipboard:  A web dashboard to inspect Terraform States   
 [qor](https://github.com/qor/qor): QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.  
 [weather-predictor](https://github.com/carlosdiaz-meli/weather-predictor): Ejercicio de arquitectura y desarrollo de software orientado a resolver la necesidad de calcular predicciones climáticas de 10 años.  
-[flogo](https://github.com/TIBCOSoftware/flogo): Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
+[flogo](https://github.com/TIBCOSoftware/flogo): Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.  
+[gobyexample](https://github.com/gobyexample-cn/gobyexample): Go by Example 通过例子学 Golang
