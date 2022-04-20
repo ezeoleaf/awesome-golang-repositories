@@ -860,4 +860,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [teler](https://github.com/kitabisa/teler): Real-time HTTP Intrusion Detection  
 [riscv_sim](https://github.com/wanchope/riscv_sim): simulate the RSIC-V core to run with the binary file.  
 [terraboard](https://github.com/camptocamp/terraboard): :earth_africa: :clipboard:  A web dashboard to inspect Terraform States   
-[qor](https://github.com/qor/qor): QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
+[qor](https://github.com/qor/qor): QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.  
+[weather-predictor](https://github.com/carlosdiaz-meli/weather-predictor): Ejercicio de arquitectura y desarrollo de software orientado a resolver la necesidad de calcular predicciones climáticas de 10 años.
