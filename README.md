@@ -869,4 +869,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [spotamon](https://github.com/darkelement1987/spotamon): - NO LONGER MAINTAINED - Submit Pokemon/Raid/Stop/Quest spots to a db and store in a sortable table/map, supports webhooks. Import gyms from gymhuntr.com or pokemongomap.info :D (Crowdsourced Map) -> Check out: https://github.com/darkelement1987/locamon  
 [docker-gen](https://github.com/nginx-proxy/docker-gen): Generate files from docker container meta-data  
 [gorocksdb](https://github.com/tecbot/gorocksdb): gorocksdb is a Go wrapper for RocksDB  
-[gitql](https://github.com/filhodanuvem/gitql): 💊 A git query language
+[gitql](https://github.com/filhodanuvem/gitql): 💊 A git query language  
+[timeago](https://github.com/SerhiiCho/timeago): Fast and lightweight datetime package that converts given datetime into "n time ago" format
