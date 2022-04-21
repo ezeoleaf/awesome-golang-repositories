@@ -865,4 +865,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [flogo](https://github.com/TIBCOSoftware/flogo): Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.  
 [gobyexample](https://github.com/gobyexample-cn/gobyexample): Go by Example 通过例子学 Golang  
 [learning-go-lang](https://github.com/matheusFTC/learning-go-lang): Algoritmo e programas desenvolvidos no estudo da linguagem Go.  
-[hugo-michaelmallari](https://github.com/michaelmallari/hugo-michaelmallari): Hugo theme for data science blogging in Julia, Python, and R—developed with Go/Hugo, JavaScript/jQuery, CSS/LESS, and HTML.
+[hugo-michaelmallari](https://github.com/michaelmallari/hugo-michaelmallari): Hugo theme for data science blogging in Julia, Python, and R—developed with Go/Hugo, JavaScript/jQuery, CSS/LESS, and HTML.  
+[spotamon](https://github.com/darkelement1987/spotamon): - NO LONGER MAINTAINED - Submit Pokemon/Raid/Stop/Quest spots to a db and store in a sortable table/map, supports webhooks. Import gyms from gymhuntr.com or pokemongomap.info :D (Crowdsourced Map) -> Check out: https://github.com/darkelement1987/locamon
