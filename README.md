@@ -868,4 +868,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hugo-michaelmallari](https://github.com/michaelmallari/hugo-michaelmallari): Hugo theme for data science blogging in Julia, Python, and R—developed with Go/Hugo, JavaScript/jQuery, CSS/LESS, and HTML.  
 [spotamon](https://github.com/darkelement1987/spotamon): - NO LONGER MAINTAINED - Submit Pokemon/Raid/Stop/Quest spots to a db and store in a sortable table/map, supports webhooks. Import gyms from gymhuntr.com or pokemongomap.info :D (Crowdsourced Map) -> Check out: https://github.com/darkelement1987/locamon  
 [docker-gen](https://github.com/nginx-proxy/docker-gen): Generate files from docker container meta-data  
-[gorocksdb](https://github.com/tecbot/gorocksdb): gorocksdb is a Go wrapper for RocksDB
+[gorocksdb](https://github.com/tecbot/gorocksdb): gorocksdb is a Go wrapper for RocksDB  
+[gitql](https://github.com/filhodanuvem/gitql): 💊 A git query language
