@@ -864,4 +864,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [weather-predictor](https://github.com/carlosdiaz-meli/weather-predictor): Ejercicio de arquitectura y desarrollo de software orientado a resolver la necesidad de calcular predicciones climáticas de 10 años.  
 [flogo](https://github.com/TIBCOSoftware/flogo): Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.  
 [gobyexample](https://github.com/gobyexample-cn/gobyexample): Go by Example 通过例子学 Golang  
-[learning-go-lang](https://github.com/matheusFTC/learning-go-lang): Algoritmo e programas desenvolvidos no estudo da linguagem Go.
+[learning-go-lang](https://github.com/matheusFTC/learning-go-lang): Algoritmo e programas desenvolvidos no estudo da linguagem Go.  
+[hugo-michaelmallari](https://github.com/michaelmallari/hugo-michaelmallari): Hugo theme for data science blogging in Julia, Python, and R—developed with Go/Hugo, JavaScript/jQuery, CSS/LESS, and HTML.
