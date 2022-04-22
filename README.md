@@ -870,4 +870,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [docker-gen](https://github.com/nginx-proxy/docker-gen): Generate files from docker container meta-data  
 [gorocksdb](https://github.com/tecbot/gorocksdb): gorocksdb is a Go wrapper for RocksDB  
 [gitql](https://github.com/filhodanuvem/gitql): 💊 A git query language  
-[timeago](https://github.com/SerhiiCho/timeago): Fast and lightweight datetime package that converts given datetime into "n time ago" format
+[timeago](https://github.com/SerhiiCho/timeago): Fast and lightweight datetime package that converts given datetime into "n time ago" format  
+[go-generics-cache](https://github.com/Code-Hex/go-generics-cache): A key:value store/cache library written in Go 1.18 generics. LRU, LFU, FIFO, MRU, Clock support.
