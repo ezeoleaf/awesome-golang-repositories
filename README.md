@@ -877,4 +877,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gofeed](https://github.com/mmcdole/gofeed): Parse RSS, Atom and JSON feeds in Go  
 [statik](https://github.com/rakyll/statik): Embed files into a Go executable  
 [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/  
-[boilr](https://github.com/tmrts/boilr): :zap: boilerplate template manager that generates files or directories from template repositories
+[boilr](https://github.com/tmrts/boilr): :zap: boilerplate template manager that generates files or directories from template repositories  
+[APIRest_go](https://github.com/AlanGarduno/APIRest_go): API rest usando Go y Gorilla/mux
