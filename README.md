@@ -876,4 +876,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [correioscalc](https://github.com/cewitte/correioscalc): Esta é uma implementação Go (Golang) de um web service dos Correios, que permite obter o preço e o prazo de remessas (This is a Go/Golang implementation of a Correios web service, which allows you to obtain the price and delivery term).  
 [gofeed](https://github.com/mmcdole/gofeed): Parse RSS, Atom and JSON feeds in Go  
 [statik](https://github.com/rakyll/statik): Embed files into a Go executable  
-[al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
+[al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/  
+[boilr](https://github.com/tmrts/boilr): :zap: boilerplate template manager that generates files or directories from template repositories
