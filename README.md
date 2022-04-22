@@ -873,4 +873,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [timeago](https://github.com/SerhiiCho/timeago): Fast and lightweight datetime package that converts given datetime into "n time ago" format  
 [go-generics-cache](https://github.com/Code-Hex/go-generics-cache): A key:value store/cache library written in Go 1.18 generics. LRU, LFU, FIFO, MRU, Clock support.  
 [gin_tutorial](https://github.com/digininja/gin_tutorial): Learning to build web apps in Gin. Don't expect anything new or ground breaking, I'm just following tutorials.  
-[correioscalc](https://github.com/cewitte/correioscalc): Esta é uma implementação Go (Golang) de um web service dos Correios, que permite obter o preço e o prazo de remessas (This is a Go/Golang implementation of a Correios web service, which allows you to obtain the price and delivery term).
+[correioscalc](https://github.com/cewitte/correioscalc): Esta é uma implementação Go (Golang) de um web service dos Correios, que permite obter o preço e o prazo de remessas (This is a Go/Golang implementation of a Correios web service, which allows you to obtain the price and delivery term).  
+[gofeed](https://github.com/mmcdole/gofeed): Parse RSS, Atom and JSON feeds in Go
