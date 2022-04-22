@@ -875,4 +875,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gin_tutorial](https://github.com/digininja/gin_tutorial): Learning to build web apps in Gin. Don't expect anything new or ground breaking, I'm just following tutorials.  
 [correioscalc](https://github.com/cewitte/correioscalc): Esta é uma implementação Go (Golang) de um web service dos Correios, que permite obter o preço e o prazo de remessas (This is a Go/Golang implementation of a Correios web service, which allows you to obtain the price and delivery term).  
 [gofeed](https://github.com/mmcdole/gofeed): Parse RSS, Atom and JSON feeds in Go  
-[statik](https://github.com/rakyll/statik): Embed files into a Go executable
+[statik](https://github.com/rakyll/statik): Embed files into a Go executable  
+[al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
