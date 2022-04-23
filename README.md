@@ -883,4 +883,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-set](https://github.com/deckarep/golang-set): A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.  
 [pomerium](https://github.com/pomerium/pomerium): Pomerium is an identity-aware access proxy.  
 [transporter](https://github.com/compose/transporter): Sync data between persistence engines, like ETL only not stodgy  
-[go-vue-blog](https://github.com/grinat/go-vue-blog): Blog on Go + MongoDB and Vue.js (ssr on vue cli 3)
+[go-vue-blog](https://github.com/grinat/go-vue-blog): Blog on Go + MongoDB and Vue.js (ssr on vue cli 3)  
+[telnet](https://github.com/gorcon/telnet): TELNET Implementation for 7 Days to Die in Go.
