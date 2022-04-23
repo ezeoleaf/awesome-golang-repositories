@@ -879,4 +879,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/  
 [boilr](https://github.com/tmrts/boilr): :zap: boilerplate template manager that generates files or directories from template repositories  
 [APIRest_go](https://github.com/AlanGarduno/APIRest_go): API rest usando Go y Gorilla/mux  
-[Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server): OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+[Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server): OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）  
+[golang-set](https://github.com/deckarep/golang-set): A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
