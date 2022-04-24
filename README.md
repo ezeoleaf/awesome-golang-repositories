@@ -888,4 +888,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [nutsdb](https://github.com/nutsdb/nutsdb): A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.  
 [gaia](https://github.com/gaia-pipeline/gaia): Build powerful pipelines in any programming language.  
 [anaconda](https://github.com/ChimeraCoder/anaconda): A Go client library for the Twitter 1.1 API  
-[geziyor](https://github.com/geziyor/geziyor): Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
+[geziyor](https://github.com/geziyor/geziyor): Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.  
+[osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security
