@@ -885,4 +885,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [transporter](https://github.com/compose/transporter): Sync data between persistence engines, like ETL only not stodgy  
 [go-vue-blog](https://github.com/grinat/go-vue-blog): Blog on Go + MongoDB and Vue.js (ssr on vue cli 3)  
 [telnet](https://github.com/gorcon/telnet): TELNET Implementation for 7 Days to Die in Go.  
-[nutsdb](https://github.com/nutsdb/nutsdb): A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
+[nutsdb](https://github.com/nutsdb/nutsdb): A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.  
+[gaia](https://github.com/gaia-pipeline/gaia): Build powerful pipelines in any programming language.
