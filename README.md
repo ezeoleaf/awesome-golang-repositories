@@ -889,4 +889,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gaia](https://github.com/gaia-pipeline/gaia): Build powerful pipelines in any programming language.  
 [anaconda](https://github.com/ChimeraCoder/anaconda): A Go client library for the Twitter 1.1 API  
 [geziyor](https://github.com/geziyor/geziyor): Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.  
-[osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security
+[osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security  
+[brainfC](https://github.com/ClementTsang/brainfC): A WIP Brainf**k <=> C transpiler.
