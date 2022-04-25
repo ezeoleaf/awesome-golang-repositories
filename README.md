@@ -895,4 +895,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [bitset](https://github.com/bits-and-blooms/bitset): Go package implementing bitsets  
 [go-daemon](https://github.com/sevlyar/go-daemon): A library for writing system daemons in golang.  
 [glider](https://github.com/nadoo/glider): glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).  
-[Damerau-Levenshtein](https://github.com/lmas/Damerau-Levenshtein): Calculate the true Damerau–Levenshtein distance of string A and B
+[Damerau-Levenshtein](https://github.com/lmas/Damerau-Levenshtein): Calculate the true Damerau–Levenshtein distance of string A and B  
+[kinesis-tailf](https://github.com/fujiwara/kinesis-tailf): tail -f command for Amazon Kinesis Stream
