@@ -891,4 +891,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [geziyor](https://github.com/geziyor/geziyor): Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.  
 [osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security  
 [brainfC](https://github.com/ClementTsang/brainfC): A WIP Brainf**k <=> C transpiler.  
-[Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers): An example project, for my column named "Core Golang - 36 lessons"
+[Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers): An example project, for my column named "Core Golang - 36 lessons"  
+[bitset](https://github.com/bits-and-blooms/bitset): Go package implementing bitsets
