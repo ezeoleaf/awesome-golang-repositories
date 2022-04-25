@@ -893,4 +893,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [brainfC](https://github.com/ClementTsang/brainfC): A WIP Brainf**k <=> C transpiler.  
 [Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers): An example project, for my column named "Core Golang - 36 lessons"  
 [bitset](https://github.com/bits-and-blooms/bitset): Go package implementing bitsets  
-[go-daemon](https://github.com/sevlyar/go-daemon): A library for writing system daemons in golang.
+[go-daemon](https://github.com/sevlyar/go-daemon): A library for writing system daemons in golang.  
+[glider](https://github.com/nadoo/glider): glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
