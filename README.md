@@ -896,4 +896,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-daemon](https://github.com/sevlyar/go-daemon): A library for writing system daemons in golang.  
 [glider](https://github.com/nadoo/glider): glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).  
 [Damerau-Levenshtein](https://github.com/lmas/Damerau-Levenshtein): Calculate the true Damerau–Levenshtein distance of string A and B  
-[kinesis-tailf](https://github.com/fujiwara/kinesis-tailf): tail -f command for Amazon Kinesis Stream
+[kinesis-tailf](https://github.com/fujiwara/kinesis-tailf): tail -f command for Amazon Kinesis Stream  
+[treasure_hunt](https://github.com/lhdv/treasure_hunt): A simple webapp to hunt brazilian T-Bonds
