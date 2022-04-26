@@ -897,4 +897,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [glider](https://github.com/nadoo/glider): glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).  
 [Damerau-Levenshtein](https://github.com/lmas/Damerau-Levenshtein): Calculate the true Damerau–Levenshtein distance of string A and B  
 [kinesis-tailf](https://github.com/fujiwara/kinesis-tailf): tail -f command for Amazon Kinesis Stream  
-[treasure_hunt](https://github.com/lhdv/treasure_hunt): A simple webapp to hunt brazilian T-Bonds
+[treasure_hunt](https://github.com/lhdv/treasure_hunt): A simple webapp to hunt brazilian T-Bonds  
+[thoruh](https://github.com/grandiosedata/thoruh): A Go package for parsing GNU-style (and DOS-style) command-line options (inspired by the awesome argtable2 C library).
