@@ -899,4 +899,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kinesis-tailf](https://github.com/fujiwara/kinesis-tailf): tail -f command for Amazon Kinesis Stream  
 [treasure_hunt](https://github.com/lhdv/treasure_hunt): A simple webapp to hunt brazilian T-Bonds  
 [thoruh](https://github.com/grandiosedata/thoruh): A Go package for parsing GNU-style (and DOS-style) command-line options (inspired by the awesome argtable2 C library).  
-[dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend
+[dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend  
+[go-ruler](https://github.com/ibllex/go-ruler): rules engine for go and partially compatible with K-Phoen/rulerz which is written in PHP
