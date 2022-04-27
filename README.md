@@ -902,4 +902,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend  
 [go-ruler](https://github.com/ibllex/go-ruler): rules engine for go and partially compatible with K-Phoen/rulerz which is written in PHP  
 [go-generics-example](https://github.com/mattn/go-generics-example): Example code for Go generics  
-[melonnotifier](https://github.com/onodera-punpun/melonnotifier): A very simple, hackable libnotify notification daemon for X written in Go.
+[melonnotifier](https://github.com/onodera-punpun/melonnotifier): A very simple, hackable libnotify notification daemon for X written in Go.  
+[go-resiliency](https://github.com/eapache/go-resiliency): Resiliency patterns for golang
