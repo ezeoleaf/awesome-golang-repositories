@@ -905,4 +905,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [melonnotifier](https://github.com/onodera-punpun/melonnotifier): A very simple, hackable libnotify notification daemon for X written in Go.  
 [go-resiliency](https://github.com/eapache/go-resiliency): Resiliency patterns for golang  
 [StreamingAlgorithms](https://github.com/bmoscon/StreamingAlgorithms): A Set of Streaming Algorithms in C++, Python, and Go  
-[k3sup](https://github.com/alexellis/k3sup): bootstrap Kubernetes with k3s over SSH < 1 min 🚀
+[k3sup](https://github.com/alexellis/k3sup): bootstrap Kubernetes with k3s over SSH < 1 min 🚀  
+[gowebapp](https://github.com/josephspurrier/gowebapp): Basic MVC Web Application in Go
