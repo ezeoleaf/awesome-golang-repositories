@@ -907,4 +907,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [StreamingAlgorithms](https://github.com/bmoscon/StreamingAlgorithms): A Set of Streaming Algorithms in C++, Python, and Go  
 [k3sup](https://github.com/alexellis/k3sup): bootstrap Kubernetes with k3s over SSH < 1 min 🚀  
 [gowebapp](https://github.com/josephspurrier/gowebapp): Basic MVC Web Application in Go  
-[go-base](https://github.com/dhax/go-base): Go RESTful API Boilerplate with JWT Authentication backed by PostgreSQL
+[go-base](https://github.com/dhax/go-base): Go RESTful API Boilerplate with JWT Authentication backed by PostgreSQL  
+[gift](https://github.com/disintegration/gift): Go Image Filtering Toolkit
