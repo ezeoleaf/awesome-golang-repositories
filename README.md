@@ -908,4 +908,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [k3sup](https://github.com/alexellis/k3sup): bootstrap Kubernetes with k3s over SSH < 1 min 🚀  
 [gowebapp](https://github.com/josephspurrier/gowebapp): Basic MVC Web Application in Go  
 [go-base](https://github.com/dhax/go-base): Go RESTful API Boilerplate with JWT Authentication backed by PostgreSQL  
-[gift](https://github.com/disintegration/gift): Go Image Filtering Toolkit
+[gift](https://github.com/disintegration/gift): Go Image Filtering Toolkit  
+[LearnGolang](https://github.com/LearnGolang/LearnGolang): 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.
