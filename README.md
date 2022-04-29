@@ -911,4 +911,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gift](https://github.com/disintegration/gift): Go Image Filtering Toolkit  
 [LearnGolang](https://github.com/LearnGolang/LearnGolang): 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.  
 [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters  
-[fyne](https://github.com/fyne-io/fyne): Cross platform GUI in Go inspired by Material Design
+[fyne](https://github.com/fyne-io/fyne): Cross platform GUI in Go inspired by Material Design  
+[danser-go](https://github.com/Wieku/danser-go): Dancing visualizer of osu! standard maps and custom osu! client written in Go. Also a generator for osu! videos.
