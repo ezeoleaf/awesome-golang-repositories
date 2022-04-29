@@ -909,4 +909,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gowebapp](https://github.com/josephspurrier/gowebapp): Basic MVC Web Application in Go  
 [go-base](https://github.com/dhax/go-base): Go RESTful API Boilerplate with JWT Authentication backed by PostgreSQL  
 [gift](https://github.com/disintegration/gift): Go Image Filtering Toolkit  
-[LearnGolang](https://github.com/LearnGolang/LearnGolang): 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.
+[LearnGolang](https://github.com/LearnGolang/LearnGolang): 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.  
+[kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
