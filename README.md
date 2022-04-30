@@ -916,4 +916,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gosseract](https://github.com/otiai10/gosseract): Go package for OCR (Optical Character Recognition), by using Tesseract C++ library  
 [benthos](https://github.com/benthosdev/benthos): Fancy stream processing made operationally mundane  
 [redis_exporter](https://github.com/oliver006/redis_exporter): Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x  
-[gobot](https://github.com/hybridgroup/gobot): Golang framework for robotics, drones, and the Internet of Things (IoT)
+[gobot](https://github.com/hybridgroup/gobot): Golang framework for robotics, drones, and the Internet of Things (IoT)  
+[pagina-web-go-1-15](https://github.com/collectivecloudperu/pagina-web-go-1-15): Como Crear una Página Web con Go 1.15 y Bootstrap 4.5
