@@ -913,4 +913,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters  
 [fyne](https://github.com/fyne-io/fyne): Cross platform GUI in Go inspired by Material Design  
 [danser-go](https://github.com/Wieku/danser-go): Dancing visualizer of osu! standard maps and custom osu! client written in Go. Also a generator for osu! videos.  
-[gosseract](https://github.com/otiai10/gosseract): Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
+[gosseract](https://github.com/otiai10/gosseract): Go package for OCR (Optical Character Recognition), by using Tesseract C++ library  
+[benthos](https://github.com/benthosdev/benthos): Fancy stream processing made operationally mundane
