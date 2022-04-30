@@ -918,4 +918,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [redis_exporter](https://github.com/oliver006/redis_exporter): Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x  
 [gobot](https://github.com/hybridgroup/gobot): Golang framework for robotics, drones, and the Internet of Things (IoT)  
 [pagina-web-go-1-15](https://github.com/collectivecloudperu/pagina-web-go-1-15): Como Crear una Página Web con Go 1.15 y Bootstrap 4.5  
-[example.v2](https://github.com/gopcp/example.v2): An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).
+[example.v2](https://github.com/gopcp/example.v2): An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).  
+[simulated-evolution](https://github.com/csixteen/simulated-evolution): :herb: Simulated Evolution, adapted from A.K. Dewdney's article in the "Computer Recreations" column of Scientific American (May 1989: 138-141).
