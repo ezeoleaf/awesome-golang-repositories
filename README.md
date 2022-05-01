@@ -921,4 +921,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [example.v2](https://github.com/gopcp/example.v2): An example project for book 'Go Programming & Concurrency in Practice, 2nd edition' (《Go并发编程实战》第2版).  
 [simulated-evolution](https://github.com/csixteen/simulated-evolution): :herb: Simulated Evolution, adapted from A.K. Dewdney's article in the "Computer Recreations" column of Scientific American (May 1989: 138-141).  
 [movies-api](https://github.com/haapjari/movies-api):  freeCodeCamp Course - Learn Go Programming by Building 11 Projects – Full Course (https://www.youtube.com/watch?v=jFfo23yIWac)   
-[go-clean-template](https://github.com/evrone/go-clean-template): Clean Architecture template for Golang services
+[go-clean-template](https://github.com/evrone/go-clean-template): Clean Architecture template for Golang services  
+[logfmt](https://github.com/wayneashleyberry/logfmt): An opinionated log formatter that you probably don't want to use.
