@@ -927,4 +927,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-mega](https://github.com/bonfy/go-mega): ✨🤟✨Go-Mega Tutorial for Go Web Develop | Demo: https://go-mega.herokuapp.com  
 [goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops): Workshop material for 8 hours using golang  
 [stockrecorder](https://github.com/nzai/stockrecorder): 记录A股美股股票分时数据  
-[lesser](https://github.com/lelysses/lesser): a tiny (8 sloc without comments) library to present a uniform interface for generic natural ordering of types 
+[lesser](https://github.com/lelysses/lesser): a tiny (8 sloc without comments) library to present a uniform interface for generic natural ordering of types   
+[coleoptera](https://github.com/rverpillot/coleoptera): Application de gestion d'une collection d'insectes
