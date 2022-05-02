@@ -926,4 +926,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mouthful](https://github.com/vkuznecovas/mouthful): Mouthful is a self-hosted alternative to Disqus  
 [go-mega](https://github.com/bonfy/go-mega): ✨🤟✨Go-Mega Tutorial for Go Web Develop | Demo: https://go-mega.herokuapp.com  
 [goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops): Workshop material for 8 hours using golang  
-[stockrecorder](https://github.com/nzai/stockrecorder): 记录A股美股股票分时数据
+[stockrecorder](https://github.com/nzai/stockrecorder): 记录A股美股股票分时数据  
+[lesser](https://github.com/lelysses/lesser): a tiny (8 sloc without comments) library to present a uniform interface for generic natural ordering of types 
