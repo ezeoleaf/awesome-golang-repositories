@@ -923,4 +923,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [movies-api](https://github.com/haapjari/movies-api):  freeCodeCamp Course - Learn Go Programming by Building 11 Projects – Full Course (https://www.youtube.com/watch?v=jFfo23yIWac)   
 [go-clean-template](https://github.com/evrone/go-clean-template): Clean Architecture template for Golang services  
 [logfmt](https://github.com/wayneashleyberry/logfmt): An opinionated log formatter that you probably don't want to use.  
-[mouthful](https://github.com/vkuznecovas/mouthful): Mouthful is a self-hosted alternative to Disqus
+[mouthful](https://github.com/vkuznecovas/mouthful): Mouthful is a self-hosted alternative to Disqus  
+[go-mega](https://github.com/bonfy/go-mega): ✨🤟✨Go-Mega Tutorial for Go Web Develop | Demo: https://go-mega.herokuapp.com
