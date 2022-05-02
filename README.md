@@ -924,4 +924,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-clean-template](https://github.com/evrone/go-clean-template): Clean Architecture template for Golang services  
 [logfmt](https://github.com/wayneashleyberry/logfmt): An opinionated log formatter that you probably don't want to use.  
 [mouthful](https://github.com/vkuznecovas/mouthful): Mouthful is a self-hosted alternative to Disqus  
-[go-mega](https://github.com/bonfy/go-mega): ✨🤟✨Go-Mega Tutorial for Go Web Develop | Demo: https://go-mega.herokuapp.com
+[go-mega](https://github.com/bonfy/go-mega): ✨🤟✨Go-Mega Tutorial for Go Web Develop | Demo: https://go-mega.herokuapp.com  
+[goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops): Workshop material for 8 hours using golang
