@@ -928,4 +928,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops): Workshop material for 8 hours using golang  
 [stockrecorder](https://github.com/nzai/stockrecorder): 记录A股美股股票分时数据  
 [lesser](https://github.com/lelysses/lesser): a tiny (8 sloc without comments) library to present a uniform interface for generic natural ordering of types   
-[coleoptera](https://github.com/rverpillot/coleoptera): Application de gestion d'une collection d'insectes
+[coleoptera](https://github.com/rverpillot/coleoptera): Application de gestion d'une collection d'insectes  
+[AutoSpotting](https://github.com/cloudutil/AutoSpotting): Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
