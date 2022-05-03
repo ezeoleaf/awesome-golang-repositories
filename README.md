@@ -931,4 +931,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [coleoptera](https://github.com/rverpillot/coleoptera): Application de gestion d'une collection d'insectes  
 [AutoSpotting](https://github.com/cloudutil/AutoSpotting): Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.  
 [sshesame](https://github.com/jaksi/sshesame): An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity  
-[goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.
+[goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.  
+[go-cmp](https://github.com/google/go-cmp): Package for comparing Go values in tests
