@@ -933,4 +933,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sshesame](https://github.com/jaksi/sshesame): An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity  
 [goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.  
 [go-cmp](https://github.com/google/go-cmp): Package for comparing Go values in tests  
-[codeforces-go](https://github.com/EndlessCheng/codeforces-go): Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈
+[codeforces-go](https://github.com/EndlessCheng/codeforces-go): Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈  
+[go2cpp](https://github.com/xyproto/go2cpp): Go to C++20 transpiler
