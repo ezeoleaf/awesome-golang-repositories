@@ -937,4 +937,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go2cpp](https://github.com/xyproto/go2cpp): Go to C++20 transpiler  
 [go-binance](https://github.com/adshao/go-binance): A Go SDK for Binance API  
 [excelize](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets  
-[flaggio](https://github.com/uw-labs/flaggio): Self hosted feature flag and A/B testing application
+[flaggio](https://github.com/uw-labs/flaggio): Self hosted feature flag and A/B testing application  
+[jsonparser](https://github.com/buger/jsonparser): One of the fastest alternative JSON parser for Go that does not require schema
