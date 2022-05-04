@@ -935,4 +935,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-cmp](https://github.com/google/go-cmp): Package for comparing Go values in tests  
 [codeforces-go](https://github.com/EndlessCheng/codeforces-go): Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈  
 [go2cpp](https://github.com/xyproto/go2cpp): Go to C++20 transpiler  
-[go-binance](https://github.com/adshao/go-binance): A Go SDK for Binance API
+[go-binance](https://github.com/adshao/go-binance): A Go SDK for Binance API  
+[excelize](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
