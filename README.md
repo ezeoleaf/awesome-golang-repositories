@@ -934,4 +934,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.  
 [go-cmp](https://github.com/google/go-cmp): Package for comparing Go values in tests  
 [codeforces-go](https://github.com/EndlessCheng/codeforces-go): Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈  
-[go2cpp](https://github.com/xyproto/go2cpp): Go to C++20 transpiler
+[go2cpp](https://github.com/xyproto/go2cpp): Go to C++20 transpiler  
+[go-binance](https://github.com/adshao/go-binance): A Go SDK for Binance API
