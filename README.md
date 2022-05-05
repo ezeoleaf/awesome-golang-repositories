@@ -942,4 +942,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [snowflake](https://github.com/bwmarrin/snowflake): A simple to use Go (golang) package to generate or parse Twitter snowflake IDs  
 [100-go-mistakes](https://github.com/teivah/100-go-mistakes): Source code of 📖 100 Go Mistakes  
 [webrtc](https://github.com/pion/webrtc): Pure Go implementation of the WebRTC API  
-[openblockchain](https://github.com/OpenBlockProject/openblockchain): Open Blockchain's node software
+[openblockchain](https://github.com/OpenBlockProject/openblockchain): Open Blockchain's node software  
+[vue-go-example](https://github.com/ndabAP/vue-go-example): Vue.js and Go example project
