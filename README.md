@@ -941,4 +941,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jsonparser](https://github.com/buger/jsonparser): One of the fastest alternative JSON parser for Go that does not require schema  
 [snowflake](https://github.com/bwmarrin/snowflake): A simple to use Go (golang) package to generate or parse Twitter snowflake IDs  
 [100-go-mistakes](https://github.com/teivah/100-go-mistakes): Source code of 📖 100 Go Mistakes  
-[webrtc](https://github.com/pion/webrtc): Pure Go implementation of the WebRTC API
+[webrtc](https://github.com/pion/webrtc): Pure Go implementation of the WebRTC API  
+[openblockchain](https://github.com/OpenBlockProject/openblockchain): Open Blockchain's node software
