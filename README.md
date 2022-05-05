@@ -940,4 +940,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [flaggio](https://github.com/uw-labs/flaggio): Self hosted feature flag and A/B testing application  
 [jsonparser](https://github.com/buger/jsonparser): One of the fastest alternative JSON parser for Go that does not require schema  
 [snowflake](https://github.com/bwmarrin/snowflake): A simple to use Go (golang) package to generate or parse Twitter snowflake IDs  
-[100-go-mistakes](https://github.com/teivah/100-go-mistakes): Source code of 📖 100 Go Mistakes
+[100-go-mistakes](https://github.com/teivah/100-go-mistakes): Source code of 📖 100 Go Mistakes  
+[webrtc](https://github.com/pion/webrtc): Pure Go implementation of the WebRTC API
