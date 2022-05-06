@@ -947,4 +947,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [memdb](https://github.com/KenanBek/memdb): In-memory database with O(1) insert, delete and search.  
 [go-hardware](https://github.com/rakyll/go-hardware): A directory of hardware related libs, tools, and tutorials for Go  
 [tiedot](https://github.com/HouzuoGuo/tiedot): A rudimentary implementation of a basic document (NoSQL) database in Go  
-[qlbridge](https://github.com/araddon/qlbridge): A golang expression evaluator & Library to build SQL query engine based functionality. 
+[qlbridge](https://github.com/araddon/qlbridge): A golang expression evaluator & Library to build SQL query engine based functionality.   
+[intro2py](https://github.com/riyadhuddin/intro2py): :p
