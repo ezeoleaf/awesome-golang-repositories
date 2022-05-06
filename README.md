@@ -944,4 +944,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [webrtc](https://github.com/pion/webrtc): Pure Go implementation of the WebRTC API  
 [openblockchain](https://github.com/OpenBlockProject/openblockchain): Open Blockchain's node software  
 [vue-go-example](https://github.com/ndabAP/vue-go-example): Vue.js and Go example project  
-[memdb](https://github.com/KenanBek/memdb): In-memory database with O(1) insert, delete and search.
+[memdb](https://github.com/KenanBek/memdb): In-memory database with O(1) insert, delete and search.  
+[go-hardware](https://github.com/rakyll/go-hardware): A directory of hardware related libs, tools, and tutorials for Go
