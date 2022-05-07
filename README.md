@@ -949,4 +949,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tiedot](https://github.com/HouzuoGuo/tiedot): A rudimentary implementation of a basic document (NoSQL) database in Go  
 [qlbridge](https://github.com/araddon/qlbridge): A golang expression evaluator & Library to build SQL query engine based functionality.   
 [intro2py](https://github.com/riyadhuddin/intro2py): :p  
-[rate-limiter](https://github.com/ivanstanev/rate-limiter): A simple rate limiting library with swappable algorithms and configurable backends (e.g. Redis, in-memory, etc.).
+[rate-limiter](https://github.com/ivanstanev/rate-limiter): A simple rate limiting library with swappable algorithms and configurable backends (e.g. Redis, in-memory, etc.).  
+[carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt): YAML templating tool that works on YAML structure instead of text
