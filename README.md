@@ -952,4 +952,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rate-limiter](https://github.com/ivanstanev/rate-limiter): A simple rate limiting library with swappable algorithms and configurable backends (e.g. Redis, in-memory, etc.).  
 [carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt): YAML templating tool that works on YAML structure instead of text  
 [cfilter](https://github.com/irfansharif/cfilter): Cuckoo Filter implementation in Go, better than Bloom Filters (unmaintained)  
-[email.v2](https://github.com/BourgeoisBear/email.v2): An E-Mail Interface for Nerds
+[email.v2](https://github.com/BourgeoisBear/email.v2): An E-Mail Interface for Nerds  
+[go-sdk](https://github.com/transloadit/go-sdk): Transloadit's official Go SDK, maintained by the community
