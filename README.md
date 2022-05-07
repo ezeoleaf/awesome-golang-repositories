@@ -950,4 +950,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [qlbridge](https://github.com/araddon/qlbridge): A golang expression evaluator & Library to build SQL query engine based functionality.   
 [intro2py](https://github.com/riyadhuddin/intro2py): :p  
 [rate-limiter](https://github.com/ivanstanev/rate-limiter): A simple rate limiting library with swappable algorithms and configurable backends (e.g. Redis, in-memory, etc.).  
-[carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt): YAML templating tool that works on YAML structure instead of text
+[carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt): YAML templating tool that works on YAML structure instead of text  
+[cfilter](https://github.com/irfansharif/cfilter): Cuckoo Filter implementation in Go, better than Bloom Filters (unmaintained)
