@@ -953,4 +953,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt): YAML templating tool that works on YAML structure instead of text  
 [cfilter](https://github.com/irfansharif/cfilter): Cuckoo Filter implementation in Go, better than Bloom Filters (unmaintained)  
 [email.v2](https://github.com/BourgeoisBear/email.v2): An E-Mail Interface for Nerds  
-[go-sdk](https://github.com/transloadit/go-sdk): Transloadit's official Go SDK, maintained by the community
+[go-sdk](https://github.com/transloadit/go-sdk): Transloadit's official Go SDK, maintained by the community  
+[shortener](https://github.com/aladhims/shortener): A shortener url app for demonstrating distributed system a.k.a modern microservice architecture
