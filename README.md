@@ -955,4 +955,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [email.v2](https://github.com/BourgeoisBear/email.v2): An E-Mail Interface for Nerds  
 [go-sdk](https://github.com/transloadit/go-sdk): Transloadit's official Go SDK, maintained by the community  
 [shortener](https://github.com/aladhims/shortener): A shortener url app for demonstrating distributed system a.k.a modern microservice architecture  
-[chroma](https://github.com/alecthomas/chroma): A general purpose syntax highlighter in pure Go 
+[chroma](https://github.com/alecthomas/chroma): A general purpose syntax highlighter in pure Go   
+[easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system
