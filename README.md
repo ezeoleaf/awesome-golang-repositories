@@ -958,4 +958,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [chroma](https://github.com/alecthomas/chroma): A general purpose syntax highlighter in pure Go   
 [easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system  
 [go-quicksort](https://github.com/michelbernardods/go-quicksort): Implementando o  método de ordenação quicksort em Golang  
-[go-dura](https://github.com/apogeesystems/go-dura): Tim Kellogg's Dura but written in Go
+[go-dura](https://github.com/apogeesystems/go-dura): Tim Kellogg's Dura but written in Go  
+[tengo](https://github.com/d5/tengo): A fast script language for Go
