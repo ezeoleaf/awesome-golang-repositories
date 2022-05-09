@@ -957,4 +957,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [shortener](https://github.com/aladhims/shortener): A shortener url app for demonstrating distributed system a.k.a modern microservice architecture  
 [chroma](https://github.com/alecthomas/chroma): A general purpose syntax highlighter in pure Go   
 [easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system  
-[go-quicksort](https://github.com/michelbernardods/go-quicksort): Implementando o  método de ordenação quicksort em Golang
+[go-quicksort](https://github.com/michelbernardods/go-quicksort): Implementando o  método de ordenação quicksort em Golang  
+[go-dura](https://github.com/apogeesystems/go-dura): Tim Kellogg's Dura but written in Go
