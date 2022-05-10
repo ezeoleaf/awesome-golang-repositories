@@ -963,4 +963,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-cache](https://github.com/patrickmn/go-cache): An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.  
 [prisma-client-go](https://github.com/prisma/prisma-client-go): Prisma Client Go is an auto-generated and fully type-safe database client  
 [lets-go-wwg](https://github.com/larismourullo/lets-go-wwg): 🦦 Repositório para o curso de iniciação em Golang do Women Who Go.  
-[go-yaml](https://github.com/goccy/go-yaml): YAML support for the Go language
+[go-yaml](https://github.com/goccy/go-yaml): YAML support for the Go language  
+[draw2d](https://github.com/llgcode/draw2d): 2D rendering for different output (raster, pdf, svg)
