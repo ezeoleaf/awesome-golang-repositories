@@ -961,4 +961,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-dura](https://github.com/apogeesystems/go-dura): Tim Kellogg's Dura but written in Go  
 [tengo](https://github.com/d5/tengo): A fast script language for Go  
 [go-cache](https://github.com/patrickmn/go-cache): An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.  
-[prisma-client-go](https://github.com/prisma/prisma-client-go): Prisma Client Go is an auto-generated and fully type-safe database client
+[prisma-client-go](https://github.com/prisma/prisma-client-go): Prisma Client Go is an auto-generated and fully type-safe database client  
+[lets-go-wwg](https://github.com/larismourullo/lets-go-wwg): 🦦 Repositório para o curso de iniciação em Golang do Women Who Go.
