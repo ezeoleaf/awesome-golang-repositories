@@ -965,4 +965,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [lets-go-wwg](https://github.com/larismourullo/lets-go-wwg): 🦦 Repositório para o curso de iniciação em Golang do Women Who Go.  
 [go-yaml](https://github.com/goccy/go-yaml): YAML support for the Go language  
 [draw2d](https://github.com/llgcode/draw2d): 2D rendering for different output (raster, pdf, svg)  
-[asm](https://github.com/segmentio/asm): Go library providing algorithms optimized to leverage the characteristics of modern CPUs
+[asm](https://github.com/segmentio/asm): Go library providing algorithms optimized to leverage the characteristics of modern CPUs  
+[GoC-Protobuf](https://github.com/brundhasv/GoC-Protobuf): Go functions integrated with C
