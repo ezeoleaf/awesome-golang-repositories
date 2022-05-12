@@ -970,4 +970,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gortsplib](https://github.com/aler9/gortsplib): RTSP 1.0 client and server library for the Go programming language  
 [realize](https://github.com/oxequa/realize): Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.  
 [gojson](https://github.com/ChimeraCoder/gojson): Automatically generate Go (golang) struct definitions from example JSON  
-[casdoor](https://github.com/casdoor/casdoor): An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+[casdoor](https://github.com/casdoor/casdoor): An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447  
+[xvi-wiek-yaml2latex](https://github.com/pjaskulski/xvi-wiek-yaml2latex): Program do konwersji opisów wydarzeń historycznych z plików yaml do dokumentu w formacie LaTeX, kompilowanego do pliku pdf dostępnego na stronie xvi-wiek.pl/pdf
