@@ -969,4 +969,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GoC-Protobuf](https://github.com/brundhasv/GoC-Protobuf): Go functions integrated with C  
 [gortsplib](https://github.com/aler9/gortsplib): RTSP 1.0 client and server library for the Go programming language  
 [realize](https://github.com/oxequa/realize): Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.  
-[gojson](https://github.com/ChimeraCoder/gojson): Automatically generate Go (golang) struct definitions from example JSON
+[gojson](https://github.com/ChimeraCoder/gojson): Automatically generate Go (golang) struct definitions from example JSON  
+[casdoor](https://github.com/casdoor/casdoor): An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
