@@ -972,4 +972,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gojson](https://github.com/ChimeraCoder/gojson): Automatically generate Go (golang) struct definitions from example JSON  
 [casdoor](https://github.com/casdoor/casdoor): An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447  
 [xvi-wiek-yaml2latex](https://github.com/pjaskulski/xvi-wiek-yaml2latex): Program do konwersji opisów wydarzeń historycznych z plików yaml do dokumentu w formacie LaTeX, kompilowanego do pliku pdf dostępnego na stronie xvi-wiek.pl/pdf  
-[gocat](https://github.com/traviscampbell/gocat): Gocat just sits around getting schwifty on Nip all day, because it makes his world a more colorful place. (a.k.a. colorized cat using Chroma for highlighting)
+[gocat](https://github.com/traviscampbell/gocat): Gocat just sits around getting schwifty on Nip all day, because it makes his world a more colorful place. (a.k.a. colorized cat using Chroma for highlighting)  
+[trytryagain](https://github.com/ynori7/trytryagain): If at first you don't succeed... A simple library for executing an action with retries.
