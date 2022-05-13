@@ -974,4 +974,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [xvi-wiek-yaml2latex](https://github.com/pjaskulski/xvi-wiek-yaml2latex): Program do konwersji opisów wydarzeń historycznych z plików yaml do dokumentu w formacie LaTeX, kompilowanego do pliku pdf dostępnego na stronie xvi-wiek.pl/pdf  
 [gocat](https://github.com/traviscampbell/gocat): Gocat just sits around getting schwifty on Nip all day, because it makes his world a more colorful place. (a.k.a. colorized cat using Chroma for highlighting)  
 [trytryagain](https://github.com/ynori7/trytryagain): If at first you don't succeed... A simple library for executing an action with retries.  
-[kotlin_e-commerce_MVVM](https://github.com/achmadrizkin/kotlin_e-commerce_MVVM): Make E-Commerce using Kotlin MVVM
+[kotlin_e-commerce_MVVM](https://github.com/achmadrizkin/kotlin_e-commerce_MVVM): Make E-Commerce using Kotlin MVVM  
+[imgui-go](https://github.com/inkyblackness/imgui-go): Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui) 
