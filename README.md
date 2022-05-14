@@ -978,4 +978,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [imgui-go](https://github.com/inkyblackness/imgui-go): Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)   
 [sls-chat-app](https://github.com/Jimeux/sls-chat-app): A real-time serverless chat application with Go and Vue 3  
 [fast-skiplist](https://github.com/sean-public/fast-skiplist): A fast, threadsafe skip list in Go  
-[go-profiler-notes](https://github.com/DataDog/go-profiler-notes): felixge's notes on the various go profiling methods that are available.
+[go-profiler-notes](https://github.com/DataDog/go-profiler-notes): felixge's notes on the various go profiling methods that are available.  
+[go-crud-api](https://github.com/moaabid/go-crud-api): Movies CRUD API using GO and Gorilla mux. (C)
