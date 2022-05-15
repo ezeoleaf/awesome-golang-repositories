@@ -986,4 +986,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-shellcode](https://github.com/brimstone/go-shellcode): Load shellcode into a new process  
 [rules_webtesting](https://github.com/bazelbuild/rules_webtesting): Bazel rules to allow testing against a browser with WebDriver.  
 [bifrost](https://github.com/aperturerobotics/bifrost): Cross-platform modular communications library & daemon for Go w/ flexible protobuf+yaml config. Supports transports, links, pubsub (NATS), quic-over-websocket, libp2p & drpc, crypto, simulations, and more. Browser supported with GopherJS and Wasm.  
-[Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns): Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.
+[Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns): Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.  
+[getty](https://github.com/AlexStocks/getty): a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd
