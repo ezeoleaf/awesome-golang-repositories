@@ -983,4 +983,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [bubbletea](https://github.com/charmbracelet/bubbletea): A powerful little TUI framework 🏗  
 [gcache](https://github.com/bluele/gcache): An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC  
 [heximage](https://github.com/wyattjoh/heximage): An attempt at creating an implementation of the r/Place experiment in Go with help from Redis for 24 bit colour support  
-[go-shellcode](https://github.com/brimstone/go-shellcode): Load shellcode into a new process
+[go-shellcode](https://github.com/brimstone/go-shellcode): Load shellcode into a new process  
+[rules_webtesting](https://github.com/bazelbuild/rules_webtesting): Bazel rules to allow testing against a browser with WebDriver.
