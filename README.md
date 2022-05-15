@@ -981,4 +981,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-profiler-notes](https://github.com/DataDog/go-profiler-notes): felixge's notes on the various go profiling methods that are available.  
 [go-crud-api](https://github.com/moaabid/go-crud-api): Movies CRUD API using GO and Gorilla mux. (C)  
 [bubbletea](https://github.com/charmbracelet/bubbletea): A powerful little TUI framework 🏗  
-[gcache](https://github.com/bluele/gcache): An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
+[gcache](https://github.com/bluele/gcache): An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC  
+[heximage](https://github.com/wyattjoh/heximage): An attempt at creating an implementation of the r/Place experiment in Go with help from Redis for 24 bit colour support
