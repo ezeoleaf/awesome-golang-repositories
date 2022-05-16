@@ -991,4 +991,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ristretto](https://github.com/dgraph-io/ristretto): A high performance memory-bound Go cache  
 [go-codegen-tutorial](https://github.com/tompston/go-codegen-tutorial): 4 minimal examples of codegen with "text/template"  
 [buildkit](https://github.com/moby/buildkit): concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit  
-[mastering-bitcoin](https://github.com/Ltadrian/mastering-bitcoin): Following 'Mastering Bitcoin 2nd Edition' (by Andreas M. Antonopoulos) and rewriting examples in Go.
+[mastering-bitcoin](https://github.com/Ltadrian/mastering-bitcoin): Following 'Mastering Bitcoin 2nd Edition' (by Andreas M. Antonopoulos) and rewriting examples in Go.  
+[rmake](https://github.com/joshi4/rmake): rmake finds makefiles so you don't have to
