@@ -989,4 +989,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns): Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.  
 [getty](https://github.com/AlexStocks/getty): a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd  
 [ristretto](https://github.com/dgraph-io/ristretto): A high performance memory-bound Go cache  
-[go-codegen-tutorial](https://github.com/tompston/go-codegen-tutorial): 4 minimal examples of codegen with "text/template"
+[go-codegen-tutorial](https://github.com/tompston/go-codegen-tutorial): 4 minimal examples of codegen with "text/template"  
+[buildkit](https://github.com/moby/buildkit): concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
