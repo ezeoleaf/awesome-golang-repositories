@@ -990,4 +990,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [getty](https://github.com/AlexStocks/getty): a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd  
 [ristretto](https://github.com/dgraph-io/ristretto): A high performance memory-bound Go cache  
 [go-codegen-tutorial](https://github.com/tompston/go-codegen-tutorial): 4 minimal examples of codegen with "text/template"  
-[buildkit](https://github.com/moby/buildkit): concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+[buildkit](https://github.com/moby/buildkit): concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit  
+[mastering-bitcoin](https://github.com/Ltadrian/mastering-bitcoin): Following 'Mastering Bitcoin 2nd Edition' (by Andreas M. Antonopoulos) and rewriting examples in Go.
