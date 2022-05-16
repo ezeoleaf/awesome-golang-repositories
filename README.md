@@ -993,4 +993,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [buildkit](https://github.com/moby/buildkit): concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit  
 [mastering-bitcoin](https://github.com/Ltadrian/mastering-bitcoin): Following 'Mastering Bitcoin 2nd Edition' (by Andreas M. Antonopoulos) and rewriting examples in Go.  
 [rmake](https://github.com/joshi4/rmake): rmake finds makefiles so you don't have to  
-[brewhousery](https://github.com/saurabh-mish/brewhousery): Seattle's second best coffee house
+[brewhousery](https://github.com/saurabh-mish/brewhousery): Seattle's second best coffee house  
+[go-ngram](https://github.com/euskadi31/go-ngram): an n-gram is a contiguous sequence of n items from a given sequence of text or speech.
