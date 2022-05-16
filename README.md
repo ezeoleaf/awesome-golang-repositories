@@ -988,4 +988,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [bifrost](https://github.com/aperturerobotics/bifrost): Cross-platform modular communications library & daemon for Go w/ flexible protobuf+yaml config. Supports transports, links, pubsub (NATS), quic-over-websocket, libp2p & drpc, crypto, simulations, and more. Browser supported with GopherJS and Wasm.  
 [Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns): Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.  
 [getty](https://github.com/AlexStocks/getty): a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd  
-[ristretto](https://github.com/dgraph-io/ristretto): A high performance memory-bound Go cache
+[ristretto](https://github.com/dgraph-io/ristretto): A high performance memory-bound Go cache  
+[go-codegen-tutorial](https://github.com/tompston/go-codegen-tutorial): 4 minimal examples of codegen with "text/template"
