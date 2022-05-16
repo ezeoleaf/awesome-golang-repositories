@@ -994,4 +994,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mastering-bitcoin](https://github.com/Ltadrian/mastering-bitcoin): Following 'Mastering Bitcoin 2nd Edition' (by Andreas M. Antonopoulos) and rewriting examples in Go.  
 [rmake](https://github.com/joshi4/rmake): rmake finds makefiles so you don't have to  
 [brewhousery](https://github.com/saurabh-mish/brewhousery): Seattle's second best coffee house  
-[go-ngram](https://github.com/euskadi31/go-ngram): an n-gram is a contiguous sequence of n items from a given sequence of text or speech.
+[go-ngram](https://github.com/euskadi31/go-ngram): an n-gram is a contiguous sequence of n items from a given sequence of text or speech.  
+[project-euler](https://github.com/lcsm29/project-euler): My solutions for Project Euler problems in Python, C, C++, C#, F#, Go, Haskell, Java, JavaScript, PHP, Ruby, SQL
