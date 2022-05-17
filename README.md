@@ -1000,4 +1000,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-dockerclient](https://github.com/fsouza/go-dockerclient): Go client for the Docker Engine API.  
 [goreman](https://github.com/mattn/goreman): foreman clone written in go language  
 [zerrors](https://github.com/dtomasi/zerrors): zerrors is a wrapper arround golang.org/x/xerrors with some additional features.  
-[golang-berlin](https://github.com/hartwork/golang-berlin): :four_leaf_clover: Ever wondered who's doing Golang... in Berlin?
+[golang-berlin](https://github.com/hartwork/golang-berlin): :four_leaf_clover: Ever wondered who's doing Golang... in Berlin?  
+[awesome-counter](https://github.com/aaltgod/awesome-counter): Программа считает кол-во вхождений строки "Go" в теле ответа. Количество горутин не превышает 5.
