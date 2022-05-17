@@ -998,4 +998,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [project-euler](https://github.com/lcsm29/project-euler): My solutions for Project Euler problems in Python, C, C++, C#, F#, Go, Haskell, Java, JavaScript, PHP, Ruby, SQL  
 [ejemplos-go-gorilla-mux](https://github.com/parzibyte/ejemplos-go-gorilla-mux): Ejemplos para usar el mux de Gorilla en Go y definir rutas o usar middleware  
 [go-dockerclient](https://github.com/fsouza/go-dockerclient): Go client for the Docker Engine API.  
-[goreman](https://github.com/mattn/goreman): foreman clone written in go language
+[goreman](https://github.com/mattn/goreman): foreman clone written in go language  
+[zerrors](https://github.com/dtomasi/zerrors): zerrors is a wrapper arround golang.org/x/xerrors with some additional features.
