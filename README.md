@@ -996,4 +996,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [brewhousery](https://github.com/saurabh-mish/brewhousery): Seattle's second best coffee house  
 [go-ngram](https://github.com/euskadi31/go-ngram): an n-gram is a contiguous sequence of n items from a given sequence of text or speech.  
 [project-euler](https://github.com/lcsm29/project-euler): My solutions for Project Euler problems in Python, C, C++, C#, F#, Go, Haskell, Java, JavaScript, PHP, Ruby, SQL  
-[ejemplos-go-gorilla-mux](https://github.com/parzibyte/ejemplos-go-gorilla-mux): Ejemplos para usar el mux de Gorilla en Go y definir rutas o usar middleware
+[ejemplos-go-gorilla-mux](https://github.com/parzibyte/ejemplos-go-gorilla-mux): Ejemplos para usar el mux de Gorilla en Go y definir rutas o usar middleware  
+[go-dockerclient](https://github.com/fsouza/go-dockerclient): Go client for the Docker Engine API.
