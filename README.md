@@ -1003,4 +1003,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-berlin](https://github.com/hartwork/golang-berlin): :four_leaf_clover: Ever wondered who's doing Golang... in Berlin?  
 [awesome-counter](https://github.com/aaltgod/awesome-counter): Программа считает кол-во вхождений строки "Go" в теле ответа. Количество горутин не превышает 5.  
 [passwall-server](https://github.com/passwall/passwall-server): Passwall Server is the core backend infrastructure for Passwall platform  
-[pcaplay](https://github.com/ruel/pcaplay): Replays application layer packets from pcap files to a layer 4 connection
+[pcaplay](https://github.com/ruel/pcaplay): Replays application layer packets from pcap files to a layer 4 connection  
+[elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell
