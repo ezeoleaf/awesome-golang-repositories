@@ -1007,4 +1007,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell  
 [mizu](https://github.com/up9inc/mizu): API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes  
 [pachyderm](https://github.com/pachyderm/pachyderm): The Complete MLOps Stack  
-[lz4](https://github.com/pierrec/lz4): LZ4 compression and decompression in pure Go
+[lz4](https://github.com/pierrec/lz4): LZ4 compression and decompression in pure Go  
+[mogo](https://github.com/grokify/mogo): A collection of small DRY Go utilities to make life easier. DRY = Don't Repeat Yourself.
