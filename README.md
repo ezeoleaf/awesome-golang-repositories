@@ -1009,4 +1009,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pachyderm](https://github.com/pachyderm/pachyderm): The Complete MLOps Stack  
 [lz4](https://github.com/pierrec/lz4): LZ4 compression and decompression in pure Go  
 [mogo](https://github.com/grokify/mogo): A collection of small DRY Go utilities to make life easier. DRY = Don't Repeat Yourself.  
-[Golang-Interview](https://github.com/yqchilde/Golang-Interview): Golang面试题，收集自Golang中文网，收集是为了自己可以巩固复习，不必要每次去找
+[Golang-Interview](https://github.com/yqchilde/Golang-Interview): Golang面试题，收集自Golang中文网，收集是为了自己可以巩固复习，不必要每次去找  
+[glfw](https://github.com/go-gl/glfw): Go bindings for GLFW 3
