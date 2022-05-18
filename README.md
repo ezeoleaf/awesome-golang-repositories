@@ -1005,4 +1005,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [passwall-server](https://github.com/passwall/passwall-server): Passwall Server is the core backend infrastructure for Passwall platform  
 [pcaplay](https://github.com/ruel/pcaplay): Replays application layer packets from pcap files to a layer 4 connection  
 [elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell  
-[mizu](https://github.com/up9inc/mizu): API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
+[mizu](https://github.com/up9inc/mizu): API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes  
+[pachyderm](https://github.com/pachyderm/pachyderm): The Complete MLOps Stack
