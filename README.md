@@ -1015,4 +1015,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [students-api](https://github.com/haapjari/students-api): Following a YouTube Course: https://www.youtube.com/watch?v=TkbhQQS3m_o  
 [phrase](https://github.com/danilobuerger/phrase): Converts a phrase to a different case (e.g. CamelCase)  
 [lib-examples](https://github.com/fantasticmao/lib-examples): Examples of learning C, Go, Java, JavaScript, Python programming languages.  
-[backup](https://github.com/takashimakazuki/backup): 「Go言語によるWebアプリケーション開発 O'REILLY」 の`第8章ファイルシステムのバックアップ`の実装例
+[backup](https://github.com/takashimakazuki/backup): 「Go言語によるWebアプリケーション開発 O'REILLY」 の`第8章ファイルシステムのバックアップ`の実装例  
+[hostctl](https://github.com/guumaster/hostctl): Your dev tool to manage /etc/hosts like a pro!
