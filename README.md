@@ -1014,4 +1014,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example): Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。  
 [students-api](https://github.com/haapjari/students-api): Following a YouTube Course: https://www.youtube.com/watch?v=TkbhQQS3m_o  
 [phrase](https://github.com/danilobuerger/phrase): Converts a phrase to a different case (e.g. CamelCase)  
-[lib-examples](https://github.com/fantasticmao/lib-examples): Examples of learning C, Go, Java, JavaScript, Python programming languages.
+[lib-examples](https://github.com/fantasticmao/lib-examples): Examples of learning C, Go, Java, JavaScript, Python programming languages.  
+[backup](https://github.com/takashimakazuki/backup): 「Go言語によるWebアプリケーション開発 O'REILLY」 の`第8章ファイルシステムのバックアップ`の実装例
