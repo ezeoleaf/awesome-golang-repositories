@@ -1019,4 +1019,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hostctl](https://github.com/guumaster/hostctl): Your dev tool to manage /etc/hosts like a pro!  
 [go-sqlite3](https://github.com/mattn/go-sqlite3): sqlite3 driver for go using database/sql  
 [ddosify](https://github.com/ddosify/ddosify): High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀  
-[llbl](https://github.com/ichiban/llbl): "Let Localhost be Localhost" DNS server which resolves `*.localhost` to `127.0.0.1`
+[llbl](https://github.com/ichiban/llbl): "Let Localhost be Localhost" DNS server which resolves `*.localhost` to `127.0.0.1`  
+[manba](https://github.com/fagongzi/manba): HTTP API Gateway
