@@ -1025,4 +1025,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [argument-liveness.go](https://github.com/raviqqe/argument-liveness.go): Understanding argument liveness in Go 1.8  
 [DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point): This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala  
 [estudos-golang](https://github.com/hjunor/estudos-golang): Repositório  e conteúdo de estudos de Go Lang, essa linguagem maravilhosa  
-[go-aop-agent](https://github.com/pinpoint-apm/go-aop-agent): It is an agent written by C++, PHP, python languages. And we hope to support other languages by this agent. Until now, it supports [PHP]，[C/C++], [GOLANG] and [PYTHON].
+[go-aop-agent](https://github.com/pinpoint-apm/go-aop-agent): It is an agent written by C++, PHP, python languages. And we hope to support other languages by this agent. Until now, it supports [PHP]，[C/C++], [GOLANG] and [PYTHON].  
+[Go-Struct-Interface](https://github.com/AlfredoCU/Go-Struct-Interface): Crear y hacer uso de estructuras, métodos e interfaces.
