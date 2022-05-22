@@ -1027,4 +1027,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [estudos-golang](https://github.com/hjunor/estudos-golang): Repositório  e conteúdo de estudos de Go Lang, essa linguagem maravilhosa  
 [go-aop-agent](https://github.com/pinpoint-apm/go-aop-agent): It is an agent written by C++, PHP, python languages. And we hope to support other languages by this agent. Until now, it supports [PHP]，[C/C++], [GOLANG] and [PYTHON].  
 [Go-Struct-Interface](https://github.com/AlfredoCU/Go-Struct-Interface): Crear y hacer uso de estructuras, métodos e interfaces.  
-[pty](https://github.com/creack/pty): PTY interface for Go
+[pty](https://github.com/creack/pty): PTY interface for Go  
+[_playground_string](https://github.com/rstats-go/_playground_string): using go strings in R
