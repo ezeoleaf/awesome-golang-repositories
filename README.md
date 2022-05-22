@@ -1023,4 +1023,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [manba](https://github.com/fagongzi/manba): HTTP API Gateway  
 [night](https://github.com/talkgo/night): Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。  
 [argument-liveness.go](https://github.com/raviqqe/argument-liveness.go): Understanding argument liveness in Go 1.8  
-[DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point): This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
+[DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point): This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala  
+[estudos-golang](https://github.com/hjunor/estudos-golang): Repositório  e conteúdo de estudos de Go Lang, essa linguagem maravilhosa
