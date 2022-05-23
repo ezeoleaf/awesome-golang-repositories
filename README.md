@@ -1031,4 +1031,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [_playground_string](https://github.com/rstats-go/_playground_string): using go strings in R  
 [murex](https://github.com/lmorg/murex): Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)  
 [file.d](https://github.com/ozontech/file.d): A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community  
-[cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
+[cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.  
+[ebpf](https://github.com/cilium/ebpf): Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
