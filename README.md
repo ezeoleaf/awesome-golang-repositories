@@ -1035,4 +1035,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ebpf](https://github.com/cilium/ebpf): Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.  
 [tfgo](https://github.com/galeone/tfgo): Tensorflow + Go, the gopher way  
 [flash-driver-search](https://github.com/Ananto30/flash-driver-search): A super fast driver search implementation in Go using Redis and my own (:D) event-based package Govent  
-[wordle-solver](https://github.com/jordanhasgul/wordle-solver): An implementation of a decision tree based solver to solve Wordle in an average of 3.8 guesses or a maximum of 6 guesses.
+[wordle-solver](https://github.com/jordanhasgul/wordle-solver): An implementation of a decision tree based solver to solve Wordle in an average of 3.8 guesses or a maximum of 6 guesses.  
+[inverterlogger](https://github.com/xThaid/inverterlogger): A small library that encodes and decodes data from Solarman data loggers. It works with wifi kits with a s/n starting with 17xxxxxxxx.
