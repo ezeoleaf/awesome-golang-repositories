@@ -1038,4 +1038,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wordle-solver](https://github.com/jordanhasgul/wordle-solver): An implementation of a decision tree based solver to solve Wordle in an average of 3.8 guesses or a maximum of 6 guesses.  
 [inverterlogger](https://github.com/xThaid/inverterlogger): A small library that encodes and decodes data from Solarman data loggers. It works with wifi kits with a s/n starting with 17xxxxxxxx.  
 [go-fastdfs](https://github.com/sjqzhang/go-fastdfs): go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliability, maintenance free and other advantages, support breakpoint continuation, block upload, small file merge, automatic synchronization, automatic repair.(similar fastdfs).  
-[dolarhoje](https://github.com/krolow/dolarhoje): Simples CLI que diz quantos R$ ta valendo 1 U$
+[dolarhoje](https://github.com/krolow/dolarhoje): Simples CLI que diz quantos R$ ta valendo 1 U$  
+[flatbuffers](https://github.com/google/flatbuffers): FlatBuffers: Memory Efficient Serialization Library
