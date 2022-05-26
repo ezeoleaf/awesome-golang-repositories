@@ -1044,4 +1044,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [godis](https://github.com/HDT3213/godis): A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群  
 [golangweekly](https://github.com/polaris1119/golangweekly): Go语言爱好者周刊，每周日发布  
 [bmfmt](https://github.com/C0DE8/bmfmt): Golang [b]eautify [m]ap display [fmt] for Humans  
-[badger](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
+[badger](https://github.com/dgraph-io/badger): Fast key-value DB in Go.  
+[go-design-pattern](https://github.com/mohuishou/go-design-pattern): golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记
