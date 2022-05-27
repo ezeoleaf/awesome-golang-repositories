@@ -1049,4 +1049,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [broxy](https://github.com/rhaidiz/broxy): An HTTP/HTTPS intercept proxy written in Go.  
 [goInception](https://github.com/hanchuanchuan/goInception): 一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具  
 [goterminal](https://github.com/apoorvam/goterminal): A cross-platform Go-library for updating progress in terminal.  
-[http-ctx-cancellation](https://github.com/cirocosta/http-ctx-cancellation): golang's request timeout from context cancellation exemplified in C
+[http-ctx-cancellation](https://github.com/cirocosta/http-ctx-cancellation): golang's request timeout from context cancellation exemplified in C  
+[30daysofcode-go-cpp-java](https://github.com/cyucelen/30daysofcode-go-cpp-java): Hackerrank 30 days of code all solution codes. I used Golang for solve challenges if available, otherwise i used C++ for data structure challenges and Java for OO concepts.
