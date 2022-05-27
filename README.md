@@ -1048,4 +1048,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-design-pattern](https://github.com/mohuishou/go-design-pattern): golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记  
 [broxy](https://github.com/rhaidiz/broxy): An HTTP/HTTPS intercept proxy written in Go.  
 [goInception](https://github.com/hanchuanchuan/goInception): 一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具  
-[goterminal](https://github.com/apoorvam/goterminal): A cross-platform Go-library for updating progress in terminal.
+[goterminal](https://github.com/apoorvam/goterminal): A cross-platform Go-library for updating progress in terminal.  
+[http-ctx-cancellation](https://github.com/cirocosta/http-ctx-cancellation): golang's request timeout from context cancellation exemplified in C
