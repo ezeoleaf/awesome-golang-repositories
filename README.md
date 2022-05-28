@@ -1051,4 +1051,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goterminal](https://github.com/apoorvam/goterminal): A cross-platform Go-library for updating progress in terminal.  
 [http-ctx-cancellation](https://github.com/cirocosta/http-ctx-cancellation): golang's request timeout from context cancellation exemplified in C  
 [30daysofcode-go-cpp-java](https://github.com/cyucelen/30daysofcode-go-cpp-java): Hackerrank 30 days of code all solution codes. I used Golang for solve challenges if available, otherwise i used C++ for data structure challenges and Java for OO concepts.  
-[go-php](https://github.com/deuill/go-php): PHP bindings for the Go programming language (Golang)
+[go-php](https://github.com/deuill/go-php): PHP bindings for the Go programming language (Golang)  
+[gomanual](https://github.com/jeffotoni/gomanual): Este repo é o manual em Go que foi desenvolvido no evento do bootcamp online
