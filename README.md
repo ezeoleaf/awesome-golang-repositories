@@ -1054,4 +1054,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-php](https://github.com/deuill/go-php): PHP bindings for the Go programming language (Golang)  
 [gomanual](https://github.com/jeffotoni/gomanual): Este repo é o manual em Go que foi desenvolvido no evento do bootcamp online  
 [firebase-admin-go](https://github.com/firebase/firebase-admin-go): Firebase Admin Go SDK  
-[themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.
+[themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.  
+[leopard](https://github.com/VOLIX-dev/leopard): A full stack go web framework (W.I.P.)
