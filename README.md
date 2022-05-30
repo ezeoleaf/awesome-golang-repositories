@@ -1057,4 +1057,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.  
 [leopard](https://github.com/VOLIX-dev/leopard): A full stack go web framework (W.I.P.)  
 [lancet](https://github.com/duke-git/lancet): A comprehensive, efficient, and reusable util function library of go.  
-[dexxt](https://github.com/MehdiEidi/dexxt): Finglish to Farsi Telegram bot just for fun :D
+[dexxt](https://github.com/MehdiEidi/dexxt): Finglish to Farsi Telegram bot just for fun :D  
+[modern-go-application](https://github.com/sagikazarmark/modern-go-application): Modern Go Application example
