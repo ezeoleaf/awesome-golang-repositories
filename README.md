@@ -1059,4 +1059,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [lancet](https://github.com/duke-git/lancet): A comprehensive, efficient, and reusable util function library of go.  
 [dexxt](https://github.com/MehdiEidi/dexxt): Finglish to Farsi Telegram bot just for fun :D  
 [modern-go-application](https://github.com/sagikazarmark/modern-go-application): Modern Go Application example  
-[php-go](https://github.com/budougumi0617/php-go): W.I.P. A Go Interpreter written in PHP 7.4
+[php-go](https://github.com/budougumi0617/php-go): W.I.P. A Go Interpreter written in PHP 7.4  
+[numgo](https://github.com/Kunde21/numgo): n-dimensional array implementation in Go.
