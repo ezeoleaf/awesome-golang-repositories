@@ -1065,4 +1065,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Entitas-Go](https://github.com/Falldot/Entitas-Go): Entitas-Go is a fast Entity Component System Framework (ECS) Go 1.17 port of Entitas v1.13.0 for C# and Unity.  
 [http2d](https://github.com/naomiEve/http2d): Really simple HTTP/2.0 server, inspired by websocketd  
 [chainquery](https://github.com/OdyseeTeam/chainquery): Chainquery parses and syncs the LBRY blockchain data into structured SQL  
-[xpathparser](https://github.com/santhosh-tekuri/xpathparser): XPath 1.0 Parser in Go
+[xpathparser](https://github.com/santhosh-tekuri/xpathparser): XPath 1.0 Parser in Go  
+[null](https://github.com/guregu/null): reasonable handling of nullable values
