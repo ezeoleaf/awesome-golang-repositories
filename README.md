@@ -1063,4 +1063,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [numgo](https://github.com/Kunde21/numgo): n-dimensional array implementation in Go.  
 [serve-dir](https://github.com/maruel/serve-dir): "python -m SimpleHTTPServer" but FAST  
 [Entitas-Go](https://github.com/Falldot/Entitas-Go): Entitas-Go is a fast Entity Component System Framework (ECS) Go 1.17 port of Entitas v1.13.0 for C# and Unity.  
-[http2d](https://github.com/naomiEve/http2d): Really simple HTTP/2.0 server, inspired by websocketd
+[http2d](https://github.com/naomiEve/http2d): Really simple HTTP/2.0 server, inspired by websocketd  
+[chainquery](https://github.com/OdyseeTeam/chainquery): Chainquery parses and syncs the LBRY blockchain data into structured SQL
