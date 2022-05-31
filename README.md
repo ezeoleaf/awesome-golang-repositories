@@ -1066,4 +1066,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [http2d](https://github.com/naomiEve/http2d): Really simple HTTP/2.0 server, inspired by websocketd  
 [chainquery](https://github.com/OdyseeTeam/chainquery): Chainquery parses and syncs the LBRY blockchain data into structured SQL  
 [xpathparser](https://github.com/santhosh-tekuri/xpathparser): XPath 1.0 Parser in Go  
-[null](https://github.com/guregu/null): reasonable handling of nullable values
+[null](https://github.com/guregu/null): reasonable handling of nullable values  
+[guia-directorio-tap](https://github.com/ivan-avalos/guia-directorio-tap): Guía para crear un API REST con Go y MySQL
