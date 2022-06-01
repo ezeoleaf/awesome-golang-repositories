@@ -1068,4 +1068,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [xpathparser](https://github.com/santhosh-tekuri/xpathparser): XPath 1.0 Parser in Go  
 [null](https://github.com/guregu/null): reasonable handling of nullable values  
 [guia-directorio-tap](https://github.com/ivan-avalos/guia-directorio-tap): Guía para crear un API REST con Go y MySQL  
-[go-linq](https://github.com/ahmetb/go-linq): .NET LINQ capabilities in Go
+[go-linq](https://github.com/ahmetb/go-linq): .NET LINQ capabilities in Go  
+[dtm](https://github.com/dtm-labs/dtm): A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
