@@ -1070,4 +1070,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [guia-directorio-tap](https://github.com/ivan-avalos/guia-directorio-tap): Guía para crear un API REST con Go y MySQL  
 [go-linq](https://github.com/ahmetb/go-linq): .NET LINQ capabilities in Go  
 [dtm](https://github.com/dtm-labs/dtm): A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.  
-[zinc](https://github.com/zinclabs/zinc): ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+[zinc](https://github.com/zinclabs/zinc): ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.  
+[cgotchas](https://github.com/sunzenshen/cgotchas): Demonstration for using a C library in Go with Cgo
