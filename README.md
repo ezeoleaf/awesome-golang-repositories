@@ -1071,4 +1071,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-linq](https://github.com/ahmetb/go-linq): .NET LINQ capabilities in Go  
 [dtm](https://github.com/dtm-labs/dtm): A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.  
 [zinc](https://github.com/zinclabs/zinc): ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.  
-[cgotchas](https://github.com/sunzenshen/cgotchas): Demonstration for using a C library in Go with Cgo
+[cgotchas](https://github.com/sunzenshen/cgotchas): Demonstration for using a C library in Go with Cgo  
+[go_command_tutorial](https://github.com/hyper0x/go_command_tutorial): Golang command tutorial in Chinese.
