@@ -1075,4 +1075,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go_command_tutorial](https://github.com/hyper0x/go_command_tutorial): Golang command tutorial in Chinese.  
 [gpks](https://github.com/logrusorgru/gpks): golang based on protocol buffers k-v storage with in-memory index  
 [go-pinyin](https://github.com/mozillazg/go-pinyin): 汉字转拼音  
-[syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
+[syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization  
+[cloudtrailbeat](https://github.com/forter/cloudtrailbeat): An Elastic beat for cloudtrail w/ S3 -> SNS -> SQS
