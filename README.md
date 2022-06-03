@@ -1077,4 +1077,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-pinyin](https://github.com/mozillazg/go-pinyin): 汉字转拼音  
 [syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization  
 [cloudtrailbeat](https://github.com/forter/cloudtrailbeat): An Elastic beat for cloudtrail w/ S3 -> SNS -> SQS  
-[4-in-a-row](https://github.com/en3wton/4-in-a-row): 4 in a row / connect 4, in go and js
+[4-in-a-row](https://github.com/en3wton/4-in-a-row): 4 in a row / connect 4, in go and js  
+[GoTwitter](https://github.com/nativeron/GoTwitter): 🐦 Desarrollo back-end del curso de "Aprende lenguaje Go desde 0" - creando una red social como Twitter de Pablo Tilotta en Udemy
