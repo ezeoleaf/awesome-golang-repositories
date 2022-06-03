@@ -1073,4 +1073,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [zinc](https://github.com/zinclabs/zinc): ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.  
 [cgotchas](https://github.com/sunzenshen/cgotchas): Demonstration for using a C library in Go with Cgo  
 [go_command_tutorial](https://github.com/hyper0x/go_command_tutorial): Golang command tutorial in Chinese.  
-[gpks](https://github.com/logrusorgru/gpks): golang based on protocol buffers k-v storage with in-memory index
+[gpks](https://github.com/logrusorgru/gpks): golang based on protocol buffers k-v storage with in-memory index  
+[go-pinyin](https://github.com/mozillazg/go-pinyin): 汉字转拼音
