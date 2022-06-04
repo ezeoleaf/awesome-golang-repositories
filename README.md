@@ -1080,4 +1080,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [4-in-a-row](https://github.com/en3wton/4-in-a-row): 4 in a row / connect 4, in go and js  
 [GoTwitter](https://github.com/nativeron/GoTwitter): 🐦 Desarrollo back-end del curso de "Aprende lenguaje Go desde 0" - creando una red social como Twitter de Pablo Tilotta en Udemy  
 [snpt](https://github.com/seiemens/snpt): :D  
-[GmSSL](https://github.com/guanzhi/GmSSL): 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
+[GmSSL](https://github.com/guanzhi/GmSSL): 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱  
+[go-lang-pos-graduacao-webdev](https://github.com/edsonjuniornarvaes/go-lang-pos-graduacao-webdev): 💻 GO Lang - Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis.
