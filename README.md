@@ -1082,4 +1082,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [snpt](https://github.com/seiemens/snpt): :D  
 [GmSSL](https://github.com/guanzhi/GmSSL): 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱  
 [go-lang-pos-graduacao-webdev](https://github.com/edsonjuniornarvaes/go-lang-pos-graduacao-webdev): 💻 GO Lang - Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis.  
-[go-forward-list](https://github.com/chistopat/go-forward-list): Implement interface of C++ STL std::forward_list https://en.cppreference.com/w/cpp/container/forward_list in Go
+[go-forward-list](https://github.com/chistopat/go-forward-list): Implement interface of C++ STL std::forward_list https://en.cppreference.com/w/cpp/container/forward_list in Go  
+[goseaweedfs](https://github.com/linxGnu/goseaweedfs): A complete Golang client for SeaweedFS
