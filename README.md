@@ -1087,4 +1087,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Go-environment-install](https://github.com/lixingchen12138/Go-environment-install): Go 1.4环境部署  
 [wg-gen-web](https://github.com/vx3r/wg-gen-web): Simple Web based configuration generator for WireGuard. Demo:  
 [go-testparallel](https://github.com/leighmcculloch/go-testparallel): Go package that provides a function for making all tests in a suite run in Parallel without adding t.Parallel() to every test.  
-[Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial): Golang - Regular Expression Tutorial
+[Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial): Golang - Regular Expression Tutorial  
+[create-read-update-delete-in-go](https://github.com/yongyuth-chuankhuntod/create-read-update-delete-in-go): create, read, update, and delete (CRUD) are the four basic operations of persistent storage.[1] CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports.
