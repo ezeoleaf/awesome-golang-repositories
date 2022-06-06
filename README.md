@@ -1086,4 +1086,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goseaweedfs](https://github.com/linxGnu/goseaweedfs): A complete Golang client for SeaweedFS  
 [Go-environment-install](https://github.com/lixingchen12138/Go-environment-install): Go 1.4环境部署  
 [wg-gen-web](https://github.com/vx3r/wg-gen-web): Simple Web based configuration generator for WireGuard. Demo:  
-[go-testparallel](https://github.com/leighmcculloch/go-testparallel): Go package that provides a function for making all tests in a suite run in Parallel without adding t.Parallel() to every test.
+[go-testparallel](https://github.com/leighmcculloch/go-testparallel): Go package that provides a function for making all tests in a suite run in Parallel without adding t.Parallel() to every test.  
+[Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial): Golang - Regular Expression Tutorial
