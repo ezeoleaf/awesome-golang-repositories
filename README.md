@@ -1085,4 +1085,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-forward-list](https://github.com/chistopat/go-forward-list): Implement interface of C++ STL std::forward_list https://en.cppreference.com/w/cpp/container/forward_list in Go  
 [goseaweedfs](https://github.com/linxGnu/goseaweedfs): A complete Golang client for SeaweedFS  
 [Go-environment-install](https://github.com/lixingchen12138/Go-environment-install): Go 1.4环境部署  
-[wg-gen-web](https://github.com/vx3r/wg-gen-web): Simple Web based configuration generator for WireGuard. Demo:
+[wg-gen-web](https://github.com/vx3r/wg-gen-web): Simple Web based configuration generator for WireGuard. Demo:  
+[go-testparallel](https://github.com/leighmcculloch/go-testparallel): Go package that provides a function for making all tests in a suite run in Parallel without adding t.Parallel() to every test.
