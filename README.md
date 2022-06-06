@@ -1089,4 +1089,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-testparallel](https://github.com/leighmcculloch/go-testparallel): Go package that provides a function for making all tests in a suite run in Parallel without adding t.Parallel() to every test.  
 [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial): Golang - Regular Expression Tutorial  
 [create-read-update-delete-in-go](https://github.com/yongyuth-chuankhuntod/create-read-update-delete-in-go): create, read, update, and delete (CRUD) are the four basic operations of persistent storage.[1] CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports.  
-[yamlenums](https://github.com/igrmk/yamlenums): This tool is similar to golang.org/x/tools/cmd/stringer but generates MarshalYAML and UnmarshalYAML methods
+[yamlenums](https://github.com/igrmk/yamlenums): This tool is similar to golang.org/x/tools/cmd/stringer but generates MarshalYAML and UnmarshalYAML methods  
+[go-advice](https://github.com/cristaloleg/go-advice): List of advice and tricks for Go  ʕ◔ϖ◔ʔ
