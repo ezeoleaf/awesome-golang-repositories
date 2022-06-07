@@ -1093,4 +1093,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-advice](https://github.com/cristaloleg/go-advice): List of advice and tricks for Go  ʕ◔ϖ◔ʔ  
 [hello-api](https://github.com/haapjari/hello-api): freeCodeCamp Course - Learn Go Programming by Building 11 Projects – Full Course (https://www.youtube.com/watch?v=jFfo23yIWac)  
 [clang-v12](https://github.com/go-clang/clang-v12): Go bindings for Clang's C API v12  
-[sendgrid-go](https://github.com/sendgrid/sendgrid-go): The Official Twilio SendGrid Golang API Library
+[sendgrid-go](https://github.com/sendgrid/sendgrid-go): The Official Twilio SendGrid Golang API Library  
+[zookeeper_client_design_manual](https://github.com/pingzilao/zookeeper_client_design_manual): zookeeper client sdk 开发必备 指南 ，C++，C，   java， golang，go, 服务注册，服务发现，负载均衡，分布式锁
