@@ -1092,4 +1092,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [yamlenums](https://github.com/igrmk/yamlenums): This tool is similar to golang.org/x/tools/cmd/stringer but generates MarshalYAML and UnmarshalYAML methods  
 [go-advice](https://github.com/cristaloleg/go-advice): List of advice and tricks for Go  ʕ◔ϖ◔ʔ  
 [hello-api](https://github.com/haapjari/hello-api): freeCodeCamp Course - Learn Go Programming by Building 11 Projects – Full Course (https://www.youtube.com/watch?v=jFfo23yIWac)  
-[clang-v12](https://github.com/go-clang/clang-v12): Go bindings for Clang's C API v12
+[clang-v12](https://github.com/go-clang/clang-v12): Go bindings for Clang's C API v12  
+[sendgrid-go](https://github.com/sendgrid/sendgrid-go): The Official Twilio SendGrid Golang API Library
