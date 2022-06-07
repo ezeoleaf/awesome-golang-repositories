@@ -1091,4 +1091,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [create-read-update-delete-in-go](https://github.com/yongyuth-chuankhuntod/create-read-update-delete-in-go): create, read, update, and delete (CRUD) are the four basic operations of persistent storage.[1] CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports.  
 [yamlenums](https://github.com/igrmk/yamlenums): This tool is similar to golang.org/x/tools/cmd/stringer but generates MarshalYAML and UnmarshalYAML methods  
 [go-advice](https://github.com/cristaloleg/go-advice): List of advice and tricks for Go  ʕ◔ϖ◔ʔ  
-[hello-api](https://github.com/haapjari/hello-api): freeCodeCamp Course - Learn Go Programming by Building 11 Projects – Full Course (https://www.youtube.com/watch?v=jFfo23yIWac)
+[hello-api](https://github.com/haapjari/hello-api): freeCodeCamp Course - Learn Go Programming by Building 11 Projects – Full Course (https://www.youtube.com/watch?v=jFfo23yIWac)  
+[clang-v12](https://github.com/go-clang/clang-v12): Go bindings for Clang's C API v12
