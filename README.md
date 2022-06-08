@@ -1096,4 +1096,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sendgrid-go](https://github.com/sendgrid/sendgrid-go): The Official Twilio SendGrid Golang API Library  
 [zookeeper_client_design_manual](https://github.com/pingzilao/zookeeper_client_design_manual): zookeeper client sdk 开发必备 指南 ，C++，C，   java， golang，go, 服务注册，服务发现，负载均衡，分布式锁  
 [cghttp](https://github.com/gongluck/cghttp): 封装go的http模块成C接口  
-[mindoc](https://github.com/mindoc-org/mindoc): Golang实现的基于beego框架的接口在线文档管理系统
+[mindoc](https://github.com/mindoc-org/mindoc): Golang实现的基于beego框架的接口在线文档管理系统  
+[discord-slowmode-bot](https://github.com/jfoster/discord-slowmode-bot): Discord bot to set slowmode of a channel to any value between 1 second and 6 hours
