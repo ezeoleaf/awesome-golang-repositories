@@ -1095,4 +1095,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [clang-v12](https://github.com/go-clang/clang-v12): Go bindings for Clang's C API v12  
 [sendgrid-go](https://github.com/sendgrid/sendgrid-go): The Official Twilio SendGrid Golang API Library  
 [zookeeper_client_design_manual](https://github.com/pingzilao/zookeeper_client_design_manual): zookeeper client sdk 开发必备 指南 ，C++，C，   java， golang，go, 服务注册，服务发现，负载均衡，分布式锁  
-[cghttp](https://github.com/gongluck/cghttp): 封装go的http模块成C接口
+[cghttp](https://github.com/gongluck/cghttp): 封装go的http模块成C接口  
+[mindoc](https://github.com/mindoc-org/mindoc): Golang实现的基于beego框架的接口在线文档管理系统
