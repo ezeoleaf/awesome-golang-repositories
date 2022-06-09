@@ -1104,4 +1104,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dockle](https://github.com/goodwithtech/dockle): Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start  
 [gospider](https://github.com/jaeles-project/gospider): Gospider - Fast web spider written in Go  
 [fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead  
-[momoclo-channel](https://github.com/utahta/momoclo-channel): Notification tool for fan of Momoiro Clover Z
+[momoclo-channel](https://github.com/utahta/momoclo-channel): Notification tool for fan of Momoiro Clover Z  
+[fsm](https://github.com/looplab/fsm): Finite State Machine for Go
