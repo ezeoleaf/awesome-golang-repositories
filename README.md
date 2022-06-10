@@ -1105,4 +1105,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gospider](https://github.com/jaeles-project/gospider): Gospider - Fast web spider written in Go  
 [fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead  
 [momoclo-channel](https://github.com/utahta/momoclo-channel): Notification tool for fan of Momoiro Clover Z  
-[fsm](https://github.com/looplab/fsm): Finite State Machine for Go
+[fsm](https://github.com/looplab/fsm): Finite State Machine for Go  
+[xvi-wiek-bot](https://github.com/pjaskulski/xvi-wiek-bot): Bot publikujący na Twitterze informacje o zdarzeniach historycznych z serwisu xvi-wiek.pl
