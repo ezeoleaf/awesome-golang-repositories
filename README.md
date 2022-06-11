@@ -1113,4 +1113,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [leaps](https://github.com/Jeffail/leaps): A pair programming service using operational transforms  
 [colossus](https://github.com/lucperkins/colossus): Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more  
 [ZenQ](https://github.com/alphadose/ZenQ): A thread-safe queue faster and more resource efficient than golang's native channels  
-[tinygo-webgl-fundamentals-lesson-3](https://github.com/justinclift/tinygo-webgl-fundamentals-lesson-3): The lessons code from WebGL Fundamentals Lesson 3, ported to TinyGo
+[tinygo-webgl-fundamentals-lesson-3](https://github.com/justinclift/tinygo-webgl-fundamentals-lesson-3): The lessons code from WebGL Fundamentals Lesson 3, ported to TinyGo  
+[NQueen](https://github.com/jojorancu/NQueen): Basically it is a solution for "N-Queen" Problem. I added mix of humor to the code. Sounds like "The King" wanted date all "The Queen" :)
