@@ -1108,4 +1108,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fsm](https://github.com/looplab/fsm): Finite State Machine for Go  
 [xvi-wiek-bot](https://github.com/pjaskulski/xvi-wiek-bot): Bot publikujący na Twitterze informacje o zdarzeniach historycznych z serwisu xvi-wiek.pl  
 [usql](https://github.com/xo/usql): Universal command-line interface for SQL databases  
-[fq](https://github.com/wader/fq): jq for binary formats
+[fq](https://github.com/wader/fq): jq for binary formats  
+[machine-learning-classification](https://github.com/andygeiss/machine-learning-classification): This repository provides a Golang implementation from scratch to solve a classification problem using the K-Nearest Neighbour algorithm.
