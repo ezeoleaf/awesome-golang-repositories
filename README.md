@@ -1110,4 +1110,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [usql](https://github.com/xo/usql): Universal command-line interface for SQL databases  
 [fq](https://github.com/wader/fq): jq for binary formats  
 [machine-learning-classification](https://github.com/andygeiss/machine-learning-classification): This repository provides a Golang implementation from scratch to solve a classification problem using the K-Nearest Neighbour algorithm.  
-[leaps](https://github.com/Jeffail/leaps): A pair programming service using operational transforms
+[leaps](https://github.com/Jeffail/leaps): A pair programming service using operational transforms  
+[colossus](https://github.com/lucperkins/colossus): Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
