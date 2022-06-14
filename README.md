@@ -1117,4 +1117,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [NQueen](https://github.com/jojorancu/NQueen): Basically it is a solution for "N-Queen" Problem. I added mix of humor to the code. Sounds like "The King" wanted date all "The Queen" :)  
 [darch](https://github.com/godarch/darch): A tool for building and booting stateless and immutable images, bare metal.  
 [covid-19API](https://github.com/gonzalezlrjesus/covid-19API): Convierte la data ofrecida por: the Johns Hopkins University Center en formato CSV al formato JSON sobre los casos confirmados, muertos y recuperados de COVID-19 por paises.  
-[lfu-cache](https://github.com/NdoleStudio/lfu-cache): Implementation of a least frequently used (LFU) cache  in Go with constant time complexity O(1)
+[lfu-cache](https://github.com/NdoleStudio/lfu-cache): Implementation of a least frequently used (LFU) cache  in Go with constant time complexity O(1)  
+[cloudgo1](https://github.com/wojtekpalubski/cloudgo1): pierwsza mikrousługa w go z gin
