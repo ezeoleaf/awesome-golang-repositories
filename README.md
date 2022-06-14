@@ -1120,4 +1120,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [lfu-cache](https://github.com/NdoleStudio/lfu-cache): Implementation of a least frequently used (LFU) cache  in Go with constant time complexity O(1)  
 [cloudgo1](https://github.com/wojtekpalubski/cloudgo1): pierwsza mikrousługa w go z gin  
 [algernon](https://github.com/xyproto/algernon): :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support  
-[delta-illusion](https://github.com/Zweizack/delta-illusion): delta-illusion is a tool to get 64 passwords with 1(0.5 + 0.5) password.
+[delta-illusion](https://github.com/Zweizack/delta-illusion): delta-illusion is a tool to get 64 passwords with 1(0.5 + 0.5) password.  
+[kops](https://github.com/kubernetes/kops): Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
