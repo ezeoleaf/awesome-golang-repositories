@@ -1123,4 +1123,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [delta-illusion](https://github.com/Zweizack/delta-illusion): delta-illusion is a tool to get 64 passwords with 1(0.5 + 0.5) password.  
 [kops](https://github.com/kubernetes/kops): Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management  
 [Sabaki](https://github.com/SabakiHQ/Sabaki): An elegant Go board and SGF editor for a more civilized age.  
-[reform](https://github.com/go-reform/reform): A better ORM for Go, based on non-empty interfaces and code generation.
+[reform](https://github.com/go-reform/reform): A better ORM for Go, based on non-empty interfaces and code generation.  
+[goldmark](https://github.com/yuin/goldmark): :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
