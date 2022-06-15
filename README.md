@@ -1121,4 +1121,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [cloudgo1](https://github.com/wojtekpalubski/cloudgo1): pierwsza mikrousługa w go z gin  
 [algernon](https://github.com/xyproto/algernon): :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support  
 [delta-illusion](https://github.com/Zweizack/delta-illusion): delta-illusion is a tool to get 64 passwords with 1(0.5 + 0.5) password.  
-[kops](https://github.com/kubernetes/kops): Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+[kops](https://github.com/kubernetes/kops): Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management  
+[Sabaki](https://github.com/SabakiHQ/Sabaki): An elegant Go board and SGF editor for a more civilized age.
