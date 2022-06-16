@@ -1126,4 +1126,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [reform](https://github.com/go-reform/reform): A better ORM for Go, based on non-empty interfaces and code generation.  
 [goldmark](https://github.com/yuin/goldmark): :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.  
 [restic](https://github.com/restic/restic): Fast, secure, efficient backup program  
-[crane](https://github.com/michaelsauter/crane): Crane - Lift containers with ease
+[crane](https://github.com/michaelsauter/crane): Crane - Lift containers with ease  
+[knnGo](https://github.com/kamil5b/knnGo): I created K-Nearest Neighbor Algorithm using Go language. Initially, this project is for my assignment but I decided to publish it.
