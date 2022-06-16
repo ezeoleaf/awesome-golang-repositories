@@ -1127,4 +1127,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goldmark](https://github.com/yuin/goldmark): :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.  
 [restic](https://github.com/restic/restic): Fast, secure, efficient backup program  
 [crane](https://github.com/michaelsauter/crane): Crane - Lift containers with ease  
-[knnGo](https://github.com/kamil5b/knnGo): I created K-Nearest Neighbor Algorithm using Go language. Initially, this project is for my assignment but I decided to publish it.
+[knnGo](https://github.com/kamil5b/knnGo): I created K-Nearest Neighbor Algorithm using Go language. Initially, this project is for my assignment but I decided to publish it.  
+[awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn): 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
