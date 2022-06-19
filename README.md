@@ -1131,4 +1131,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn): 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~  
 [FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.  
 [fastmath](https://github.com/13rac1/fastmath): Golang 8/16 bit math functions for when speed matters more than precision  
-[parse-efd-fiscal](https://github.com/chapzin/parse-efd-fiscal): Projeto voltado para fazer o mapeamento e parse do sped fiscal para dentro do banco de dados
+[parse-efd-fiscal](https://github.com/chapzin/parse-efd-fiscal): Projeto voltado para fazer o mapeamento e parse do sped fiscal para dentro do banco de dados  
+[practice-go](https://github.com/aashrafh/practice-go): A collection of codes I write during learning Go
