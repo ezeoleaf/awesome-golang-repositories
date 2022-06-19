@@ -1132,4 +1132,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.  
 [fastmath](https://github.com/13rac1/fastmath): Golang 8/16 bit math functions for when speed matters more than precision  
 [parse-efd-fiscal](https://github.com/chapzin/parse-efd-fiscal): Projeto voltado para fazer o mapeamento e parse do sped fiscal para dentro do banco de dados  
-[practice-go](https://github.com/aashrafh/practice-go): A collection of codes I write during learning Go
+[practice-go](https://github.com/aashrafh/practice-go): A collection of codes I write during learning Go  
+[trey-learns](https://github.com/TexasBullet26/trey-learns): This is a repository to keep track of anything I'm learning. Notes on tutorials, books, docs, anything.
