@@ -1135,4 +1135,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [practice-go](https://github.com/aashrafh/practice-go): A collection of codes I write during learning Go  
 [trey-learns](https://github.com/TexasBullet26/trey-learns): This is a repository to keep track of anything I'm learning. Notes on tutorials, books, docs, anything.  
 [dht](https://github.com/shiyanhui/dht): BitTorrent DHT Protocol && DHT Spider.  
-[redpanda](https://github.com/redpanda-data/redpanda): Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
+[redpanda](https://github.com/redpanda-data/redpanda): Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!  
+[dnspod](https://github.com/go-dnspod/dnspod): DNSPod API 1.0
