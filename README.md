@@ -1137,4 +1137,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dht](https://github.com/shiyanhui/dht): BitTorrent DHT Protocol && DHT Spider.  
 [redpanda](https://github.com/redpanda-data/redpanda): Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!  
 [dnspod](https://github.com/go-dnspod/dnspod): DNSPod API 1.0  
-[language-x](https://github.com/jlchn/language-x): language x cheatsheet
+[language-x](https://github.com/jlchn/language-x): language x cheatsheet  
+[go-data-structures](https://github.com/Mardiniii/go-data-structures): Linked list, stack, queue, Binary Tree, B-Tree, heap and Self-balancing tree implemented in Go
