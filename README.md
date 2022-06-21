@@ -1142,4 +1142,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-doudou](https://github.com/unionj-cloud/go-doudou): go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 spec based lightweight microservice framework. It supports monolith service application as well. Currently, it supports RESTful service only. 中文文档地址：https://go-doudou.unionj.cloud  
 [automaxprocs](https://github.com/uber-go/automaxprocs): Automatically set GOMAXPROCS to match Linux container CPU quota.  
 [gofuck-interpreter](https://github.com/Vinetwigs/gofuck-interpreter): A simple brainfu*k interpreter written in Go  
-[Go-Function](https://github.com/AlfredoCU/Go-Function): Crear y hacer uso de funciones en un programa de Go.
+[Go-Function](https://github.com/AlfredoCU/Go-Function): Crear y hacer uso de funciones en un programa de Go.  
+[go-collection](https://github.com/jiujuan/go-collection): :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
