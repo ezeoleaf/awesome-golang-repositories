@@ -1139,4 +1139,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dnspod](https://github.com/go-dnspod/dnspod): DNSPod API 1.0  
 [language-x](https://github.com/jlchn/language-x): language x cheatsheet  
 [go-data-structures](https://github.com/Mardiniii/go-data-structures): Linked list, stack, queue, Binary Tree, B-Tree, heap and Self-balancing tree implemented in Go  
-[go-doudou](https://github.com/unionj-cloud/go-doudou): go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 spec based lightweight microservice framework. It supports monolith service application as well. Currently, it supports RESTful service only. 中文文档地址：https://go-doudou.unionj.cloud
+[go-doudou](https://github.com/unionj-cloud/go-doudou): go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 spec based lightweight microservice framework. It supports monolith service application as well. Currently, it supports RESTful service only. 中文文档地址：https://go-doudou.unionj.cloud  
+[automaxprocs](https://github.com/uber-go/automaxprocs): Automatically set GOMAXPROCS to match Linux container CPU quota.
