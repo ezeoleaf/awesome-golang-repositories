@@ -1144,4 +1144,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gofuck-interpreter](https://github.com/Vinetwigs/gofuck-interpreter): A simple brainfu*k interpreter written in Go  
 [Go-Function](https://github.com/AlfredoCU/Go-Function): Crear y hacer uso de funciones en un programa de Go.  
 [go-collection](https://github.com/jiujuan/go-collection): :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。  
-[gocloc](https://github.com/hhatto/gocloc):  A little fast cloc(Count Lines Of Code)
+[gocloc](https://github.com/hhatto/gocloc):  A little fast cloc(Count Lines Of Code)  
+[GCTT](https://github.com/studygolang/GCTT): GCTT Go中文网翻译组。
