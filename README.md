@@ -1148,4 +1148,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GCTT](https://github.com/studygolang/GCTT): GCTT Go中文网翻译组。  
 [curry](https://github.com/bitebait/curry): 🍛 Curry é um WebCrawler escrito em Golang com finalidade de verificar o valor do câmbio de Dólar para Real (USDxBRL) em algumas lojas no Paraguay.  
 [member-app-using-go-gin](https://github.com/ai285063/member-app-using-go-gin): Practice: member system api w/ CRUD using Golang and Gin framework. Can be easily started using docker-compose.  
-[diagio](https://github.com/snabb/diagio): Go package diagio implements I/O wrappers for debugging and diagnostics. (golang)
+[diagio](https://github.com/snabb/diagio): Go package diagio implements I/O wrappers for debugging and diagnostics. (golang)  
+[PrimeFinder](https://github.com/JOT85/PrimeFinder): Ever wanted to find billions of prime numbers. In a rather inefficient manner, however wrapped in loads of fancy stuff with no graphics? Well now you can! All because I was learning Golang and wanted some thing to code! PrimeFinder!
