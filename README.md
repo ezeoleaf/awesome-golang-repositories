@@ -1153,4 +1153,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [olivia](https://github.com/olivia-ai/olivia): 💁‍♀️Your new best friend powered by an artificial neural network  
 [gofumpt](https://github.com/mvdan/gofumpt): A stricter gofmt  
 [gdlv](https://github.com/aarzilli/gdlv): GUI frontend for Delve  
-[rules_go](https://github.com/bazelbuild/rules_go): Go rules for Bazel
+[rules_go](https://github.com/bazelbuild/rules_go): Go rules for Bazel  
+[go-battleship](https://github.com/made2591/go-battleship): A Go battleship implementation with client-server support (1:PC 1:1)
