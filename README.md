@@ -1150,4 +1150,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [member-app-using-go-gin](https://github.com/ai285063/member-app-using-go-gin): Practice: member system api w/ CRUD using Golang and Gin framework. Can be easily started using docker-compose.  
 [diagio](https://github.com/snabb/diagio): Go package diagio implements I/O wrappers for debugging and diagnostics. (golang)  
 [PrimeFinder](https://github.com/JOT85/PrimeFinder): Ever wanted to find billions of prime numbers. In a rather inefficient manner, however wrapped in loads of fancy stuff with no graphics? Well now you can! All because I was learning Golang and wanted some thing to code! PrimeFinder!  
-[olivia](https://github.com/olivia-ai/olivia): 💁‍♀️Your new best friend powered by an artificial neural network
+[olivia](https://github.com/olivia-ai/olivia): 💁‍♀️Your new best friend powered by an artificial neural network  
+[gofumpt](https://github.com/mvdan/gofumpt): A stricter gofmt
