@@ -1152,4 +1152,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [PrimeFinder](https://github.com/JOT85/PrimeFinder): Ever wanted to find billions of prime numbers. In a rather inefficient manner, however wrapped in loads of fancy stuff with no graphics? Well now you can! All because I was learning Golang and wanted some thing to code! PrimeFinder!  
 [olivia](https://github.com/olivia-ai/olivia): 💁‍♀️Your new best friend powered by an artificial neural network  
 [gofumpt](https://github.com/mvdan/gofumpt): A stricter gofmt  
-[gdlv](https://github.com/aarzilli/gdlv): GUI frontend for Delve
+[gdlv](https://github.com/aarzilli/gdlv): GUI frontend for Delve  
+[rules_go](https://github.com/bazelbuild/rules_go): Go rules for Bazel
