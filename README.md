@@ -1158,4 +1158,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [himayihelpyou](https://github.com/gbrian/himayihelpyou): Hi, May I help you?. HI stands for Human Intelligence.  
 [asynq](https://github.com/hibiken/asynq): Simple, reliable, and efficient distributed task queue in Go  
 [golearn](https://github.com/gitldy1013/golearn): G语言学习记录  
-[taocommerce](https://github.com/tao-s/taocommerce): TAO Commerce is a e-commerce platform on cloud.
+[taocommerce](https://github.com/tao-s/taocommerce): TAO Commerce is a e-commerce platform on cloud.  
+[TheGoProgrammingLanguage](https://github.com/akhiltiwari13/TheGoProgrammingLanguage): Programs and assignments from the book "The Go Programming Language"  by Prof. Brian W Kernighan & Alan A A Donovan
