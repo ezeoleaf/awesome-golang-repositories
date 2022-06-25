@@ -1157,4 +1157,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-battleship](https://github.com/made2591/go-battleship): A Go battleship implementation with client-server support (1:PC 1:1)  
 [himayihelpyou](https://github.com/gbrian/himayihelpyou): Hi, May I help you?. HI stands for Human Intelligence.  
 [asynq](https://github.com/hibiken/asynq): Simple, reliable, and efficient distributed task queue in Go  
-[golearn](https://github.com/gitldy1013/golearn): G语言学习记录
+[golearn](https://github.com/gitldy1013/golearn): G语言学习记录  
+[taocommerce](https://github.com/tao-s/taocommerce): TAO Commerce is a e-commerce platform on cloud.
