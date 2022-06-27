@@ -1162,4 +1162,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [TheGoProgrammingLanguage](https://github.com/akhiltiwari13/TheGoProgrammingLanguage): Programs and assignments from the book "The Go Programming Language"  by Prof. Brian W Kernighan & Alan A A Donovan  
 [bit-ranges](https://github.com/lit-technology/bit-ranges): (Un)setting n least significant bits and merging intersecting number ranges.  
 [feedposter](https://github.com/hrittikhere/feedposter): An Automation Engine to look into RSS Feeds and post them to Twitter every 6 hours! You don't need a database for it and it runs on GitHub Actions  
-[listenyt](https://github.com/ShiraazMoollatjie/listenyt): I normally have a workflow that involves getting .m4a versions of youtube links (for offline listening). It's a tedious process to copy your youtube link, then fire up youtube-dl (with extra commands) to download the m4a file.
+[listenyt](https://github.com/ShiraazMoollatjie/listenyt): I normally have a workflow that involves getting .m4a versions of youtube links (for offline listening). It's a tedious process to copy your youtube link, then fire up youtube-dl (with extra commands) to download the m4a file.  
+[go-python](https://github.com/sbinet/go-python): naive go bindings to the CPython2 C-API
