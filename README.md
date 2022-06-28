@@ -1166,4 +1166,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-python](https://github.com/sbinet/go-python): naive go bindings to the CPython2 C-API  
 [gonic](https://github.com/sentriz/gonic): music streaming server / subsonic server API implementation   
 [grv](https://github.com/rgburke/grv): GRV is a terminal interface for viewing git repositories  
-[gojay](https://github.com/francoispqt/gojay): high performance JSON encoder/decoder with stream API for Golang 
+[gojay](https://github.com/francoispqt/gojay): high performance JSON encoder/decoder with stream API for Golang   
+[Restaurante-GO](https://github.com/LuisEduardoFrias/Restaurante-GO): Visualizador de cliente y transacciones  de un restaurante.
