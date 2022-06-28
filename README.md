@@ -1165,4 +1165,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [listenyt](https://github.com/ShiraazMoollatjie/listenyt): I normally have a workflow that involves getting .m4a versions of youtube links (for offline listening). It's a tedious process to copy your youtube link, then fire up youtube-dl (with extra commands) to download the m4a file.  
 [go-python](https://github.com/sbinet/go-python): naive go bindings to the CPython2 C-API  
 [gonic](https://github.com/sentriz/gonic): music streaming server / subsonic server API implementation   
-[grv](https://github.com/rgburke/grv): GRV is a terminal interface for viewing git repositories
+[grv](https://github.com/rgburke/grv): GRV is a terminal interface for viewing git repositories  
+[gojay](https://github.com/francoispqt/gojay): high performance JSON encoder/decoder with stream API for Golang 
