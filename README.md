@@ -1170,4 +1170,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Restaurante-GO](https://github.com/LuisEduardoFrias/Restaurante-GO): Visualizador de cliente y transacciones  de un restaurante.  
 [rakuten](https://github.com/davidbolet/rakuten): This repository shows how to call rakuten's linkshare affiliate API to retrieve links; also feeds a wordpress database with them  
 [clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2): Clean Architecture sample  
-[FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
+[FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder  
+[gorazor](https://github.com/sipin/gorazor): Razor view engine for go
