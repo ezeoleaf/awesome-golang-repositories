@@ -1172,4 +1172,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2): Clean Architecture sample  
 [FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder  
 [gorazor](https://github.com/sipin/gorazor): Razor view engine for go  
-[mira](https://github.com/thesephist/mira): A place for notes, but for the people I keep in touch with
+[mira](https://github.com/thesephist/mira): A place for notes, but for the people I keep in touch with  
+[gomongo](https://github.com/cyruzin/gomongo):  Repositório de estudo para testar o novo driver do MongoDB para Golang.
