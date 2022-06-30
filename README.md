@@ -1175,4 +1175,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mira](https://github.com/thesephist/mira): A place for notes, but for the people I keep in touch with  
 [gomongo](https://github.com/cyruzin/gomongo):  Repositório de estudo para testar o novo driver do MongoDB para Golang.  
 [keploy](https://github.com/keploy/keploy): No code API testing platform. Create unit tests and data mocks from API calls.   
-[integer-interval-expressions-go](https://github.com/MawKKe/integer-interval-expressions-go): A Go library for parsing integer interval expressions of the form '1,3-5,7-'
+[integer-interval-expressions-go](https://github.com/MawKKe/integer-interval-expressions-go): A Go library for parsing integer interval expressions of the form '1,3-5,7-'  
+[dynamo](https://github.com/guregu/dynamo): expressive DynamoDB library for Go
