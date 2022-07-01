@@ -1178,4 +1178,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [integer-interval-expressions-go](https://github.com/MawKKe/integer-interval-expressions-go): A Go library for parsing integer interval expressions of the form '1,3-5,7-'  
 [dynamo](https://github.com/guregu/dynamo): expressive DynamoDB library for Go  
 [graphics-go](https://github.com/phachon/graphics-go): Automatically exported from code.google.com/p/graphics-go  
-[curlie](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
+[curlie](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.  
+[fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
