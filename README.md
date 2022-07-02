@@ -1180,4 +1180,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [graphics-go](https://github.com/phachon/graphics-go): Automatically exported from code.google.com/p/graphics-go  
 [curlie](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.  
 [fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder  
-[lcom4go](https://github.com/yahoojapan/lcom4go): Compute LCOM4, Lack of Cohesion of Methods metrics ver.4, for golang projects.
+[lcom4go](https://github.com/yahoojapan/lcom4go): Compute LCOM4, Lack of Cohesion of Methods metrics ver.4, for golang projects.  
+[ble-sensor-mqtt](https://github.com/mek-x/ble-sensor-mqtt): Simple application used to acquire various sensor data (mainly weather data, i.e. temperature, humidity, pressure) from Bluetooth (BLE) devices and publish them to configured MQTT broker for further processing.
