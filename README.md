@@ -1179,4 +1179,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dynamo](https://github.com/guregu/dynamo): expressive DynamoDB library for Go  
 [graphics-go](https://github.com/phachon/graphics-go): Automatically exported from code.google.com/p/graphics-go  
 [curlie](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.  
-[fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
+[fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder  
+[lcom4go](https://github.com/yahoojapan/lcom4go): Compute LCOM4, Lack of Cohesion of Methods metrics ver.4, for golang projects.
