@@ -1184,4 +1184,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ble-sensor-mqtt](https://github.com/mek-x/ble-sensor-mqtt): Simple application used to acquire various sensor data (mainly weather data, i.e. temperature, humidity, pressure) from Bluetooth (BLE) devices and publish them to configured MQTT broker for further processing.  
 [natsctl](https://github.com/Horaddrim/natsctl): The simplest CLI, but one of the most useful ever! If you ever wanted to use NATS client within your bash :D  
 [gospline](https://github.com/esimov/gospline): Implementing b-spline curves in Go  
-[automuteus](https://github.com/automuteus/automuteus): Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/automuteus/amonguscapture
+[automuteus](https://github.com/automuteus/automuteus): Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/automuteus/amonguscapture  
+[xserver](https://github.com/simar7/xserver): xserver, where x ∈ {dhcp, tftp, dns, ...}
