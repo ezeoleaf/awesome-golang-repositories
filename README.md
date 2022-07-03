@@ -1185,4 +1185,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [natsctl](https://github.com/Horaddrim/natsctl): The simplest CLI, but one of the most useful ever! If you ever wanted to use NATS client within your bash :D  
 [gospline](https://github.com/esimov/gospline): Implementing b-spline curves in Go  
 [automuteus](https://github.com/automuteus/automuteus): Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/automuteus/amonguscapture  
-[xserver](https://github.com/simar7/xserver): xserver, where x ∈ {dhcp, tftp, dns, ...}
+[xserver](https://github.com/simar7/xserver): xserver, where x ∈ {dhcp, tftp, dns, ...}  
+[go-blockchain](https://github.com/jdleo/go-blockchain): proof-of-concept blockchain in golang (w/ consensus algorithm, wallets, merkle trees, derived blocks, mining, etc)
