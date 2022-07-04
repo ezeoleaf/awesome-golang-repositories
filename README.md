@@ -1187,4 +1187,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [automuteus](https://github.com/automuteus/automuteus): Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/automuteus/amonguscapture  
 [xserver](https://github.com/simar7/xserver): xserver, where x ∈ {dhcp, tftp, dns, ...}  
 [go-blockchain](https://github.com/jdleo/go-blockchain): proof-of-concept blockchain in golang (w/ consensus algorithm, wallets, merkle trees, derived blocks, mining, etc)  
-[gotty](https://github.com/yudai/gotty): Share your terminal as a web application
+[gotty](https://github.com/yudai/gotty): Share your terminal as a web application  
+[panicparse](https://github.com/maruel/panicparse): Crash your app in style (Golang)
