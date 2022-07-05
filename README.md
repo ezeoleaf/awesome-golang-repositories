@@ -1190,4 +1190,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gotty](https://github.com/yudai/gotty): Share your terminal as a web application  
 [panicparse](https://github.com/maruel/panicparse): Crash your app in style (Golang)  
 [atreugo](https://github.com/savsgio/atreugo): High performance and extensible micro web framework. Zero memory allocations in hot paths.  
-[Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go): Golang for Security Professionals
+[Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go): Golang for Security Professionals  
+[connect-go](https://github.com/bufbuild/connect-go): Simple, reliable, interoperable. A better gRPC.
