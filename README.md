@@ -1189,4 +1189,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-blockchain](https://github.com/jdleo/go-blockchain): proof-of-concept blockchain in golang (w/ consensus algorithm, wallets, merkle trees, derived blocks, mining, etc)  
 [gotty](https://github.com/yudai/gotty): Share your terminal as a web application  
 [panicparse](https://github.com/maruel/panicparse): Crash your app in style (Golang)  
-[atreugo](https://github.com/savsgio/atreugo): High performance and extensible micro web framework. Zero memory allocations in hot paths.
+[atreugo](https://github.com/savsgio/atreugo): High performance and extensible micro web framework. Zero memory allocations in hot paths.  
+[Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go): Golang for Security Professionals
