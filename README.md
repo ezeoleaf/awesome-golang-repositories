@@ -1192,4 +1192,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [atreugo](https://github.com/savsgio/atreugo): High performance and extensible micro web framework. Zero memory allocations in hot paths.  
 [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go): Golang for Security Professionals  
 [connect-go](https://github.com/bufbuild/connect-go): Simple, reliable, interoperable. A better gRPC.  
-[alibaba-cloud-sdk-go](https://github.com/aliyun/alibaba-cloud-sdk-go): Alibaba Cloud SDK for Go
+[alibaba-cloud-sdk-go](https://github.com/aliyun/alibaba-cloud-sdk-go): Alibaba Cloud SDK for Go  
+[gowebhello](https://github.com/udhos/gowebhello): gowebhello is a simple golang replacement for 'python -m SimpleHTTPServer'.
