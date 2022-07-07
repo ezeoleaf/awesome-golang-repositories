@@ -1195,4 +1195,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [alibaba-cloud-sdk-go](https://github.com/aliyun/alibaba-cloud-sdk-go): Alibaba Cloud SDK for Go  
 [gowebhello](https://github.com/udhos/gowebhello): gowebhello is a simple golang replacement for 'python -m SimpleHTTPServer'.  
 [gosstrak](https://github.com/iomz/gosstrak): An RFID middleware to replace Fosstrak F&C.  
-[botkube](https://github.com/kubeshop/botkube): An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
+[botkube](https://github.com/kubeshop/botkube): An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices  
+[waxmoth](https://github.com/butlermatt/waxmoth): ADS-B aggregator for parsing multiple different data streams 
