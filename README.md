@@ -1201,4 +1201,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hertz](https://github.com/cloudwego/hertz): A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.  
 [wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example): Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.  
 [hprose-golang](https://github.com/hprose/hprose-golang): Hprose is a cross-language RPC. This project is Hprose for Golang.  
-[SudokuGo](https://github.com/Alejandroacho/SudokuGo): A desktop app to play sudoku, built in Go and Vue. We made it as a group of 4 people, I was responsible to load a sudoku and thanks to TDD I was able to make a sudoku maker that generates a new sudoku every game.
+[SudokuGo](https://github.com/Alejandroacho/SudokuGo): A desktop app to play sudoku, built in Go and Vue. We made it as a group of 4 people, I was responsible to load a sudoku and thanks to TDD I was able to make a sudoku maker that generates a new sudoku every game.  
+[rethinkdb_exporter](https://github.com/oliver006/rethinkdb_exporter): Prometheus exporter for RethinkDB cluster and table metrics. Supports RethinkDB 2.x
