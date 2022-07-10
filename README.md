@@ -1203,4 +1203,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hprose-golang](https://github.com/hprose/hprose-golang): Hprose is a cross-language RPC. This project is Hprose for Golang.  
 [SudokuGo](https://github.com/Alejandroacho/SudokuGo): A desktop app to play sudoku, built in Go and Vue. We made it as a group of 4 people, I was responsible to load a sudoku and thanks to TDD I was able to make a sudoku maker that generates a new sudoku every game.  
 [rethinkdb_exporter](https://github.com/oliver006/rethinkdb_exporter): Prometheus exporter for RethinkDB cluster and table metrics. Supports RethinkDB 2.x  
-[Sonarqube_Go](https://github.com/PedroAraujoNogueira/Sonarqube_Go): Esse projeto tem o objetivo de usar o Sonarqube em uma pequena aplicação Go, testando os conceitos da ferramenta, como validação de cobertura de código por testes, detecção de bugs e vulnerabilidades.
+[Sonarqube_Go](https://github.com/PedroAraujoNogueira/Sonarqube_Go): Esse projeto tem o objetivo de usar o Sonarqube em uma pequena aplicação Go, testando os conceitos da ferramenta, como validação de cobertura de código por testes, detecção de bugs e vulnerabilidades.  
+[mgmt](https://github.com/purpleidea/mgmt): Next generation distributed, event-driven, parallel config management!
