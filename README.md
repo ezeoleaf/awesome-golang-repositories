@@ -1206,4 +1206,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Sonarqube_Go](https://github.com/PedroAraujoNogueira/Sonarqube_Go): Esse projeto tem o objetivo de usar o Sonarqube em uma pequena aplicação Go, testando os conceitos da ferramenta, como validação de cobertura de código por testes, detecção de bugs e vulnerabilidades.  
 [mgmt](https://github.com/purpleidea/mgmt): Next generation distributed, event-driven, parallel config management!  
 [turbocookedrabbit](https://github.com/houseofcat/turbocookedrabbit): A user friendly RabbitMQ library written in Golang.  
-[gospin](https://github.com/m1/gospin): Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations
+[gospin](https://github.com/m1/gospin): Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations  
+[rotina-sabium-portal-fatura](https://github.com/mrbrunelli/rotina-sabium-portal-fatura): Busca faturas que foram "baixadas" no Sabium e muda o status para "faturado" no Portal Fatura.
