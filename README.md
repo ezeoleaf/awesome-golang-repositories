@@ -1205,4 +1205,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rethinkdb_exporter](https://github.com/oliver006/rethinkdb_exporter): Prometheus exporter for RethinkDB cluster and table metrics. Supports RethinkDB 2.x  
 [Sonarqube_Go](https://github.com/PedroAraujoNogueira/Sonarqube_Go): Esse projeto tem o objetivo de usar o Sonarqube em uma pequena aplicação Go, testando os conceitos da ferramenta, como validação de cobertura de código por testes, detecção de bugs e vulnerabilidades.  
 [mgmt](https://github.com/purpleidea/mgmt): Next generation distributed, event-driven, parallel config management!  
-[turbocookedrabbit](https://github.com/houseofcat/turbocookedrabbit): A user friendly RabbitMQ library written in Golang.
+[turbocookedrabbit](https://github.com/houseofcat/turbocookedrabbit): A user friendly RabbitMQ library written in Golang.  
+[gospin](https://github.com/m1/gospin): Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations
