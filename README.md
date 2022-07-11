@@ -1210,4 +1210,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rotina-sabium-portal-fatura](https://github.com/mrbrunelli/rotina-sabium-portal-fatura): Busca faturas que foram "baixadas" no Sabium e muda o status para "faturado" no Portal Fatura.  
 [faas-sam-lambda-go](https://github.com/sbstjn/faas-sam-lambda-go): AWS Serverless Application Model w/ Go  
 [API-Albums](https://github.com/MALPV/API-Albums): API Fake de albums realizada con Go y el framework gin  
-[go-plugserver](https://github.com/andrestc/go-plugserver): [WIP] Toy project using go 1.8 plugins
+[go-plugserver](https://github.com/andrestc/go-plugserver): [WIP] Toy project using go 1.8 plugins  
+[plua](https://github.com/hirochachacha/plua): Lua 5.3 implementation (WIP)
