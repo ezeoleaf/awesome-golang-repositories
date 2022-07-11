@@ -1209,4 +1209,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gospin](https://github.com/m1/gospin): Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations  
 [rotina-sabium-portal-fatura](https://github.com/mrbrunelli/rotina-sabium-portal-fatura): Busca faturas que foram "baixadas" no Sabium e muda o status para "faturado" no Portal Fatura.  
 [faas-sam-lambda-go](https://github.com/sbstjn/faas-sam-lambda-go): AWS Serverless Application Model w/ Go  
-[API-Albums](https://github.com/MALPV/API-Albums): API Fake de albums realizada con Go y el framework gin
+[API-Albums](https://github.com/MALPV/API-Albums): API Fake de albums realizada con Go y el framework gin  
+[go-plugserver](https://github.com/andrestc/go-plugserver): [WIP] Toy project using go 1.8 plugins
