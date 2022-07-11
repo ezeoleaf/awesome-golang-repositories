@@ -1211,4 +1211,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [faas-sam-lambda-go](https://github.com/sbstjn/faas-sam-lambda-go): AWS Serverless Application Model w/ Go  
 [API-Albums](https://github.com/MALPV/API-Albums): API Fake de albums realizada con Go y el framework gin  
 [go-plugserver](https://github.com/andrestc/go-plugserver): [WIP] Toy project using go 1.8 plugins  
-[plua](https://github.com/hirochachacha/plua): Lua 5.3 implementation (WIP)
+[plua](https://github.com/hirochachacha/plua): Lua 5.3 implementation (WIP)  
+[gobrew](https://github.com/kevincobain2000/gobrew): Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
