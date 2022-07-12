@@ -1213,4 +1213,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-plugserver](https://github.com/andrestc/go-plugserver): [WIP] Toy project using go 1.8 plugins  
 [plua](https://github.com/hirochachacha/plua): Lua 5.3 implementation (WIP)  
 [gobrew](https://github.com/kevincobain2000/gobrew): Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.  
-[amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent): Amazon Elastic Container Service Agent
+[amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent): Amazon Elastic Container Service Agent  
+[hostname-docker](https://github.com/adongy/hostname-docker): Webserver printing the current hostname (i.e. the docker container ID)
