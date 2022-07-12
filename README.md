@@ -1214,4 +1214,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [plua](https://github.com/hirochachacha/plua): Lua 5.3 implementation (WIP)  
 [gobrew](https://github.com/kevincobain2000/gobrew): Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.  
 [amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent): Amazon Elastic Container Service Agent  
-[hostname-docker](https://github.com/adongy/hostname-docker): Webserver printing the current hostname (i.e. the docker container ID)
+[hostname-docker](https://github.com/adongy/hostname-docker): Webserver printing the current hostname (i.e. the docker container ID)  
+[GoLevel2](https://github.com/lostlang/GoLevel2): weak 2-3
