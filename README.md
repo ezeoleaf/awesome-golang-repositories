@@ -1218,4 +1218,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GoLevel2](https://github.com/lostlang/GoLevel2): weak 2-3  
 [monstache](https://github.com/rwynn/monstache): a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.  
 [question-site](https://github.com/esgameco/question-site): A Q&A web app built with Gin and Vue.  
-[oauth2-go](https://github.com/lithdew/oauth2-go): What does it take to write a minimal security-first OAuth 2.0 Server w/ OpenID Connect support in Go?
+[oauth2-go](https://github.com/lithdew/oauth2-go): What does it take to write a minimal security-first OAuth 2.0 Server w/ OpenID Connect support in Go?  
+[gotesting](https://github.com/jcdickinson/gotesting): Quick'n'dirty testing functions for go
