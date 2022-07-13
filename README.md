@@ -1219,4 +1219,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [monstache](https://github.com/rwynn/monstache): a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.  
 [question-site](https://github.com/esgameco/question-site): A Q&A web app built with Gin and Vue.  
 [oauth2-go](https://github.com/lithdew/oauth2-go): What does it take to write a minimal security-first OAuth 2.0 Server w/ OpenID Connect support in Go?  
-[gotesting](https://github.com/jcdickinson/gotesting): Quick'n'dirty testing functions for go
+[gotesting](https://github.com/jcdickinson/gotesting): Quick'n'dirty testing functions for go  
+[grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
