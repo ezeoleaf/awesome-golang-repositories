@@ -1217,4 +1217,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hostname-docker](https://github.com/adongy/hostname-docker): Webserver printing the current hostname (i.e. the docker container ID)  
 [GoLevel2](https://github.com/lostlang/GoLevel2): weak 2-3  
 [monstache](https://github.com/rwynn/monstache): a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.  
-[question-site](https://github.com/esgameco/question-site): A Q&A web app built with Gin and Vue.
+[question-site](https://github.com/esgameco/question-site): A Q&A web app built with Gin and Vue.  
+[oauth2-go](https://github.com/lithdew/oauth2-go): What does it take to write a minimal security-first OAuth 2.0 Server w/ OpenID Connect support in Go?
