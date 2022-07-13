@@ -1220,4 +1220,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [question-site](https://github.com/esgameco/question-site): A Q&A web app built with Gin and Vue.  
 [oauth2-go](https://github.com/lithdew/oauth2-go): What does it take to write a minimal security-first OAuth 2.0 Server w/ OpenID Connect support in Go?  
 [gotesting](https://github.com/jcdickinson/gotesting): Quick'n'dirty testing functions for go  
-[grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+[grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.   
+[dir605reboot](https://github.com/whitglint/dir605reboot): Program to reboot your D-Link DIR-605 router ;-)
