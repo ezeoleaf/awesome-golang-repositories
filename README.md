@@ -1222,4 +1222,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gotesting](https://github.com/jcdickinson/gotesting): Quick'n'dirty testing functions for go  
 [grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.   
 [dir605reboot](https://github.com/whitglint/dir605reboot): Program to reboot your D-Link DIR-605 router ;-)  
-[Go-Code](https://github.com/evolutionengine/Go-Code): <C_> A Guide to Understanding The "Go Programming Language" [Depreciated]
+[Go-Code](https://github.com/evolutionengine/Go-Code): <C_> A Guide to Understanding The "Go Programming Language" [Depreciated]  
+[chef](https://github.com/sauerbraten/chef): Cube 2: Sauerbraten spy bot: collects IP-name combinations from extinfo and provides a web interface to search them.
