@@ -1225,4 +1225,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Go-Code](https://github.com/evolutionengine/Go-Code): <C_> A Guide to Understanding The "Go Programming Language" [Depreciated]  
 [chef](https://github.com/sauerbraten/chef): Cube 2: Sauerbraten spy bot: collects IP-name combinations from extinfo and provides a web interface to search them.  
 [Alerta-de-Campeonatos-WCA](https://github.com/luisfelipesdn12/Alerta-de-Campeonatos-WCA): Um script que manda um e-mail quando há um campeonato novo na WCA. A script which send an e-mail when there's a new WCA competition. Integrates the WCA's and the Google Sheets API, the subscription is made by the Google Forms.  
-[go-activiti-rest](https://github.com/jumpjumpbean/go-activiti-rest): Go client for Activiti v6.x rest api
+[go-activiti-rest](https://github.com/jumpjumpbean/go-activiti-rest): Go client for Activiti v6.x rest api  
+[go-colproximate](https://github.com/axiom/go-colproximate): Convert colors to one in a given color palette, e.g. XTerm 256
