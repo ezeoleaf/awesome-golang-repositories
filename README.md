@@ -1230,4 +1230,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf): Golang commandline wrapper for wkhtmltopdf  
 [sudoku-solver](https://github.com/pirobtumen/sudoku-solver): Solve sudokus in Go/C++ using backtracking.  
 [gorouter](https://github.com/xujiajun/gorouter): xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.  
-[clang-v9](https://github.com/go-clang/clang-v9): Go bindings for Clang's C API v9
+[clang-v9](https://github.com/go-clang/clang-v9): Go bindings for Clang's C API v9  
+[dasarpemrogramangolang](https://github.com/novalagung/dasarpemrogramangolang): 📖 Source Code E-book Dasar Pemrograman Golang
