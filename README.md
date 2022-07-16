@@ -1228,4 +1228,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-activiti-rest](https://github.com/jumpjumpbean/go-activiti-rest): Go client for Activiti v6.x rest api  
 [go-colproximate](https://github.com/axiom/go-colproximate): Convert colors to one in a given color palette, e.g. XTerm 256  
 [go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf): Golang commandline wrapper for wkhtmltopdf  
-[sudoku-solver](https://github.com/pirobtumen/sudoku-solver): Solve sudokus in Go/C++ using backtracking.
+[sudoku-solver](https://github.com/pirobtumen/sudoku-solver): Solve sudokus in Go/C++ using backtracking.  
+[gorouter](https://github.com/xujiajun/gorouter): xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.
