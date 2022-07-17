@@ -1233,4 +1233,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [clang-v9](https://github.com/go-clang/clang-v9): Go bindings for Clang's C API v9  
 [dasarpemrogramangolang](https://github.com/novalagung/dasarpemrogramangolang): 📖 Source Code E-book Dasar Pemrograman Golang  
 [imagick](https://github.com/gographics/imagick): Go binding to ImageMagick's MagickWand C API  
-[gopack](https://github.com/warrenbocphet/gopack): A bin packing algorithm for rectangular images, a.k.a glorified image collage.
+[gopack](https://github.com/warrenbocphet/gopack): A bin packing algorithm for rectangular images, a.k.a glorified image collage.  
+[nftables](https://github.com/google/nftables): This repository contains a Go module to interact with Linux nftables (the iptables successor).
