@@ -1231,4 +1231,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sudoku-solver](https://github.com/pirobtumen/sudoku-solver): Solve sudokus in Go/C++ using backtracking.  
 [gorouter](https://github.com/xujiajun/gorouter): xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.  
 [clang-v9](https://github.com/go-clang/clang-v9): Go bindings for Clang's C API v9  
-[dasarpemrogramangolang](https://github.com/novalagung/dasarpemrogramangolang): 📖 Source Code E-book Dasar Pemrograman Golang
+[dasarpemrogramangolang](https://github.com/novalagung/dasarpemrogramangolang): 📖 Source Code E-book Dasar Pemrograman Golang  
+[imagick](https://github.com/gographics/imagick): Go binding to ImageMagick's MagickWand C API
