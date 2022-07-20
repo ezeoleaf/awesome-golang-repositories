@@ -1237,4 +1237,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [nftables](https://github.com/google/nftables): This repository contains a Go module to interact with Linux nftables (the iptables successor).  
 [ghostunnel](https://github.com/ghostunnel/ghostunnel): A simple SSL/TLS proxy with mutual authentication for securing non-TLS services  
 [gubrak](https://github.com/Bhinneka/gubrak): :fire: Release V 1.0.0. An experimental Concurrent Command Line Performance Testing tool  
-[golang-api-http-gin-goninc](https://github.com/isaqueveras/golang-api-http-gin-goninc): Criando uma api simples, utilizando apenas um array de usuários, onde consigo fazer todo o CRUD dele.
+[golang-api-http-gin-goninc](https://github.com/isaqueveras/golang-api-http-gin-goninc): Criando uma api simples, utilizando apenas um array de usuários, onde consigo fazer todo o CRUD dele.  
+[go-a-b](https://github.com/alextanhongpin/go-a-b): A/B testing metrics collection with golang
