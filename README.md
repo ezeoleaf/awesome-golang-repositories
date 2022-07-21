@@ -1241,4 +1241,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-a-b](https://github.com/alextanhongpin/go-a-b): A/B testing metrics collection with golang  
 [kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes  
 [go_printf_for_v](https://github.com/Hunam6/go_printf_for_v): Replica of Go's fmt.Printf() in V  
-[go-dev](https://github.com/royge/go-dev): Go development environment (https://hub.docker.com/r/royge/go-dev/)
+[go-dev](https://github.com/royge/go-dev): Go development environment (https://hub.docker.com/r/royge/go-dev/)  
+[go-importconst](https://github.com/nyaosorg/go-importconst): Import constants from C++ headers for Go without 'cgo'
