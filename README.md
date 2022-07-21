@@ -1240,4 +1240,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-api-http-gin-goninc](https://github.com/isaqueveras/golang-api-http-gin-goninc): Criando uma api simples, utilizando apenas um array de usuários, onde consigo fazer todo o CRUD dele.  
 [go-a-b](https://github.com/alextanhongpin/go-a-b): A/B testing metrics collection with golang  
 [kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes  
-[go_printf_for_v](https://github.com/Hunam6/go_printf_for_v): Replica of Go's fmt.Printf() in V
+[go_printf_for_v](https://github.com/Hunam6/go_printf_for_v): Replica of Go's fmt.Printf() in V  
+[go-dev](https://github.com/royge/go-dev): Go development environment (https://hub.docker.com/r/royge/go-dev/)
