@@ -1245,4 +1245,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-importconst](https://github.com/nyaosorg/go-importconst): Import constants from C++ headers for Go without 'cgo'  
 [go-trace-example](https://github.com/alex-leonhardt/go-trace-example): Basic example apps instrumented w/ Jaeger tracing  
 [Data-Structrues-And-Algorithms](https://github.com/OneUpWallStreet/Data-Structrues-And-Algorithms): Trying My Best To Solve Leetcode Questions :D  
-[encore](https://github.com/encoredev/encore): Encore is the Backend Development Engine helping developers escape the maze of complexity.
+[encore](https://github.com/encoredev/encore): Encore is the Backend Development Engine helping developers escape the maze of complexity.  
+[gojenkins](https://github.com/bndr/gojenkins): Jenkins API Client in Go. Looking for maintainers to move this project forward.
