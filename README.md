@@ -1251,4 +1251,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [portmaster](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance  
 [go-apns2](https://github.com/sger/go-apns2): Go package for HTTP/2  Apple Push Notification Service.  
 [buffalo-wkhtmltox](https://github.com/ghostzali/buffalo-wkhtmltox): Docker image for wkhtmltox (wkhtmltopdf & wkhtmltoimage) over Buffalo Web Framework (go-lang). Just `pull ghostzali/buffalo-wkhtmltox`. Registry: https://hub.docker.com/r/ghostzali/buffalo-wkhtmltox  
-[ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin): 基于 ZeroBot 的 OneBot 插件
+[ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin): 基于 ZeroBot 的 OneBot 插件  
+[Go_Goland_Practica](https://github.com/MiguelMendozaMolina/Go_Goland_Practica): Desarollo de ApiRest , utilizando Go y MongoDb , Implementacion de los cuatro metodos [GET , POST, PUT , DELETE ]
