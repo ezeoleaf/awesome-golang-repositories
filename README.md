@@ -1250,4 +1250,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack  
 [portmaster](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance  
 [go-apns2](https://github.com/sger/go-apns2): Go package for HTTP/2  Apple Push Notification Service.  
-[buffalo-wkhtmltox](https://github.com/ghostzali/buffalo-wkhtmltox): Docker image for wkhtmltox (wkhtmltopdf & wkhtmltoimage) over Buffalo Web Framework (go-lang). Just `pull ghostzali/buffalo-wkhtmltox`. Registry: https://hub.docker.com/r/ghostzali/buffalo-wkhtmltox
+[buffalo-wkhtmltox](https://github.com/ghostzali/buffalo-wkhtmltox): Docker image for wkhtmltox (wkhtmltopdf & wkhtmltoimage) over Buffalo Web Framework (go-lang). Just `pull ghostzali/buffalo-wkhtmltox`. Registry: https://hub.docker.com/r/ghostzali/buffalo-wkhtmltox  
+[ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin): 基于 ZeroBot 的 OneBot 插件
