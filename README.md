@@ -1256,4 +1256,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [spaceInvadersWithGoRoutines](https://github.com/kenlomaxhybris/spaceInvadersWithGoRoutines): To learn how to work with GoRoutines, Channels, State I implemented a Space Invaders Game :)  
 [kube-fledged](https://github.com/senthilrch/kube-fledged): A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly  
 [uptime](https://github.com/uberswe/uptime): A simple go program which checks if your websites are running and runs forever (stop it with ctrl+c). It takes two optional arguments, comma separated string with urls and an interval.  
-[go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide): Practical concurrency guide in Go, communication by channels, patterns
+[go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide): Practical concurrency guide in Go, communication by channels, patterns  
+[workshop_21-12-19](https://github.com/gophersmu/workshop_21-12-19): Go: All you ever wanted to know but didn't dare to ask...
