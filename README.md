@@ -1255,4 +1255,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Go_Goland_Practica](https://github.com/MiguelMendozaMolina/Go_Goland_Practica): Desarollo de ApiRest , utilizando Go y MongoDb , Implementacion de los cuatro metodos [GET , POST, PUT , DELETE ]  
 [spaceInvadersWithGoRoutines](https://github.com/kenlomaxhybris/spaceInvadersWithGoRoutines): To learn how to work with GoRoutines, Channels, State I implemented a Space Invaders Game :)  
 [kube-fledged](https://github.com/senthilrch/kube-fledged): A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly  
-[uptime](https://github.com/uberswe/uptime): A simple go program which checks if your websites are running and runs forever (stop it with ctrl+c). It takes two optional arguments, comma separated string with urls and an interval.
+[uptime](https://github.com/uberswe/uptime): A simple go program which checks if your websites are running and runs forever (stop it with ctrl+c). It takes two optional arguments, comma separated string with urls and an interval.  
+[go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide): Practical concurrency guide in Go, communication by channels, patterns
