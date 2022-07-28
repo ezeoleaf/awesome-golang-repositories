@@ -1261,4 +1261,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Application-Gateway](https://github.com/Janusec/Application-Gateway): Janusec Application Gateway, an application security solution which provides ACME HTTPS, WAF (Web Application Firewall), CC defense, OAuth2 Authentication and load balancing. Janusec应用网关，提供ACME自动化证书与HTTPS接入、WAF (Web Application Firewall)、CC防御、OAuth2身份认证、负载均衡等功能。  
 [carrot](https://github.com/zzossig/carrot): 🥕CSS Selectors Level 3 implementation  
 [technical_books](https://github.com/TIM168/technical_books): :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings:  
-[pouch](https://github.com/alibaba/pouch): An Efficient Enterprise-class Container Engine
+[pouch](https://github.com/alibaba/pouch): An Efficient Enterprise-class Container Engine  
+[golang-fundamentals](https://github.com/MiguelHG2351/golang-fundamentals): Curso básico de Go Platzi :D
