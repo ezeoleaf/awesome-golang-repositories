@@ -1263,4 +1263,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [technical_books](https://github.com/TIM168/technical_books): :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings:  
 [pouch](https://github.com/alibaba/pouch): An Efficient Enterprise-class Container Engine  
 [golang-fundamentals](https://github.com/MiguelHG2351/golang-fundamentals): Curso básico de Go Platzi :D  
-[game-of-go](https://github.com/kindanoob/game-of-go): Implementation of game of go (baduk, weiqi) in C++ using SFML
+[game-of-go](https://github.com/kindanoob/game-of-go): Implementation of game of go (baduk, weiqi) in C++ using SFML  
+[sshutils](https://github.com/jaksi/sshutils): Go SSH utils library to complement golang.org/x/crypto/ssh
