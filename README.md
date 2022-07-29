@@ -1265,4 +1265,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-fundamentals](https://github.com/MiguelHG2351/golang-fundamentals): Curso básico de Go Platzi :D  
 [game-of-go](https://github.com/kindanoob/game-of-go): Implementation of game of go (baduk, weiqi) in C++ using SFML  
 [sshutils](https://github.com/jaksi/sshutils): Go SSH utils library to complement golang.org/x/crypto/ssh  
-[captcha](https://github.com/dchest/captcha): Go package captcha implements generation and verification of image and audio CAPTCHAs.
+[captcha](https://github.com/dchest/captcha): Go package captcha implements generation and verification of image and audio CAPTCHAs.  
+[gedcom](https://github.com/lukevers/gedcom): An implementation of a GEDCOM 5.5 parser in Go
