@@ -1264,4 +1264,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pouch](https://github.com/alibaba/pouch): An Efficient Enterprise-class Container Engine  
 [golang-fundamentals](https://github.com/MiguelHG2351/golang-fundamentals): Curso básico de Go Platzi :D  
 [game-of-go](https://github.com/kindanoob/game-of-go): Implementation of game of go (baduk, weiqi) in C++ using SFML  
-[sshutils](https://github.com/jaksi/sshutils): Go SSH utils library to complement golang.org/x/crypto/ssh
+[sshutils](https://github.com/jaksi/sshutils): Go SSH utils library to complement golang.org/x/crypto/ssh  
+[captcha](https://github.com/dchest/captcha): Go package captcha implements generation and verification of image and audio CAPTCHAs.
