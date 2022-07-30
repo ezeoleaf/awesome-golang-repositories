@@ -1269,4 +1269,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gedcom](https://github.com/lukevers/gedcom): An implementation of a GEDCOM 5.5 parser in Go  
 [meteor](https://github.com/TheWeatherCompany/meteor): Weather's GoLang Custom Client Library.  
 [movies-app](https://github.com/adrianomonteiroweb/movies-app): Projeto de estudos em uma aplicação de stream de vídeos com gRPC e Golang.  
-[participle](https://github.com/alecthomas/participle): A parser library for Go
+[participle](https://github.com/alecthomas/participle): A parser library for Go  
+[thelper](https://github.com/ichiban/thelper): Go static analyzer that reports where you forgot to call t.Helper().
