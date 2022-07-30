@@ -1271,4 +1271,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [movies-app](https://github.com/adrianomonteiroweb/movies-app): Projeto de estudos em uma aplicação de stream de vídeos com gRPC e Golang.  
 [participle](https://github.com/alecthomas/participle): A parser library for Go  
 [thelper](https://github.com/ichiban/thelper): Go static analyzer that reports where you forgot to call t.Helper().  
-[go-quartz](https://github.com/reugn/go-quartz): Minimalist and zero-dependency scheduling library for Go
+[go-quartz](https://github.com/reugn/go-quartz): Minimalist and zero-dependency scheduling library for Go  
+[goxygen](https://github.com/Shpota/goxygen): Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
