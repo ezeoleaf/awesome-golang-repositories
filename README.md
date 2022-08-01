@@ -1275,4 +1275,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goxygen](https://github.com/Shpota/goxygen): Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀  
 [GoGuide](https://github.com/coderit666/GoGuide): 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。  
 [koanf](https://github.com/knadh/koanf): Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.  
-[SearchProxy](https://github.com/tb0hdan/SearchProxy): Redirect to backend server that has the file - no more four-o-four!
+[SearchProxy](https://github.com/tb0hdan/SearchProxy): Redirect to backend server that has the file - no more four-o-four!  
+[go-tsne](https://github.com/danaugrs/go-tsne): t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go
