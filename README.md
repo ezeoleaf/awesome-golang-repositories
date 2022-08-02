@@ -1278,4 +1278,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [SearchProxy](https://github.com/tb0hdan/SearchProxy): Redirect to backend server that has the file - no more four-o-four!  
 [go-tsne](https://github.com/danaugrs/go-tsne): t-Distributed Stochastic Neighbor Embedding (t-SNE) in Go  
 [go-bible](https://github.com/shangchihh/go-bible): Source code from the Go bible, i.e. The Go Programming Language.  
-[grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway): gRPC to JSON proxy generator following the gRPC HTTP spec
+[grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway): gRPC to JSON proxy generator following the gRPC HTTP spec  
+[fuzzysearch](https://github.com/lithammer/fuzzysearch): :pig: Tiny and fast fuzzy search in Go
