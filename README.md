@@ -1283,4 +1283,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [echoip](https://github.com/mpolden/echoip): IP address lookup service  
 [slack-channel-notification](https://github.com/m4kvn/slack-channel-notification): Notify Slack's creation of a new channel.  
 [ginkgo](https://github.com/onsi/ginkgo): A Modern Testing Framework for Go  
-[sqldb-logger](https://github.com/simukti/sqldb-logger): A logger for Go SQL database driver without modifying existing *sql.DB stdlib usage.
+[sqldb-logger](https://github.com/simukti/sqldb-logger): A logger for Go SQL database driver without modifying existing *sql.DB stdlib usage.  
+[kaitai_struct](https://github.com/kaitai-io/kaitai_struct): Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
