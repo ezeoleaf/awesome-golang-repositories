@@ -1282,4 +1282,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fuzzysearch](https://github.com/lithammer/fuzzysearch): :pig: Tiny and fast fuzzy search in Go  
 [echoip](https://github.com/mpolden/echoip): IP address lookup service  
 [slack-channel-notification](https://github.com/m4kvn/slack-channel-notification): Notify Slack's creation of a new channel.  
-[ginkgo](https://github.com/onsi/ginkgo): A Modern Testing Framework for Go
+[ginkgo](https://github.com/onsi/ginkgo): A Modern Testing Framework for Go  
+[sqldb-logger](https://github.com/simukti/sqldb-logger): A logger for Go SQL database driver without modifying existing *sql.DB stdlib usage.
