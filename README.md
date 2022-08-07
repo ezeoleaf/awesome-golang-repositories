@@ -1288,4 +1288,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wombat](https://github.com/rogchap/wombat): Cross platform gRPC client  
 [pingu](https://github.com/sheepla/pingu): 🐧ping command but with pingu  
 [k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!  
-[tdigest](https://github.com/influxdata/tdigest): An implementation of Ted Dunning's t-digest in Go.
+[tdigest](https://github.com/influxdata/tdigest): An implementation of Ted Dunning's t-digest in Go.  
+[arikawa](https://github.com/diamondburned/arikawa): A Golang library and framework for the Discord API.
