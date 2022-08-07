@@ -1290,4 +1290,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!  
 [tdigest](https://github.com/influxdata/tdigest): An implementation of Ted Dunning's t-digest in Go.  
 [arikawa](https://github.com/diamondburned/arikawa): A Golang library and framework for the Discord API.  
-[rest-layer](https://github.com/rs/rest-layer): REST Layer, Go (golang) REST API framework
+[rest-layer](https://github.com/rs/rest-layer): REST Layer, Go (golang) REST API framework  
+[devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
