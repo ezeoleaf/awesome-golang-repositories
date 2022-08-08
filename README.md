@@ -1292,4 +1292,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [arikawa](https://github.com/diamondburned/arikawa): A Golang library and framework for the Discord API.  
 [rest-layer](https://github.com/rs/rest-layer): REST Layer, Go (golang) REST API framework  
 [devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators  
-[go-styleguide](https://github.com/bahlo/go-styleguide): 🏆 Opinionated Styleguide for the Go language
+[go-styleguide](https://github.com/bahlo/go-styleguide): 🏆 Opinionated Styleguide for the Go language  
+[comby](https://github.com/comby-tools/comby): A code rewrite tool for structural search and replace that supports ~every language.
