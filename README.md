@@ -1291,4 +1291,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tdigest](https://github.com/influxdata/tdigest): An implementation of Ted Dunning's t-digest in Go.  
 [arikawa](https://github.com/diamondburned/arikawa): A Golang library and framework for the Discord API.  
 [rest-layer](https://github.com/rs/rest-layer): REST Layer, Go (golang) REST API framework  
-[devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
+[devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators  
+[go-styleguide](https://github.com/bahlo/go-styleguide): 🏆 Opinionated Styleguide for the Go language
