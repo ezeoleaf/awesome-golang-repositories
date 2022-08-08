@@ -1293,4 +1293,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rest-layer](https://github.com/rs/rest-layer): REST Layer, Go (golang) REST API framework  
 [devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators  
 [go-styleguide](https://github.com/bahlo/go-styleguide): 🏆 Opinionated Styleguide for the Go language  
-[comby](https://github.com/comby-tools/comby): A code rewrite tool for structural search and replace that supports ~every language.
+[comby](https://github.com/comby-tools/comby): A code rewrite tool for structural search and replace that supports ~every language.  
+[nri-zipkin](https://github.com/bpalermo/nri-zipkin): A proxy used as sidecar to inject required headers for New Relic's distributed tracing
