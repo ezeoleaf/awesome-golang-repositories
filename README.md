@@ -1294,4 +1294,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators  
 [go-styleguide](https://github.com/bahlo/go-styleguide): 🏆 Opinionated Styleguide for the Go language  
 [comby](https://github.com/comby-tools/comby): A code rewrite tool for structural search and replace that supports ~every language.  
-[nri-zipkin](https://github.com/bpalermo/nri-zipkin): A proxy used as sidecar to inject required headers for New Relic's distributed tracing
+[nri-zipkin](https://github.com/bpalermo/nri-zipkin): A proxy used as sidecar to inject required headers for New Relic's distributed tracing  
+[armstrong](https://github.com/StevenMaude/armstrong): :satellite::watch: Update expired Extended Prediction Orbit (EPO) GPS data for Garmin devices, e.g. Forerunner watches. Spend less time waiting for a GPS fix before a run or cycle *without* Garmin's software!
