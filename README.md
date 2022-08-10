@@ -1297,4 +1297,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [nri-zipkin](https://github.com/bpalermo/nri-zipkin): A proxy used as sidecar to inject required headers for New Relic's distributed tracing  
 [armstrong](https://github.com/StevenMaude/armstrong): :satellite::watch: Update expired Extended Prediction Orbit (EPO) GPS data for Garmin devices, e.g. Forerunner watches. Spend less time waiting for a GPS fix before a run or cycle *without* Garmin's software!  
 [socketio](https://github.com/maurodelazeri/socketio): minimal socketio .9 implementation for golang  
-[imigrate](https://github.com/sandro/imigrate): Interface-driven migrations in Go. A simple tool to run database migrations for sql drivers that don't conform to database/sql.
+[imigrate](https://github.com/sandro/imigrate): Interface-driven migrations in Go. A simple tool to run database migrations for sql drivers that don't conform to database/sql.  
+[resty](https://github.com/go-resty/resty): Simple HTTP and REST client library for Go
