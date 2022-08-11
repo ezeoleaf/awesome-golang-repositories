@@ -1300,4 +1300,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [imigrate](https://github.com/sandro/imigrate): Interface-driven migrations in Go. A simple tool to run database migrations for sql drivers that don't conform to database/sql.  
 [resty](https://github.com/go-resty/resty): Simple HTTP and REST client library for Go  
 [blockchain-document-horodateur](https://github.com/republique-et-canton-de-geneve/blockchain-document-horodateur): Application d'horodatage de documents PDF, utilisant la chaîne de blocs Ethereum.  
-[shop-api](https://github.com/yitume/shop-api): A saas e-shop write by go.
+[shop-api](https://github.com/yitume/shop-api): A saas e-shop write by go.  
+[go-proto-validators](https://github.com/mwitkow/go-proto-validators): Generate message validators from .proto annotations.
