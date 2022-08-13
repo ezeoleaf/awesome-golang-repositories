@@ -1303,4 +1303,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [shop-api](https://github.com/yitume/shop-api): A saas e-shop write by go.  
 [go-proto-validators](https://github.com/mwitkow/go-proto-validators): Generate message validators from .proto annotations.  
 [posta-tracking](https://github.com/eltonlika/posta-tracking): Terminal-based client for Albanian Post tracking service / Klient në terminal për shërbimin e gjurmimit të Postës Shqiptare  
-[DSA](https://github.com/dangdtr/DSA): Golang translations of the Java code implementation in the textbook Algorithms 4
+[DSA](https://github.com/dangdtr/DSA): Golang translations of the Java code implementation in the textbook Algorithms 4  
+[minigo](https://github.com/DQNEO/minigo): minigo🐥is a small Go compiler made from scratch. It can compile itself.
