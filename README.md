@@ -1305,4 +1305,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [posta-tracking](https://github.com/eltonlika/posta-tracking): Terminal-based client for Albanian Post tracking service / Klient në terminal për shërbimin e gjurmimit të Postës Shqiptare  
 [DSA](https://github.com/dangdtr/DSA): Golang translations of the Java code implementation in the textbook Algorithms 4  
 [minigo](https://github.com/DQNEO/minigo): minigo🐥is a small Go compiler made from scratch. It can compile itself.  
-[wyname.go](https://github.com/zasuchilas/wyname.go): WhatsYourNa.me (pet-проект) v.4 серверная часть
+[wyname.go](https://github.com/zasuchilas/wyname.go): WhatsYourNa.me (pet-проект) v.4 серверная часть  
+[graphql-go](https://github.com/graph-gophers/graphql-go): GraphQL server with a focus on ease of use
