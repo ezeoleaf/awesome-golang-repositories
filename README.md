@@ -1307,4 +1307,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [minigo](https://github.com/DQNEO/minigo): minigo🐥is a small Go compiler made from scratch. It can compile itself.  
 [wyname.go](https://github.com/zasuchilas/wyname.go): WhatsYourNa.me (pet-проект) v.4 серверная часть  
 [graphql-go](https://github.com/graph-gophers/graphql-go): GraphQL server with a focus on ease of use  
-[che-edo-api](https://github.com/bokjo/che-edo-api): Port from GitLab, 2 years old job interview project that needs to be rechecked!
+[che-edo-api](https://github.com/bokjo/che-edo-api): Port from GitLab, 2 years old job interview project that needs to be rechecked!  
+[clang-v3.9](https://github.com/go-clang/clang-v3.9): Go bindings for Clang's C API v3.9
