@@ -1311,4 +1311,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [clang-v3.9](https://github.com/go-clang/clang-v3.9): Go bindings for Clang's C API v3.9  
 [Calc_Go_Antlr4](https://github.com/agarcia17948/Calc_Go_Antlr4): Ejercicio guiado por M.SC. Luis Espino  https://www.youtube.com/watch?v=atSZWzRiVXA  
 [benthos-helm-chart](https://github.com/benthosdev/benthos-helm-chart): Helm 3 repository for jeffail/benthos  
-[ethermint](https://github.com/evmos/ethermint): Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
+[ethermint](https://github.com/evmos/ethermint): Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains  
+[IdGenerator](https://github.com/yitter/IdGenerator): 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
