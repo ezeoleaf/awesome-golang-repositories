@@ -1310,4 +1310,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [che-edo-api](https://github.com/bokjo/che-edo-api): Port from GitLab, 2 years old job interview project that needs to be rechecked!  
 [clang-v3.9](https://github.com/go-clang/clang-v3.9): Go bindings for Clang's C API v3.9  
 [Calc_Go_Antlr4](https://github.com/agarcia17948/Calc_Go_Antlr4): Ejercicio guiado por M.SC. Luis Espino  https://www.youtube.com/watch?v=atSZWzRiVXA  
-[benthos-helm-chart](https://github.com/benthosdev/benthos-helm-chart): Helm 3 repository for jeffail/benthos
+[benthos-helm-chart](https://github.com/benthosdev/benthos-helm-chart): Helm 3 repository for jeffail/benthos  
+[ethermint](https://github.com/evmos/ethermint): Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
