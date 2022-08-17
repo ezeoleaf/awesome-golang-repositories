@@ -1316,4 +1316,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [termtron](https://github.com/benrhyshoward/termtron):  1 - 4 player terminal game based on BMTron  
 [wsify](https://github.com/alash3al/wsify): Just a tiny, simple and real-time self-hosted pub/sub messaging service  
 [matrixone](https://github.com/matrixorigin/matrixone): Hyperconverged cloud-edge native database  
-[pandas](https://github.com/goplus/pandas): Flexible and powerful data analysis / manipulation library for Go+, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+[pandas](https://github.com/goplus/pandas): Flexible and powerful data analysis / manipulation library for Go+, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
+[qgram](https://github.com/wmentor/qgram): N-gram Go library
