@@ -1318,4 +1318,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [matrixone](https://github.com/matrixorigin/matrixone): Hyperconverged cloud-edge native database  
 [pandas](https://github.com/goplus/pandas): Flexible and powerful data analysis / manipulation library for Go+, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
 [qgram](https://github.com/wmentor/qgram): N-gram Go library  
-[naml](https://github.com/kris-nova/naml): Convert Kubernetes YAML to Golang
+[naml](https://github.com/kris-nova/naml): Convert Kubernetes YAML to Golang  
+[LinuxManagementConsole](https://github.com/HouzuoGuo/LinuxManagementConsole): WIP: a cool config management tool that won't make user feel stupid. Not to be confused with "SomeSetupTool".
