@@ -1320,4 +1320,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [qgram](https://github.com/wmentor/qgram): N-gram Go library  
 [naml](https://github.com/kris-nova/naml): Convert Kubernetes YAML to Golang  
 [LinuxManagementConsole](https://github.com/HouzuoGuo/LinuxManagementConsole): WIP: a cool config management tool that won't make user feel stupid. Not to be confused with "SomeSetupTool".  
-[flagr](https://github.com/openflagr/flagr): Flagr is an open source Go service that delivers the right experience to the right entity and monitors the impact. It provides feature flags, experimentation (A/B testing), and dynamic configuration. "openflagr/flagr" is a community-driven OSS effort of advancing the development of Flagr. 
+[flagr](https://github.com/openflagr/flagr): Flagr is an open source Go service that delivers the right experience to the right entity and monitors the impact. It provides feature flags, experimentation (A/B testing), and dynamic configuration. "openflagr/flagr" is a community-driven OSS effort of advancing the development of Flagr.   
+[ddd-in-go](https://github.com/gbih/ddd-in-go): Porting "Domain Modeling Made Functional" by Scott Wlaschin from F# to Go
