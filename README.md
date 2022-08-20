@@ -1322,4 +1322,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [LinuxManagementConsole](https://github.com/HouzuoGuo/LinuxManagementConsole): WIP: a cool config management tool that won't make user feel stupid. Not to be confused with "SomeSetupTool".  
 [flagr](https://github.com/openflagr/flagr): Flagr is an open source Go service that delivers the right experience to the right entity and monitors the impact. It provides feature flags, experimentation (A/B testing), and dynamic configuration. "openflagr/flagr" is a community-driven OSS effort of advancing the development of Flagr.   
 [ddd-in-go](https://github.com/gbih/ddd-in-go): Porting "Domain Modeling Made Functional" by Scott Wlaschin from F# to Go  
-[programming-III](https://github.com/armi3/programming-III): 🧯 This is a collection of exercises I'm doing for my university programming III course. Java, C, Python, Nodejs and Go will be used.
+[programming-III](https://github.com/armi3/programming-III): 🧯 This is a collection of exercises I'm doing for my university programming III course. Java, C, Python, Nodejs and Go will be used.  
+[gsheets](https://github.com/takuoki/gsheets): A golang wrapper package for "golang.org/x/oauth2" and "google.golang.org/api/sheets/v4"
