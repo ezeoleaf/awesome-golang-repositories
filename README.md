@@ -1326,4 +1326,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gsheets](https://github.com/takuoki/gsheets): A golang wrapper package for "golang.org/x/oauth2" and "google.golang.org/api/sheets/v4"  
 [go--](https://github.com/likebike/go--): It's Go, but *everything* is exported (like Python).  
 [fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go  
-[copper](https://github.com/gocopper/copper): 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
+[copper](https://github.com/gocopper/copper): 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.  
+[packagesx](https://github.com/go-courier/packagesx): Helpers to pick information from golang.org/x/tools/go/packages
