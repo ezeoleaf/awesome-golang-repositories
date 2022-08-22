@@ -1327,4 +1327,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go--](https://github.com/likebike/go--): It's Go, but *everything* is exported (like Python).  
 [fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go  
 [copper](https://github.com/gocopper/copper): 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.  
-[packagesx](https://github.com/go-courier/packagesx): Helpers to pick information from golang.org/x/tools/go/packages
+[packagesx](https://github.com/go-courier/packagesx): Helpers to pick information from golang.org/x/tools/go/packages  
+[gatus](https://github.com/TwiN/gatus): ⛑ Gatus - Automated service health dashboard
