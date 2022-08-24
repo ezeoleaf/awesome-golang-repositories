@@ -1329,4 +1329,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [copper](https://github.com/gocopper/copper): 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.  
 [packagesx](https://github.com/go-courier/packagesx): Helpers to pick information from golang.org/x/tools/go/packages  
 [gatus](https://github.com/TwiN/gatus): ⛑ Gatus - Automated service health dashboard  
-[go-chronos](https://github.com/axelspringer/go-chronos): :dancers: Go Chronos 3.x REST API Client
+[go-chronos](https://github.com/axelspringer/go-chronos): :dancers: Go Chronos 3.x REST API Client  
+[go-importer](https://github.com/day-me-an/go-importer): My first Go program. Based on an old Python interview assignment. It efficiently imports records from a tar archive stream. It also demonstrates channels, which I'm aware is pointless in this case as it's not a CPU-bound problem.
