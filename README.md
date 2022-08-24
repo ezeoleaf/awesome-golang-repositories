@@ -1328,4 +1328,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fiber](https://github.com/gofiber/fiber): ⚡️ Express inspired web framework written in Go  
 [copper](https://github.com/gocopper/copper): 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.  
 [packagesx](https://github.com/go-courier/packagesx): Helpers to pick information from golang.org/x/tools/go/packages  
-[gatus](https://github.com/TwiN/gatus): ⛑ Gatus - Automated service health dashboard
+[gatus](https://github.com/TwiN/gatus): ⛑ Gatus - Automated service health dashboard  
+[go-chronos](https://github.com/axelspringer/go-chronos): :dancers: Go Chronos 3.x REST API Client
