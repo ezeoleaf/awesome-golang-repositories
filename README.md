@@ -1332,4 +1332,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-chronos](https://github.com/axelspringer/go-chronos): :dancers: Go Chronos 3.x REST API Client  
 [go-importer](https://github.com/day-me-an/go-importer): My first Go program. Based on an old Python interview assignment. It efficiently imports records from a tar archive stream. It also demonstrates channels, which I'm aware is pointless in this case as it's not a CPU-bound problem.  
 [wrapcheck](https://github.com/tomarrell/wrapcheck): A Go linter to check that errors from external packages are wrapped  
-[kitex](https://github.com/cloudwego/kitex): A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
+[kitex](https://github.com/cloudwego/kitex): A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.  
+[learning-tools](https://github.com/scottslowe/learning-tools): A collection of tools and files for learning new technologies
