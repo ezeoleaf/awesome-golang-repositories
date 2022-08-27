@@ -1337,4 +1337,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [utmist.gitlab.io](https://github.com/UTMIST/utmist.gitlab.io): Website for the UTMIST. This mirror isn't always up-to-date; see https://gitlab.com/utmist/utmist.gitlab.io.  
 [go-pop3](https://github.com/TheCreeper/go-pop3): Package pop3 provides an implementation of the Post Office Protocol - Version 3.  
 [emuromcleanup](https://github.com/ericsalerno/emuromcleanup): Cleans up a directory of rom files and deletes broken [b*] and overdump [o*] files (and more...)  
-[credstore](https://github.com/google/credstore): Credstore is a centralized auth server
+[credstore](https://github.com/google/credstore): Credstore is a centralized auth server  
+[botnet](https://github.com/threeaccents/botnet): A tcp  botnet written in golang 
