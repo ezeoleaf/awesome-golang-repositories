@@ -1338,4 +1338,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-pop3](https://github.com/TheCreeper/go-pop3): Package pop3 provides an implementation of the Post Office Protocol - Version 3.  
 [emuromcleanup](https://github.com/ericsalerno/emuromcleanup): Cleans up a directory of rom files and deletes broken [b*] and overdump [o*] files (and more...)  
 [credstore](https://github.com/google/credstore): Credstore is a centralized auth server  
-[botnet](https://github.com/threeaccents/botnet): A tcp  botnet written in golang 
+[botnet](https://github.com/threeaccents/botnet): A tcp  botnet written in golang   
+[xtest](https://github.com/williamchanrico/xtest): Simple Go application to test X APIs or connections
