@@ -1339,4 +1339,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [emuromcleanup](https://github.com/ericsalerno/emuromcleanup): Cleans up a directory of rom files and deletes broken [b*] and overdump [o*] files (and more...)  
 [credstore](https://github.com/google/credstore): Credstore is a centralized auth server  
 [botnet](https://github.com/threeaccents/botnet): A tcp  botnet written in golang   
-[xtest](https://github.com/williamchanrico/xtest): Simple Go application to test X APIs or connections
+[xtest](https://github.com/williamchanrico/xtest): Simple Go application to test X APIs or connections  
+[gldap](https://github.com/jimlambrt/gldap): Build LDAP services w/ Go
