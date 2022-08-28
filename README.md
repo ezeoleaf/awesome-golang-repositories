@@ -1340,4 +1340,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [credstore](https://github.com/google/credstore): Credstore is a centralized auth server  
 [botnet](https://github.com/threeaccents/botnet): A tcp  botnet written in golang   
 [xtest](https://github.com/williamchanrico/xtest): Simple Go application to test X APIs or connections  
-[gldap](https://github.com/jimlambrt/gldap): Build LDAP services w/ Go
+[gldap](https://github.com/jimlambrt/gldap): Build LDAP services w/ Go  
+[githubapi](https://github.com/settermjd/githubapi): A (very) simple library for working with the GitHub API. This is NOT meant to be used, it's just something I'm experimenting with.
