@@ -1341,4 +1341,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [botnet](https://github.com/threeaccents/botnet): A tcp  botnet written in golang   
 [xtest](https://github.com/williamchanrico/xtest): Simple Go application to test X APIs or connections  
 [gldap](https://github.com/jimlambrt/gldap): Build LDAP services w/ Go  
-[githubapi](https://github.com/settermjd/githubapi): A (very) simple library for working with the GitHub API. This is NOT meant to be used, it's just something I'm experimenting with.
+[githubapi](https://github.com/settermjd/githubapi): A (very) simple library for working with the GitHub API. This is NOT meant to be used, it's just something I'm experimenting with.  
+[thumbnailer](https://github.com/zRedShift/thumbnailer): A lightning fast and memory usage efficient image, video and audio (cover art) Go thumbnailer via libvips and ffmpeg C bindings, with MIME sniffing (via mimemagic), and streaming I/O support. Detects transparency and extracts dimensions, metadata and duration.
