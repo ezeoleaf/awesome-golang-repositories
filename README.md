@@ -1344,4 +1344,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [githubapi](https://github.com/settermjd/githubapi): A (very) simple library for working with the GitHub API. This is NOT meant to be used, it's just something I'm experimenting with.  
 [thumbnailer](https://github.com/zRedShift/thumbnailer): A lightning fast and memory usage efficient image, video and audio (cover art) Go thumbnailer via libvips and ffmpeg C bindings, with MIME sniffing (via mimemagic), and streaming I/O support. Detects transparency and extracts dimensions, metadata and duration.  
 [nginx-load-balancer](https://github.com/theboshy/nginx-load-balancer): Balanceador de cargas simple con 4 servidores de 2 instancias en go y nodejs con configuracion nginx    
-[Cpp-Go-Zig-Odin](https://github.com/phillvancejr/Cpp-Go-Zig-Odin): A series of small programs/tasks to compare C++, Go, Zig, Odin, D, Janet, Swift and Nim to see which I like the most
+[Cpp-Go-Zig-Odin](https://github.com/phillvancejr/Cpp-Go-Zig-Odin): A series of small programs/tasks to compare C++, Go, Zig, Odin, D, Janet, Swift and Nim to see which I like the most  
+[chronograf](https://github.com/influxdata/chronograf): Open source monitoring and visualization UI for the TICK stack
