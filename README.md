@@ -1347,4 +1347,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Cpp-Go-Zig-Odin](https://github.com/phillvancejr/Cpp-Go-Zig-Odin): A series of small programs/tasks to compare C++, Go, Zig, Odin, D, Janet, Swift and Nim to see which I like the most  
 [chronograf](https://github.com/influxdata/chronograf): Open source monitoring and visualization UI for the TICK stack  
 [go-web-app](https://github.com/shapito27/go-web-app): Learn Golang using "Building Modern Web Applications with Go (Golang) Trevor Sawler, Ph.D." on Udemy  
-[syslog-send](https://github.com/cirocosta/syslog-send): Send syslog messages using go's log/syslog package
+[syslog-send](https://github.com/cirocosta/syslog-send): Send syslog messages using go's log/syslog package  
+[php2go](https://github.com/syyongx/php2go): Use Golang to implement PHP's common built-in functions.
