@@ -1349,4 +1349,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-web-app](https://github.com/shapito27/go-web-app): Learn Golang using "Building Modern Web Applications with Go (Golang) Trevor Sawler, Ph.D." on Udemy  
 [syslog-send](https://github.com/cirocosta/syslog-send): Send syslog messages using go's log/syslog package  
 [php2go](https://github.com/syyongx/php2go): Use Golang to implement PHP's common built-in functions.  
-[goyave](https://github.com/go-goyave/goyave): 🍐 Elegant Golang REST API Framework
+[goyave](https://github.com/go-goyave/goyave): 🍐 Elegant Golang REST API Framework  
+[gopractrand](https://github.com/chriseaton/gopractrand): A library that provides and tests random-number-generators (RNG) and random-data testing tools written in Go, powered by the public-domain PractRand testing suite (C++). 
