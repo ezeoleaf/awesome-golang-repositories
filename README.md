@@ -1348,4 +1348,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [chronograf](https://github.com/influxdata/chronograf): Open source monitoring and visualization UI for the TICK stack  
 [go-web-app](https://github.com/shapito27/go-web-app): Learn Golang using "Building Modern Web Applications with Go (Golang) Trevor Sawler, Ph.D." on Udemy  
 [syslog-send](https://github.com/cirocosta/syslog-send): Send syslog messages using go's log/syslog package  
-[php2go](https://github.com/syyongx/php2go): Use Golang to implement PHP's common built-in functions.
+[php2go](https://github.com/syyongx/php2go): Use Golang to implement PHP's common built-in functions.  
+[goyave](https://github.com/go-goyave/goyave): 🍐 Elegant Golang REST API Framework
