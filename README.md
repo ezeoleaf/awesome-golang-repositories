@@ -1351,4 +1351,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [php2go](https://github.com/syyongx/php2go): Use Golang to implement PHP's common built-in functions.  
 [goyave](https://github.com/go-goyave/goyave): 🍐 Elegant Golang REST API Framework  
 [gopractrand](https://github.com/chriseaton/gopractrand): A library that provides and tests random-number-generators (RNG) and random-data testing tools written in Go, powered by the public-domain PractRand testing suite (C++).   
-[protobuf-project](https://github.com/aperturerobotics/protobuf-project): Protobuf with Go import paths for Go and TypeScript: project boilerplate w/ Makefile. Supports grpc, vtprotobuf, drpc, ts-proto, twirp, starpc.
+[protobuf-project](https://github.com/aperturerobotics/protobuf-project): Protobuf with Go import paths for Go and TypeScript: project boilerplate w/ Makefile. Supports grpc, vtprotobuf, drpc, ts-proto, twirp, starpc.  
+[information-security](https://github.com/architectv/information-security): 🛸 BMSTU Information security course (2020) (semester 7)
