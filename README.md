@@ -1353,4 +1353,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gopractrand](https://github.com/chriseaton/gopractrand): A library that provides and tests random-number-generators (RNG) and random-data testing tools written in Go, powered by the public-domain PractRand testing suite (C++).   
 [protobuf-project](https://github.com/aperturerobotics/protobuf-project): Protobuf with Go import paths for Go and TypeScript: project boilerplate w/ Makefile. Supports grpc, vtprotobuf, drpc, ts-proto, twirp, starpc.  
 [information-security](https://github.com/architectv/information-security): 🛸 BMSTU Information security course (2020) (semester 7)  
-[CS-Books](https://github.com/chopin11/CS-Books): 分享高清计算机经典书籍，资源包括：Linux、C/C++、Java、Python、Golang、数据结构与算法、操作系统、后端架构、数据库、网络协议、设计模式、前端，以及常见高频的面试题。
+[CS-Books](https://github.com/chopin11/CS-Books): 分享高清计算机经典书籍，资源包括：Linux、C/C++、Java、Python、Golang、数据结构与算法、操作系统、后端架构、数据库、网络协议、设计模式、前端，以及常见高频的面试题。  
+[TypeR](https://github.com/Fazendaaa/TypeR): A superset language implemented in Go that types the R language
