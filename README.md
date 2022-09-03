@@ -1356,4 +1356,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [CS-Books](https://github.com/chopin11/CS-Books): 分享高清计算机经典书籍，资源包括：Linux、C/C++、Java、Python、Golang、数据结构与算法、操作系统、后端架构、数据库、网络协议、设计模式、前端，以及常见高频的面试题。  
 [TypeR](https://github.com/Fazendaaa/TypeR): A superset language implemented in Go that types the R language  
 [combinatorics](https://github.com/hiroakis/combinatorics): Generate all possible combinations of r elements in a given string slice of size n  
-[codis](https://github.com/CodisLabs/codis): Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+[codis](https://github.com/CodisLabs/codis): Proxy based Redis cluster solution supporting pipeline and scaling dynamically  
+[named-api](https://github.com/DiegoVictor/named-api): Foxbox Week Challenge #2. API that generates names based on a sample.
