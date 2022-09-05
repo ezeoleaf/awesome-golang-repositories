@@ -1360,4 +1360,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [named-api](https://github.com/DiegoVictor/named-api): Foxbox Week Challenge #2. API that generates names based on a sample.  
 [codebuild-serverless-node-go](https://github.com/tkh/codebuild-serverless-node-go): Docker image combining the AWS CodeBuild images for Go 1.10 + NodeJS 8.11.0  
 [ACsv](https://github.com/amin2312/ACsv): ACsv is a easy, multi-platform and powerful csv parsing library, includes: js, ts, haxe, php, java, python, c#, go  
-[go-get-ssh](https://github.com/williamchanrico/go-get-ssh): Wrapper for "go get -v -u" using ssh git clone. Useful if you setup github 2FA and don't want to deal with global git config to make "go get" works.
+[go-get-ssh](https://github.com/williamchanrico/go-get-ssh): Wrapper for "go get -v -u" using ssh git clone. Useful if you setup github 2FA and don't want to deal with global git config to make "go get" works.  
+[mockery](https://github.com/vektra/mockery): A mock code autogenerator for Golang
