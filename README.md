@@ -1362,4 +1362,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ACsv](https://github.com/amin2312/ACsv): ACsv is a easy, multi-platform and powerful csv parsing library, includes: js, ts, haxe, php, java, python, c#, go  
 [go-get-ssh](https://github.com/williamchanrico/go-get-ssh): Wrapper for "go get -v -u" using ssh git clone. Useful if you setup github 2FA and don't want to deal with global git config to make "go get" works.  
 [mockery](https://github.com/vektra/mockery): A mock code autogenerator for Golang  
-[k8s_awesome_document](https://github.com/0voice/k8s_awesome_document): 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料
+[k8s_awesome_document](https://github.com/0voice/k8s_awesome_document): 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料  
+[graceful](https://github.com/TV4/graceful): Graceful shutdown of Go 1.8+ servers using Server.Shutdown
