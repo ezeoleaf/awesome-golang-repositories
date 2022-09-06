@@ -1367,4 +1367,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [bpbot](https://github.com/waldirborbajr/bpbot): B+ Bot  
 [jsonpatch](https://github.com/snorwin/jsonpatch): jsonpatch is a Go library to create JSON patches (RFC6902) directly from arbitrary Go objects and facilitates the implementation of sophisticated custom (e.g. filtered, validated) patch creation.  
 [greenlight](https://github.com/YadavGulshan/greenlight): Golang application where I'm learning to configure and setup a restful API.  
-[105-days-teaching-code](https://github.com/hgrafa/105-days-teaching-code): I started up a challenge to improve my teaching skills of programming.
+[105-days-teaching-code](https://github.com/hgrafa/105-days-teaching-code): I started up a challenge to improve my teaching skills of programming.  
+[riddle-solver](https://github.com/razzie/riddle-solver): An app designed to solve Einstein's 5 house riddle
