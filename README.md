@@ -1364,4 +1364,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mockery](https://github.com/vektra/mockery): A mock code autogenerator for Golang  
 [k8s_awesome_document](https://github.com/0voice/k8s_awesome_document): 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料  
 [graceful](https://github.com/TV4/graceful): Graceful shutdown of Go 1.8+ servers using Server.Shutdown  
-[bpbot](https://github.com/waldirborbajr/bpbot): B+ Bot
+[bpbot](https://github.com/waldirborbajr/bpbot): B+ Bot  
+[jsonpatch](https://github.com/snorwin/jsonpatch): jsonpatch is a Go library to create JSON patches (RFC6902) directly from arbitrary Go objects and facilitates the implementation of sophisticated custom (e.g. filtered, validated) patch creation.
