@@ -1368,4 +1368,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jsonpatch](https://github.com/snorwin/jsonpatch): jsonpatch is a Go library to create JSON patches (RFC6902) directly from arbitrary Go objects and facilitates the implementation of sophisticated custom (e.g. filtered, validated) patch creation.  
 [greenlight](https://github.com/YadavGulshan/greenlight): Golang application where I'm learning to configure and setup a restful API.  
 [105-days-teaching-code](https://github.com/hgrafa/105-days-teaching-code): I started up a challenge to improve my teaching skills of programming.  
-[riddle-solver](https://github.com/razzie/riddle-solver): An app designed to solve Einstein's 5 house riddle
+[riddle-solver](https://github.com/razzie/riddle-solver): An app designed to solve Einstein's 5 house riddle  
+[distributed-payment](https://github.com/marselester/distributed-payment): Demo execution of a payment transaction without an atomic commit across 3 partitions.
