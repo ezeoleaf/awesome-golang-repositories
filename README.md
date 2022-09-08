@@ -1369,4 +1369,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [greenlight](https://github.com/YadavGulshan/greenlight): Golang application where I'm learning to configure and setup a restful API.  
 [105-days-teaching-code](https://github.com/hgrafa/105-days-teaching-code): I started up a challenge to improve my teaching skills of programming.  
 [riddle-solver](https://github.com/razzie/riddle-solver): An app designed to solve Einstein's 5 house riddle  
-[distributed-payment](https://github.com/marselester/distributed-payment): Demo execution of a payment transaction without an atomic commit across 3 partitions.
+[distributed-payment](https://github.com/marselester/distributed-payment): Demo execution of a payment transaction without an atomic commit across 3 partitions.  
+[raft-badger](https://github.com/markthethomas/raft-badger): Badger-based backend for Hashicorp's raft package
