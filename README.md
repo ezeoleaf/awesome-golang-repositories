@@ -1370,4 +1370,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [105-days-teaching-code](https://github.com/hgrafa/105-days-teaching-code): I started up a challenge to improve my teaching skills of programming.  
 [riddle-solver](https://github.com/razzie/riddle-solver): An app designed to solve Einstein's 5 house riddle  
 [distributed-payment](https://github.com/marselester/distributed-payment): Demo execution of a payment transaction without an atomic commit across 3 partitions.  
-[raft-badger](https://github.com/markthethomas/raft-badger): Badger-based backend for Hashicorp's raft package
+[raft-badger](https://github.com/markthethomas/raft-badger): Badger-based backend for Hashicorp's raft package  
+[CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  
