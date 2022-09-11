@@ -1374,4 +1374,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com    
 [jsonassert](https://github.com/kinbiko/jsonassert): A Go test assertion library for verifying that two representations of JSON are semantically equal  
 [sql2struct](https://github.com/idoubi/sql2struct): A developer-friendly tool for transfering sql statement to go struct.  
-[go-crude-rest-api-example](https://github.com/KeithAlt/go-crude-rest-api-example): A W.I.P. crude but simple Go REST API example created with a variety of popular libraries & frameworks for those learning Go API architecture. 
+[go-crude-rest-api-example](https://github.com/KeithAlt/go-crude-rest-api-example): A W.I.P. crude but simple Go REST API example created with a variety of popular libraries & frameworks for those learning Go API architecture.   
+[directoryscanner](https://github.com/kangaroos-are-cool/directoryscanner): A go module for scanning directories for sensitive information (or anything you'd like really)
