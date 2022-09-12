@@ -1376,4 +1376,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sql2struct](https://github.com/idoubi/sql2struct): A developer-friendly tool for transfering sql statement to go struct.  
 [go-crude-rest-api-example](https://github.com/KeithAlt/go-crude-rest-api-example): A W.I.P. crude but simple Go REST API example created with a variety of popular libraries & frameworks for those learning Go API architecture.   
 [directoryscanner](https://github.com/kangaroos-are-cool/directoryscanner): A go module for scanning directories for sensitive information (or anything you'd like really)  
-[grvemu](https://github.com/kinpoko/grvemu): RISC-V emulator for CLI written in Go.
+[grvemu](https://github.com/kinpoko/grvemu): RISC-V emulator for CLI written in Go.  
+[plugtest](https://github.com/stevvooe/plugtest): Minimal example of using go 1.8 plugins with init registration.
