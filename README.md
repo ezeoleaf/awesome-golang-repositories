@@ -1379,4 +1379,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [grvemu](https://github.com/kinpoko/grvemu): RISC-V emulator for CLI written in Go.  
 [plugtest](https://github.com/stevvooe/plugtest): Minimal example of using go 1.8 plugins with init registration.  
 [wails-solid-template](https://github.com/sidwebworks/wails-solid-template): Wails 2 + Solid JS template  
-[go-elasticsearch](https://github.com/elastic/go-elasticsearch): The official Go client for Elasticsearch
+[go-elasticsearch](https://github.com/elastic/go-elasticsearch): The official Go client for Elasticsearch  
+[gomplate](https://github.com/hairyhenderson/gomplate): A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
