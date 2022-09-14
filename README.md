@@ -1382,4 +1382,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-elasticsearch](https://github.com/elastic/go-elasticsearch): The official Go client for Elasticsearch  
 [gomplate](https://github.com/hairyhenderson/gomplate): A flexible commandline tool for template rendering. Supports lots of local and remote datasources.  
 [go-xplore](https://github.com/Olutobz/go-xplore): My playground for test driving the Go  programming language. Let's see how far I go, pun intended ;)  
-[teamgram-server](https://github.com/teamgram/teamgram-server): Unofficial open source mtproto server written in golang with compatible telegram client. 
+[teamgram-server](https://github.com/teamgram/teamgram-server): Unofficial open source mtproto server written in golang with compatible telegram client.   
+[amfora](https://github.com/makeworld-the-better-one/amfora): A fancy terminal browser for the Gemini protocol.
