@@ -1385,4 +1385,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [teamgram-server](https://github.com/teamgram/teamgram-server): Unofficial open source mtproto server written in golang with compatible telegram client.   
 [amfora](https://github.com/makeworld-the-better-one/amfora): A fancy terminal browser for the Gemini protocol.  
 [try-ebiten-with-travis](https://github.com/kemokemo/try-ebiten-with-travis): Trial to build ebiten's game with Travis CI.  
-[calenDaggerbill](https://github.com/DazFather/calenDaggerbill): Telegram bot for managing event and calendar, written in Go and powerade by Parr(B)ot framework 
+[calenDaggerbill](https://github.com/DazFather/calenDaggerbill): Telegram bot for managing event and calendar, written in Go and powerade by Parr(B)ot framework   
+[mixtool](https://github.com/monitoring-mixins/mixtool): mixtool is a helper for easily working with jsonnet mixins.
