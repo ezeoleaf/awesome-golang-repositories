@@ -1387,4 +1387,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [try-ebiten-with-travis](https://github.com/kemokemo/try-ebiten-with-travis): Trial to build ebiten's game with Travis CI.  
 [calenDaggerbill](https://github.com/DazFather/calenDaggerbill): Telegram bot for managing event and calendar, written in Go and powerade by Parr(B)ot framework   
 [mixtool](https://github.com/monitoring-mixins/mixtool): mixtool is a helper for easily working with jsonnet mixins.  
-[m-m-1-ininity-go](https://github.com/ihkN/m-m-1-ininity-go): An implementation of the M/M/1/ininity queueing model in Golang
+[m-m-1-ininity-go](https://github.com/ihkN/m-m-1-ininity-go): An implementation of the M/M/1/ininity queueing model in Golang  
+[confd](https://github.com/axelspringer/confd): Confd Docker https://hub.docker.com/r/axelspringer/confd
