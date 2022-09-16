@@ -1389,4 +1389,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mixtool](https://github.com/monitoring-mixins/mixtool): mixtool is a helper for easily working with jsonnet mixins.  
 [m-m-1-ininity-go](https://github.com/ihkN/m-m-1-ininity-go): An implementation of the M/M/1/ininity queueing model in Golang  
 [confd](https://github.com/axelspringer/confd): Confd Docker https://hub.docker.com/r/axelspringer/confd  
-[lattice_paths](https://github.com/ejyager00/lattice_paths): Code for computation regarding k-equivalent lattice paths in combinatorics. 
+[lattice_paths](https://github.com/ejyager00/lattice_paths): Code for computation regarding k-equivalent lattice paths in combinatorics.   
+[gn-api-sdk-go-pix](https://github.com/gerencianet/gn-api-sdk-go-pix): SDK em Go integrada a API Gerencianet. Esta SDK está preparada para integração à API Pix, que lhe permite realizar o gerenciamento de cobranças Pix com QR Code e Pix Copia e Cola e muito mais.
