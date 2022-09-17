@@ -1391,4 +1391,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [confd](https://github.com/axelspringer/confd): Confd Docker https://hub.docker.com/r/axelspringer/confd  
 [lattice_paths](https://github.com/ejyager00/lattice_paths): Code for computation regarding k-equivalent lattice paths in combinatorics.   
 [gn-api-sdk-go-pix](https://github.com/gerencianet/gn-api-sdk-go-pix): SDK em Go integrada a API Gerencianet. Esta SDK está preparada para integração à API Pix, que lhe permite realizar o gerenciamento de cobranças Pix com QR Code e Pix Copia e Cola e muito mais.  
-[calculator-echo](https://github.com/alefcarlos/calculator-echo): Uma cálculadora de modelos utilizando o framework Echo para estudos
+[calculator-echo](https://github.com/alefcarlos/calculator-echo): Uma cálculadora de modelos utilizando o framework Echo para estudos  
+[thanos](https://github.com/thanos-io/thanos): Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
