@@ -526,7 +526,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-pingbot](https://github.com/MedzikUser/go-pingbot): ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.  
 [vugu](https://github.com/vugu/vugu): Vugu: A modern UI library for Go+WebAssembly (experimental)  
 [Amass](https://github.com/OWASP/Amass): In-depth Attack Surface Mapping and Asset Discovery  
-[HeadFirstGo](https://github.com/quattroformaggi/HeadFirstGo): Head First Go walkthrough. Book done in ~2 months (oh if I weren't a lazy b*tch...)  
+[HeadFirstGo](https://github.com/quattroformaggi/HeadFirstGo): Head First Go walkthrough. Book done in 2 months (oh if I weren't a lazy b*tch...)  
 [go-mdbm](https://github.com/torden/go-mdbm): Just! Go(go-lang) interface for Y! MDBM, Golang MDBM Wrapper  
 [roaring](https://github.com/RoaringBitmap/roaring): Roaring bitmaps in Go (golang)  
 [b0pass](https://github.com/bitepeng/b0pass): 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。  
@@ -625,7 +625,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.  
 [line-bot-sdk-go](https://github.com/line/line-bot-sdk-go): LINE Messaging API SDK for Go  
 [geoip2-golang](https://github.com/oschwald/geoip2-golang): Unofficial MaxMind GeoIP2 Reader for Go  
-[revive](https://github.com/mgechev/revive): 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint  
+[revive](https://github.com/mgechev/revive): 🔥 6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint  
 [update-golang](https://github.com/udhos/update-golang): update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion  
 [trivy](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues  
 [barcode](https://github.com/boombuler/barcode): a barcode creation lib for golang  
@@ -1128,7 +1128,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [restic](https://github.com/restic/restic): Fast, secure, efficient backup program  
 [crane](https://github.com/michaelsauter/crane): Crane - Lift containers with ease  
 [knnGo](https://github.com/kamil5b/knnGo): I created K-Nearest Neighbor Algorithm using Go language. Initially, this project is for my assignment but I decided to publish it.  
-[awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn): 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~  
+[awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn): 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go  
 [FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.  
 [fastmath](https://github.com/13rac1/fastmath): Golang 8/16 bit math functions for when speed matters more than precision  
 [parse-efd-fiscal](https://github.com/chapzin/parse-efd-fiscal): Projeto voltado para fazer o mapeamento e parse do sped fiscal para dentro do banco de dados  
@@ -1293,7 +1293,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rest-layer](https://github.com/rs/rest-layer): REST Layer, Go (golang) REST API framework  
 [devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators  
 [go-styleguide](https://github.com/bahlo/go-styleguide): 🏆 Opinionated Styleguide for the Go language  
-[comby](https://github.com/comby-tools/comby): A code rewrite tool for structural search and replace that supports ~every language.  
+[comby](https://github.com/comby-tools/comby): A code rewrite tool for structural search and replace that supports every language.  
 [nri-zipkin](https://github.com/bpalermo/nri-zipkin): A proxy used as sidecar to inject required headers for New Relic's distributed tracing  
 [armstrong](https://github.com/StevenMaude/armstrong): :satellite::watch: Update expired Extended Prediction Orbit (EPO) GPS data for Garmin devices, e.g. Forerunner watches. Spend less time waiting for a GPS fix before a run or cycle *without* Garmin's software!  
 [socketio](https://github.com/maurodelazeri/socketio): minimal socketio .9 implementation for golang  
