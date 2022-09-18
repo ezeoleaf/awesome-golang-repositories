@@ -1394,4 +1394,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [calculator-echo](https://github.com/alefcarlos/calculator-echo): Uma cálculadora de modelos utilizando o framework Echo para estudos  
 [thanos](https://github.com/thanos-io/thanos): Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.  
 [winmb](https://github.com/NaniteFactory/winmb): Simplest Win32 API MessageBox() in Golang. Great for tests. go get -v github.com/nanitefactory/winmb  
-[PAC](https://github.com/benjojo/PAC): Polynomial Audio Codec, I honestly can't believe this even slightly works
+[PAC](https://github.com/benjojo/PAC): Polynomial Audio Codec, I honestly can't believe this even slightly works  
+[wazero](https://github.com/tetratelabs/wazero): wazero: the zero dependency WebAssembly runtime for Go developers
