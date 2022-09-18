@@ -1396,3 +1396,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [winmb](https://github.com/NaniteFactory/winmb): Simplest Win32 API MessageBox() in Golang. Great for tests. go get -v github.com/nanitefactory/winmb  
 [PAC](https://github.com/benjojo/PAC): Polynomial Audio Codec, I honestly can't believe this even slightly works  
 [wazero](https://github.com/tetratelabs/wazero): wazero: the zero dependency WebAssembly runtime for Go developers
+  
+[go-url-shortener](https://github.com/emre-guler/go-url-shortener): An app I developed while learning Go.
