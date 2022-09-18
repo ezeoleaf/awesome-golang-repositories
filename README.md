@@ -1397,4 +1397,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [PAC](https://github.com/benjojo/PAC): Polynomial Audio Codec, I honestly can't believe this even slightly works  
 [wazero](https://github.com/tetratelabs/wazero): wazero: the zero dependency WebAssembly runtime for Go developers
   
-[go-url-shortener](https://github.com/emre-guler/go-url-shortener): An app I developed while learning Go.
+[go-url-shortener](https://github.com/emre-guler/go-url-shortener): An app I developed while learning Go.  
+[Hello-World](https://github.com/naemazam/Hello-World): I don't Know What is Your First Language and Don't Want to know Why You Select it. But As a Programmer i know, The Smile When You run Your First Code. After That We made Thousands of Mistake In our DEV life. We did Debug, Copycat or Googling But never Forget This First 2 Words. Let's Combine Our First Happiness In A single Page.
