@@ -702,7 +702,7 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jsonrpc4go](https://github.com/sunquakes/jsonrpc4go): Package go-jsonrpc provides a client and server implementation of JSON-RPC 2.0🚀  
 [libsmb2-go](https://github.com/Xmister/libsmb2-go): Go bindings for libsmb2 SMBv2&3 C library  
 [clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers  
-[Sophy](https://github.com/FarDragi/Sophy): Hi I'm Sophy, a discord bot in devlopment, soon I'll be available to help everyone (❁´◡`❁)  
+[Sophy](https://github.com/FarDragi/Sophy): Hi I'm Sophy, a discord bot in devlopment, soon I'll be available to help everyone  
 [goflow](https://github.com/trustmaster/goflow): Flow-based and dataflow programming library for Go (golang)  
 [can-it-http-2](https://github.com/navaneethkm004/can-it-http-2): Check if websites are http/1.0 or http/2.0  
 [go-mud](https://github.com/alienspaces/go-mud): A M.U.D (multi user dungeon) with a back end API built with Go and a front end UI built with Flutter.  
