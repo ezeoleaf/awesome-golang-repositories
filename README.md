@@ -1400,4 +1400,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-url-shortener](https://github.com/emre-guler/go-url-shortener): An app I developed while learning Go.  
 [Hello-World](https://github.com/naemazam/Hello-World): I don't Know What is Your First Language and Don't Want to know Why You Select it. But As a Programmer i know, The Smile When You run Your First Code. After That We made Thousands of Mistake In our DEV life. We did Debug, Copycat or Googling But never Forget This First 2 Words. Let's Combine Our First Happiness In A single Page.  
 [homework3](https://github.com/UofSC-Fall-2022-Math-587-001/homework3): Prime factorization and primitive powers mod p   
-[gomponents](https://github.com/maragudk/gomponents): View components in pure Go, that render to HTML 5.
+[gomponents](https://github.com/maragudk/gomponents): View components in pure Go, that render to HTML 5.  
+[kaamelott-soundboard-telegram-bot](https://github.com/klmp200/kaamelott-soundboard-telegram-bot): C'est systématiquement débile, mais c'est toujours inattendu !
