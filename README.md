@@ -1402,4 +1402,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [homework3](https://github.com/UofSC-Fall-2022-Math-587-001/homework3): Prime factorization and primitive powers mod p   
 [gomponents](https://github.com/maragudk/gomponents): View components in pure Go, that render to HTML 5.  
 [kaamelott-soundboard-telegram-bot](https://github.com/klmp200/kaamelott-soundboard-telegram-bot): C'est systématiquement débile, mais c'est toujours inattendu !  
-[goa-study](https://github.com/shibas/goa-study): 🍺I love beer!!🍺
+[goa-study](https://github.com/shibas/goa-study): 🍺I love beer!!🍺  
+[tinygo-webgl-fundamentals-lesson-2](https://github.com/justinclift/tinygo-webgl-fundamentals-lesson-2): The lessons code from WebGL Fundamentals Lesson 2, ported to TinyGo
