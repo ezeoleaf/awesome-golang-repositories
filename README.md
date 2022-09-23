@@ -1403,4 +1403,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gomponents](https://github.com/maragudk/gomponents): View components in pure Go, that render to HTML 5.  
 [kaamelott-soundboard-telegram-bot](https://github.com/klmp200/kaamelott-soundboard-telegram-bot): C'est systématiquement débile, mais c'est toujours inattendu !  
 [goa-study](https://github.com/shibas/goa-study): 🍺I love beer!!🍺  
-[tinygo-webgl-fundamentals-lesson-2](https://github.com/justinclift/tinygo-webgl-fundamentals-lesson-2): The lessons code from WebGL Fundamentals Lesson 2, ported to TinyGo
+[tinygo-webgl-fundamentals-lesson-2](https://github.com/justinclift/tinygo-webgl-fundamentals-lesson-2): The lessons code from WebGL Fundamentals Lesson 2, ported to TinyGo  
+[go-light](https://github.com/rustlango/go-light): Light Golang course P.O.E courtesy of Great Learning. Content can be used as a refresher course or introduction just to get a taste. Successfully completed the course. #golang
