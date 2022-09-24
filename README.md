@@ -1405,4 +1405,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [goa-study](https://github.com/shibas/goa-study): 🍺I love beer!!🍺  
 [tinygo-webgl-fundamentals-lesson-2](https://github.com/justinclift/tinygo-webgl-fundamentals-lesson-2): The lessons code from WebGL Fundamentals Lesson 2, ported to TinyGo  
 [go-light](https://github.com/rustlango/go-light): Light Golang course P.O.E courtesy of Great Learning. Content can be used as a refresher course or introduction just to get a taste. Successfully completed the course. #golang  
-[go-libs](https://github.com/open-ch/go-libs): Open source utility libraries used across some of Open System's published tools.
+[go-libs](https://github.com/open-ch/go-libs): Open source utility libraries used across some of Open System's published tools.  
+[social-media](https://github.com/reesporte/social-media): more or less the social media website i made for me and my friends
