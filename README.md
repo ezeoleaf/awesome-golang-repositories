@@ -1407,4 +1407,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-light](https://github.com/rustlango/go-light): Light Golang course P.O.E courtesy of Great Learning. Content can be used as a refresher course or introduction just to get a taste. Successfully completed the course. #golang  
 [go-libs](https://github.com/open-ch/go-libs): Open source utility libraries used across some of Open System's published tools.  
 [social-media](https://github.com/reesporte/social-media): more or less the social media website i made for me and my friends  
-[aplicacao-exemplo-kafka-go-fc](https://github.com/antonialucianapires/aplicacao-exemplo-kafka-go-fc): Aplicação simples para produzir e consumir mensagens no Apache Kafka utilizando a linguagem Go.
+[aplicacao-exemplo-kafka-go-fc](https://github.com/antonialucianapires/aplicacao-exemplo-kafka-go-fc): Aplicação simples para produzir e consumir mensagens no Apache Kafka utilizando a linguagem Go.  
+[MicroGO](https://github.com/cploutarchou/MicroGO): MicroGO is a web application framework written in Go (Golang). I took some of the most valuable features in Laravel and implemented similar functionality in Go. Since Go is compiled and type-safe, web applications written in this language are typically much faster and far less error-prone than an equivalent application, like Laravel, written in PHP.
