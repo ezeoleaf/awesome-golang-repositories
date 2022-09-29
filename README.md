@@ -1409,4 +1409,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [social-media](https://github.com/reesporte/social-media): more or less the social media website i made for me and my friends  
 [aplicacao-exemplo-kafka-go-fc](https://github.com/antonialucianapires/aplicacao-exemplo-kafka-go-fc): Aplicação simples para produzir e consumir mensagens no Apache Kafka utilizando a linguagem Go.  
 [MicroGO](https://github.com/cploutarchou/MicroGO): MicroGO is a web application framework written in Go (Golang). I took some of the most valuable features in Laravel and implemented similar functionality in Go. Since Go is compiled and type-safe, web applications written in this language are typically much faster and far less error-prone than an equivalent application, like Laravel, written in PHP.  
-[protoactor-go](https://github.com/asynkron/protoactor-go): Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
+[protoactor-go](https://github.com/asynkron/protoactor-go): Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin  
+[diskio](https://github.com/devlights/diskio): diskio is a tool to perform high load disk I/O for test purpose.
