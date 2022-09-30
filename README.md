@@ -1412,4 +1412,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [protoactor-go](https://github.com/asynkron/protoactor-go): Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin  
 [diskio](https://github.com/devlights/diskio): diskio is a tool to perform high load disk I/O for test purpose.  
 [wally](https://github.com/WallarooLabs/wally): Distributed Stream Processing  
-[jsmu](https://github.com/nofeaturesonlybugs/jsmu): An abstraction for Go's encoding/json that abstracts 2-pass encoding into a single pass similar to encoding/gob.
+[jsmu](https://github.com/nofeaturesonlybugs/jsmu): An abstraction for Go's encoding/json that abstracts 2-pass encoding into a single pass similar to encoding/gob.  
+[jqp](https://github.com/noahgorstein/jqp): A TUI playground to experiment with jq
