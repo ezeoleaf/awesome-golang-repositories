@@ -1414,4 +1414,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wally](https://github.com/WallarooLabs/wally): Distributed Stream Processing  
 [jsmu](https://github.com/nofeaturesonlybugs/jsmu): An abstraction for Go's encoding/json that abstracts 2-pass encoding into a single pass similar to encoding/gob.  
 [jqp](https://github.com/noahgorstein/jqp): A TUI playground to experiment with jq  
-[go-cruise-control](https://github.com/banzaicloud/go-cruise-control): It's client library written in Golang for interacting with Linkedin Cruise Control using its HTTP API.
+[go-cruise-control](https://github.com/banzaicloud/go-cruise-control): It's client library written in Golang for interacting with Linkedin Cruise Control using its HTTP API.  
+[manioc](https://github.com/fuzmish/manioc): 📦 IoC/DI Container for Golang 1.18+
