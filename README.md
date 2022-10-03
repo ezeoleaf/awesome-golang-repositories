@@ -1417,4 +1417,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-cruise-control](https://github.com/banzaicloud/go-cruise-control): It's client library written in Golang for interacting with Linkedin Cruise Control using its HTTP API.  
 [manioc](https://github.com/fuzmish/manioc): 📦 IoC/DI Container for Golang 1.18+  
 [beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg): This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).  
-[sqlboiler](https://github.com/volatiletech/sqlboiler): Generate a Go ORM tailored to your database schema.
+[sqlboiler](https://github.com/volatiletech/sqlboiler): Generate a Go ORM tailored to your database schema.  
+[vindicator](https://github.com/phith0n/vindicator): Vindicator is a lightweight Golang library that is designed to hold and check any blocking function. e.g. subprocess, network connection...
