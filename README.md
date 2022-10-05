@@ -1419,4 +1419,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [beancount-bot-tg](https://github.com/LucaBernstein/beancount-bot-tg): This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).  
 [sqlboiler](https://github.com/volatiletech/sqlboiler): Generate a Go ORM tailored to your database schema.  
 [vindicator](https://github.com/phith0n/vindicator): Vindicator is a lightweight Golang library that is designed to hold and check any blocking function. e.g. subprocess, network connection...  
-[jsonschema](https://github.com/santhosh-tekuri/jsonschema): JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation using Go
+[jsonschema](https://github.com/santhosh-tekuri/jsonschema): JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation using Go  
+[fprot](https://github.com/baruwa-enterprise/fprot): Golang fprot (F-protd daemon) client library
