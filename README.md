@@ -1423,4 +1423,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fprot](https://github.com/baruwa-enterprise/fprot): Golang fprot (F-protd daemon) client library  
 [lockless-generic-ring-buffer](https://github.com/GavinClarke0/lockless-generic-ring-buffer): Single producer and multi-reader lockless ring buffer in go using generics from the go 1.18.x release. It is significantly faster than channels with the added type safety of generics compared to ring buffers using interfaces.  
 [dark-omen](https://github.com/jonathaningram/dark-omen): A Go library to help build tools that work with Warhammer: Dark Omen's assets  
-[gargoyle](https://github.com/tinfoil-knight/gargoyle): HTTP Web Server w/ Reverse Proxy & File Server
+[gargoyle](https://github.com/tinfoil-knight/gargoyle): HTTP Web Server w/ Reverse Proxy & File Server  
+[project-live-app](https://github.com/mofodox/project-live-app): This is a project for our GoSchool Project Live Batch 4.
