@@ -1425,4 +1425,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dark-omen](https://github.com/jonathaningram/dark-omen): A Go library to help build tools that work with Warhammer: Dark Omen's assets  
 [gargoyle](https://github.com/tinfoil-knight/gargoyle): HTTP Web Server w/ Reverse Proxy & File Server  
 [project-live-app](https://github.com/mofodox/project-live-app): This is a project for our GoSchool Project Live Batch 4.  
-[watched](https://github.com/CmdrVasquess/watched): Go module to watch E:D journal directory
+[watched](https://github.com/CmdrVasquess/watched): Go module to watch E:D journal directory  
+[s3copy](https://github.com/maknahar/s3copy): An AWS lambda function to duplicate objects from n to m AWS S3 Buckets where n, m >= 1
