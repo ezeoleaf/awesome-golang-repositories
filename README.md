@@ -1427,4 +1427,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [project-live-app](https://github.com/mofodox/project-live-app): This is a project for our GoSchool Project Live Batch 4.  
 [watched](https://github.com/CmdrVasquess/watched): Go module to watch E:D journal directory  
 [s3copy](https://github.com/maknahar/s3copy): An AWS lambda function to duplicate objects from n to m AWS S3 Buckets where n, m >= 1  
-[trufflehog](https://github.com/trufflesecurity/trufflehog): Find credentials all over the place
+[trufflehog](https://github.com/trufflesecurity/trufflehog): Find credentials all over the place  
+[go2o](https://github.com/ixre/go2o): 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC/Thrift实现
