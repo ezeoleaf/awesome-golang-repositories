@@ -1431,4 +1431,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go2o](https://github.com/ixre/go2o): 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC/Thrift实现  
 [onair-bot](https://github.com/Rabinzon/onair-bot): Simple bot for the radio-t chat.   
 [clickvisual](https://github.com/clickvisual/clickvisual): A light weight log and data visual analytic platform  for clickhouse.  
-[linux-update-go-script](https://github.com/filipe-freire/linux-update-go-script): Bash script that updates Go on linux. Because who said Linux users can't have nice things?
+[linux-update-go-script](https://github.com/filipe-freire/linux-update-go-script): Bash script that updates Go on linux. Because who said Linux users can't have nice things?  
+[transliterator](https://github.com/alexsergivan/transliterator): Golang text Transliterator (i.e München -> Muenchen)
