@@ -1429,4 +1429,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [s3copy](https://github.com/maknahar/s3copy): An AWS lambda function to duplicate objects from n to m AWS S3 Buckets where n, m >= 1  
 [trufflehog](https://github.com/trufflesecurity/trufflehog): Find credentials all over the place  
 [go2o](https://github.com/ixre/go2o): 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC/Thrift实现  
-[onair-bot](https://github.com/Rabinzon/onair-bot): Simple bot for the radio-t chat. 
+[onair-bot](https://github.com/Rabinzon/onair-bot): Simple bot for the radio-t chat.   
+[clickvisual](https://github.com/clickvisual/clickvisual): A light weight log and data visual analytic platform  for clickhouse.
