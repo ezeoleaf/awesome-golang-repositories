@@ -1433,4 +1433,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [clickvisual](https://github.com/clickvisual/clickvisual): A light weight log and data visual analytic platform  for clickhouse.  
 [linux-update-go-script](https://github.com/filipe-freire/linux-update-go-script): Bash script that updates Go on linux. Because who said Linux users can't have nice things?  
 [transliterator](https://github.com/alexsergivan/transliterator): Golang text Transliterator (i.e München -> Muenchen)  
-[gobar](https://github.com/distatus/gobar): minimalistic X status bar in pure Go
+[gobar](https://github.com/distatus/gobar): minimalistic X status bar in pure Go  
+[krakend-ce](https://github.com/krakendio/krakend-ce): High-performance, statless, declarative, API Gateway written in Go.
