@@ -1437,4 +1437,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [krakend-ce](https://github.com/krakendio/krakend-ce): High-performance, statless, declarative, API Gateway written in Go.  
 [go-service-mvp](https://github.com/bencodesall/go-service-mvp): An exploration of REST-based web application as a service in Golang. Uses the patterns and architecture presented in ArdanLabs Service 2.0 training (which I must say is definitely worth it!)  
 [tunny](https://github.com/Jeffail/tunny): A goroutine pool for Go  
-[golcli](https://github.com/branogarbo/golcli): A basic CLI implementation of Conway's Game of Life.
+[golcli](https://github.com/branogarbo/golcli): A basic CLI implementation of Conway's Game of Life.  
+[wat-pah-photiyan](https://github.com/siongui/wat-pah-photiyan): วัดป่าโพธิญาณ Wat Pah Photiyan (Bodhiñāṇa), a.k.a., วัดเขื่อน
