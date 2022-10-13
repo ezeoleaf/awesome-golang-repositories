@@ -1434,4 +1434,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [linux-update-go-script](https://github.com/filipe-freire/linux-update-go-script): Bash script that updates Go on linux. Because who said Linux users can't have nice things?  
 [transliterator](https://github.com/alexsergivan/transliterator): Golang text Transliterator (i.e München -> Muenchen)  
 [gobar](https://github.com/distatus/gobar): minimalistic X status bar in pure Go  
-[krakend-ce](https://github.com/krakendio/krakend-ce): High-performance, statless, declarative, API Gateway written in Go.
+[krakend-ce](https://github.com/krakendio/krakend-ce): High-performance, statless, declarative, API Gateway written in Go.  
+[go-service-mvp](https://github.com/bencodesall/go-service-mvp): An exploration of REST-based web application as a service in Golang. Uses the patterns and architecture presented in ArdanLabs Service 2.0 training (which I must say is definitely worth it!)
