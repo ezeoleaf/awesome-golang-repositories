@@ -1439,4 +1439,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tunny](https://github.com/Jeffail/tunny): A goroutine pool for Go  
 [golcli](https://github.com/branogarbo/golcli): A basic CLI implementation of Conway's Game of Life.  
 [wat-pah-photiyan](https://github.com/siongui/wat-pah-photiyan): วัดป่าโพธิญาณ Wat Pah Photiyan (Bodhiñāṇa), a.k.a., วัดเขื่อน  
-[go-chainable](https://github.com/mauricioklein/go-chainable): Chain function calls in Golang, with support to argument's feedback and error-handling
+[go-chainable](https://github.com/mauricioklein/go-chainable): Chain function calls in Golang, with support to argument's feedback and error-handling  
+[wtc](https://github.com/rafaelsq/wtc): WTC is a simple utility you can use to watch files and execute commands.
