@@ -1441,4 +1441,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wat-pah-photiyan](https://github.com/siongui/wat-pah-photiyan): วัดป่าโพธิญาณ Wat Pah Photiyan (Bodhiñāṇa), a.k.a., วัดเขื่อน  
 [go-chainable](https://github.com/mauricioklein/go-chainable): Chain function calls in Golang, with support to argument's feedback and error-handling  
 [wtc](https://github.com/rafaelsq/wtc): WTC is a simple utility you can use to watch files and execute commands.  
-[git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang).
+[git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang).  
+[methodoverride](https://github.com/kataras/methodoverride): :new: Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it
