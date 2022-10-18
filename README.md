@@ -1444,4 +1444,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang).  
 [methodoverride](https://github.com/kataras/methodoverride): :new: Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it  
 [easy-tips](https://github.com/TIGERB/easy-tips): A little Tips in my Code Career with Go&PHP 🥳🥳🥳  
-[frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
+[frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server  
+[go-b-plus-tree](https://github.com/naoto0822/go-b-plus-tree): B+Tree implementation in Go :deciduous_tree:
