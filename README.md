@@ -1443,4 +1443,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wtc](https://github.com/rafaelsq/wtc): WTC is a simple utility you can use to watch files and execute commands.  
 [git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang).  
 [methodoverride](https://github.com/kataras/methodoverride): :new: Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it  
-[easy-tips](https://github.com/TIGERB/easy-tips): A little Tips in my Code Career with Go&PHP 🥳🥳🥳
+[easy-tips](https://github.com/TIGERB/easy-tips): A little Tips in my Code Career with Go&PHP 🥳🥳🥳  
+[frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server
