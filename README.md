@@ -1446,4 +1446,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [easy-tips](https://github.com/TIGERB/easy-tips): A little Tips in my Code Career with Go&PHP 🥳🥳🥳  
 [frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server  
 [go-b-plus-tree](https://github.com/naoto0822/go-b-plus-tree): B+Tree implementation in Go :deciduous_tree:  
-[gosphinx](https://github.com/hailaz/gosphinx): sphinx 3.x api for golang
+[gosphinx](https://github.com/hailaz/gosphinx): sphinx 3.x api for golang  
+[zxsq_sgfview](https://github.com/annarchive/zxsq_sgfview): Discuz! X围棋在线打谱插件
