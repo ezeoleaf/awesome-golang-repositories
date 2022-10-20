@@ -1447,4 +1447,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [frankenphp](https://github.com/dunglas/frankenphp): The modern PHP app server  
 [go-b-plus-tree](https://github.com/naoto0822/go-b-plus-tree): B+Tree implementation in Go :deciduous_tree:  
 [gosphinx](https://github.com/hailaz/gosphinx): sphinx 3.x api for golang  
-[zxsq_sgfview](https://github.com/annarchive/zxsq_sgfview): Discuz! X围棋在线打谱插件
+[zxsq_sgfview](https://github.com/annarchive/zxsq_sgfview): Discuz! X围棋在线打谱插件  
+[goreleaser-live](https://github.com/vojtechmares/goreleaser-live): GoReleaser live demo presented at @ondrejsika DevOps Live https://www.youtube.com/watch?v=A99IDxxKmL
