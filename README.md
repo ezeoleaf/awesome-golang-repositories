@@ -1452,4 +1452,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-demo](https://github.com/pibigstar/go-demo): Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等  
 [inam](https://github.com/jeffbean/inam): I'm not a Manager. (inam)  
 [rest-api-com-golang-e-postgreSQL](https://github.com/Johnson49/rest-api-com-golang-e-postgreSQL): API construída usado o pacote net/http e Gorilla mux. È baseado em um banco de dados PostgreSQL.  
-[go-docker-scratch](https://github.com/purini-to/go-docker-scratch): smallest and fast build golang docker image based on scratch(Image size 3.5MB). use Buildkit.
+[go-docker-scratch](https://github.com/purini-to/go-docker-scratch): smallest and fast build golang docker image based on scratch(Image size 3.5MB). use Buildkit.  
+[fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
