@@ -1450,4 +1450,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [zxsq_sgfview](https://github.com/annarchive/zxsq_sgfview): Discuz! X围棋在线打谱插件  
 [goreleaser-live](https://github.com/vojtechmares/goreleaser-live): GoReleaser live demo presented at @ondrejsika DevOps Live https://www.youtube.com/watch?v=A99IDxxKmL  
 [go-demo](https://github.com/pibigstar/go-demo): Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等  
-[inam](https://github.com/jeffbean/inam): I'm not a Manager. (inam)
+[inam](https://github.com/jeffbean/inam): I'm not a Manager. (inam)  
+[rest-api-com-golang-e-postgreSQL](https://github.com/Johnson49/rest-api-com-golang-e-postgreSQL): API construída usado o pacote net/http e Gorilla mux. È baseado em um banco de dados PostgreSQL.
