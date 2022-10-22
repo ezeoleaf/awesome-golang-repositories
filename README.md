@@ -1453,4 +1453,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [inam](https://github.com/jeffbean/inam): I'm not a Manager. (inam)  
 [rest-api-com-golang-e-postgreSQL](https://github.com/Johnson49/rest-api-com-golang-e-postgreSQL): API construída usado o pacote net/http e Gorilla mux. È baseado em um banco de dados PostgreSQL.  
 [go-docker-scratch](https://github.com/purini-to/go-docker-scratch): smallest and fast build golang docker image based on scratch(Image size 3.5MB). use Buildkit.  
-[fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
+[fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.  
+[kendohelper](https://github.com/muktihari/kendohelper): A helper to handle kendo's Filter and Sort. It converts them into the kind of data that can be retrieved by MongoDB's Query or Aggregation. Built to be used in EACIIT's environment in mind.
