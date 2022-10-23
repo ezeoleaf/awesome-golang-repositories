@@ -1457,4 +1457,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kendohelper](https://github.com/muktihari/kendohelper): A helper to handle kendo's Filter and Sort. It converts them into the kind of data that can be retrieved by MongoDB's Query or Aggregation. Built to be used in EACIIT's environment in mind.  
 [OpenBiohazard2](https://github.com/samuelyuan/OpenBiohazard2): Open source re-implementation of the original Resident Evil 2 / Biohazard 2  
 [gock](https://github.com/h2non/gock): HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽  
-[memos](https://github.com/usememos/memos): An open source, self-hosted knowledge base that works with a SQLite db file.
+[memos](https://github.com/usememos/memos): An open source, self-hosted knowledge base that works with a SQLite db file.  
+[x-amzn-trace-id](https://github.com/kaihendry/x-amzn-trace-id): Debugging my X-ray Service map
