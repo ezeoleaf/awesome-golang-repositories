@@ -1455,4 +1455,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-docker-scratch](https://github.com/purini-to/go-docker-scratch): smallest and fast build golang docker image based on scratch(Image size 3.5MB). use Buildkit.  
 [fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.  
 [kendohelper](https://github.com/muktihari/kendohelper): A helper to handle kendo's Filter and Sort. It converts them into the kind of data that can be retrieved by MongoDB's Query or Aggregation. Built to be used in EACIIT's environment in mind.  
-[OpenBiohazard2](https://github.com/samuelyuan/OpenBiohazard2): Open source re-implementation of the original Resident Evil 2 / Biohazard 2
+[OpenBiohazard2](https://github.com/samuelyuan/OpenBiohazard2): Open source re-implementation of the original Resident Evil 2 / Biohazard 2  
+[gock](https://github.com/h2non/gock): HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽
