@@ -1459,4 +1459,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gock](https://github.com/h2non/gock): HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽  
 [memos](https://github.com/usememos/memos): An open source, self-hosted knowledge base that works with a SQLite db file.  
 [x-amzn-trace-id](https://github.com/kaihendry/x-amzn-trace-id): Debugging my X-ray Service map  
-[uds-proxy](https://github.com/schnoddelbotz/uds-proxy): uds-proxy provides a UNIX domain socket that acts as HTTP(S) connection-pooling forward proxy
+[uds-proxy](https://github.com/schnoddelbotz/uds-proxy): uds-proxy provides a UNIX domain socket that acts as HTTP(S) connection-pooling forward proxy  
+[paopao-ce](https://github.com/rocboss/paopao-ce): 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
