@@ -1462,4 +1462,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [uds-proxy](https://github.com/schnoddelbotz/uds-proxy): uds-proxy provides a UNIX domain socket that acts as HTTP(S) connection-pooling forward proxy  
 [paopao-ce](https://github.com/rocboss/paopao-ce): 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区  
 [Kirtasite](https://github.com/daddydemir/Kirtasite): I had to rewrite the backend because I updated the database.  
-[gruberdev](https://github.com/gruberdev/gruberdev): Gruber's README
+[gruberdev](https://github.com/gruberdev/gruberdev): Gruber's README  
+[armor-ingress-controller](https://github.com/linki/armor-ingress-controller): A Kubernetes Ingress Controller for @labstack's Armor
