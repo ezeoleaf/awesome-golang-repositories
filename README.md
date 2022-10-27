@@ -1464,4 +1464,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Kirtasite](https://github.com/daddydemir/Kirtasite): I had to rewrite the backend because I updated the database.  
 [gruberdev](https://github.com/gruberdev/gruberdev): Gruber's README  
 [armor-ingress-controller](https://github.com/linki/armor-ingress-controller): A Kubernetes Ingress Controller for @labstack's Armor  
-[abi-stable-node-research](https://github.com/NickNaso/abi-stable-node-research): Research for N-API Bindings
+[abi-stable-node-research](https://github.com/NickNaso/abi-stable-node-research): Research for N-API Bindings  
+[cov-commit-parser](https://github.com/mbamber/cov-commit-parser): Simple parser for Conventional Commits: https://www.conventionalcommits.org/en/v1.0.0/)
