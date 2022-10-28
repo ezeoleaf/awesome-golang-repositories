@@ -1468,4 +1468,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [cov-commit-parser](https://github.com/mbamber/cov-commit-parser): Simple parser for Conventional Commits: https://www.conventionalcommits.org/en/v1.0.0/)  
 [golang-course](https://github.com/eng-gabrielscardoso/golang-course): Conjunto de exercícios e exemplos e progresso no curso de Linguagem Go ministrado por Leonardo Leitão na Cod3r.  
 [JOJORNAL](https://github.com/zennon-sml/JOJORNAL): JOJORNAL é um BLOG que estou fazendo pra meu colega Thiago, usando GO, com o GIN framework e MYSQL  
-[nala](https://github.com/pepplejoshua/nala): An Interpreter/Compiler project written in Go (to learn Go) to support 2 languages: Nala and Ellisp
+[nala](https://github.com/pepplejoshua/nala): An Interpreter/Compiler project written in Go (to learn Go) to support 2 languages: Nala and Ellisp  
+[kamoro](https://github.com/timopattikawa/kamoro): Kamoro is command line application for grading C++, Python 3, and Golang code base on given input and expected output
