@@ -1466,4 +1466,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [armor-ingress-controller](https://github.com/linki/armor-ingress-controller): A Kubernetes Ingress Controller for @labstack's Armor  
 [abi-stable-node-research](https://github.com/NickNaso/abi-stable-node-research): Research for N-API Bindings  
 [cov-commit-parser](https://github.com/mbamber/cov-commit-parser): Simple parser for Conventional Commits: https://www.conventionalcommits.org/en/v1.0.0/)  
-[golang-course](https://github.com/eng-gabrielscardoso/golang-course): Conjunto de exercícios e exemplos e progresso no curso de Linguagem Go ministrado por Leonardo Leitão na Cod3r.
+[golang-course](https://github.com/eng-gabrielscardoso/golang-course): Conjunto de exercícios e exemplos e progresso no curso de Linguagem Go ministrado por Leonardo Leitão na Cod3r.  
+[JOJORNAL](https://github.com/zennon-sml/JOJORNAL): JOJORNAL é um BLOG que estou fazendo pra meu colega Thiago, usando GO, com o GIN framework e MYSQL
