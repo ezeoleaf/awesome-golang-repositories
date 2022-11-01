@@ -1472,4 +1472,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kamoro](https://github.com/timopattikawa/kamoro): Kamoro is command line application for grading C++, Python 3, and Golang code base on given input and expected output  
 [instaScrape](https://github.com/Syn3rman/instaScrape): Scrape n latest posts from a user's instagram profile  
 [google-api-go-client](https://github.com/googleapis/google-api-go-client): Auto-generated Google APIs for Go.  
-[goc8](https://github.com/sgbasaraner/goc8): A Chip-8 emulator written in Golang.
+[goc8](https://github.com/sgbasaraner/goc8): A Chip-8 emulator written in Golang.  
+[ecommerce-backend](https://github.com/VAISHAKH-GK/ecommerce-backend): Backend made for E-commerce website using GO
