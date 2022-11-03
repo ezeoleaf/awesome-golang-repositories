@@ -1476,4 +1476,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ecommerce-backend](https://github.com/VAISHAKH-GK/ecommerce-backend): Backend made for E-commerce website using GO  
 [Pagamentos](https://github.com/LucasCostakt/Pagamentos): Projeto de pagamentos desenvolvido para fins de aprendizado, consiste em um sistema de envio e recebimento de dinheiro entre usuários e lojistas, para a descrição completa acessar o projeto.  
 [showreel](https://github.com/petar-prog91/showreel): WIP: ShowReel is another application for tracking TV shows, because I don't like all the other ones.  
-[EulerSpigot](https://github.com/zachratliff22/EulerSpigot): Euler's Constant digit generation
+[EulerSpigot](https://github.com/zachratliff22/EulerSpigot): Euler's Constant digit generation  
+[spinner](https://github.com/briandowns/spinner): Go (golang) package with 90 configurable terminal spinner/progress indicators.
