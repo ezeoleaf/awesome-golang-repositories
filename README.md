@@ -1477,4 +1477,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Pagamentos](https://github.com/LucasCostakt/Pagamentos): Projeto de pagamentos desenvolvido para fins de aprendizado, consiste em um sistema de envio e recebimento de dinheiro entre usuários e lojistas, para a descrição completa acessar o projeto.  
 [showreel](https://github.com/petar-prog91/showreel): WIP: ShowReel is another application for tracking TV shows, because I don't like all the other ones.  
 [EulerSpigot](https://github.com/zachratliff22/EulerSpigot): Euler's Constant digit generation  
-[spinner](https://github.com/briandowns/spinner): Go (golang) package with 90 configurable terminal spinner/progress indicators.
+[spinner](https://github.com/briandowns/spinner): Go (golang) package with 90 configurable terminal spinner/progress indicators.  
+[grpcfuse](https://github.com/chiyutianyi/grpcfuse): Remote filesystem based on grpc and fuse.   The server and client were implemented with pure go.   Grpcfuse consists of two parts:  GRPC Server GRPC Client They all follow github.com/hanwen/go-fuse/fuse#RawFileSystem, so you can choose from multiple server-side implementations (e.g. pathfs#FileSystem, nodefs#Node or sugguested fs )and convert to RawFileSystem.
