@@ -1479,4 +1479,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [EulerSpigot](https://github.com/zachratliff22/EulerSpigot): Euler's Constant digit generation  
 [spinner](https://github.com/briandowns/spinner): Go (golang) package with 90 configurable terminal spinner/progress indicators.  
 [grpcfuse](https://github.com/chiyutianyi/grpcfuse): Remote filesystem based on grpc and fuse.   The server and client were implemented with pure go.   Grpcfuse consists of two parts:  GRPC Server GRPC Client They all follow github.com/hanwen/go-fuse/fuse#RawFileSystem, so you can choose from multiple server-side implementations (e.g. pathfs#FileSystem, nodefs#Node or sugguested fs )and convert to RawFileSystem.  
-[clang-v3.6](https://github.com/go-clang/clang-v3.6): Go bindings for Clang's C API v3.6
+[clang-v3.6](https://github.com/go-clang/clang-v3.6): Go bindings for Clang's C API v3.6  
+[go-template-edge](https://github.com/enoti-bg/go-template-edge): Cookiecutter template for a basic Web api w/ Golang.
