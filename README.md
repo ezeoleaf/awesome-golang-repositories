@@ -1484,4 +1484,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [taskctl](https://github.com/taskctl/taskctl): Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰  
 [golang-interview-questions](https://github.com/brokeyourbike/golang-interview-questions): List of top n Golang Interview Questions & Answers  
 [jolokiago](https://github.com/codingchipmunk/jolokiago): A golang client library for Jolokia with SSE support (Jolokia 2.0)  
-[twittole](https://github.com/JL-OLEMAR/twittole): Desarrollo BackEnd con Golang y MongoDB: Creando Red Social como Twitter"
+[twittole](https://github.com/JL-OLEMAR/twittole): Desarrollo BackEnd con Golang y MongoDB: Creando Red Social como Twitter"  
+[old-swedish-dictionary-go](https://github.com/stscoundrel/old-swedish-dictionary-go): Old Swedish Dictionary for Go. From K.F. Söderwall's Medieval Swedish Dictionary
