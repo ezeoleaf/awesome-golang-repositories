@@ -1491,4 +1491,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gin-request-id](https://github.com/takt-corp/gin-request-id): Gin middleware that adds `X-Request-ID` header to all request and responses for easy tracking.  
 [gh-dash](https://github.com/dlvhdr/gh-dash): A beautiful CLI dashboard for GitHub 🚀   
 [color-matching-dice](https://github.com/chiswicked/color-matching-dice): Arrange 4 colored side dice in a row so that no color repeats itself on either side  
-[ppath](https://github.com/marwanhawari/ppath): 🌈 A command-line tool to pretty print your system's PATH environment variable.
+[ppath](https://github.com/marwanhawari/ppath): 🌈 A command-line tool to pretty print your system's PATH environment variable.  
+[header2go](https://github.com/thales-e-security/header2go): Convert C header files into skeleton Go implementations
