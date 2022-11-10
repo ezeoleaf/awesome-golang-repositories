@@ -1493,4 +1493,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [color-matching-dice](https://github.com/chiswicked/color-matching-dice): Arrange 4 colored side dice in a row so that no color repeats itself on either side  
 [ppath](https://github.com/marwanhawari/ppath): 🌈 A command-line tool to pretty print your system's PATH environment variable.  
 [header2go](https://github.com/thales-e-security/header2go): Convert C header files into skeleton Go implementations  
-[t3](https://github.com/Raven-bit/t3): t³: Twitch To Terminal
+[t3](https://github.com/Raven-bit/t3): t³: Twitch To Terminal  
+[openapi](https://github.com/chanced/openapi): an OpenAPI 3.x library for go
