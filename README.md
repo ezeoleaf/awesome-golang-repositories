@@ -1497,4 +1497,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [openapi](https://github.com/chanced/openapi): an OpenAPI 3.x library for go  
 [nerf-controller](https://github.com/crabbymonkey/nerf-controller): Designed to run on a Raspberry Pi Zero W connected to a nerf gun or other method of firing projectiles with a user interface via a web app, the program interfaces with StreamLabs to record donations that will add rounds to the hopper to be fired.  
 [go-tagexpr](https://github.com/bytedance/go-tagexpr): An interesting go struct tag expression syntax for field validation, etc.  
-[GolangTraining](https://github.com/jordangarrison/GolangTraining): Learning Golang from Todd McCleod's Course
+[GolangTraining](https://github.com/jordangarrison/GolangTraining): Learning Golang from Todd McCleod's Course  
+[jrpc](https://github.com/twiglab/jrpc): JSON-RPC 2.0
