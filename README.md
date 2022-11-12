@@ -1499,4 +1499,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-tagexpr](https://github.com/bytedance/go-tagexpr): An interesting go struct tag expression syntax for field validation, etc.  
 [GolangTraining](https://github.com/jordangarrison/GolangTraining): Learning Golang from Todd McCleod's Course  
 [jrpc](https://github.com/twiglab/jrpc): JSON-RPC 2.0  
-[mcrover](https://github.com/bradleyfalzon/mcrover): Why aren't personal robots getting Maccas for me?
+[mcrover](https://github.com/bradleyfalzon/mcrover): Why aren't personal robots getting Maccas for me?  
+[chip8](https://github.com/TheInvader360/chip8): :video_game: Chip-8 emulator (golang)
