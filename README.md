@@ -1500,4 +1500,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GolangTraining](https://github.com/jordangarrison/GolangTraining): Learning Golang from Todd McCleod's Course  
 [jrpc](https://github.com/twiglab/jrpc): JSON-RPC 2.0  
 [mcrover](https://github.com/bradleyfalzon/mcrover): Why aren't personal robots getting Maccas for me?  
-[chip8](https://github.com/TheInvader360/chip8): :video_game: Chip-8 emulator (golang)
+[chip8](https://github.com/TheInvader360/chip8): :video_game: Chip-8 emulator (golang)  
+[cormen-algorithms-book](https://github.com/shh26b/cormen-algorithms-book): Introduction to Algorithms ( Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein) Book's Code Collection
