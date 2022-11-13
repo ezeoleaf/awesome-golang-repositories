@@ -1501,4 +1501,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jrpc](https://github.com/twiglab/jrpc): JSON-RPC 2.0  
 [mcrover](https://github.com/bradleyfalzon/mcrover): Why aren't personal robots getting Maccas for me?  
 [chip8](https://github.com/TheInvader360/chip8): :video_game: Chip-8 emulator (golang)  
-[cormen-algorithms-book](https://github.com/shh26b/cormen-algorithms-book): Introduction to Algorithms ( Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein) Book's Code Collection
+[cormen-algorithms-book](https://github.com/shh26b/cormen-algorithms-book): Introduction to Algorithms ( Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein) Book's Code Collection  
+[contratos-gin](https://github.com/Azevedo-Erick/contratos-gin): Um experimento para aprender mais sobre Go com o framework Gin, fiz alguns cruds e middleware de autenticação e controle de acesso baseado em cargos (RBAC) com token JWT
