@@ -1504,4 +1504,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [cormen-algorithms-book](https://github.com/shh26b/cormen-algorithms-book): Introduction to Algorithms ( Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein) Book's Code Collection  
 [contratos-gin](https://github.com/Azevedo-Erick/contratos-gin): Um experimento para aprender mais sobre Go com o framework Gin, fiz alguns cruds e middleware de autenticação e controle de acesso baseado em cargos (RBAC) com token JWT  
 [RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.  
-[mysqlx](https://github.com/AlekSi/mysqlx): MySQL driver for Go's (golang) database/sql package and MySQL X Protocol
+[mysqlx](https://github.com/AlekSi/mysqlx): MySQL driver for Go's (golang) database/sql package and MySQL X Protocol  
+[openbooks](https://github.com/evan-buss/openbooks): Search and Download eBooks
