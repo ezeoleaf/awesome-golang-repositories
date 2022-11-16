@@ -1506,4 +1506,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.  
 [mysqlx](https://github.com/AlekSi/mysqlx): MySQL driver for Go's (golang) database/sql package and MySQL X Protocol  
 [openbooks](https://github.com/evan-buss/openbooks): Search and Download eBooks  
-[allure-go](https://github.com/ozontech/allure-go): Complete Allure provider in Go which doesn't overload the interface usage
+[allure-go](https://github.com/ozontech/allure-go): Complete Allure provider in Go which doesn't overload the interface usage  
+[modelfox](https://github.com/modelfoxdotdev/modelfox): ModelFox makes it easy to train, deploy, and monitor machine learning models.
