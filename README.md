@@ -1509,4 +1509,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [allure-go](https://github.com/ozontech/allure-go): Complete Allure provider in Go which doesn't overload the interface usage  
 [modelfox](https://github.com/modelfoxdotdev/modelfox): ModelFox makes it easy to train, deploy, and monitor machine learning models.  
 [disenchant](https://github.com/onescriptkid/disenchant): Disenchant all champion shards with 1 click  
-[monitor_process_out](https://github.com/kpawlik/monitor_process_out): Reads process output in real time and store results into files every N secons.
+[monitor_process_out](https://github.com/kpawlik/monitor_process_out): Reads process output in real time and store results into files every N secons.  
+[xteam-bootcamp-go](https://github.com/gugazimmermann/xteam-bootcamp-go): Coursera Specialization and X-Team Go Course by Juliano Silva
