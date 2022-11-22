@@ -1512,4 +1512,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [monitor_process_out](https://github.com/kpawlik/monitor_process_out): Reads process output in real time and store results into files every N secons.  
 [xteam-bootcamp-go](https://github.com/gugazimmermann/xteam-bootcamp-go): Coursera Specialization and X-Team Go Course by Juliano Silva  
 [FastestSumOfSquares](https://github.com/jack17529/FastestSumOfSquares): Solving Sum Of Squares problem using Golang's Concurrency Model.  
-[WindowsMakefile](https://github.com/MichalUSER/WindowsMakefile): Copy of linux makefile for windows, it doesn't have all features but it has the main one which is running commands from file.
+[WindowsMakefile](https://github.com/MichalUSER/WindowsMakefile): Copy of linux makefile for windows, it doesn't have all features but it has the main one which is running commands from file.  
+[carbon](https://github.com/golang-module/carbon): A simple, semantic and developer-friendly golang package for datetime
