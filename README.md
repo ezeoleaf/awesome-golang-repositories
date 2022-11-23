@@ -1514,4 +1514,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [FastestSumOfSquares](https://github.com/jack17529/FastestSumOfSquares): Solving Sum Of Squares problem using Golang's Concurrency Model.  
 [WindowsMakefile](https://github.com/MichalUSER/WindowsMakefile): Copy of linux makefile for windows, it doesn't have all features but it has the main one which is running commands from file.  
 [carbon](https://github.com/golang-module/carbon): A simple, semantic and developer-friendly golang package for datetime  
-[tsuru-client](https://github.com/tsuru/tsuru-client): tsuru-client is a tsuru command line tool for application developers.
+[tsuru-client](https://github.com/tsuru/tsuru-client): tsuru-client is a tsuru command line tool for application developers.  
+[Slice-Helper](https://github.com/danilovteodoro/Slice-Helper): It's just a convinience to work with slices.
