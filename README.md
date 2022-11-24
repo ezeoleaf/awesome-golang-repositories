@@ -1516,4 +1516,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [carbon](https://github.com/golang-module/carbon): A simple, semantic and developer-friendly golang package for datetime  
 [tsuru-client](https://github.com/tsuru/tsuru-client): tsuru-client is a tsuru command line tool for application developers.  
 [Slice-Helper](https://github.com/danilovteodoro/Slice-Helper): It's just a convinience to work with slices.  
-[wasm4-docker](https://github.com/christopher-kleine/wasm4-docker): Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig
+[wasm4-docker](https://github.com/christopher-kleine/wasm4-docker): Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig  
+[cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
