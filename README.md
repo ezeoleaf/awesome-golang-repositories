@@ -1515,4 +1515,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [WindowsMakefile](https://github.com/MichalUSER/WindowsMakefile): Copy of linux makefile for windows, it doesn't have all features but it has the main one which is running commands from file.  
 [carbon](https://github.com/golang-module/carbon): A simple, semantic and developer-friendly golang package for datetime  
 [tsuru-client](https://github.com/tsuru/tsuru-client): tsuru-client is a tsuru command line tool for application developers.  
-[Slice-Helper](https://github.com/danilovteodoro/Slice-Helper): It's just a convinience to work with slices.
+[Slice-Helper](https://github.com/danilovteodoro/Slice-Helper): It's just a convinience to work with slices.  
+[wasm4-docker](https://github.com/christopher-kleine/wasm4-docker): Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig
