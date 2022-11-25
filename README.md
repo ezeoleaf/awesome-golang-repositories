@@ -1519,4 +1519,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wasm4-docker](https://github.com/christopher-kleine/wasm4-docker): Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig  
 [cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.  
 [LearningGoBook](https://github.com/MrSarno/LearningGoBook): Learning Go with Alan A. A. Donovan & Brian W. Kernighan.  
-[mcp2221a](https://github.com/ardnew/mcp2221a): Go module for the MCP2221A USB to I²C/UART Protocol Converter with GPIO
+[mcp2221a](https://github.com/ardnew/mcp2221a): Go module for the MCP2221A USB to I²C/UART Protocol Converter with GPIO  
+[ratelimit](https://github.com/zekroTJA/ratelimit): simple token bucket based rate limiter (e.g. for limiting HTTP API requests)
