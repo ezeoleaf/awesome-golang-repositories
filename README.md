@@ -1522,4 +1522,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [mcp2221a](https://github.com/ardnew/mcp2221a): Go module for the MCP2221A USB to I²C/UART Protocol Converter with GPIO  
 [ratelimit](https://github.com/zekroTJA/ratelimit): simple token bucket based rate limiter (e.g. for limiting HTTP API requests)  
 [pyside-lang-comparison-graph](https://github.com/yjg30737/pyside-lang-comparison-graph): Execute R, Go, Python, Rust, Julia performance test and show result with PySide graph to compare with each other  
-[franz-go](https://github.com/twmb/franz-go): franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.3+. Producing, consuming, transacting, administrating, etc.
+[franz-go](https://github.com/twmb/franz-go): franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.3+. Producing, consuming, transacting, administrating, etc.  
+[oauth-showcase](https://github.com/zcubbs/oauth-showcase): This is a simple showcase of the OAuth 2.0 authorization code flow written in GO. With a server and a client. Both components are fully customizable and can be used as a template for your own projects.
