@@ -1526,4 +1526,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [oauth-showcase](https://github.com/zcubbs/oauth-showcase): This is a simple showcase of the OAuth 2.0 authorization code flow written in GO. With a server and a client. Both components are fully customizable and can be used as a template for your own projects.  
 [go-kik](https://github.com/4kelly/go-kik): A Go client library for the Kik bot API. Unfortunately, I missed the bot craze by about 4 years on this one. I wrote it strictly to practise Go.  
 [genqlient](https://github.com/Khan/genqlient): a truly type-safe Go GraphQL client  
-[kubeshark](https://github.com/kubeshark/kubeshark): The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
+[kubeshark](https://github.com/kubeshark/kubeshark): The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes  
+[batch](https://github.com/veggiemonk/batch): Split an array/slice into n evenly chunks. Spread load evenly across workers
