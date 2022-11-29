@@ -1528,4 +1528,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [genqlient](https://github.com/Khan/genqlient): a truly type-safe Go GraphQL client  
 [kubeshark](https://github.com/kubeshark/kubeshark): The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes  
 [batch](https://github.com/veggiemonk/batch): Split an array/slice into n evenly chunks. Spread load evenly across workers  
-[azuretexttospeech](https://github.com/jesseward/azuretexttospeech): A Go library for Azure's Cognitive Services text-to-speech API. 
+[azuretexttospeech](https://github.com/jesseward/azuretexttospeech): A Go library for Azure's Cognitive Services text-to-speech API.   
+[featurebase](https://github.com/FeatureBaseDB/featurebase): A real-time analytical database built on bitmaps. Learn more at: http://docs.featurebase.com?utm_campaign=Open%20Source&utm_source=GitHub
