@@ -1530,4 +1530,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [batch](https://github.com/veggiemonk/batch): Split an array/slice into n evenly chunks. Spread load evenly across workers  
 [azuretexttospeech](https://github.com/jesseward/azuretexttospeech): A Go library for Azure's Cognitive Services text-to-speech API.   
 [featurebase](https://github.com/FeatureBaseDB/featurebase): A real-time analytical database built on bitmaps. Learn more at: http://docs.featurebase.com?utm_campaign=Open%20Source&utm_source=GitHub  
-[migrate-tool-from-frontol4-to-frontol6](https://github.com/evdokimovsv/migrate-tool-from-frontol4-to-frontol6): Утилита для переноса накоплений и подарочных карт из frontol 4 в Frontol 6.
+[migrate-tool-from-frontol4-to-frontol6](https://github.com/evdokimovsv/migrate-tool-from-frontol4-to-frontol6): Утилита для переноса накоплений и подарочных карт из frontol 4 в Frontol 6.  
+[go-8](https://github.com/h4ck3rk3y/go-8): A chip-8 emulator written in Go
