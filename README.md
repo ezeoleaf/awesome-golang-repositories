@@ -1533,4 +1533,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [migrate-tool-from-frontol4-to-frontol6](https://github.com/evdokimovsv/migrate-tool-from-frontol4-to-frontol6): Утилита для переноса накоплений и подарочных карт из frontol 4 в Frontol 6.  
 [go-8](https://github.com/h4ck3rk3y/go-8): A chip-8 emulator written in Go  
 [devops-resources](https://github.com/bregman-arie/devops-resources): DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP  
-[shissue](https://github.com/arthurmco/shissue): git project issues in the command line \o/
+[shissue](https://github.com/arthurmco/shissue): git project issues in the command line \o/  
+[goebpf](https://github.com/dropbox/goebpf): Library to work with eBPF programs from Go
