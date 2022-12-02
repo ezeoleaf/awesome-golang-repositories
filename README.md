@@ -1535,4 +1535,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [devops-resources](https://github.com/bregman-arie/devops-resources): DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP  
 [shissue](https://github.com/arthurmco/shissue): git project issues in the command line \o/  
 [goebpf](https://github.com/dropbox/goebpf): Library to work with eBPF programs from Go  
-[testcontainers-go](https://github.com/testcontainers/testcontainers-go): Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
+[testcontainers-go](https://github.com/testcontainers/testcontainers-go): Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.  
+[bitcask](https://github.com/IslamWalid/bitcask): A K/V datastore
