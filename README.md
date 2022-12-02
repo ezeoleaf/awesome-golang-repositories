@@ -1536,4 +1536,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [shissue](https://github.com/arthurmco/shissue): git project issues in the command line \o/  
 [goebpf](https://github.com/dropbox/goebpf): Library to work with eBPF programs from Go  
 [testcontainers-go](https://github.com/testcontainers/testcontainers-go): Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.  
-[bitcask](https://github.com/IslamWalid/bitcask): A K/V datastore
+[bitcask](https://github.com/IslamWalid/bitcask): A K/V datastore  
+[Go-Web-Attack-Log-Simulation](https://github.com/gamemann/Go-Web-Attack-Log-Simulation): A basic Go program imported from GFL's Gitlab. This simply simulates a web attack via logs.
