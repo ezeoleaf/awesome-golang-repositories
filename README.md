@@ -1539,4 +1539,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [bitcask](https://github.com/IslamWalid/bitcask): A K/V datastore  
 [Go-Web-Attack-Log-Simulation](https://github.com/gamemann/Go-Web-Attack-Log-Simulation): A basic Go program imported from GFL's Gitlab. This simply simulates a web attack via logs.  
 [golinkedlist](https://github.com/kamil5b/golinkedlist): I created my own linked list using Go. Even though Go had their own library for linked list named 'list'  
-[mi-beego](https://github.com/xuyisu/mi-beego): go 语言 模拟电商官网的后端服务，使用BeeGo V2.0.2 实现，前端使用Vue 
+[mi-beego](https://github.com/xuyisu/mi-beego): go 语言 模拟电商官网的后端服务，使用BeeGo V2.0.2 实现，前端使用Vue   
+[mergestat-lite](https://github.com/mergestat/mergestat-lite): Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
