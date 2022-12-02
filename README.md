@@ -1544,4 +1544,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ToyLanguage](https://github.com/stefanovazzocell/ToyLanguage): A brainf**k interpreter with extensions  
 [gcommerce](https://github.com/geovani-moc/gcommerce): Projeto para estudo, com o desenvolvimento de um sistema de comercio eletrônico utilizando como principal linguagem de programação o Go.  
 [crc32a](https://github.com/boguslaw-wojcik/crc32a): A pure Go implementation of CRC32A (ITU I.363.5) checksum missing from Golang standard library.  
-[terraform-provider-godaddy](https://github.com/n3integration/terraform-provider-godaddy): A terraform plugin for managing godaddy domain records
+[terraform-provider-godaddy](https://github.com/n3integration/terraform-provider-godaddy): A terraform plugin for managing godaddy domain records  
+[RocketShipCountDown](https://github.com/stevenanthonyrevo/RocketShipCountDown): Happy Hacktoberfest Contributors! This year a new repository will be open-sourced named "RocketCountDown". A space-inspired countdown tracker built in Go. For new Coders, and fellow Developers to please join this exciting project for a chance to submit PR's.
