@@ -1548,4 +1548,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [RocketShipCountDown](https://github.com/stevenanthonyrevo/RocketShipCountDown): Happy Hacktoberfest Contributors! This year a new repository will be open-sourced named "RocketCountDown". A space-inspired countdown tracker built in Go. For new Coders, and fellow Developers to please join this exciting project for a chance to submit PR's.  
 [interval-based-time-predicates](https://github.com/massimo-marino/interval-based-time-predicates): A very simple implementation of some methods for an interval-based temporal logic based on James F. Allen's work. This code can be used to implement scheduling/pl ...  
 [go-binary-buildpack](https://github.com/TV4/go-binary-buildpack): A Heroku buildpack that runs Go binaries, based on the Ø buildpack  
-[simpleoauth](https://github.com/leo0o/simpleoauth): Golang实现几大主流平台的oauth2.0认证（目前仅支持QQ，微信，微博）
+[simpleoauth](https://github.com/leo0o/simpleoauth): Golang实现几大主流平台的oauth2.0认证（目前仅支持QQ，微信，微博）  
+[amqp](https://github.com/streadway/amqp): Go client for AMQP 0.9.1
