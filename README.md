@@ -1549,4 +1549,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [interval-based-time-predicates](https://github.com/massimo-marino/interval-based-time-predicates): A very simple implementation of some methods for an interval-based temporal logic based on James F. Allen's work. This code can be used to implement scheduling/pl ...  
 [go-binary-buildpack](https://github.com/TV4/go-binary-buildpack): A Heroku buildpack that runs Go binaries, based on the Ø buildpack  
 [simpleoauth](https://github.com/leo0o/simpleoauth): Golang实现几大主流平台的oauth2.0认证（目前仅支持QQ，微信，微博）  
-[amqp](https://github.com/streadway/amqp): Go client for AMQP 0.9.1
+[amqp](https://github.com/streadway/amqp): Go client for AMQP 0.9.1  
+[blockchain-document-validateur](https://github.com/republique-et-canton-de-geneve/blockchain-document-validateur): Application d'authentification de document PDF, utilisant la chaîne de blocs Ethereum.
