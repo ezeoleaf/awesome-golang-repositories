@@ -1555,4 +1555,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [homework8](https://github.com/UofSC-Fall-2022-Math-587-001/homework8): A bit about distribution of primes and Pollard's p-1 test  
 [clamav-facade](https://github.com/ron96G/clamav-facade): Small go application which acts as (1) a command line client to access CLAMAV and (2) a proxy to access CLAMAV using a REST-API  
 [flamingo-commerce](https://github.com/i-love-flamingo/flamingo-commerce): Flexible E-Commerce Framework on top of Flamingo. Used to build E-Commerce "Portals" and connect it with the help of individual Adapters to other services.   
-[svgo](https://github.com/ajstarks/svgo): Go Language Library for SVG generation
+[svgo](https://github.com/ajstarks/svgo): Go Language Library for SVG generation  
+[go_webserver](https://github.com/AndyLeezard/go_webserver): Testing web server (Go version 1.15)
