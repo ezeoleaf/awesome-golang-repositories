@@ -1557,4 +1557,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [flamingo-commerce](https://github.com/i-love-flamingo/flamingo-commerce): Flexible E-Commerce Framework on top of Flamingo. Used to build E-Commerce "Portals" and connect it with the help of individual Adapters to other services.   
 [svgo](https://github.com/ajstarks/svgo): Go Language Library for SVG generation  
 [go_webserver](https://github.com/AndyLeezard/go_webserver): Testing web server (Go version 1.15)  
-[blog-wc-go](https://github.com/ajeetdsouza/blog-wc-go): Code from my blog post , Beating C with 70 Lines of Go.
+[blog-wc-go](https://github.com/ajeetdsouza/blog-wc-go): Code from my blog post , Beating C with 70 Lines of Go.  
+[c8y-swmigration](https://github.com/ButKor/c8y-swmigration): Project to migrate Cumulocity Software Repostiory entries towards the new model introduced with v10.7
