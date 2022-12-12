@@ -1560,4 +1560,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [blog-wc-go](https://github.com/ajeetdsouza/blog-wc-go): Code from my blog post , Beating C with 70 Lines of Go.  
 [c8y-swmigration](https://github.com/ButKor/c8y-swmigration): Project to migrate Cumulocity Software Repostiory entries towards the new model introduced with v10.7  
 [full-cycle-docker-d1](https://github.com/Augnet1/full-cycle-docker-d1): Repositório para disponibilizar o desafio 1 do módulo de Docker do curso Full Cycle 3.0  
-[gluon](https://github.com/ProtonMail/gluon): An IMAP server library written in Go and C++
+[gluon](https://github.com/ProtonMail/gluon): An IMAP server library written in Go and C++  
+[simple-gzip](https://github.com/romainmenke/simple-gzip): Lazy man's compression
