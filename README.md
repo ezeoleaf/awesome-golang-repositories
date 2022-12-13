@@ -1564,4 +1564,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [simple-gzip](https://github.com/romainmenke/simple-gzip): Lazy man's compression  
 [pdfcpu](https://github.com/pdfcpu/pdfcpu): A PDF processor written in Go.  
 [mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool  
-[gotgproto](https://github.com/anonyindian/gotgproto): A middleware for Go Telegram Client, i.e. gotd/td.
+[gotgproto](https://github.com/anonyindian/gotgproto): A middleware for Go Telegram Client, i.e. gotd/td.  
+[pngtoansi](https://github.com/crgimenes/pngtoansi): Convert PNG files to ANSI art using UTF-8
