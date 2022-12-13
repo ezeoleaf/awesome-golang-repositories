@@ -1562,4 +1562,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [full-cycle-docker-d1](https://github.com/Augnet1/full-cycle-docker-d1): Repositório para disponibilizar o desafio 1 do módulo de Docker do curso Full Cycle 3.0  
 [gluon](https://github.com/ProtonMail/gluon): An IMAP server library written in Go and C++  
 [simple-gzip](https://github.com/romainmenke/simple-gzip): Lazy man's compression  
-[pdfcpu](https://github.com/pdfcpu/pdfcpu): A PDF processor written in Go.
+[pdfcpu](https://github.com/pdfcpu/pdfcpu): A PDF processor written in Go.  
+[mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool
