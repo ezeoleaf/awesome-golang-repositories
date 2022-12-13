@@ -1563,4 +1563,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gluon](https://github.com/ProtonMail/gluon): An IMAP server library written in Go and C++  
 [simple-gzip](https://github.com/romainmenke/simple-gzip): Lazy man's compression  
 [pdfcpu](https://github.com/pdfcpu/pdfcpu): A PDF processor written in Go.  
-[mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool
+[mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool  
+[gotgproto](https://github.com/anonyindian/gotgproto): A middleware for Go Telegram Client, i.e. gotd/td.
