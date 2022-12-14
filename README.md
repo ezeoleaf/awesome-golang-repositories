@@ -1565,4 +1565,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pdfcpu](https://github.com/pdfcpu/pdfcpu): A PDF processor written in Go.  
 [mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool  
 [gotgproto](https://github.com/anonyindian/gotgproto): A middleware for Go Telegram Client, i.e. gotd/td.  
-[pngtoansi](https://github.com/crgimenes/pngtoansi): Convert PNG files to ANSI art using UTF-8
+[pngtoansi](https://github.com/crgimenes/pngtoansi): Convert PNG files to ANSI art using UTF-8  
+[juno-go-sdk](https://github.com/booscaaa/juno-go-sdk): SDK to provide access to JUNO API (Open Banking) (2.0.0)
