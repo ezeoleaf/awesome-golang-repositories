@@ -1567,4 +1567,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gotgproto](https://github.com/anonyindian/gotgproto): A middleware for Go Telegram Client, i.e. gotd/td.  
 [pngtoansi](https://github.com/crgimenes/pngtoansi): Convert PNG files to ANSI art using UTF-8  
 [juno-go-sdk](https://github.com/booscaaa/juno-go-sdk): SDK to provide access to JUNO API (Open Banking) (2.0.0)  
-[injest-delivery](https://github.com/joelmcdaniel/injest-delivery): An coding exercise solution that led to subsequent interview rounds. The ingest agent was requested to be in php7 and the delivery agent in Go. I had never coded in php7 at all when I coded this ...
+[injest-delivery](https://github.com/joelmcdaniel/injest-delivery): An coding exercise solution that led to subsequent interview rounds. The ingest agent was requested to be in php7 and the delivery agent in Go. I had never coded in php7 at all when I coded this ...  
+[YDKGo](https://github.com/cedrickchee/YDKGo): You Don't Know Go Yet book.
