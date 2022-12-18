@@ -1573,4 +1573,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ubuntu-cppmf](https://github.com/docker-suite/ubuntu-cppmf): Docker with pre-installed softwares will working on C++ / Go / Node / ... project  
 [iso639-3](https://github.com/barbashov/iso639-3): ISO 639-3 database for Go  
 [gowebssh](https://github.com/leffss/gowebssh): 使用 github.com/gorilla/websocket 与 golang.org/x/crypto/ssh 实现的 webssh  
-[gorequest](https://github.com/parnurzeal/gorequest): GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
+[gorequest](https://github.com/parnurzeal/gorequest): GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )  
+[zkillredisqo](https://github.com/MorpheusXAUT/zkillredisqo): A small library for subscribing to zKillboard's RedisQ kill feed, written in Golang.
