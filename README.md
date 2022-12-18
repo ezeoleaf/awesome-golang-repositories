@@ -1572,4 +1572,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dynamic-backend](https://github.com/ecomclub/dynamic-backend): Map E-Com Plus Storefront dynamic backend with Go and Redis  
 [ubuntu-cppmf](https://github.com/docker-suite/ubuntu-cppmf): Docker with pre-installed softwares will working on C++ / Go / Node / ... project  
 [iso639-3](https://github.com/barbashov/iso639-3): ISO 639-3 database for Go  
-[gowebssh](https://github.com/leffss/gowebssh): 使用 github.com/gorilla/websocket 与 golang.org/x/crypto/ssh 实现的 webssh
+[gowebssh](https://github.com/leffss/gowebssh): 使用 github.com/gorilla/websocket 与 golang.org/x/crypto/ssh 实现的 webssh  
+[gorequest](https://github.com/parnurzeal/gorequest): GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
