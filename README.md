@@ -1574,4 +1574,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [iso639-3](https://github.com/barbashov/iso639-3): ISO 639-3 database for Go  
 [gowebssh](https://github.com/leffss/gowebssh): 使用 github.com/gorilla/websocket 与 golang.org/x/crypto/ssh 实现的 webssh  
 [gorequest](https://github.com/parnurzeal/gorequest): GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )  
-[zkillredisqo](https://github.com/MorpheusXAUT/zkillredisqo): A small library for subscribing to zKillboard's RedisQ kill feed, written in Golang.
+[zkillredisqo](https://github.com/MorpheusXAUT/zkillredisqo): A small library for subscribing to zKillboard's RedisQ kill feed, written in Golang.  
+[apns-proxy](https://github.com/martincrxz/apns-proxy): Apple Push Notification service proxy for HTTP/1.x clients.
