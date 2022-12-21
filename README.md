@@ -1575,4 +1575,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gowebssh](https://github.com/leffss/gowebssh): 使用 github.com/gorilla/websocket 与 golang.org/x/crypto/ssh 实现的 webssh  
 [gorequest](https://github.com/parnurzeal/gorequest): GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )  
 [zkillredisqo](https://github.com/MorpheusXAUT/zkillredisqo): A small library for subscribing to zKillboard's RedisQ kill feed, written in Golang.  
-[apns-proxy](https://github.com/martincrxz/apns-proxy): Apple Push Notification service proxy for HTTP/1.x clients.
+[apns-proxy](https://github.com/martincrxz/apns-proxy): Apple Push Notification service proxy for HTTP/1.x clients.  
+[first-go-api](https://github.com/shoeb240/first-go-api): Creating first go api project as I am learning golang
