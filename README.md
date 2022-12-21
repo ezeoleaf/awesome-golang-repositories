@@ -1576,4 +1576,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gorequest](https://github.com/parnurzeal/gorequest): GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )  
 [zkillredisqo](https://github.com/MorpheusXAUT/zkillredisqo): A small library for subscribing to zKillboard's RedisQ kill feed, written in Golang.  
 [apns-proxy](https://github.com/martincrxz/apns-proxy): Apple Push Notification service proxy for HTTP/1.x clients.  
-[first-go-api](https://github.com/shoeb240/first-go-api): Creating first go api project as I am learning golang
+[first-go-api](https://github.com/shoeb240/first-go-api): Creating first go api project as I am learning golang  
+[grabbit](https://github.com/wework/grabbit): A lightweight transactional message bus on top of RabbitMQ
