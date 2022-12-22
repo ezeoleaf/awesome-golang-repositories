@@ -1580,4 +1580,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [grabbit](https://github.com/wework/grabbit): A lightweight transactional message bus on top of RabbitMQ  
 [dlx](https://github.com/sjnam/dlx): Donald Knuth's Algorithm 7.2.2.1M for covering with multiplicities and colors via dancing links  
 [safelinks](https://github.com/atc0005/safelinks): Go-based tooling to manipulate (e.g., normalize/decode) Microsoft Office 365 "Safe Links" URLs  
-[Nat20](https://github.com/420Nat20/Nat20): DnD for people that don't have time for an 8-hour campaign session every other week.
+[Nat20](https://github.com/420Nat20/Nat20): DnD for people that don't have time for an 8-hour campaign session every other week.  
+[secp256k1](https://github.com/0x4139/secp256k1): Golang wrapper over bitcoin core C secp256k1
