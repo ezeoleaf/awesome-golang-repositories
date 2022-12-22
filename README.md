@@ -1579,4 +1579,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [first-go-api](https://github.com/shoeb240/first-go-api): Creating first go api project as I am learning golang  
 [grabbit](https://github.com/wework/grabbit): A lightweight transactional message bus on top of RabbitMQ  
 [dlx](https://github.com/sjnam/dlx): Donald Knuth's Algorithm 7.2.2.1M for covering with multiplicities and colors via dancing links  
-[safelinks](https://github.com/atc0005/safelinks): Go-based tooling to manipulate (e.g., normalize/decode) Microsoft Office 365 "Safe Links" URLs
+[safelinks](https://github.com/atc0005/safelinks): Go-based tooling to manipulate (e.g., normalize/decode) Microsoft Office 365 "Safe Links" URLs  
+[Nat20](https://github.com/420Nat20/Nat20): DnD for people that don't have time for an 8-hour campaign session every other week.
