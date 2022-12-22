@@ -1578,4 +1578,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [apns-proxy](https://github.com/martincrxz/apns-proxy): Apple Push Notification service proxy for HTTP/1.x clients.  
 [first-go-api](https://github.com/shoeb240/first-go-api): Creating first go api project as I am learning golang  
 [grabbit](https://github.com/wework/grabbit): A lightweight transactional message bus on top of RabbitMQ  
-[dlx](https://github.com/sjnam/dlx): Donald Knuth's Algorithm 7.2.2.1M for covering with multiplicities and colors via dancing links
+[dlx](https://github.com/sjnam/dlx): Donald Knuth's Algorithm 7.2.2.1M for covering with multiplicities and colors via dancing links  
+[safelinks](https://github.com/atc0005/safelinks): Go-based tooling to manipulate (e.g., normalize/decode) Microsoft Office 365 "Safe Links" URLs
