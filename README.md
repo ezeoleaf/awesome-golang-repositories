@@ -1583,4 +1583,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Nat20](https://github.com/420Nat20/Nat20): DnD for people that don't have time for an 8-hour campaign session every other week.  
 [secp256k1](https://github.com/0x4139/secp256k1): Golang wrapper over bitcoin core C secp256k1  
 [startup](https://github.com/xuender/startup): Startup is Go library based on Go 1.18+  
-[go-chip-8](https://github.com/carlosroman/go-chip-8): CHIP-8 Emulator written in Golang
+[go-chip-8](https://github.com/carlosroman/go-chip-8): CHIP-8 Emulator written in Golang  
+[go-excel](https://github.com/andrewyli/go-excel): Implementation of the board game Go in Excel
