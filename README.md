@@ -1584,4 +1584,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [secp256k1](https://github.com/0x4139/secp256k1): Golang wrapper over bitcoin core C secp256k1  
 [startup](https://github.com/xuender/startup): Startup is Go library based on Go 1.18+  
 [go-chip-8](https://github.com/carlosroman/go-chip-8): CHIP-8 Emulator written in Golang  
-[go-excel](https://github.com/andrewyli/go-excel): Implementation of the board game Go in Excel
+[go-excel](https://github.com/andrewyli/go-excel): Implementation of the board game Go in Excel  
+[comet](https://github.com/peteretelej/comet): Boostrap Desktop Apps with Go (wraps Electron in a neat cli)
