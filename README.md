@@ -1589,4 +1589,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-cross](https://github.com/rolandjitsu/go-cross): Cross-compile Go projects with C dependencies  
 [ecspresso](https://github.com/kayac/ecspresso): ecspresso is a deployment tool for Amazon ECS  
 [melody](https://github.com/olahol/melody): :notes: Minimalist websocket framework for Go  
-[rueidis](https://github.com/rueian/rueidis): A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
+[rueidis](https://github.com/rueian/rueidis): A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.  
+[propagationgcp](https://github.com/amammay/propagationgcp): propagationgcp is a small package for setting up propagation in open telemetry using gcp/s X-Cloud-Trace-Context
