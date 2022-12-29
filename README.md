@@ -1588,4 +1588,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [comet](https://github.com/peteretelej/comet): Boostrap Desktop Apps with Go (wraps Electron in a neat cli)  
 [go-cross](https://github.com/rolandjitsu/go-cross): Cross-compile Go projects with C dependencies  
 [ecspresso](https://github.com/kayac/ecspresso): ecspresso is a deployment tool for Amazon ECS  
-[melody](https://github.com/olahol/melody): :notes: Minimalist websocket framework for Go
+[melody](https://github.com/olahol/melody): :notes: Minimalist websocket framework for Go  
+[rueidis](https://github.com/rueian/rueidis): A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
