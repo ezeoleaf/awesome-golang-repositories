@@ -1592,4 +1592,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rueidis](https://github.com/rueian/rueidis): A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.  
 [propagationgcp](https://github.com/amammay/propagationgcp): propagationgcp is a small package for setting up propagation in open telemetry using gcp/s X-Cloud-Trace-Context  
 [colette](https://github.com/ifrstr/colette): Convert between truecolor, xterm(1) 256 color and 16 color.  
-[zstdpool-syncpool](https://github.com/mostynb/zstdpool-syncpool): go sync.Pool wrapper for github.com/klauspost/compress/zstd which doesn't leak memory and goroutines.
+[zstdpool-syncpool](https://github.com/mostynb/zstdpool-syncpool): go sync.Pool wrapper for github.com/klauspost/compress/zstd which doesn't leak memory and goroutines.  
+[psx](https://github.com/bodgit/psx): Golang library for reading and writing Sony PlayStation 1 file formats
