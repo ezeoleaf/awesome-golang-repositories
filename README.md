@@ -1596,4 +1596,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [psx](https://github.com/bodgit/psx): Golang library for reading and writing Sony PlayStation 1 file formats  
 [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap): DevOps Roadmap for 2022. with learning resources  
 [advent-of-code](https://github.com/pin3da/advent-of-code): My solutions to https://adventofcode.com/ in different languages I want to learn.  
-[go-jsonschema](https://github.com/atombender/go-jsonschema): A tool to generate Go data types from JSON Schema definitions.
+[go-jsonschema](https://github.com/atombender/go-jsonschema): A tool to generate Go data types from JSON Schema definitions.  
+[chip-8-go](https://github.com/loicbacciga/chip-8-go): Basic Chip-8 emulator written in Go.
