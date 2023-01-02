@@ -1598,4 +1598,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [advent-of-code](https://github.com/pin3da/advent-of-code): My solutions to https://adventofcode.com/ in different languages I want to learn.  
 [go-jsonschema](https://github.com/atombender/go-jsonschema): A tool to generate Go data types from JSON Schema definitions.  
 [chip-8-go](https://github.com/loicbacciga/chip-8-go): Basic Chip-8 emulator written in Go.  
-[floattest](https://github.com/crhntr/floattest): A Gomega matcher that makes testing float64 with decimal precision easier. (2.432 == 2.401 with one decimal place of accuracy)
+[floattest](https://github.com/crhntr/floattest): A Gomega matcher that makes testing float64 with decimal precision easier. (2.432 == 2.401 with one decimal place of accuracy)  
+[tvd](https://github.com/bethdevopsbunny/tvd): tenable vulnerability diff - a pipeline utility leveraging tenable api to check you haven't introduced new vulnerabilities into your deployment.
