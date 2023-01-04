@@ -1602,4 +1602,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tvd](https://github.com/bethdevopsbunny/tvd): tenable vulnerability diff - a pipeline utility leveraging tenable api to check you haven't introduced new vulnerabilities into your deployment.  
 [Grab](https://github.com/mishnit/Grab): Backend for E-commerce using Go microservices, GRPC, Protobuf, Postgresql, Elastic search, Docker and GraphQL  
 [exploring-protobuf](https://github.com/krsnadjava25/exploring-protobuf): Exploration of creating application using protocol buffer in Golang. Please don't judge :)  
-[go-freenas](https://github.com/fishman/go-freenas): Golang FreeNAS api client
+[go-freenas](https://github.com/fishman/go-freenas): Golang FreeNAS api client  
+[diversify](https://github.com/graynk/diversify): Key diversification for Ultralight C tags
