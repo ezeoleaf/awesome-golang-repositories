@@ -1603,4 +1603,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Grab](https://github.com/mishnit/Grab): Backend for E-commerce using Go microservices, GRPC, Protobuf, Postgresql, Elastic search, Docker and GraphQL  
 [exploring-protobuf](https://github.com/krsnadjava25/exploring-protobuf): Exploration of creating application using protocol buffer in Golang. Please don't judge :)  
 [go-freenas](https://github.com/fishman/go-freenas): Golang FreeNAS api client  
-[diversify](https://github.com/graynk/diversify): Key diversification for Ultralight C tags
+[diversify](https://github.com/graynk/diversify): Key diversification for Ultralight C tags  
+[juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
