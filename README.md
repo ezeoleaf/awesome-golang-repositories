@@ -1604,4 +1604,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [exploring-protobuf](https://github.com/krsnadjava25/exploring-protobuf): Exploration of creating application using protocol buffer in Golang. Please don't judge :)  
 [go-freenas](https://github.com/fishman/go-freenas): Golang FreeNAS api client  
 [diversify](https://github.com/graynk/diversify): Key diversification for Ultralight C tags  
-[juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+[juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.  
+[go-simple-chart-project](https://github.com/GrigoryKrasnochub/go-simple-chart-project): charts, homework and 2 inputs
