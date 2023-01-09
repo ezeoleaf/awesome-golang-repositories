@@ -1606,4 +1606,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [diversify](https://github.com/graynk/diversify): Key diversification for Ultralight C tags  
 [juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.  
 [go-simple-chart-project](https://github.com/GrigoryKrasnochub/go-simple-chart-project): charts, homework and 2 inputs  
-[gdgberlin](https://github.com/fortytw2/gdgberlin): E2E Testing w/ Go and chromedp
+[gdgberlin](https://github.com/fortytw2/gdgberlin): E2E Testing w/ Go and chromedp  
+[keeper-cli](https://github.com/nunux-keeper/keeper-cli): Nunux Keeper CLI
