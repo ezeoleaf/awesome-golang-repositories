@@ -1609,4 +1609,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gdgberlin](https://github.com/fortytw2/gdgberlin): E2E Testing w/ Go and chromedp  
 [keeper-cli](https://github.com/nunux-keeper/keeper-cli): Nunux Keeper CLI  
 [gotk3-samples](https://github.com/GrayNerd/gotk3-samples): Zetcode GTK+2 C tutorial code converted to Golang and GTK+3 using gotk3  
-[xoq](https://github.com/zhews/xoq): Noughts and crosses agent trained through a Q-learning algorithm 🤖
+[xoq](https://github.com/zhews/xoq): Noughts and crosses agent trained through a Q-learning algorithm 🤖  
+[CEHDUN](https://github.com/merakiVE/CEHDUN): Conjunto estandarizado de herramientas de desarrollo para la union e interconexion de Neurones.
