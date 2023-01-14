@@ -1610,4 +1610,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [keeper-cli](https://github.com/nunux-keeper/keeper-cli): Nunux Keeper CLI  
 [gotk3-samples](https://github.com/GrayNerd/gotk3-samples): Zetcode GTK+2 C tutorial code converted to Golang and GTK+3 using gotk3  
 [xoq](https://github.com/zhews/xoq): Noughts and crosses agent trained through a Q-learning algorithm 🤖  
-[CEHDUN](https://github.com/merakiVE/CEHDUN): Conjunto estandarizado de herramientas de desarrollo para la union e interconexion de Neurones.
+[CEHDUN](https://github.com/merakiVE/CEHDUN): Conjunto estandarizado de herramientas de desarrollo para la union e interconexion de Neurones.  
+[ndp](https://github.com/mdlayher/ndp): Package ndp implements the Neighbor Discovery Protocol, as described in RFC 4861.  MIT Licensed.
