@@ -1613,4 +1613,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [CEHDUN](https://github.com/merakiVE/CEHDUN): Conjunto estandarizado de herramientas de desarrollo para la union e interconexion de Neurones.  
 [ndp](https://github.com/mdlayher/ndp): Package ndp implements the Neighbor Discovery Protocol, as described in RFC 4861.  MIT Licensed.  
 [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture): A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.  
-[hrobot-go](https://github.com/nl2go/hrobot-go): A Go library for the Hetzner Robot API https://robot.your-server.de/doc/webservice/en.html
+[hrobot-go](https://github.com/nl2go/hrobot-go): A Go library for the Hetzner Robot API https://robot.your-server.de/doc/webservice/en.html  
+[blazewall](https://github.com/maximthomas/blazewall): Open Source Single-Sign-On and Access Management platform built in microservice architecture
