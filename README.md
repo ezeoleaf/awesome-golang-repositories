@@ -1616,4 +1616,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hrobot-go](https://github.com/nl2go/hrobot-go): A Go library for the Hetzner Robot API https://robot.your-server.de/doc/webservice/en.html  
 [blazewall](https://github.com/maximthomas/blazewall): Open Source Single-Sign-On and Access Management platform built in microservice architecture  
 [go-log](https://github.com/desperatee/go-log): Simple Golang logger package with multi-platform color support, with 3 different levels of logs (info, warn, error)  
-[awsarn](https://github.com/gigawattio/awsarn): AWS ARN Parser package for Go
+[awsarn](https://github.com/gigawattio/awsarn): AWS ARN Parser package for Go  
+[atomix](https://github.com/atomix/atomix): A Kubernetes toolkit for building distributed applications using cloud native principles
