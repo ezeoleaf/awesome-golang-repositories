@@ -1618,4 +1618,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-log](https://github.com/desperatee/go-log): Simple Golang logger package with multi-platform color support, with 3 different levels of logs (info, warn, error)  
 [awsarn](https://github.com/gigawattio/awsarn): AWS ARN Parser package for Go  
 [atomix](https://github.com/atomix/atomix): A Kubernetes toolkit for building distributed applications using cloud native principles  
-[gocover-cui](https://github.com/Mapana/gocover-cui): Imitation go tool cover -html for display terminal
+[gocover-cui](https://github.com/Mapana/gocover-cui): Imitation go tool cover -html for display terminal  
+[Alert-System](https://github.com/Aleena48/Alert-System): An Alert notification service is an application which can receive alerts from certain alerting systems like System_X and System_Y and send these alerts to developers in the form of SMS and emails.
