@@ -1620,4 +1620,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [atomix](https://github.com/atomix/atomix): A Kubernetes toolkit for building distributed applications using cloud native principles  
 [gocover-cui](https://github.com/Mapana/gocover-cui): Imitation go tool cover -html for display terminal  
 [Alert-System](https://github.com/Aleena48/Alert-System): An Alert notification service is an application which can receive alerts from certain alerting systems like System_X and System_Y and send these alerts to developers in the form of SMS and emails.  
-[goshs](https://github.com/patrickhener/goshs): A SimpleHTTPServer written in Go, enhanced with features and with a nice design
+[goshs](https://github.com/patrickhener/goshs): A SimpleHTTPServer written in Go, enhanced with features and with a nice design  
+[simple-dictionary](https://github.com/motnip/simple-dictionary): This is a simple Golang project I used to play around with Go. The project aims to be an online dictionary.
