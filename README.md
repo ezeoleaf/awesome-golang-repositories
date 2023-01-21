@@ -1624,4 +1624,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [simple-dictionary](https://github.com/motnip/simple-dictionary): This is a simple Golang project I used to play around with Go. The project aims to be an online dictionary.  
 [debitinho](https://github.com/renanzxc/debitinho): CLI para visualizar e validar arquivos de remessa/retorno de Débito Automático (Débito em Conta) na versão 6 do Febraban.  
 [gridgg](https://github.com/bradsec/gridgg): For use with Go Graphics fogleman/gg. Functions assist with simplifying position of images and text using positive grid x, y axis references. Ensures images are placed on the canvas in correct alignment and within set ...  
-[golang-vs-php-vs-node-vs-python](https://github.com/Rohan-Jalil/golang-vs-php-vs-node-vs-python): Benchmarking Computational power and File I/O between Golang vs PHP vs Node.JS vs Python
+[golang-vs-php-vs-node-vs-python](https://github.com/Rohan-Jalil/golang-vs-php-vs-node-vs-python): Benchmarking Computational power and File I/O between Golang vs PHP vs Node.JS vs Python  
+[pdflib](https://github.com/abcum/pdflib): C bindings to pdflib for Go
