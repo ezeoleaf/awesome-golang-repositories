@@ -1627,4 +1627,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-vs-php-vs-node-vs-python](https://github.com/Rohan-Jalil/golang-vs-php-vs-node-vs-python): Benchmarking Computational power and File I/O between Golang vs PHP vs Node.JS vs Python  
 [pdflib](https://github.com/abcum/pdflib): C bindings to pdflib for Go  
 [awesome-cs-course](https://github.com/cubxxw/awesome-cs-course): 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown  
-[redisqueue](https://github.com/robinjoseph08/redisqueue): redisqueue provides a producer and consumer of a queue that uses Redis streams
+[redisqueue](https://github.com/robinjoseph08/redisqueue): redisqueue provides a producer and consumer of a queue that uses Redis streams  
+[wsjtx](https://github.com/logocomune/wsjtx): Golang library for WSJTX-X
