@@ -1628,4 +1628,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pdflib](https://github.com/abcum/pdflib): C bindings to pdflib for Go  
 [awesome-cs-course](https://github.com/cubxxw/awesome-cs-course): 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown  
 [redisqueue](https://github.com/robinjoseph08/redisqueue): redisqueue provides a producer and consumer of a queue that uses Redis streams  
-[wsjtx](https://github.com/logocomune/wsjtx): Golang library for WSJTX-X
+[wsjtx](https://github.com/logocomune/wsjtx): Golang library for WSJTX-X  
+[MarkHost](https://github.com/TrixTec/MarkHost): MarkHost is a fork/updated version of thejerf's markdir project
