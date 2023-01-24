@@ -1630,4 +1630,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [redisqueue](https://github.com/robinjoseph08/redisqueue): redisqueue provides a producer and consumer of a queue that uses Redis streams  
 [wsjtx](https://github.com/logocomune/wsjtx): Golang library for WSJTX-X  
 [MarkHost](https://github.com/TrixTec/MarkHost): MarkHost is a fork/updated version of thejerf's markdir project  
-[libplctag](https://github.com/libplctag/libplctag): This C library provides a portable and simple API for accessing Allen-Bradley and Modbus PLC data over Ethernet.  
+[libplctag](https://github.com/libplctag/libplctag): This C library provides a portable and simple API for accessing Allen-Bradley and Modbus PLC data over Ethernet.    
+[sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge): 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。
