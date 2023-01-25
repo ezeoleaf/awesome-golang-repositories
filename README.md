@@ -1634,4 +1634,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge): 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。  
 [bpbanner](https://github.com/waldirborbajr/bpbanner): B+ Banner Library  
 [search-ips-host-cli](https://github.com/hjunor/search-ips-host-cli): Aplicação simples para reconhecimento de ip's e nome dos servidores de determinado host.  
-[pumpkin-pi](https://github.com/circa10a/pumpkin-pi): Raspberry pi project that controls jack-o-lantern via servo motor and PIR motion sensors
+[pumpkin-pi](https://github.com/circa10a/pumpkin-pi): Raspberry pi project that controls jack-o-lantern via servo motor and PIR motion sensors  
+[DDBOT](https://github.com/Sora233/DDBOT): 一个基于MiraiGO的QQ群推送框架， 内置支持b站直播/动态，斗鱼直播，YTB直播/预约直播，虎牙直播，ACFUN直播，微博动态， 也可以通过插件支持任何订阅源。
