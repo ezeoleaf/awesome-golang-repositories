@@ -1633,4 +1633,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [libplctag](https://github.com/libplctag/libplctag): This C library provides a portable and simple API for accessing Allen-Bradley and Modbus PLC data over Ethernet.    
 [sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge): 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。  
 [bpbanner](https://github.com/waldirborbajr/bpbanner): B+ Banner Library  
-[search-ips-host-cli](https://github.com/hjunor/search-ips-host-cli): Aplicação simples para reconhecimento de ip's e nome dos servidores de determinado host.
+[search-ips-host-cli](https://github.com/hjunor/search-ips-host-cli): Aplicação simples para reconhecimento de ip's e nome dos servidores de determinado host.  
+[pumpkin-pi](https://github.com/circa10a/pumpkin-pi): Raspberry pi project that controls jack-o-lantern via servo motor and PIR motion sensors
