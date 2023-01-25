@@ -1632,4 +1632,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [MarkHost](https://github.com/TrixTec/MarkHost): MarkHost is a fork/updated version of thejerf's markdir project  
 [libplctag](https://github.com/libplctag/libplctag): This C library provides a portable and simple API for accessing Allen-Bradley and Modbus PLC data over Ethernet.    
 [sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge): 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。  
-[bpbanner](https://github.com/waldirborbajr/bpbanner): B+ Banner Library
+[bpbanner](https://github.com/waldirborbajr/bpbanner): B+ Banner Library  
+[search-ips-host-cli](https://github.com/hjunor/search-ips-host-cli): Aplicação simples para reconhecimento de ip's e nome dos servidores de determinado host.
