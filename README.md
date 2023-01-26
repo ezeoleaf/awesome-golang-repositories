@@ -1637,4 +1637,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pumpkin-pi](https://github.com/circa10a/pumpkin-pi): Raspberry pi project that controls jack-o-lantern via servo motor and PIR motion sensors  
 [DDBOT](https://github.com/Sora233/DDBOT): 一个基于MiraiGO的QQ群推送框架， 内置支持b站直播/动态，斗鱼直播，YTB直播/预约直播，虎牙直播，ACFUN直播，微博动态， 也可以通过插件支持任何订阅源。  
 [cli-calc](https://github.com/gsaldanab/cli-calc): Implementacion de CLI mediante la librería cobra github.com/spf13/cobra, permite la suma de enteros y decimales, tambien de pares e impares  
-[golang-stringbuilder](https://github.com/linkdotnet/golang-stringbuilder): A string builder that has similar capabilities as the one from C#.
+[golang-stringbuilder](https://github.com/linkdotnet/golang-stringbuilder): A string builder that has similar capabilities as the one from C#.  
+[react-ipfs-proxy-api-manager-go](https://github.com/aifeelit/react-ipfs-proxy-api-manager-go): I made a docker-compose.yml that built everything but for some reason the proxy didn't work correctly within the container and I didn't want to spend much time findin ...
