@@ -1640,4 +1640,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-stringbuilder](https://github.com/linkdotnet/golang-stringbuilder): A string builder that has similar capabilities as the one from C#.  
 [react-ipfs-proxy-api-manager-go](https://github.com/aifeelit/react-ipfs-proxy-api-manager-go): I made a docker-compose.yml that built everything but for some reason the proxy didn't work correctly within the container and I didn't want to spend much time findin ...  
 [rerr](https://github.com/i-erokhin/rerr): Golang helper for Gorilla JSON RPC 2.0. Common errors with codes and messages.  
-[GoGracefulReusePort](https://github.com/jensneuse/GoGracefulReusePort): This repo demonstrates the use of go 1.8 server.shutdown and reuseport to gracefully restart a go app.
+[GoGracefulReusePort](https://github.com/jensneuse/GoGracefulReusePort): This repo demonstrates the use of go 1.8 server.shutdown and reuseport to gracefully restart a go app.  
+[gohttpserver](https://github.com/codeskyblue/gohttpserver): The best HTTP Static File Server, write with golang+vue
