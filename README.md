@@ -1642,4 +1642,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rerr](https://github.com/i-erokhin/rerr): Golang helper for Gorilla JSON RPC 2.0. Common errors with codes and messages.  
 [GoGracefulReusePort](https://github.com/jensneuse/GoGracefulReusePort): This repo demonstrates the use of go 1.8 server.shutdown and reuseport to gracefully restart a go app.  
 [gohttpserver](https://github.com/codeskyblue/gohttpserver): The best HTTP Static File Server, write with golang+vue  
-[openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK
+[openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK  
+[mfsng](https://github.com/iand/mfsng): An implementation of Go's filesystem interface for the IPFS UnixFS format.
