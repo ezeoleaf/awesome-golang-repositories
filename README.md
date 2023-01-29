@@ -1643,4 +1643,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GoGracefulReusePort](https://github.com/jensneuse/GoGracefulReusePort): This repo demonstrates the use of go 1.8 server.shutdown and reuseport to gracefully restart a go app.  
 [gohttpserver](https://github.com/codeskyblue/gohttpserver): The best HTTP Static File Server, write with golang+vue  
 [openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK  
-[mfsng](https://github.com/iand/mfsng): An implementation of Go's filesystem interface for the IPFS UnixFS format.
+[mfsng](https://github.com/iand/mfsng): An implementation of Go's filesystem interface for the IPFS UnixFS format.  
+[ergo-lib-go](https://github.com/sigmaspace-io/ergo-lib-go): Go wrapper around C bindings for ErgoLib from sigma-rust
