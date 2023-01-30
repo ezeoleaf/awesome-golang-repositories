@@ -1645,4 +1645,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK  
 [mfsng](https://github.com/iand/mfsng): An implementation of Go's filesystem interface for the IPFS UnixFS format.  
 [ergo-lib-go](https://github.com/sigmaspace-io/ergo-lib-go): Go wrapper around C bindings for ErgoLib from sigma-rust  
-[FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source MongoDB alternative
+[FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source MongoDB alternative  
+[pifabric](https://github.com/blewater/pifabric): Sample temperature and humidity sensor readings with a smart contract (chaincode) to work with Raspberry-Pi4 utilizing Hyperledger Fabric Blockchain v1.4.4 on latest high performing Linux 64-bit ARM Kernel 5.3.0- ...
