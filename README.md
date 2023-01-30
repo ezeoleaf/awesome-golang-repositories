@@ -1644,4 +1644,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gohttpserver](https://github.com/codeskyblue/gohttpserver): The best HTTP Static File Server, write with golang+vue  
 [openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK  
 [mfsng](https://github.com/iand/mfsng): An implementation of Go's filesystem interface for the IPFS UnixFS format.  
-[ergo-lib-go](https://github.com/sigmaspace-io/ergo-lib-go): Go wrapper around C bindings for ErgoLib from sigma-rust
+[ergo-lib-go](https://github.com/sigmaspace-io/ergo-lib-go): Go wrapper around C bindings for ErgoLib from sigma-rust  
+[FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source MongoDB alternative
