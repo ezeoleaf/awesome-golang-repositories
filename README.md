@@ -1648,4 +1648,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source MongoDB alternative  
 [pifabric](https://github.com/blewater/pifabric): Sample temperature and humidity sensor readings with a smart contract (chaincode) to work with Raspberry-Pi4 utilizing Hyperledger Fabric Blockchain v1.4.4 on latest high performing Linux 64-bit ARM Kernel 5.3.0- ...  
 [chopper](https://github.com/mnafees/chopper): A CHIP-8 emulator written in Go with SDL  
-[xpm](https://github.com/xyproto/xpm): Encode images in the X PixMap (XPM3) image format
+[xpm](https://github.com/xyproto/xpm): Encode images in the X PixMap (XPM3) image format  
+[homework9](https://github.com/UofSC-Fall-2022-Math-587-001/homework9): B-smooth numbers, the quadratic sieve, and the number field sieve
