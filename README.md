@@ -1647,4 +1647,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ergo-lib-go](https://github.com/sigmaspace-io/ergo-lib-go): Go wrapper around C bindings for ErgoLib from sigma-rust  
 [FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source MongoDB alternative  
 [pifabric](https://github.com/blewater/pifabric): Sample temperature and humidity sensor readings with a smart contract (chaincode) to work with Raspberry-Pi4 utilizing Hyperledger Fabric Blockchain v1.4.4 on latest high performing Linux 64-bit ARM Kernel 5.3.0- ...  
-[chopper](https://github.com/mnafees/chopper): A CHIP-8 emulator written in Go with SDL
+[chopper](https://github.com/mnafees/chopper): A CHIP-8 emulator written in Go with SDL  
+[xpm](https://github.com/xyproto/xpm): Encode images in the X PixMap (XPM3) image format
