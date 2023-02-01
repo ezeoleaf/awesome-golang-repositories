@@ -1653,4 +1653,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [protoconfig](https://github.com/openproto/protoconfig): ProtoConfig 1.0: Open Standard for using, defining, and consuming software configuration input in a unified way.  
 [dockerfiles](https://github.com/Xe/dockerfiles): Assorted dockerfiles  
 [gofilego](https://github.com/steewbsd/gofilego): Golang library wrapper around Gofile.io's upload API  
-[murmur](https://github.com/vcaesar/murmur): Go Murmur3 hash implementation
+[murmur](https://github.com/vcaesar/murmur): Go Murmur3 hash implementation  
+[go-twitter-bot](https://github.com/billal-ayyoob/go-twitter-bot): This bot will send output or message to Twitter in the form of a tweet. I have used go-twitter. This is a Go client library for the Twitter API.
