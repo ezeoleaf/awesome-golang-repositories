@@ -1652,4 +1652,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [homework9](https://github.com/UofSC-Fall-2022-Math-587-001/homework9): B-smooth numbers, the quadratic sieve, and the number field sieve  
 [protoconfig](https://github.com/openproto/protoconfig): ProtoConfig 1.0: Open Standard for using, defining, and consuming software configuration input in a unified way.  
 [dockerfiles](https://github.com/Xe/dockerfiles): Assorted dockerfiles  
-[gofilego](https://github.com/steewbsd/gofilego): Golang library wrapper around Gofile.io's upload API
+[gofilego](https://github.com/steewbsd/gofilego): Golang library wrapper around Gofile.io's upload API  
+[murmur](https://github.com/vcaesar/murmur): Go Murmur3 hash implementation
