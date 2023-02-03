@@ -1655,4 +1655,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gofilego](https://github.com/steewbsd/gofilego): Golang library wrapper around Gofile.io's upload API  
 [murmur](https://github.com/vcaesar/murmur): Go Murmur3 hash implementation  
 [go-twitter-bot](https://github.com/billal-ayyoob/go-twitter-bot): This bot will send output or message to Twitter in the form of a tweet. I have used go-twitter. This is a Go client library for the Twitter API.  
-[picofeed](https://github.com/seenaburns/picofeed): A minimal terminal rss reader
+[picofeed](https://github.com/seenaburns/picofeed): A minimal terminal rss reader  
+[Learn-Go-from-Youtube](https://github.com/LebrancWorkshop/Learn-Go-from-Youtube): Learning Go(lang) from many resources in Youtube. (E.G. CMDev, Golang Dojo, The Net Ninja, TechWorld with Nana, freeCodeCamp). 
