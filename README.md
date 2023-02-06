@@ -1657,4 +1657,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-twitter-bot](https://github.com/billal-ayyoob/go-twitter-bot): This bot will send output or message to Twitter in the form of a tweet. I have used go-twitter. This is a Go client library for the Twitter API.  
 [picofeed](https://github.com/seenaburns/picofeed): A minimal terminal rss reader  
 [Learn-Go-from-Youtube](https://github.com/LebrancWorkshop/Learn-Go-from-Youtube): Learning Go(lang) from many resources in Youtube. (E.G. CMDev, Golang Dojo, The Net Ninja, TechWorld with Nana, freeCodeCamp).   
-[x-go-binding](https://github.com/0persianman/x-go-binding): google x-go-binding: x11 API for go lang
+[x-go-binding](https://github.com/0persianman/x-go-binding): google x-go-binding: x11 API for go lang  
+[retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023): Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.
