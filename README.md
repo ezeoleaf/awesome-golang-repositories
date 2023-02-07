@@ -1659,4 +1659,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Learn-Go-from-Youtube](https://github.com/LebrancWorkshop/Learn-Go-from-Youtube): Learning Go(lang) from many resources in Youtube. (E.G. CMDev, Golang Dojo, The Net Ninja, TechWorld with Nana, freeCodeCamp).   
 [x-go-binding](https://github.com/0persianman/x-go-binding): google x-go-binding: x11 API for go lang  
 [retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023): Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.  
-[resend-go](https://github.com/resendlabs/resend-go): resend's go sdk
+[resend-go](https://github.com/resendlabs/resend-go): resend's go sdk  
+[GoLangJourney](https://github.com/MyNameIsAres/GoLangJourney): A repository to show my journey as I learn the GoLang language and ecosystem. 
