@@ -1662,4 +1662,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [resend-go](https://github.com/resendlabs/resend-go): resend's go sdk  
 [GoLangJourney](https://github.com/MyNameIsAres/GoLangJourney): A repository to show my journey as I learn the GoLang language and ecosystem.   
 [idealingua-v1](https://github.com/7mind/idealingua-v1): IdeaLingua RPC for Scala, TypeScript, C#, Go  
-[topn](https://github.com/mxssl/topn): Go implementation of topn app that finds top N numbers in a file
+[topn](https://github.com/mxssl/topn): Go implementation of topn app that finds top N numbers in a file  
+[Algorithms-LeetCode](https://github.com/Perry961002/Algorithms-LeetCode): :art:I practiced some LeetCode's algorithm problems with C++, Java, Python and Go, and also implemented some classical algorithms.
