@@ -1661,4 +1661,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023): Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.  
 [resend-go](https://github.com/resendlabs/resend-go): resend's go sdk  
 [GoLangJourney](https://github.com/MyNameIsAres/GoLangJourney): A repository to show my journey as I learn the GoLang language and ecosystem.   
-[idealingua-v1](https://github.com/7mind/idealingua-v1): IdeaLingua RPC for Scala, TypeScript, C#, Go
+[idealingua-v1](https://github.com/7mind/idealingua-v1): IdeaLingua RPC for Scala, TypeScript, C#, Go  
+[topn](https://github.com/mxssl/topn): Go implementation of topn app that finds top N numbers in a file
