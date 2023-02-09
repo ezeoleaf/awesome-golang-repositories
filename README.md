@@ -1663,4 +1663,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GoLangJourney](https://github.com/MyNameIsAres/GoLangJourney): A repository to show my journey as I learn the GoLang language and ecosystem.   
 [idealingua-v1](https://github.com/7mind/idealingua-v1): IdeaLingua RPC for Scala, TypeScript, C#, Go  
 [topn](https://github.com/mxssl/topn): Go implementation of topn app that finds top N numbers in a file  
-[Algorithms-LeetCode](https://github.com/Perry961002/Algorithms-LeetCode): :art:I practiced some LeetCode's algorithm problems with C++, Java, Python and Go, and also implemented some classical algorithms.
+[Algorithms-LeetCode](https://github.com/Perry961002/Algorithms-LeetCode): :art:I practiced some LeetCode's algorithm problems with C++, Java, Python and Go, and also implemented some classical algorithms.  
+[fixtory](https://github.com/k-yomo/fixtory): Type-safe, DRY, flexible test fixture factory based on Go 1.18+ Generics
