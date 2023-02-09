@@ -1665,4 +1665,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [topn](https://github.com/mxssl/topn): Go implementation of topn app that finds top N numbers in a file  
 [Algorithms-LeetCode](https://github.com/Perry961002/Algorithms-LeetCode): :art:I practiced some LeetCode's algorithm problems with C++, Java, Python and Go, and also implemented some classical algorithms.  
 [fixtory](https://github.com/k-yomo/fixtory): Type-safe, DRY, flexible test fixture factory based on Go 1.18+ Generics  
-[gin-api-boilerplate](https://github.com/ihahoo/gin-api-boilerplate): A Go RESTful API server with gin and docker
+[gin-api-boilerplate](https://github.com/ihahoo/gin-api-boilerplate): A Go RESTful API server with gin and docker  
+[artvu-ansi-gallery](https://github.com/robbiew/artvu-ansi-gallery): ANSI art viewer for old-skool, and new-school, BBSs (like Mystic, Talisman, WWiV, ENiGMA 1/2, etc.). Supports 80 and 132 terminal widths.
