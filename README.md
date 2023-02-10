@@ -1666,4 +1666,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Algorithms-LeetCode](https://github.com/Perry961002/Algorithms-LeetCode): :art:I practiced some LeetCode's algorithm problems with C++, Java, Python and Go, and also implemented some classical algorithms.  
 [fixtory](https://github.com/k-yomo/fixtory): Type-safe, DRY, flexible test fixture factory based on Go 1.18+ Generics  
 [gin-api-boilerplate](https://github.com/ihahoo/gin-api-boilerplate): A Go RESTful API server with gin and docker  
-[artvu-ansi-gallery](https://github.com/robbiew/artvu-ansi-gallery): ANSI art viewer for old-skool, and new-school, BBSs (like Mystic, Talisman, WWiV, ENiGMA 1/2, etc.). Supports 80 and 132 terminal widths.
+[artvu-ansi-gallery](https://github.com/robbiew/artvu-ansi-gallery): ANSI art viewer for old-skool, and new-school, BBSs (like Mystic, Talisman, WWiV, ENiGMA 1/2, etc.). Supports 80 and 132 terminal widths.  
+[go-rate-limiter](https://github.com/donatorsky/go-rate-limiter): A Go's rate limiting package for asynchronous jobs.
