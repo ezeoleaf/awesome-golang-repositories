@@ -1668,4 +1668,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gin-api-boilerplate](https://github.com/ihahoo/gin-api-boilerplate): A Go RESTful API server with gin and docker  
 [artvu-ansi-gallery](https://github.com/robbiew/artvu-ansi-gallery): ANSI art viewer for old-skool, and new-school, BBSs (like Mystic, Talisman, WWiV, ENiGMA 1/2, etc.). Supports 80 and 132 terminal widths.  
 [go-rate-limiter](https://github.com/donatorsky/go-rate-limiter): A Go's rate limiting package for asynchronous jobs.  
-[awesome-latam](https://github.com/gophers-latam/awesome-latam): Colección de contenidos y recursos en Español para desarrolladores de Golang. Awesome oficial: https://awesome-go.com
+[awesome-latam](https://github.com/gophers-latam/awesome-latam): Colección de contenidos y recursos en Español para desarrolladores de Golang. Awesome oficial: https://awesome-go.com  
+[wordsmith](https://github.com/thenoakes/wordsmith): A little project which I nicked from a tutorial as I wanted to try doing something in three different languages to compare them
