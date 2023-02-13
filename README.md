@@ -1672,4 +1672,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wordsmith](https://github.com/thenoakes/wordsmith): A little project which I nicked from a tutorial as I wanted to try doing something in three different languages to compare them  
 [samil](https://github.com/mhvis/samil): Go library and command-line interface for Samil Power inverters (SolarRiver TD, TL-D and SolarLake TL series)  
 [cwrap](https://github.com/h12w/cwrap): Wraps C libraries in Go.  
-[go_call_cxx_so](https://github.com/kbehouse/go_call_cxx_so): golang call c++ shared library(.so)
+[go_call_cxx_so](https://github.com/kbehouse/go_call_cxx_so): golang call c++ shared library(.so)  
+[discordo](https://github.com/ayn2op/discordo): A lightweight, secure, and feature-rich Discord terminal client
