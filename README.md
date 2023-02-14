@@ -1675,4 +1675,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go_call_cxx_so](https://github.com/kbehouse/go_call_cxx_so): golang call c++ shared library(.so)  
 [discordo](https://github.com/ayn2op/discordo): A lightweight, secure, and feature-rich Discord terminal client  
 [aws-xray-yasdk-go](https://github.com/shogo82148/aws-xray-yasdk-go): Yet Another AWS X-Ray SDK for Go  
-[Go-API_Rest](https://github.com/amndalsr/Go-API_Rest): Implementação para o projeto da disciplina de Redes de Computadores II 
+[Go-API_Rest](https://github.com/amndalsr/Go-API_Rest): Implementação para o projeto da disciplina de Redes de Computadores II   
+[go-rest-api-example](https://github.com/tompston/go-rest-api-example): Full-stack example, using JWT, SQLC, Cursor Pagination, Vue 3 and Tailwind
