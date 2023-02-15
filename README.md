@@ -1676,4 +1676,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [discordo](https://github.com/ayn2op/discordo): A lightweight, secure, and feature-rich Discord terminal client  
 [aws-xray-yasdk-go](https://github.com/shogo82148/aws-xray-yasdk-go): Yet Another AWS X-Ray SDK for Go  
 [Go-API_Rest](https://github.com/amndalsr/Go-API_Rest): Implementação para o projeto da disciplina de Redes de Computadores II   
-[go-rest-api-example](https://github.com/tompston/go-rest-api-example): Full-stack example, using JWT, SQLC, Cursor Pagination, Vue 3 and Tailwind
+[go-rest-api-example](https://github.com/tompston/go-rest-api-example): Full-stack example, using JWT, SQLC, Cursor Pagination, Vue 3 and Tailwind  
+[work-flow-go-23](https://github.com/ARLY-LC-JUNIOR/work-flow-go-23): Criar, desenvolver, aprender e compartilhar em linguagem GO Repositório com intuição de poder contribuir, destacar evolução em aprendizados do dia a dia e fluidez a um work-flow-go
