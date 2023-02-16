@@ -1679,4 +1679,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-rest-api-example](https://github.com/tompston/go-rest-api-example): Full-stack example, using JWT, SQLC, Cursor Pagination, Vue 3 and Tailwind  
 [work-flow-go-23](https://github.com/ARLY-LC-JUNIOR/work-flow-go-23): Criar, desenvolver, aprender e compartilhar em linguagem GO Repositório com intuição de poder contribuir, destacar evolução em aprendizados do dia a dia e fluidez a um work-flow-go  
 [coraza](https://github.com/corazawaf/coraza): OWASP Coraza WAF is a golang modsecurity compatible web application firewall library  
-[moonquakes](https://github.com/sunquakes/moonquakes): A demo that Java/PHP/Golang intercommunicate comply with jsonrpc2.0 protocol.
+[moonquakes](https://github.com/sunquakes/moonquakes): A demo that Java/PHP/Golang intercommunicate comply with jsonrpc2.0 protocol.  
+[vic2-multi-proxy](https://github.com/alejzeis/vic2-multi-proxy): A proxy server/client tool for easily playing Victoria 2 multiplayer games with friends
