@@ -1682,4 +1682,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [moonquakes](https://github.com/sunquakes/moonquakes): A demo that Java/PHP/Golang intercommunicate comply with jsonrpc2.0 protocol.  
 [vic2-multi-proxy](https://github.com/alejzeis/vic2-multi-proxy): A proxy server/client tool for easily playing Victoria 2 multiplayer games with friends  
 [advent-of-code-2020](https://github.com/jansvabik/advent-of-code-2020): Scripts and utils I made for the Advent of code 2020 (an advent calendar which is accessible on https://adventofcode.com/2020/). Merry Christmas to all of you!  
-[zincsearch](https://github.com/zinclabs/zincsearch): ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+[zincsearch](https://github.com/zinclabs/zincsearch): ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.  
+[weather-predictor-go](https://github.com/cedv1990/weather-predictor-go): Ejercicio de arquitectura y desarrollo de software orientado a resolver la necesidad de calcular predicciones climáticas de 10 años.
