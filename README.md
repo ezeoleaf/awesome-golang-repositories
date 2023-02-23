@@ -1689,4 +1689,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [GoWebDAV](https://github.com/117503445/GoWebDAV): a lightweight, easy-to-use WebDAV server  
 [rv2llvmSBT](https://github.com/d901203/rv2llvmSBT): Static Binary Translator RISC-V to LLVM IR  
 [amt](https://github.com/wdamron/amt): Hash Array Mapped Trie (HAMT) implemented in Go (1.18+ generics)  
-[TodayBing](https://github.com/seymourtang/TodayBing): Todaybing API repository.Get the beautiful pictures of the last 7 days from Bing.Have fun:)
+[TodayBing](https://github.com/seymourtang/TodayBing): Todaybing API repository.Get the beautiful pictures of the last 7 days from Bing.Have fun:)  
+[gocrafty](https://github.com/szerookii/gocrafty): An attempt at making a Minecraft 1.8.9 server software written in Go.
