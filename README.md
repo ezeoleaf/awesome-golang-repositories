@@ -1692,4 +1692,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [TodayBing](https://github.com/seymourtang/TodayBing): Todaybing API repository.Get the beautiful pictures of the last 7 days from Bing.Have fun:)  
 [gocrafty](https://github.com/szerookii/gocrafty): An attempt at making a Minecraft 1.8.9 server software written in Go.  
 [goneovim](https://github.com/akiyosi/goneovim): A GUI frontend for neovim.  
-[svix-webhooks](https://github.com/svix/svix-webhooks): The enterprise-ready webhooks service 🦀
+[svix-webhooks](https://github.com/svix/svix-webhooks): The enterprise-ready webhooks service 🦀  
+[myapp](https://github.com/learning-cloud-native-go/myapp): 🚀 How to build a Dockerized RESTful API application using Go.
