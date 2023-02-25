@@ -1691,4 +1691,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [amt](https://github.com/wdamron/amt): Hash Array Mapped Trie (HAMT) implemented in Go (1.18+ generics)  
 [TodayBing](https://github.com/seymourtang/TodayBing): Todaybing API repository.Get the beautiful pictures of the last 7 days from Bing.Have fun:)  
 [gocrafty](https://github.com/szerookii/gocrafty): An attempt at making a Minecraft 1.8.9 server software written in Go.  
-[goneovim](https://github.com/akiyosi/goneovim): A GUI frontend for neovim.
+[goneovim](https://github.com/akiyosi/goneovim): A GUI frontend for neovim.  
+[svix-webhooks](https://github.com/svix/svix-webhooks): The enterprise-ready webhooks service 🦀
