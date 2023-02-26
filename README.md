@@ -1693,4 +1693,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gocrafty](https://github.com/szerookii/gocrafty): An attempt at making a Minecraft 1.8.9 server software written in Go.  
 [goneovim](https://github.com/akiyosi/goneovim): A GUI frontend for neovim.  
 [svix-webhooks](https://github.com/svix/svix-webhooks): The enterprise-ready webhooks service 🦀  
-[myapp](https://github.com/learning-cloud-native-go/myapp): 🚀 How to build a Dockerized RESTful API application using Go.
+[myapp](https://github.com/learning-cloud-native-go/myapp): 🚀 How to build a Dockerized RESTful API application using Go.  
+[opennative](https://github.com/geniusrabbit/opennative): Golang library of OpenNative 1.x protocol
