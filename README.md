@@ -1696,4 +1696,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [myapp](https://github.com/learning-cloud-native-go/myapp): 🚀 How to build a Dockerized RESTful API application using Go.  
 [opennative](https://github.com/geniusrabbit/opennative): Golang library of OpenNative 1.x protocol  
 [glc](https://github.com/sshaw/glc): The GitHub Link Checker. Monitor GitHub activity for links that aren't permanent, and do something.  
-[eShop](https://github.com/charly3pins/eShop): [WIP]   E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go
+[eShop](https://github.com/charly3pins/eShop): [WIP]   E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go  
+[sorting-algorithms_Golang](https://github.com/DevLucasOliveira/sorting-algorithms_Golang): Algoritmos de ordenação (Bubble e Insertion)
