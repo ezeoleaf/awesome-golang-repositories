@@ -1701,4 +1701,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [triviago](https://github.com/gugadev/triviago): Juego Trivia escrito en Go y Vue 🔥  
 [fly-old](https://github.com/kapmahc/fly-old): A complete open source e-commerce solution for the Go language(STILL IN DEVELOPMENT).  
 [dbmate](https://github.com/amacneil/dbmate): :rocket: A lightweight, framework-agnostic database migration tool.  
-[lem-in](https://github.com/Sarmerer/lem-in): Go program that implements max flow and Dijkstra's algorithms to find the fastest way to move N amount of ants from the room A to the room B aka solve ants colony optimization problem
+[lem-in](https://github.com/Sarmerer/lem-in): Go program that implements max flow and Dijkstra's algorithms to find the fastest way to move N amount of ants from the room A to the room B aka solve ants colony optimization problem  
+[tour-of-dapr](https://github.com/abhirockzz/tour-of-dapr): Resources for "A Tour of Dapr"
