@@ -1703,4 +1703,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dbmate](https://github.com/amacneil/dbmate): :rocket: A lightweight, framework-agnostic database migration tool.  
 [lem-in](https://github.com/Sarmerer/lem-in): Go program that implements max flow and Dijkstra's algorithms to find the fastest way to move N amount of ants from the room A to the room B aka solve ants colony optimization problem  
 [tour-of-dapr](https://github.com/abhirockzz/tour-of-dapr): Resources for "A Tour of Dapr"  
-[variance](https://github.com/axiomhq/variance): Go implementation of variance's method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.
+[variance](https://github.com/axiomhq/variance): Go implementation of variance's method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.  
+[cupcake-core](https://github.com/Ismael-Romero/cupcake-core): Cupcake Core es el empaquetado de software que brinda servicios de comunicación y transferencia de datos entre los clientes que hacen uso de la Suite de Cupcake.
