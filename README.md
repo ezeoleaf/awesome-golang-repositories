@@ -1705,4 +1705,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tour-of-dapr](https://github.com/abhirockzz/tour-of-dapr): Resources for "A Tour of Dapr"  
 [variance](https://github.com/axiomhq/variance): Go implementation of variance's method for one-pass variance computation with D. H. D. West improved methods which features merging of several multiple sets of statistics and adding weighted values.  
 [cupcake-core](https://github.com/Ismael-Romero/cupcake-core): Cupcake Core es el empaquetado de software que brinda servicios de comunicación y transferencia de datos entre los clientes que hacen uso de la Suite de Cupcake.  
-[osx-builder](https://github.com/c4milo/osx-builder): It spins up virtual machines using VMware Fusion or Workstation, for Go's continuous integration and testing in OS X.
+[osx-builder](https://github.com/c4milo/osx-builder): It spins up virtual machines using VMware Fusion or Workstation, for Go's continuous integration and testing in OS X.  
+[strife](https://github.com/felixangell/strife): a simple 2d game framework
