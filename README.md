@@ -1707,4 +1707,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [cupcake-core](https://github.com/Ismael-Romero/cupcake-core): Cupcake Core es el empaquetado de software que brinda servicios de comunicación y transferencia de datos entre los clientes que hacen uso de la Suite de Cupcake.  
 [osx-builder](https://github.com/c4milo/osx-builder): It spins up virtual machines using VMware Fusion or Workstation, for Go's continuous integration and testing in OS X.  
 [strife](https://github.com/felixangell/strife): a simple 2d game framework  
-[ddns](https://github.com/pboehm/ddns): A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP
+[ddns](https://github.com/pboehm/ddns): A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP  
+[doberman](https://github.com/backsoul/doberman): doberman:D
