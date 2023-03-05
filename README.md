@@ -1711,4 +1711,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [doberman](https://github.com/backsoul/doberman): doberman:D  
 [chord](https://github.com/arriqaaq/chord): Implementation of Chord DHT(Distributed Hash Table) paper  
 [Chyp8](https://github.com/beanboi7/Chyp8): A chip-8 emulator built with Go  
-[lmdb-go](https://github.com/bmatsuo/lmdb-go): Bindings for the LMDB C library
+[lmdb-go](https://github.com/bmatsuo/lmdb-go): Bindings for the LMDB C library  
+[go-pin-code](https://github.com/apptimedev/go-pin-code): 6-digit pin code generator for Golang.
