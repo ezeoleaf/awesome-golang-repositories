@@ -1709,4 +1709,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [strife](https://github.com/felixangell/strife): a simple 2d game framework  
 [ddns](https://github.com/pboehm/ddns): A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP  
 [doberman](https://github.com/backsoul/doberman): doberman:D  
-[chord](https://github.com/arriqaaq/chord): Implementation of Chord DHT(Distributed Hash Table) paper
+[chord](https://github.com/arriqaaq/chord): Implementation of Chord DHT(Distributed Hash Table) paper  
+[Chyp8](https://github.com/beanboi7/Chyp8): A chip-8 emulator built with Go
