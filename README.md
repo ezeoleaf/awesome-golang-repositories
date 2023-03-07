@@ -1714,4 +1714,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [lmdb-go](https://github.com/bmatsuo/lmdb-go): Bindings for the LMDB C library  
 [go-pin-code](https://github.com/apptimedev/go-pin-code): 6-digit pin code generator for Golang.  
 [golang-tutorial](https://github.com/fikrianggara/golang-tutorial): repo to learn and explore golang. I'm using novalagung excellent golang materials  
-[fullcycle-arquitetura-hexagonal](https://github.com/moreirak14/fullcycle-arquitetura-hexagonal): Demonstrar o principio da arquitetura hexagonal.
+[fullcycle-arquitetura-hexagonal](https://github.com/moreirak14/fullcycle-arquitetura-hexagonal): Demonstrar o principio da arquitetura hexagonal.  
+[tycoon](https://github.com/digimortl/tycoon): Exercise 3 of Transport Tycoon Exercises for DDD
