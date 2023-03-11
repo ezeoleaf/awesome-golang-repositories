@@ -1717,4 +1717,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fullcycle-arquitetura-hexagonal](https://github.com/moreirak14/fullcycle-arquitetura-hexagonal): Demonstrar o principio da arquitetura hexagonal.  
 [tycoon](https://github.com/digimortl/tycoon): Exercise 3 of Transport Tycoon Exercises for DDD  
 [docker-golang](https://github.com/pilagod/docker-golang): Pull from https://hub.docker.com/r/pilagod/golang  
-[central-park](https://github.com/ianadiwibowo/central-park): Ian's competitive programming scratch book
+[central-park](https://github.com/ianadiwibowo/central-park): Ian's competitive programming scratch book  
+[DevWeekly](https://github.com/Jackpopc/DevWeekly): 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
