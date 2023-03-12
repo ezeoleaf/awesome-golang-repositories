@@ -1719,4 +1719,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [docker-golang](https://github.com/pilagod/docker-golang): Pull from https://hub.docker.com/r/pilagod/golang  
 [central-park](https://github.com/ianadiwibowo/central-park): Ian's competitive programming scratch book  
 [DevWeekly](https://github.com/Jackpopc/DevWeekly): 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。  
-[ElasticView](https://github.com/1340691923/ElasticView): 这是一个简单好用的ElasticSearch可视化客户端，支持连接6，7，8版本的ES，不妨一试
+[ElasticView](https://github.com/1340691923/ElasticView): 这是一个简单好用的ElasticSearch可视化客户端，支持连接6，7，8版本的ES，不妨一试  
+[Go_Concurrency_Patterns_2012](https://github.com/drgrib/Go_Concurrency_Patterns_2012): Ordered, complete, and sometimes enhanced versions of code from Rob Pike's 2012 talk
