@@ -1724,4 +1724,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dbresolver](https://github.com/bxcodec/dbresolver): Golang Database Resolver and Wrapper for any multiple database connections topology, e.g. master-slave replication database, cross-region application, and for separated ReadWrite (RW) and Rea ...  
 [Go-Concurrency](https://github.com/CodePrometheus/Go-Concurrency): Go 并发编程，同步原语，MIT 6.824   
 [easeprobe](https://github.com/megaease/easeprobe): A simple, standalone, and lightweight tool that can do health/status checking, written in Go.  
-[gmtls](https://github.com/tjfoc/gmtls): GM TLS/SSL Based on Golang (基于国密算法的TLS/SSL代码库)
+[gmtls](https://github.com/tjfoc/gmtls): GM TLS/SSL Based on Golang (基于国密算法的TLS/SSL代码库)  
+[go-shortener](https://github.com/razanfawwaz/go-shortener): A URL shortener service written in Go. This service is a part of the Mini Project Alta Kampus Merdeka Batch 3.
