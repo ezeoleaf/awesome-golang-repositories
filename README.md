@@ -1725,4 +1725,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [Go-Concurrency](https://github.com/CodePrometheus/Go-Concurrency): Go 并发编程，同步原语，MIT 6.824   
 [easeprobe](https://github.com/megaease/easeprobe): A simple, standalone, and lightweight tool that can do health/status checking, written in Go.  
 [gmtls](https://github.com/tjfoc/gmtls): GM TLS/SSL Based on Golang (基于国密算法的TLS/SSL代码库)  
-[go-shortener](https://github.com/razanfawwaz/go-shortener): A URL shortener service written in Go. This service is a part of the Mini Project Alta Kampus Merdeka Batch 3.
+[go-shortener](https://github.com/razanfawwaz/go-shortener): A URL shortener service written in Go. This service is a part of the Mini Project Alta Kampus Merdeka Batch 3.  
+[golang-for-csharp-developers](https://github.com/sravimohan/golang-for-csharp-developers): This is the accompanying code for "Golang for C# Developers" series in my YouTube channel
