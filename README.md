@@ -1727,4 +1727,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gmtls](https://github.com/tjfoc/gmtls): GM TLS/SSL Based on Golang (基于国密算法的TLS/SSL代码库)  
 [go-shortener](https://github.com/razanfawwaz/go-shortener): A URL shortener service written in Go. This service is a part of the Mini Project Alta Kampus Merdeka Batch 3.  
 [golang-for-csharp-developers](https://github.com/sravimohan/golang-for-csharp-developers): This is the accompanying code for "Golang for C# Developers" series in my YouTube channel  
-[totoval](https://github.com/totoval/totoval): An out-of-the-box artisan API web-framework written in go.
+[totoval](https://github.com/totoval/totoval): An out-of-the-box artisan API web-framework written in go.  
+[godotenv](https://github.com/joho/godotenv): A Go port of Ruby's dotenv library (Loads environment variables from .env files)
