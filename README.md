@@ -1731,4 +1731,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [godotenv](https://github.com/joho/godotenv): A Go port of Ruby's dotenv library (Loads environment variables from .env files)  
 [go-ibft](https://github.com/madz-lab/go-ibft): A minimal and compact IBFT 2.0 implementation, written in Go. Maintained by the original authors.  
 [go-monero](https://github.com/gabstv/go-monero): A Monero RPC Wallet client implementation written in Go (Golang)  
-[seata-go](https://github.com/seata/seata-go): Go Implementation For Seata
+[seata-go](https://github.com/seata/seata-go): Go Implementation For Seata  
+[chalmers-chop](https://github.com/kayex/chalmers-chop): Menu scraper for restaurants near Chalmer's University.
