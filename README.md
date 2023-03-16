@@ -1729,4 +1729,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-for-csharp-developers](https://github.com/sravimohan/golang-for-csharp-developers): This is the accompanying code for "Golang for C# Developers" series in my YouTube channel  
 [totoval](https://github.com/totoval/totoval): An out-of-the-box artisan API web-framework written in go.  
 [godotenv](https://github.com/joho/godotenv): A Go port of Ruby's dotenv library (Loads environment variables from .env files)  
-[go-ibft](https://github.com/madz-lab/go-ibft): A minimal and compact IBFT 2.0 implementation, written in Go. Maintained by the original authors.
+[go-ibft](https://github.com/madz-lab/go-ibft): A minimal and compact IBFT 2.0 implementation, written in Go. Maintained by the original authors.  
+[go-monero](https://github.com/gabstv/go-monero): A Monero RPC Wallet client implementation written in Go (Golang)
