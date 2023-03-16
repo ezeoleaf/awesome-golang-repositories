@@ -1730,4 +1730,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [totoval](https://github.com/totoval/totoval): An out-of-the-box artisan API web-framework written in go.  
 [godotenv](https://github.com/joho/godotenv): A Go port of Ruby's dotenv library (Loads environment variables from .env files)  
 [go-ibft](https://github.com/madz-lab/go-ibft): A minimal and compact IBFT 2.0 implementation, written in Go. Maintained by the original authors.  
-[go-monero](https://github.com/gabstv/go-monero): A Monero RPC Wallet client implementation written in Go (Golang)
+[go-monero](https://github.com/gabstv/go-monero): A Monero RPC Wallet client implementation written in Go (Golang)  
+[seata-go](https://github.com/seata/seata-go): Go Implementation For Seata
