@@ -1732,4 +1732,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-ibft](https://github.com/madz-lab/go-ibft): A minimal and compact IBFT 2.0 implementation, written in Go. Maintained by the original authors.  
 [go-monero](https://github.com/gabstv/go-monero): A Monero RPC Wallet client implementation written in Go (Golang)  
 [seata-go](https://github.com/seata/seata-go): Go Implementation For Seata  
-[chalmers-chop](https://github.com/kayex/chalmers-chop): Menu scraper for restaurants near Chalmer's University.
+[chalmers-chop](https://github.com/kayex/chalmers-chop): Menu scraper for restaurants near Chalmer's University.  
+[vscode-ac-ts-extension](https://github.com/taizod1024/vscode-ac-ts-extension): atcoder/yukicoder vscode extension for c/c++/java/python/go/javascript/typescript
