@@ -1736,4 +1736,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vscode-ac-ts-extension](https://github.com/taizod1024/vscode-ac-ts-extension): atcoder/yukicoder vscode extension for c/c++/java/python/go/javascript/typescript  
 [flipt](https://github.com/flipt-io/flipt): An open source, self-hosted feature flag solution  
 [bucketeer](https://github.com/bucketeer-io/bucketeer): Feature Flag Management and A/B Testing platform  
-[flick](https://github.com/nishk5/flick): flick is a cli-tool written in Go for generating boiler-plate code for Web Scraping projects.  I'm beginning with Python boiler-plates and would love to extend it to Go and Rust in a while with idiomatic paradigm of thos ...
+[flick](https://github.com/nishk5/flick): flick is a cli-tool written in Go for generating boiler-plate code for Web Scraping projects.  I'm beginning with Python boiler-plates and would love to extend it to Go and Rust in a while with idiomatic paradigm of thos ...  
+[veryfi-go](https://github.com/veryfi/veryfi-go): Go module for communicating with the Veryfi OCR API. || watch: https://www.youtube.com/watch?v=HK-7lvY5J9E read: https://www.veryfi.com/go/
