@@ -1739,4 +1739,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [flick](https://github.com/nishk5/flick): flick is a cli-tool written in Go for generating boiler-plate code for Web Scraping projects.  I'm beginning with Python boiler-plates and would love to extend it to Go and Rust in a while with idiomatic paradigm of thos ...  
 [veryfi-go](https://github.com/veryfi/veryfi-go): Go module for communicating with the Veryfi OCR API. || watch: https://www.youtube.com/watch?v=HK-7lvY5J9E read: https://www.veryfi.com/go/  
 [golang-tutorials](https://github.com/alexandregama/golang-tutorials): Go Tutorials - Let's get our hands really dirty by writing a lot of Golang code  
-[amqpx](https://github.com/itcomusic/amqpx): An AMQP 0.9.1 Go client
+[amqpx](https://github.com/itcomusic/amqpx): An AMQP 0.9.1 Go client  
+[leetcode-solutions](https://github.com/madjiebimaa/leetcode-solutions): Solutions source code I've made to track my Leetcode solving journey.
