@@ -1742,4 +1742,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [amqpx](https://github.com/itcomusic/amqpx): An AMQP 0.9.1 Go client  
 [leetcode-solutions](https://github.com/madjiebimaa/leetcode-solutions): Solutions source code I've made to track my Leetcode solving journey.  
 [slava](https://github.com/luqinwen/slava): A High-performance、K-V Cloud Database.  
-[financial](https://github.com/SmokingTheGoaT/financial):  Translation of the following F# library, which include excel finance operations, into Go -> https://github.com/fsprojects/ExcelFinancialFunctions
+[financial](https://github.com/SmokingTheGoaT/financial):  Translation of the following F# library, which include excel finance operations, into Go -> https://github.com/fsprojects/ExcelFinancialFunctions  
+[viacep](https://github.com/cewitte/viacep): Biblioteca Go/Golang para obter o endereço através do CEP utilizando o web service da ViaCEP.
