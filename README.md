@@ -1741,4 +1741,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-tutorials](https://github.com/alexandregama/golang-tutorials): Go Tutorials - Let's get our hands really dirty by writing a lot of Golang code  
 [amqpx](https://github.com/itcomusic/amqpx): An AMQP 0.9.1 Go client  
 [leetcode-solutions](https://github.com/madjiebimaa/leetcode-solutions): Solutions source code I've made to track my Leetcode solving journey.  
-[slava](https://github.com/luqinwen/slava): A High-performance、K-V Cloud Database.
+[slava](https://github.com/luqinwen/slava): A High-performance、K-V Cloud Database.  
+[financial](https://github.com/SmokingTheGoaT/financial):  Translation of the following F# library, which include excel finance operations, into Go -> https://github.com/fsprojects/ExcelFinancialFunctions
