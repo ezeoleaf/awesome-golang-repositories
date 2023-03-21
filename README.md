@@ -1743,4 +1743,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [leetcode-solutions](https://github.com/madjiebimaa/leetcode-solutions): Solutions source code I've made to track my Leetcode solving journey.  
 [slava](https://github.com/luqinwen/slava): A High-performance、K-V Cloud Database.  
 [financial](https://github.com/SmokingTheGoaT/financial):  Translation of the following F# library, which include excel finance operations, into Go -> https://github.com/fsprojects/ExcelFinancialFunctions  
-[viacep](https://github.com/cewitte/viacep): Biblioteca Go/Golang para obter o endereço através do CEP utilizando o web service da ViaCEP.
+[viacep](https://github.com/cewitte/viacep): Biblioteca Go/Golang para obter o endereço através do CEP utilizando o web service da ViaCEP.  
+[go.nvim](https://github.com/ray-x/go.nvim): Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
