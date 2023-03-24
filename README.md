@@ -1746,4 +1746,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [viacep](https://github.com/cewitte/viacep): Biblioteca Go/Golang para obter o endereço através do CEP utilizando o web service da ViaCEP.  
 [go.nvim](https://github.com/ray-x/go.nvim): Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.  
 [ipatool](https://github.com/majd/ipatool): Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store  
-[go-react-todos](https://github.com/garbalau-github/go-react-todos): This is a full-stack Go, React todo application. I've made it with help of Go's Fiber web framework, React with Vite on client, TS, swr and UI library
+[go-react-todos](https://github.com/garbalau-github/go-react-todos): This is a full-stack Go, React todo application. I've made it with help of Go's Fiber web framework, React with Vite on client, TS, swr and UI library  
+[hashtagCatcher](https://github.com/DazFather/hashtagCatcher): Telegram bot for catching the most trending hashtags on a group, written in Go and powerade by Parr(B)ot framework
