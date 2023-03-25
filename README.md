@@ -1750,4 +1750,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [hashtagCatcher](https://github.com/DazFather/hashtagCatcher): Telegram bot for catching the most trending hashtags on a group, written in Go and powerade by Parr(B)ot framework  
 [godog_test](https://github.com/ManQuiche/godog_test): Nothing serious here, it's only a test project to play around Godog  
 [go4noobs](https://github.com/rafaelbreno/go4noobs): My progress studying Golang  
-[datbox](https://github.com/czechbol/datbox): Převod Otevřených dat ze seznamu Datových schránek z XML na jiné formáty
+[datbox](https://github.com/czechbol/datbox): Převod Otevřených dat ze seznamu Datových schránek z XML na jiné formáty  
+[gojsonrpc](https://github.com/kosmas-valianos/gojsonrpc): A minimalistic JSON-RPC 2.0 package
