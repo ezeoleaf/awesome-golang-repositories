@@ -1751,4 +1751,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [godog_test](https://github.com/ManQuiche/godog_test): Nothing serious here, it's only a test project to play around Godog  
 [go4noobs](https://github.com/rafaelbreno/go4noobs): My progress studying Golang  
 [datbox](https://github.com/czechbol/datbox): Převod Otevřených dat ze seznamu Datových schránek z XML na jiné formáty  
-[gojsonrpc](https://github.com/kosmas-valianos/gojsonrpc): A minimalistic JSON-RPC 2.0 package
+[gojsonrpc](https://github.com/kosmas-valianos/gojsonrpc): A minimalistic JSON-RPC 2.0 package  
+[kenny-u-pull-go-sdk](https://github.com/jdboisvert/kenny-u-pull-go-sdk): A Collection of useful Go functions and utilities to interact with Kenny U-Pull's API.
