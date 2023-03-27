@@ -1753,4 +1753,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [datbox](https://github.com/czechbol/datbox): Převod Otevřených dat ze seznamu Datových schránek z XML na jiné formáty  
 [gojsonrpc](https://github.com/kosmas-valianos/gojsonrpc): A minimalistic JSON-RPC 2.0 package  
 [kenny-u-pull-go-sdk](https://github.com/jdboisvert/kenny-u-pull-go-sdk): A Collection of useful Go functions and utilities to interact with Kenny U-Pull's API.  
-[ecommerce-api](https://github.com/paw1a/ecommerce-api): Rest api of e-commerce web application
+[ecommerce-api](https://github.com/paw1a/ecommerce-api): Rest api of e-commerce web application  
+[shadiaosocketio](https://github.com/Baiguoshuai1/shadiaosocketio): A simple Go SocketIO and support for protocol 3 and protocol 4!
