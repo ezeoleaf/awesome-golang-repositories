@@ -1755,4 +1755,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [kenny-u-pull-go-sdk](https://github.com/jdboisvert/kenny-u-pull-go-sdk): A Collection of useful Go functions and utilities to interact with Kenny U-Pull's API.  
 [ecommerce-api](https://github.com/paw1a/ecommerce-api): Rest api of e-commerce web application  
 [shadiaosocketio](https://github.com/Baiguoshuai1/shadiaosocketio): A simple Go SocketIO and support for protocol 3 and protocol 4!  
-[Gosture](https://github.com/ayuanx/Gosture): Gosture is a Linux X Window system productivity tool, written in Go language. Gosture implements system-wide customizable mouse gestures as well as keyboard shortcuts. 
+[Gosture](https://github.com/ayuanx/Gosture): Gosture is a Linux X Window system productivity tool, written in Go language. Gosture implements system-wide customizable mouse gestures as well as keyboard shortcuts.   
+[odigos](https://github.com/keyval-dev/odigos): Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data
