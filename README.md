@@ -1757,4 +1757,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [shadiaosocketio](https://github.com/Baiguoshuai1/shadiaosocketio): A simple Go SocketIO and support for protocol 3 and protocol 4!  
 [Gosture](https://github.com/ayuanx/Gosture): Gosture is a Linux X Window system productivity tool, written in Go language. Gosture implements system-wide customizable mouse gestures as well as keyboard shortcuts.   
 [odigos](https://github.com/keyval-dev/odigos): Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data  
-[pgstore](https://github.com/antonlindstrom/pgstore): A Postgres session store backend for gorilla/sessions
+[pgstore](https://github.com/antonlindstrom/pgstore): A Postgres session store backend for gorilla/sessions  
+[dr_quine](https://github.com/keuhdall/dr_quine): Very simple quine project made in C and Go
