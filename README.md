@@ -1759,4 +1759,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [odigos](https://github.com/keyval-dev/odigos): Instant distributed traces without code changes. 🚀 Boost existing monitoring tools with higher-quality data  
 [pgstore](https://github.com/antonlindstrom/pgstore): A Postgres session store backend for gorilla/sessions  
 [dr_quine](https://github.com/keuhdall/dr_quine): Very simple quine project made in C and Go  
-[go-parkhub-logger](https://github.com/parkhub/go-parkhub-logger): This package provides a singular interface to create logs as well as filtering them out based on level. It also provides two types of formatting json, pretty. This logger doesn't ship any logs.
+[go-parkhub-logger](https://github.com/parkhub/go-parkhub-logger): This package provides a singular interface to create logs as well as filtering them out based on level. It also provides two types of formatting json, pretty. This logger doesn't ship any logs.  
+[pcisio-backend-demo](https://github.com/KeisukeYamashita/pcisio-backend-demo): 技術書展7 Pcisio バックエンド編 サンプル
