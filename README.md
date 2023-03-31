@@ -1761,4 +1761,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [dr_quine](https://github.com/keuhdall/dr_quine): Very simple quine project made in C and Go  
 [go-parkhub-logger](https://github.com/parkhub/go-parkhub-logger): This package provides a singular interface to create logs as well as filtering them out based on level. It also provides two types of formatting json, pretty. This logger doesn't ship any logs.  
 [pcisio-backend-demo](https://github.com/KeisukeYamashita/pcisio-backend-demo): 技術書展7 Pcisio バックエンド編 サンプル  
-[logspout-logstash](https://github.com/looplab/logspout-logstash): A minimalistic adapter for github.com/gliderlabs/logspout to write to Logstash
+[logspout-logstash](https://github.com/looplab/logspout-logstash): A minimalistic adapter for github.com/gliderlabs/logspout to write to Logstash  
+[toutf8](https://github.com/Teamwork/toutf8): Convert text to UTF-8
