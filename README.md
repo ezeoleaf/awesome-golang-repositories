@@ -1763,4 +1763,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [pcisio-backend-demo](https://github.com/KeisukeYamashita/pcisio-backend-demo): 技術書展7 Pcisio バックエンド編 サンプル  
 [logspout-logstash](https://github.com/looplab/logspout-logstash): A minimalistic adapter for github.com/gliderlabs/logspout to write to Logstash  
 [toutf8](https://github.com/Teamwork/toutf8): Convert text to UTF-8  
-[go-d3d](https://github.com/kirides/go-d3d): Implements some d3d11 and dxgi interfaces for use with e.g. IDXGIOutputDuplication 
+[go-d3d](https://github.com/kirides/go-d3d): Implements some d3d11 and dxgi interfaces for use with e.g. IDXGIOutputDuplication   
+[OAuth2Bin](https://github.com/RohitAwate/OAuth2Bin): A test server for the OAuth 2.0 Authorization Framework.
