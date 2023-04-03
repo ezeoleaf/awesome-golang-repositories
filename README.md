@@ -1765,4 +1765,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [toutf8](https://github.com/Teamwork/toutf8): Convert text to UTF-8  
 [go-d3d](https://github.com/kirides/go-d3d): Implements some d3d11 and dxgi interfaces for use with e.g. IDXGIOutputDuplication   
 [OAuth2Bin](https://github.com/RohitAwate/OAuth2Bin): A test server for the OAuth 2.0 Authorization Framework.  
-[idk](https://github.com/abhisekmazumdar/idk): IDK (I Don't Know) is a CLI that simplifies local development with ddev and lando by automatically detecting which one to use for each project.
+[idk](https://github.com/abhisekmazumdar/idk): IDK (I Don't Know) is a CLI that simplifies local development with ddev and lando by automatically detecting which one to use for each project.  
+[rebecca](https://github.com/dave/rebecca): Rebecca is a readme generator for Go
