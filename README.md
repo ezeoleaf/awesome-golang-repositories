@@ -1767,4 +1767,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [OAuth2Bin](https://github.com/RohitAwate/OAuth2Bin): A test server for the OAuth 2.0 Authorization Framework.  
 [idk](https://github.com/abhisekmazumdar/idk): IDK (I Don't Know) is a CLI that simplifies local development with ddev and lando by automatically detecting which one to use for each project.  
 [rebecca](https://github.com/dave/rebecca): Rebecca is a readme generator for Go  
-[anybase](https://github.com/spenserblack/anybase): Convert bytes into base-n
+[anybase](https://github.com/spenserblack/anybase): Convert bytes into base-n  
+[aoe4elobot](https://github.com/alexisgeoffrey/aoe4elobot): Discord bot that automatically retrieves ELO ratings for Age of Empires 4 and gives users custom roles. (Mirrored from https://git.sr.ht/~alexisgeoffrey/aoe4elobot)
