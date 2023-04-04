@@ -1766,4 +1766,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-d3d](https://github.com/kirides/go-d3d): Implements some d3d11 and dxgi interfaces for use with e.g. IDXGIOutputDuplication   
 [OAuth2Bin](https://github.com/RohitAwate/OAuth2Bin): A test server for the OAuth 2.0 Authorization Framework.  
 [idk](https://github.com/abhisekmazumdar/idk): IDK (I Don't Know) is a CLI that simplifies local development with ddev and lando by automatically detecting which one to use for each project.  
-[rebecca](https://github.com/dave/rebecca): Rebecca is a readme generator for Go
+[rebecca](https://github.com/dave/rebecca): Rebecca is a readme generator for Go  
+[anybase](https://github.com/spenserblack/anybase): Convert bytes into base-n
