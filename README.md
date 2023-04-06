@@ -1770,4 +1770,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [anybase](https://github.com/spenserblack/anybase): Convert bytes into base-n  
 [aoe4elobot](https://github.com/alexisgeoffrey/aoe4elobot): Discord bot that automatically retrieves ELO ratings for Age of Empires 4 and gives users custom roles. (Mirrored from https://git.sr.ht/~alexisgeoffrey/aoe4elobot)  
 [go-tic-tac](https://github.com/Longwater1234/go-tic-tac): Simple GUI game of Tic-Tac-Toe written in Golang and Fyne framework. For 2 local (human) players.  
-[scribble](https://github.com/nanohard/scribble): Multi-file database, using codecs. Based on github.com/nanobox-io/golang-scribble. Apache-2.0 license.
+[scribble](https://github.com/nanohard/scribble): Multi-file database, using codecs. Based on github.com/nanobox-io/golang-scribble. Apache-2.0 license.  
+[daily-encyclopedia](https://github.com/shahnawaz-pabon/daily-encyclopedia): :dart: Programming things I'm learning everyday
