@@ -1774,4 +1774,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [daily-encyclopedia](https://github.com/shahnawaz-pabon/daily-encyclopedia): :dart: Programming things I'm learning everyday  
 [Transpilation_Frame3DD](https://github.com/Konstantin8105/Transpilation_Frame3DD): automatic transpilation of C code frame3DD  
 [discordgo-template](https://github.com/pablocorbalann/discordgo-template): 🤖 A basic template for creating a Discord Bot in Golang. that includes: A bot example, Github docs, The Golang's GitHub action. GitHub issues templates and muc ...  
-[github-actions-golang](https://github.com/mvdan/github-actions-golang): GitHub Actions as CI for Go
+[github-actions-golang](https://github.com/mvdan/github-actions-golang): GitHub Actions as CI for Go  
+[MetaGrabAPI](https://github.com/barkloaf/MetaGrabAPI): An API that grabs Spotify's metadata for any track you'd like!
