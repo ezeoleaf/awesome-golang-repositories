@@ -1773,4 +1773,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [scribble](https://github.com/nanohard/scribble): Multi-file database, using codecs. Based on github.com/nanobox-io/golang-scribble. Apache-2.0 license.  
 [daily-encyclopedia](https://github.com/shahnawaz-pabon/daily-encyclopedia): :dart: Programming things I'm learning everyday  
 [Transpilation_Frame3DD](https://github.com/Konstantin8105/Transpilation_Frame3DD): automatic transpilation of C code frame3DD  
-[discordgo-template](https://github.com/pablocorbalann/discordgo-template): 🤖 A basic template for creating a Discord Bot in Golang. that includes: A bot example, Github docs, The Golang's GitHub action. GitHub issues templates and muc ...
+[discordgo-template](https://github.com/pablocorbalann/discordgo-template): 🤖 A basic template for creating a Discord Bot in Golang. that includes: A bot example, Github docs, The Golang's GitHub action. GitHub issues templates and muc ...  
+[github-actions-golang](https://github.com/mvdan/github-actions-golang): GitHub Actions as CI for Go
