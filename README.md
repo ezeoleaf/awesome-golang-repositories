@@ -1778,4 +1778,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [MetaGrabAPI](https://github.com/barkloaf/MetaGrabAPI): An API that grabs Spotify's metadata for any track you'd like!  
 [unimport](https://github.com/alexkohler/unimport): unimport is a Go static analysis tool to find unnecessary import aliases.  
 [gopaapi5](https://github.com/utekaravinash/gopaapi5): Go Client Library for Amazon's Product Advertising API 5.0  
-[logstreamer](https://github.com/kvz/logstreamer): Prefixes streams (e.g. stdout or stderr) in Go
+[logstreamer](https://github.com/kvz/logstreamer): Prefixes streams (e.g. stdout or stderr) in Go  
+[fullcycle-challenge-go](https://github.com/GabrielGSD/fullcycle-challenge-go): Este é o repositório destinado ao Desafio Go do curso FullCycle. Neste projeto, foi desenvolvida uma aplicação simples escrita em Go que tem como objetivo imprimir a mensagem "Fu ...
