@@ -1777,4 +1777,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [github-actions-golang](https://github.com/mvdan/github-actions-golang): GitHub Actions as CI for Go  
 [MetaGrabAPI](https://github.com/barkloaf/MetaGrabAPI): An API that grabs Spotify's metadata for any track you'd like!  
 [unimport](https://github.com/alexkohler/unimport): unimport is a Go static analysis tool to find unnecessary import aliases.  
-[gopaapi5](https://github.com/utekaravinash/gopaapi5): Go Client Library for Amazon's Product Advertising API 5.0
+[gopaapi5](https://github.com/utekaravinash/gopaapi5): Go Client Library for Amazon's Product Advertising API 5.0  
+[logstreamer](https://github.com/kvz/logstreamer): Prefixes streams (e.g. stdout or stderr) in Go
