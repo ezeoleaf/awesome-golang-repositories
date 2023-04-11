@@ -1780,4 +1780,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gopaapi5](https://github.com/utekaravinash/gopaapi5): Go Client Library for Amazon's Product Advertising API 5.0  
 [logstreamer](https://github.com/kvz/logstreamer): Prefixes streams (e.g. stdout or stderr) in Go  
 [fullcycle-challenge-go](https://github.com/GabrielGSD/fullcycle-challenge-go): Este é o repositório destinado ao Desafio Go do curso FullCycle. Neste projeto, foi desenvolvida uma aplicação simples escrita em Go que tem como objetivo imprimir a mensagem "Fu ...  
-[gonet](https://github.com/hsheth2/gonet): A TCP/IP network stack written in Go.
+[gonet](https://github.com/hsheth2/gonet): A TCP/IP network stack written in Go.  
+[go-dev-guide](https://github.com/kyle1/go-dev-guide): Code from Go: The Complete Developer's Guide (Golang) on Udemy
