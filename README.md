@@ -1783,4 +1783,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gonet](https://github.com/hsheth2/gonet): A TCP/IP network stack written in Go.  
 [go-dev-guide](https://github.com/kyle1/go-dev-guide): Code from Go: The Complete Developer's Guide (Golang) on Udemy  
 [go-openai](https://github.com/sashabaranov/go-openai): OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go  
-[jsonfilter](https://github.com/teacat/jsonfilter): 🔎 Filters the JSON data with `a/b/c` syntax
+[jsonfilter](https://github.com/teacat/jsonfilter): 🔎 Filters the JSON data with `a/b/c` syntax  
+[go2linq](https://github.com/solsw/go2linq): Generic Go implementation of .NET's LINQ to Objects.
