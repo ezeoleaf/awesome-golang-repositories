@@ -1786,4 +1786,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [jsonfilter](https://github.com/teacat/jsonfilter): 🔎 Filters the JSON data with `a/b/c` syntax  
 [go2linq](https://github.com/solsw/go2linq): Generic Go implementation of .NET's LINQ to Objects.  
 [go-github-stats](https://github.com/eufelipemateus/go-github-stats): Este projeto tem o objetivo de mostrar habilidades em golang.  
-[flappy-bird-go-lua](https://github.com/VyacheArt/flappy-bird-go-lua): Example of integration GopherLua to Flappy Bird on Ebitengine https://www.youtube.com/watch?v=MGCqmARQDrg
+[flappy-bird-go-lua](https://github.com/VyacheArt/flappy-bird-go-lua): Example of integration GopherLua to Flappy Bird on Ebitengine https://www.youtube.com/watch?v=MGCqmARQDrg  
+[golang-web-course](https://github.com/yurianthedev/golang-web-course): Code snippets made while doing "Web Development w/Google's Go (golang) Programming Language"
