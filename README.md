@@ -1785,4 +1785,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-openai](https://github.com/sashabaranov/go-openai): OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go  
 [jsonfilter](https://github.com/teacat/jsonfilter): 🔎 Filters the JSON data with `a/b/c` syntax  
 [go2linq](https://github.com/solsw/go2linq): Generic Go implementation of .NET's LINQ to Objects.  
-[go-github-stats](https://github.com/eufelipemateus/go-github-stats): Este projeto tem o objetivo de mostrar habilidades em golang.
+[go-github-stats](https://github.com/eufelipemateus/go-github-stats): Este projeto tem o objetivo de mostrar habilidades em golang.  
+[flappy-bird-go-lua](https://github.com/VyacheArt/flappy-bird-go-lua): Example of integration GopherLua to Flappy Bird on Ebitengine https://www.youtube.com/watch?v=MGCqmARQDrg
