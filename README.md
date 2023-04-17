@@ -1790,4 +1790,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-web-course](https://github.com/yurianthedev/golang-web-course): Code snippets made while doing "Web Development w/Google's Go (golang) Programming Language"  
 [plumbing](https://github.com/bodgit/plumbing): I/O helpers  
 [grupo-estudos-golang](https://github.com/crgimenes/grupo-estudos-golang): Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go  
-[zfxtop](https://github.com/ssleert/zfxtop): [WIP] fetch top for gen Z with X written by bubbletea enjoyer
+[zfxtop](https://github.com/ssleert/zfxtop): [WIP] fetch top for gen Z with X written by bubbletea enjoyer  
+[go-ienumerable](https://github.com/EscanBE/go-ienumerable): C# famous IEnumerable<T> ported to Golang
