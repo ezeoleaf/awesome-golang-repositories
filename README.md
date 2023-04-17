@@ -1789,4 +1789,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [flappy-bird-go-lua](https://github.com/VyacheArt/flappy-bird-go-lua): Example of integration GopherLua to Flappy Bird on Ebitengine https://www.youtube.com/watch?v=MGCqmARQDrg  
 [golang-web-course](https://github.com/yurianthedev/golang-web-course): Code snippets made while doing "Web Development w/Google's Go (golang) Programming Language"  
 [plumbing](https://github.com/bodgit/plumbing): I/O helpers  
-[grupo-estudos-golang](https://github.com/crgimenes/grupo-estudos-golang): Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go
+[grupo-estudos-golang](https://github.com/crgimenes/grupo-estudos-golang): Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go  
+[zfxtop](https://github.com/ssleert/zfxtop): [WIP] fetch top for gen Z with X written by bubbletea enjoyer
