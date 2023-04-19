@@ -1792,4 +1792,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [grupo-estudos-golang](https://github.com/crgimenes/grupo-estudos-golang): Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go  
 [zfxtop](https://github.com/ssleert/zfxtop): [WIP] fetch top for gen Z with X written by bubbletea enjoyer  
 [go-ienumerable](https://github.com/EscanBE/go-ienumerable): C# famous IEnumerable<T> ported to Golang  
-[Term_ChatGPT](https://github.com/waxdred/Term_ChatGPT): Neovim plugin for interacting with OpenAI GPT-3 chatbot in Goland
+[Term_ChatGPT](https://github.com/waxdred/Term_ChatGPT): Neovim plugin for interacting with OpenAI GPT-3 chatbot in Goland  
+[optional.go](https://github.com/JonasMuehlmann/optional.go): optional.go is a simple and generic wrapper around a value and a presence flag inspired by C++'s std::optional
