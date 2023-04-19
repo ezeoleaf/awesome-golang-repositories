@@ -1793,4 +1793,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [zfxtop](https://github.com/ssleert/zfxtop): [WIP] fetch top for gen Z with X written by bubbletea enjoyer  
 [go-ienumerable](https://github.com/EscanBE/go-ienumerable): C# famous IEnumerable<T> ported to Golang  
 [Term_ChatGPT](https://github.com/waxdred/Term_ChatGPT): Neovim plugin for interacting with OpenAI GPT-3 chatbot in Goland  
-[optional.go](https://github.com/JonasMuehlmann/optional.go): optional.go is a simple and generic wrapper around a value and a presence flag inspired by C++'s std::optional
+[optional.go](https://github.com/JonasMuehlmann/optional.go): optional.go is a simple and generic wrapper around a value and a presence flag inspired by C++'s std::optional  
+[pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
