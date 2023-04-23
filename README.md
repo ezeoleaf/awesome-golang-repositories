@@ -1796,4 +1796,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [optional.go](https://github.com/JonasMuehlmann/optional.go): optional.go is a simple and generic wrapper around a value and a presence flag inspired by C++'s std::optional  
 [pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding  
 [saturn](https://github.com/wanghuajian620/saturn): Some people compare Go to the C language of the 21st century  
-[UserAgentWriter](https://github.com/TalKot/UserAgentWriter): user's user agent writer to DB using kafka
+[UserAgentWriter](https://github.com/TalKot/UserAgentWriter): user's user agent writer to DB using kafka  
+[codeium.vim](https://github.com/Exafunction/codeium.vim): Free, ultrafast Copilot alternative for Vim and Neovim
