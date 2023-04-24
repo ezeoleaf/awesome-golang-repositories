@@ -1799,4 +1799,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [UserAgentWriter](https://github.com/TalKot/UserAgentWriter): user's user agent writer to DB using kafka  
 [codeium.vim](https://github.com/Exafunction/codeium.vim): Free, ultrafast Copilot alternative for Vim and Neovim  
 [gpkg](https://github.com/kralicky/gpkg): Generic versions of select go packages (Go 1.18)  
-[oreilly_kindle_book](https://github.com/zyh94946/oreilly_kindle_book): Generate mobi file for o'reilly book. Technical learning only.
+[oreilly_kindle_book](https://github.com/zyh94946/oreilly_kindle_book): Generate mobi file for o'reilly book. Technical learning only.  
+[golang-projects](https://github.com/mjpin7/golang-projects): Repo on the small projects I am writing while learning go
