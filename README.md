@@ -1800,4 +1800,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [codeium.vim](https://github.com/Exafunction/codeium.vim): Free, ultrafast Copilot alternative for Vim and Neovim  
 [gpkg](https://github.com/kralicky/gpkg): Generic versions of select go packages (Go 1.18)  
 [oreilly_kindle_book](https://github.com/zyh94946/oreilly_kindle_book): Generate mobi file for o'reilly book. Technical learning only.  
-[golang-projects](https://github.com/mjpin7/golang-projects): Repo on the small projects I am writing while learning go
+[golang-projects](https://github.com/mjpin7/golang-projects): Repo on the small projects I am writing while learning go  
+[yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector): A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
