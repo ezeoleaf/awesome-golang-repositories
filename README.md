@@ -1804,4 +1804,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector): A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)  
 [cl30](https://github.com/opencl-go/cl30): OpenCL 3.0 wrapper for Go  
 [sentinel-golang](https://github.com/alibaba/sentinel-golang): Sentinel Go enables reliability and resiliency for Go microservices  
-[cloudquery](https://github.com/cloudquery/cloudquery): The open source high performance data integration platform built for developers.
+[cloudquery](https://github.com/cloudquery/cloudquery): The open source high performance data integration platform built for developers.  
+[go-bloomfilter](https://github.com/harry-tw/go-bloomfilter): go-bloomfilter is implemented by Golang which supports in-memory and Redis. Moreover, it’s available for a duration-based rotation.
