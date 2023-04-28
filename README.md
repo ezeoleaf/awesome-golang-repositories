@@ -1806,4 +1806,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sentinel-golang](https://github.com/alibaba/sentinel-golang): Sentinel Go enables reliability and resiliency for Go microservices  
 [cloudquery](https://github.com/cloudquery/cloudquery): The open source high performance data integration platform built for developers.  
 [go-bloomfilter](https://github.com/harry-tw/go-bloomfilter): go-bloomfilter is implemented by Golang which supports in-memory and Redis. Moreover, it’s available for a duration-based rotation.  
-[Little-Go](https://github.com/bvyshali/Little-Go): Repository to demonstrate the use of Alpha-Beta Pruning to win against other intelligent agents in the adversarial game of Little-Go (5 x 5 board).
+[Little-Go](https://github.com/bvyshali/Little-Go): Repository to demonstrate the use of Alpha-Beta Pruning to win against other intelligent agents in the adversarial game of Little-Go (5 x 5 board).  
+[riscv_disasm_long](https://github.com/tetsu-koba/riscv_disasm_long): RISC-V disasembler in long format
