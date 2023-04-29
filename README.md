@@ -1808,4 +1808,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-bloomfilter](https://github.com/harry-tw/go-bloomfilter): go-bloomfilter is implemented by Golang which supports in-memory and Redis. Moreover, it’s available for a duration-based rotation.  
 [Little-Go](https://github.com/bvyshali/Little-Go): Repository to demonstrate the use of Alpha-Beta Pruning to win against other intelligent agents in the adversarial game of Little-Go (5 x 5 board).  
 [riscv_disasm_long](https://github.com/tetsu-koba/riscv_disasm_long): RISC-V disasembler in long format  
-[golang-website](https://github.com/stevenventimiglia/golang-website): Includes a server and website. Fundmentals I'm learning from tutorials, videos and courses. 
+[golang-website](https://github.com/stevenventimiglia/golang-website): Includes a server and website. Fundmentals I'm learning from tutorials, videos and courses.   
+[tree-palette](https://github.com/philoj/tree-palette): An indexed color palette implementation in Go on top of a k-d tree for fast color lookups. Also rank a palette against an image to identify prominent colors.
