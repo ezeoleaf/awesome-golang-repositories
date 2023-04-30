@@ -1811,4 +1811,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golang-website](https://github.com/stevenventimiglia/golang-website): Includes a server and website. Fundmentals I'm learning from tutorials, videos and courses.   
 [tree-palette](https://github.com/philoj/tree-palette): An indexed color palette implementation in Go on top of a k-d tree for fast color lookups. Also rank a palette against an image to identify prominent colors.  
 [oberon-compiler](https://github.com/fzipp/oberon-compiler): N. Wirth's Project Oberon RISC compiler ported to Go.  
-[unew](https://github.com/dwisiswant0/unew): A tool for append URLs, skipping duplicates/paths & combine parameters.
+[unew](https://github.com/dwisiswant0/unew): A tool for append URLs, skipping duplicates/paths & combine parameters.  
+[tetris](https://github.com/deepgrace/tetris): Stunning Tetris in all kinds of Languages (C, C++, Go, Shell)
