@@ -1813,4 +1813,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [oberon-compiler](https://github.com/fzipp/oberon-compiler): N. Wirth's Project Oberon RISC compiler ported to Go.  
 [unew](https://github.com/dwisiswant0/unew): A tool for append URLs, skipping duplicates/paths & combine parameters.  
 [tetris](https://github.com/deepgrace/tetris): Stunning Tetris in all kinds of Languages (C, C++, Go, Shell)  
-[books_api_with_golang](https://github.com/My-Name-Is-Rafael-Sampaio/books_api_with_golang): Este é um repositório acadêmico que utiliza Go (Golang) para criar uma API de livros. Ele utiliza o banco de dados Postgres e o Docker como tecnologias auxiliares. O ...
+[books_api_with_golang](https://github.com/My-Name-Is-Rafael-Sampaio/books_api_with_golang): Este é um repositório acadêmico que utiliza Go (Golang) para criar uma API de livros. Ele utiliza o banco de dados Postgres e o Docker como tecnologias auxiliares. O ...  
+[medusa](https://github.com/jonasvinther/medusa): A cli tool for importing and exporting Hashicorp Vault secrets
