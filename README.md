@@ -1812,4 +1812,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tree-palette](https://github.com/philoj/tree-palette): An indexed color palette implementation in Go on top of a k-d tree for fast color lookups. Also rank a palette against an image to identify prominent colors.  
 [oberon-compiler](https://github.com/fzipp/oberon-compiler): N. Wirth's Project Oberon RISC compiler ported to Go.  
 [unew](https://github.com/dwisiswant0/unew): A tool for append URLs, skipping duplicates/paths & combine parameters.  
-[tetris](https://github.com/deepgrace/tetris): Stunning Tetris in all kinds of Languages (C, C++, Go, Shell)
+[tetris](https://github.com/deepgrace/tetris): Stunning Tetris in all kinds of Languages (C, C++, Go, Shell)  
+[books_api_with_golang](https://github.com/My-Name-Is-Rafael-Sampaio/books_api_with_golang): Este é um repositório acadêmico que utiliza Go (Golang) para criar uma API de livros. Ele utiliza o banco de dados Postgres e o Docker como tecnologias auxiliares. O ...
