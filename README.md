@@ -1816,4 +1816,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [books_api_with_golang](https://github.com/My-Name-Is-Rafael-Sampaio/books_api_with_golang): Este é um repositório acadêmico que utiliza Go (Golang) para criar uma API de livros. Ele utiliza o banco de dados Postgres e o Docker como tecnologias auxiliares. O ...  
 [medusa](https://github.com/jonasvinther/medusa): A cli tool for importing and exporting Hashicorp Vault secrets  
 [extism](https://github.com/extism/extism): The Universal Plug-in System. Extend anything with WebAssembly (wasm).  
-[advent-of-code-2021](https://github.com/gmlewis/advent-of-code-2021): Advent of Code 2021 solutions using Go 1.18 Generics
+[advent-of-code-2021](https://github.com/gmlewis/advent-of-code-2021): Advent of Code 2021 solutions using Go 1.18 Generics  
+[truauth](https://github.com/truauth/truauth): openid compliant-ish oauth 2.0 authentication service for 3rd party service authentication
