@@ -1818,4 +1818,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [extism](https://github.com/extism/extism): The Universal Plug-in System. Extend anything with WebAssembly (wasm).  
 [advent-of-code-2021](https://github.com/gmlewis/advent-of-code-2021): Advent of Code 2021 solutions using Go 1.18 Generics  
 [truauth](https://github.com/truauth/truauth): openid compliant-ish oauth 2.0 authentication service for 3rd party service authentication  
-[relay](https://github.com/bytebase/relay): A web server for forwarding events from service A to service B
+[relay](https://github.com/bytebase/relay): A web server for forwarding events from service A to service B  
+[ChatGPT-API](https://github.com/hktalent/ChatGPT-API): OpenAI ChatGPT, GPT-3, ChatGPT-API for go,ChatGPT in bash shell command line
