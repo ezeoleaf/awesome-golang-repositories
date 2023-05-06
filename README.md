@@ -1820,4 +1820,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [truauth](https://github.com/truauth/truauth): openid compliant-ish oauth 2.0 authentication service for 3rd party service authentication  
 [relay](https://github.com/bytebase/relay): A web server for forwarding events from service A to service B  
 [ChatGPT-API](https://github.com/hktalent/ChatGPT-API): OpenAI ChatGPT, GPT-3, ChatGPT-API for go,ChatGPT in bash shell command line  
-[gox509inspector](https://github.com/indiependente/gox509inspector): Go tool to inspect x.509 certificates in PEM format
+[gox509inspector](https://github.com/indiependente/gox509inspector): Go tool to inspect x.509 certificates in PEM format  
+[sandbox-gin](https://github.com/quelchx/sandbox-gin): Go Crud API Example (Gin w/ Gorm)
