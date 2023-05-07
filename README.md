@@ -1822,4 +1822,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ChatGPT-API](https://github.com/hktalent/ChatGPT-API): OpenAI ChatGPT, GPT-3, ChatGPT-API for go,ChatGPT in bash shell command line  
 [gox509inspector](https://github.com/indiependente/gox509inspector): Go tool to inspect x.509 certificates in PEM format  
 [sandbox-gin](https://github.com/quelchx/sandbox-gin): Go Crud API Example (Gin w/ Gorm)  
-[mailpit](https://github.com/axllent/mailpit): An email and SMTP testing tool with API for developers
+[mailpit](https://github.com/axllent/mailpit): An email and SMTP testing tool with API for developers  
+[tune](https://github.com/GeertJohan/tune): Tune is a music-player for the AudioAddict web radio's such as Digitally Imported (di.fm) and RadioTunes.
