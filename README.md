@@ -1824,4 +1824,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [sandbox-gin](https://github.com/quelchx/sandbox-gin): Go Crud API Example (Gin w/ Gorm)  
 [mailpit](https://github.com/axllent/mailpit): An email and SMTP testing tool with API for developers  
 [tune](https://github.com/GeertJohan/tune): Tune is a music-player for the AudioAddict web radio's such as Digitally Imported (di.fm) and RadioTunes.  
-[go-schemax](https://github.com/JesseCoretta/go-schemax): Go Implementation of RFC4512 Section 4.1, et al
+[go-schemax](https://github.com/JesseCoretta/go-schemax): Go Implementation of RFC4512 Section 4.1, et al  
+[bigslice](https://github.com/grailbio/bigslice): A serverless cluster computing system for the Go programming language
