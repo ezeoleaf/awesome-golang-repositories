@@ -1826,4 +1826,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [tune](https://github.com/GeertJohan/tune): Tune is a music-player for the AudioAddict web radio's such as Digitally Imported (di.fm) and RadioTunes.  
 [go-schemax](https://github.com/JesseCoretta/go-schemax): Go Implementation of RFC4512 Section 4.1, et al  
 [bigslice](https://github.com/grailbio/bigslice): A serverless cluster computing system for the Go programming language  
-[egoshop](https://github.com/gotomicro/egoshop): An e-shop is written by Go
+[egoshop](https://github.com/gotomicro/egoshop): An e-shop is written by Go  
+[sqlf](https://github.com/keegancsmith/sqlf): sqlf generates parameterized SQL statements in Go, sprintf style
