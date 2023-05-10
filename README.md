@@ -1827,4 +1827,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-schemax](https://github.com/JesseCoretta/go-schemax): Go Implementation of RFC4512 Section 4.1, et al  
 [bigslice](https://github.com/grailbio/bigslice): A serverless cluster computing system for the Go programming language  
 [egoshop](https://github.com/gotomicro/egoshop): An e-shop is written by Go  
-[sqlf](https://github.com/keegancsmith/sqlf): sqlf generates parameterized SQL statements in Go, sprintf style
+[sqlf](https://github.com/keegancsmith/sqlf): sqlf generates parameterized SQL statements in Go, sprintf style  
+[ddsv-go](https://github.com/y-taka-23/ddsv-go): A toy deadlock detector written in Go. 🔍
