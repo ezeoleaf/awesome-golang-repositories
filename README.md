@@ -1829,4 +1829,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [egoshop](https://github.com/gotomicro/egoshop): An e-shop is written by Go  
 [sqlf](https://github.com/keegancsmith/sqlf): sqlf generates parameterized SQL statements in Go, sprintf style  
 [ddsv-go](https://github.com/y-taka-23/ddsv-go): A toy deadlock detector written in Go. 🔍  
-[vibora](https://github.com/airtonGit/vibora): Vibora é um pacote da linguagem Go com o objetivo de estender aplicativos de linha de comando (command-line interface CLI) desenvolvidos com o framework Cobra https://cobra.dev adicionando uma interface grafica de ...
+[vibora](https://github.com/airtonGit/vibora): Vibora é um pacote da linguagem Go com o objetivo de estender aplicativos de linha de comando (command-line interface CLI) desenvolvidos com o framework Cobra https://cobra.dev adicionando uma interface grafica de ...  
+[wavelib](https://github.com/xaionaro-go/wavelib): Go bindings for C library "wavelib"
