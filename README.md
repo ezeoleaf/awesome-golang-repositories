@@ -1833,4 +1833,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [wavelib](https://github.com/xaionaro-go/wavelib): Go bindings for C library "wavelib"  
 [api-rest-golang](https://github.com/hjunor/api-rest-golang): Api criada para aprendizado  da linguagem GoLang, uma api simples com autenticação e cadastro de livros   
 [knative-demos](https://github.com/mchmarny/knative-demos): Collection of Knative demos  
-[fzshell](https://github.com/mnowotnik/fzshell): Fuzzy shell completions you didn't know you needed
+[fzshell](https://github.com/mnowotnik/fzshell): Fuzzy shell completions you didn't know you needed  
+[unicorn](https://github.com/cheng-zhongliang/unicorn): Simple I/O event notification library wirtten in Golang
