@@ -1831,4 +1831,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [ddsv-go](https://github.com/y-taka-23/ddsv-go): A toy deadlock detector written in Go. 🔍  
 [vibora](https://github.com/airtonGit/vibora): Vibora é um pacote da linguagem Go com o objetivo de estender aplicativos de linha de comando (command-line interface CLI) desenvolvidos com o framework Cobra https://cobra.dev adicionando uma interface grafica de ...  
 [wavelib](https://github.com/xaionaro-go/wavelib): Go bindings for C library "wavelib"  
-[api-rest-golang](https://github.com/hjunor/api-rest-golang): Api criada para aprendizado  da linguagem GoLang, uma api simples com autenticação e cadastro de livros 
+[api-rest-golang](https://github.com/hjunor/api-rest-golang): Api criada para aprendizado  da linguagem GoLang, uma api simples com autenticação e cadastro de livros   
+[knative-demos](https://github.com/mchmarny/knative-demos): Collection of Knative demos
