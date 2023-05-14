@@ -1836,4 +1836,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [fzshell](https://github.com/mnowotnik/fzshell): Fuzzy shell completions you didn't know you needed  
 [unicorn](https://github.com/cheng-zhongliang/unicorn): Simple I/O event notification library wirtten in Golang  
 [bpembed](https://github.com/waldirborbajr/bpembed): B+ Embed it is a library to read a file and return the content  
-[jwt-poc](https://github.com/Gustibimo/jwt-poc): Code repository for implement json web token - Security awareness ep.2
+[jwt-poc](https://github.com/Gustibimo/jwt-poc): Code repository for implement json web token - Security awareness ep.2  
+[checksumo](https://github.com/dawidd6/checksumo): :file_folder: A simple application for verifying specified file against given hash, written in Go with GTK+3 graphical interface
