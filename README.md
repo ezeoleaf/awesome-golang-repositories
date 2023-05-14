@@ -1835,4 +1835,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [knative-demos](https://github.com/mchmarny/knative-demos): Collection of Knative demos  
 [fzshell](https://github.com/mnowotnik/fzshell): Fuzzy shell completions you didn't know you needed  
 [unicorn](https://github.com/cheng-zhongliang/unicorn): Simple I/O event notification library wirtten in Golang  
-[bpembed](https://github.com/waldirborbajr/bpembed): B+ Embed it is a library to read a file and return the content
+[bpembed](https://github.com/waldirborbajr/bpembed): B+ Embed it is a library to read a file and return the content  
+[jwt-poc](https://github.com/Gustibimo/jwt-poc): Code repository for implement json web token - Security awareness ep.2
