@@ -1837,4 +1837,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [unicorn](https://github.com/cheng-zhongliang/unicorn): Simple I/O event notification library wirtten in Golang  
 [bpembed](https://github.com/waldirborbajr/bpembed): B+ Embed it is a library to read a file and return the content  
 [jwt-poc](https://github.com/Gustibimo/jwt-poc): Code repository for implement json web token - Security awareness ep.2  
-[checksumo](https://github.com/dawidd6/checksumo): :file_folder: A simple application for verifying specified file against given hash, written in Go with GTK+3 graphical interface
+[checksumo](https://github.com/dawidd6/checksumo): :file_folder: A simple application for verifying specified file against given hash, written in Go with GTK+3 graphical interface  
+[zqc-server-demo](https://github.com/jaggerwang/zqc-server-demo): Lite version of zaiqiuchang api server, which developed by go and deploy using docker. It also can be used as a starter kit for developing api server.
