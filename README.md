@@ -1840,4 +1840,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [checksumo](https://github.com/dawidd6/checksumo): :file_folder: A simple application for verifying specified file against given hash, written in Go with GTK+3 graphical interface  
 [zqc-server-demo](https://github.com/jaggerwang/zqc-server-demo): Lite version of zaiqiuchang api server, which developed by go and deploy using docker. It also can be used as a starter kit for developing api server.  
 [MyExtApp](https://github.com/KingAkeem/MyExtApp): This is just a random app that I'm making using ExtJS framework for practic. It's not intended to be used commercially or any other purpose for that matter.  
-[m3rger](https://github.com/benjdewan/m3rger): A 3-layer YAML configuration merging tool
+[m3rger](https://github.com/benjdewan/m3rger): A 3-layer YAML configuration merging tool  
+[golang-docker-build-tutorial](https://github.com/miguno/golang-docker-build-tutorial): A template project to create a minimal Docker image for a Go application
