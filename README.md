@@ -1843,4 +1843,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [m3rger](https://github.com/benjdewan/m3rger): A 3-layer YAML configuration merging tool  
 [golang-docker-build-tutorial](https://github.com/miguno/golang-docker-build-tutorial): A template project to create a minimal Docker image for a Go application  
 [go-todo-list](https://github.com/Tonioou/go-todo-list): I'm exercising observability and a lil bit architecture in this project  
-[CKR-Joinville](https://github.com/softwares-com-clevertonrocha/CKR-Joinville): Developer Cleverton Rocha ferramenta simples, rápida e poderosa para criação blog. Você escreve postagens em Markdown (ou outras linguagens) e o Hexo gera arquivos estáticos com ...
+[CKR-Joinville](https://github.com/softwares-com-clevertonrocha/CKR-Joinville): Developer Cleverton Rocha ferramenta simples, rápida e poderosa para criação blog. Você escreve postagens em Markdown (ou outras linguagens) e o Hexo gera arquivos estáticos com ...  
+[scany](https://github.com/georgysavva/scany): Library for scanning data from a database into Go structs and more
