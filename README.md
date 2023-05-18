@@ -1842,4 +1842,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [MyExtApp](https://github.com/KingAkeem/MyExtApp): This is just a random app that I'm making using ExtJS framework for practic. It's not intended to be used commercially or any other purpose for that matter.  
 [m3rger](https://github.com/benjdewan/m3rger): A 3-layer YAML configuration merging tool  
 [golang-docker-build-tutorial](https://github.com/miguno/golang-docker-build-tutorial): A template project to create a minimal Docker image for a Go application  
-[go-todo-list](https://github.com/Tonioou/go-todo-list): I'm exercising observability and a lil bit architecture in this project
+[go-todo-list](https://github.com/Tonioou/go-todo-list): I'm exercising observability and a lil bit architecture in this project  
+[CKR-Joinville](https://github.com/softwares-com-clevertonrocha/CKR-Joinville): Developer Cleverton Rocha ferramenta simples, rápida e poderosa para criação blog. Você escreve postagens em Markdown (ou outras linguagens) e o Hexo gera arquivos estáticos com ...
