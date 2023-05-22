@@ -1845,4 +1845,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-todo-list](https://github.com/Tonioou/go-todo-list): I'm exercising observability and a lil bit architecture in this project  
 [CKR-Joinville](https://github.com/softwares-com-clevertonrocha/CKR-Joinville): Developer Cleverton Rocha ferramenta simples, rápida e poderosa para criação blog. Você escreve postagens em Markdown (ou outras linguagens) e o Hexo gera arquivos estáticos com ...  
 [scany](https://github.com/georgysavva/scany): Library for scanning data from a database into Go structs and more  
-[go-apnsmock](https://github.com/baobabus/go-apnsmock): A highly-configurable emulator of Apple Push Notification HTTP/2 service written in Go – embeddable server and command line utility.
+[go-apnsmock](https://github.com/baobabus/go-apnsmock): A highly-configurable emulator of Apple Push Notification HTTP/2 service written in Go – embeddable server and command line utility.  
+[gce-cache-cluster](https://github.com/CaptainCodeman/gce-cache-cluster): Easy groupcache clustering on GCE
