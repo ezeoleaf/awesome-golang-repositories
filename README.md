@@ -1848,4 +1848,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-apnsmock](https://github.com/baobabus/go-apnsmock): A highly-configurable emulator of Apple Push Notification HTTP/2 service written in Go – embeddable server and command line utility.  
 [gce-cache-cluster](https://github.com/CaptainCodeman/gce-cache-cluster): Easy groupcache clustering on GCE  
 [zju-bs-project-backend](https://github.com/yuaanlin/zju-bs-project-backend): 浙江大学 2022 秋冬学期《B/S体系软件设计》期末 Project —— 智能家居管理系统 (后端)  
-[circl](https://github.com/cloudflare/circl): CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
+[circl](https://github.com/cloudflare/circl): CIRCL: Cloudflare Interoperable Reusable Cryptographic Library  
+[cdsi-tp](https://github.com/rofazayn/cdsi-tp): Assignment for ISIDS - CDSI class, includes 3 suggested solution for TP: 2 (Go), 3 (Scala), 4 (Solidity).
