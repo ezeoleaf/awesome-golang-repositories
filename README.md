@@ -1851,4 +1851,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [circl](https://github.com/cloudflare/circl): CIRCL: Cloudflare Interoperable Reusable Cryptographic Library  
 [cdsi-tp](https://github.com/rofazayn/cdsi-tp): Assignment for ISIDS - CDSI class, includes 3 suggested solution for TP: 2 (Go), 3 (Scala), 4 (Solidity).  
 [golab](https://github.com/javahongxi/golab): Go 生态研究 🏡  
-[rvda](https://github.com/deadsy/rvda): RISC-V Disassembler
+[rvda](https://github.com/deadsy/rvda): RISC-V Disassembler  
+[rektangle-resistance](https://github.com/quattroformaggi/rektangle-resistance): Go w/ Ebiten.
