@@ -1853,4 +1853,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [golab](https://github.com/javahongxi/golab): Go 生态研究 🏡  
 [rvda](https://github.com/deadsy/rvda): RISC-V Disassembler  
 [rektangle-resistance](https://github.com/quattroformaggi/rektangle-resistance): Go w/ Ebiten.  
-[link-preview-api](https://github.com/nivaldomartinez/link-preview-api): Backed to provide information for link-prevue vue component
+[link-preview-api](https://github.com/nivaldomartinez/link-preview-api): Backed to provide information for link-prevue vue component  
+[urlook](https://github.com/olshevskiy87/urlook): Find and check http(s) links in the text file
