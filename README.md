@@ -1855,4 +1855,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [rektangle-resistance](https://github.com/quattroformaggi/rektangle-resistance): Go w/ Ebiten.  
 [link-preview-api](https://github.com/nivaldomartinez/link-preview-api): Backed to provide information for link-prevue vue component  
 [urlook](https://github.com/olshevskiy87/urlook): Find and check http(s) links in the text file  
-[date-manipulator](https://github.com/mojotx/date-manipulator): Simple application for generating RFC3339 timestamps, written in Go. Suitable for use in scripting, e.g., aws cloudwatch commands. 
+[date-manipulator](https://github.com/mojotx/date-manipulator): Simple application for generating RFC3339 timestamps, written in Go. Suitable for use in scripting, e.g., aws cloudwatch commands.   
+[gotodo](https://github.com/ralscha/gotodo): Todo app with Go and Ionic 6
