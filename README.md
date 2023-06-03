@@ -1858,4 +1858,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [date-manipulator](https://github.com/mojotx/date-manipulator): Simple application for generating RFC3339 timestamps, written in Go. Suitable for use in scripting, e.g., aws cloudwatch commands.   
 [gotodo](https://github.com/ralscha/gotodo): Todo app with Go and Ionic 6  
 [tarjan](https://github.com/looplab/tarjan): Graph loop detection in Go using Tarjan's algorithm  
-[fastget](https://github.com/pgollangi/fastget): ⚡ A CLI tool and Go library to ultra fast download files over HTTP(S)
+[fastget](https://github.com/pgollangi/fastget): ⚡ A CLI tool and Go library to ultra fast download files over HTTP(S)  
+[go-dbus](https://github.com/xmas7/go-dbus): go.dbus is a simple library that implements native Go client bindings for the D-Bus message bus system.
