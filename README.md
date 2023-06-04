@@ -1859,4 +1859,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gotodo](https://github.com/ralscha/gotodo): Todo app with Go and Ionic 6  
 [tarjan](https://github.com/looplab/tarjan): Graph loop detection in Go using Tarjan's algorithm  
 [fastget](https://github.com/pgollangi/fastget): ⚡ A CLI tool and Go library to ultra fast download files over HTTP(S)  
-[go-dbus](https://github.com/xmas7/go-dbus): go.dbus is a simple library that implements native Go client bindings for the D-Bus message bus system.
+[go-dbus](https://github.com/xmas7/go-dbus): go.dbus is a simple library that implements native Go client bindings for the D-Bus message bus system.  
+[vault-ai](https://github.com/pashpashpash/vault-ai): OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
