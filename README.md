@@ -1863,4 +1863,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [vault-ai](https://github.com/pashpashpash/vault-ai): OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.  
 [go-acme](https://github.com/Jason-ZW/go-acme): communicate with let's encrypt using acme protocol  
 [go-shopping](https://github.com/gustonecrush/go-shopping): A simple e-commerce website that displays product lists, details, and can run payment gateways to process purchase transactions. Equipped with an administrator page that can be use ...  
-[BiliBili](https://github.com/CocaineCong/BiliBili): Gin框架实现B站，Gin+Gorm 实现一个视频弹幕网站
+[BiliBili](https://github.com/CocaineCong/BiliBili): Gin框架实现B站，Gin+Gorm 实现一个视频弹幕网站  
+[freeboard](https://github.com/eze-kiel/freeboard): Freeboard is a web application designed to share links about various stuff. It's anonymous and ou don't have to create an account !
