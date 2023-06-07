@@ -1864,4 +1864,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-acme](https://github.com/Jason-ZW/go-acme): communicate with let's encrypt using acme protocol  
 [go-shopping](https://github.com/gustonecrush/go-shopping): A simple e-commerce website that displays product lists, details, and can run payment gateways to process purchase transactions. Equipped with an administrator page that can be use ...  
 [BiliBili](https://github.com/CocaineCong/BiliBili): Gin框架实现B站，Gin+Gorm 实现一个视频弹幕网站  
-[freeboard](https://github.com/eze-kiel/freeboard): Freeboard is a web application designed to share links about various stuff. It's anonymous and ou don't have to create an account !
+[freeboard](https://github.com/eze-kiel/freeboard): Freeboard is a web application designed to share links about various stuff. It's anonymous and ou don't have to create an account !  
+[dipper](https://github.com/feimumoke/dipper): 基于grpc开发的跨语言的交互系统，集成B/C/S，Brower基于SpringBoot2开发，使用Netty+WebSocket实现QQ功能，Client基于PyQt5，实现用户管理和博客管理。图片服务和博客服务� ...
