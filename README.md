@@ -1867,4 +1867,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [freeboard](https://github.com/eze-kiel/freeboard): Freeboard is a web application designed to share links about various stuff. It's anonymous and ou don't have to create an account !  
 [dipper](https://github.com/feimumoke/dipper): �箔�grpc撘��頝刻祗閮�漱鈭頂蝏���B/C/S嚗rower�箔�SpringBoot2撘��雿輻Netty+WebSocket摰QQ�嚗lient�箔�PyQt5嚗��啁�瑞恣���恥蝞∠�����∪��恥�� ...  
 [Go-Basic](https://github.com/prosenjitjoy/Go-Basic): Collection of some go example code that I use to learn basic syntax of golang  
-[notionapi](https://github.com/jomei/notionapi): A Notion API SDK, written in Golang
+[notionapi](https://github.com/jomei/notionapi): A Notion API SDK, written in Golang  
+[xdvoke](https://github.com/zimnyaa/xdvoke): d/invoke function resolver in Golang
