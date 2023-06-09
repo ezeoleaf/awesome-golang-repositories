@@ -1871,4 +1871,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [xdvoke](https://github.com/zimnyaa/xdvoke): d/invoke function resolver in Golang  
 [gomoku-go](https://github.com/GeneralPoxter/gomoku-go): Beta Version 1.0  
 [go-hill-climbing](https://github.com/joaobap/go-hill-climbing): N-Queens problem solution using Hill-Climbing algorithm rewritten from Common Lisp to Go (https://github.com/joaobap/clisp-hill-climbing)  
-[gopath](https://github.com/thomasheller/gopath): Get GOPATH or default (Go 1.8+)
+[gopath](https://github.com/thomasheller/gopath): Get GOPATH or default (Go 1.8+)  
+[Desafio-Tecnico](https://github.com/Alberto-Pereira/Desafio-Tecnico): A aplicação realiza operações entre uma lista de compras e uma lista de emails.
