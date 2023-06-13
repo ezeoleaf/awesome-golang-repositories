@@ -1876,4 +1876,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [LearnGoLang](https://github.com/itSubeDibesh/LearnGoLang): This is my journey for get going in Golang. I will be sharing my findings, experience and learnings while I'm learning  
 [go-redis](https://github.com/redis/go-redis): Redis Go client  
 [golang-crud](https://github.com/garbalau-github/golang-crud): I have created a straightforward CRUD-capable backend application using Go. The REST API is built using the "gorilla/mux" HTTP Router, and I have integrated the application with a ...  
-[go_studies](https://github.com/juliofilizzola/go_studies): Repositório de estudos do Golang com praticas e exemplos do básico da linguagem.
+[go_studies](https://github.com/juliofilizzola/go_studies): Repositório de estudos do Golang com praticas e exemplos do básico da linguagem.  
+[whatsmeow](https://github.com/tulir/whatsmeow): Go library for the WhatsApp web multidevice API
