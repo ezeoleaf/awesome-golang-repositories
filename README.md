@@ -1877,4 +1877,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [go-redis](https://github.com/redis/go-redis): Redis Go client  
 [golang-crud](https://github.com/garbalau-github/golang-crud): I have created a straightforward CRUD-capable backend application using Go. The REST API is built using the "gorilla/mux" HTTP Router, and I have integrated the application with a ...  
 [go_studies](https://github.com/juliofilizzola/go_studies): Repositório de estudos do Golang com praticas e exemplos do básico da linguagem.  
-[whatsmeow](https://github.com/tulir/whatsmeow): Go library for the WhatsApp web multidevice API
+[whatsmeow](https://github.com/tulir/whatsmeow): Go library for the WhatsApp web multidevice API  
+[high-performance-lang-comparison](https://github.com/yjg30737/high-performance-lang-comparison): Compare performance between Python, R, Go, Rust, Julia
