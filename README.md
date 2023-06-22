@@ -1880,4 +1880,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [whatsmeow](https://github.com/tulir/whatsmeow): Go library for the WhatsApp web multidevice API  
 [high-performance-lang-comparison](https://github.com/yjg30737/high-performance-lang-comparison): Compare performance between Python, R, Go, Rust, Julia  
 [SublimeLinter-gotype](https://github.com/SublimeLinter/SublimeLinter-gotype): This linter plugin for SublimeLinter provides an interface to gotype.  
-[alta-store](https://github.com/askmuhammadamal/alta-store): Restful API ALTA Store. E-commerce service.
+[alta-store](https://github.com/askmuhammadamal/alta-store): Restful API ALTA Store. E-commerce service.  
+[sorm](https://github.com/somethingpluto/sorm): 从 0.5 到 1 开发go orm框架 ，🍍🍍基于go语言官方提供的数据库操作API，进行二次封装，实现ORM框架的基本功能。本框架计划实现功能:🚩 1.根据� ...
