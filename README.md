@@ -1883,4 +1883,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [alta-store](https://github.com/askmuhammadamal/alta-store): Restful API ALTA Store. E-commerce service.  
 [sorm](https://github.com/somethingpluto/sorm): 莉 0.5 蛻ｰ 1 蠑蜿組o orm譯�楔 �交沚昨沚榊渕莠使o隸ｭ險螳俶婿謠蝉ｾ帷噪謨ｰ謐ｮ蠎捺桃菴廣PI�瑚ｿ幄｡御ｺ梧ｬ｡蟆∬｣�ｼ悟ｮ樒鴫ORM譯�楔逧�渕譛ｬ蜉溯�縲よ悽譯�楔隶｡蛻貞ｮ樒鴫蜉溯�:圸 1.譬ｹ謐ｮ扈 ...  
 [simplebank](https://github.com/techschool/simplebank): Backend master class: build a simple bank service in Go  
-[gophish-client](https://github.com/NoF0rte/gophish-client): Go library to interact with GoPhish via the admin API or the phishing interface (i.e. tracking opens, clicks, etc.)
+[gophish-client](https://github.com/NoF0rte/gophish-client): Go library to interact with GoPhish via the admin API or the phishing interface (i.e. tracking opens, clicks, etc.)  
+[curso-go-master](https://github.com/biancamartinelli/curso-go-master): Exercicios do curso de Go com o Professor Leonardo do Cod3r Cursos
