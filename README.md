@@ -1887,4 +1887,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [curso-go-master](https://github.com/biancamartinelli/curso-go-master): Exercicios do curso de Go com o Professor Leonardo do Cod3r Cursos  
 [ektagarg.com](https://github.com/ektagarg/ektagarg.com): I write here about my technical learnings.  
 [gizmo](https://github.com/nytimes/gizmo): A Microservice Toolkit from The New York Times  
-[TShirtGoAPI](https://github.com/Asrez/TShirtGoAPI): The T-Shirt Go API is a web-based application programming interface (API) designed to provide access to a wide range of T-shirt-related information and functionalities. The API enables developers to retrieve information about T-shirt categories, brands, sizes, colors, materials, and products.
+[TShirtGoAPI](https://github.com/Asrez/TShirtGoAPI): The T-Shirt Go API is a web-based application programming interface (API) designed to provide access to a wide range of T-shirt-related information and functionalities. The API enables developers to retrieve information about T-shirt categories, brands, sizes, colors, materials, and products.  
+[codewars-katas](https://github.com/ps173/codewars-katas): Road to 3kyu let's goo✨️
