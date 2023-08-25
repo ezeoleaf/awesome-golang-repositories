@@ -1889,4 +1889,5 @@ List of resources from [Larry](https://github.com/ezeoleaf/larry)
 [gizmo](https://github.com/nytimes/gizmo): A Microservice Toolkit from The New York Times  
 [TShirtGoAPI](https://github.com/Asrez/TShirtGoAPI): The T-Shirt Go API is a web-based application programming interface (API) designed to provide access to a wide range of T-shirt-related information and functionalities. The API enables developers to retrieve information about T-shirt categories, brands, sizes, colors, materials, and products.  
 [codewars-katas](https://github.com/ps173/codewars-katas): Road to 3kyu let's goo✨️  
-[duck](https://github.com/snwfdhmp/duck): Command snippet framework w/ repository (cloud & self hosted)
+[duck](https://github.com/snwfdhmp/duck): Command snippet framework w/ repository (cloud & self hosted)  
+[go-concurrency-test](https://github.com/robaho/go-concurrency-test): Test the performance of Go's concurrency structures
